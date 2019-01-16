@@ -36,7 +36,7 @@ script:
   - hugo -v #|& ./scripts/slacktee
   # - echo "Finished site build." | ./scripts/slacktee -p
 
-before_deploy:
+# before_deploy:
   # - echo "Copying new content to $AWS_BUCKET..." | ./scripts/slacktee -p
 
 deploy:
