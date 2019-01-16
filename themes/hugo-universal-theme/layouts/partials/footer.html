@@ -1,0 +1,43 @@
+<footer id="footer">
+
+    <div class="container">
+    	<div class="row">
+	        <div class="col-md-6 text-left">
+				{{ partial "footer/subscribe.html" . }}
+            </div>
+
+	        <div class="col-md-6 text-right">
+                <p>
+                    Read more <a href="/about/">about ROR</a>
+                </p>
+                <p>
+                	Get in touch with the <a href='mailto:info@ror.community'>ROR</a> team by email
+                </p>
+	        </div>
+    	</div>
+    </div>
+    <!-- /.container -->
+</footer>
+<!-- /#footer -->
+
+<section id="footer-subnav">
+	<div class="container">
+    	<div class="row">
+	        <div class="col-md-12">
+	            <p>
+	              Template by <a href="http://bootstrapious.com/free-templates">Bootstrapious</a>.
+	              <!-- Not removing this link is part of the licence conditions of the template. Thanks for understanding :) -->
+	              Ported to Hugo by <a href="https://github.com/devcows/hugo-universal-theme">DevCows</a>.
+				  {{ if isset .Site.Params "attribution_link" }}{{ .Site.Params.attribution_link |markdownify}}.{{ end }}
+
+				  <img class="footer-svg cc" src="/img/footer/cc.svg"><img class="footer-svg by" src="/img/footer/by.svg"> The content of this site is licensed under a <a href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons">Creative Commons Attribution 4.0 International License</a>.
+	            </p>
+	            </p>
+	        </div>
+	    </div>
+    </div>
+    <!-- /.container -->
+</section>
+
+
+<!-- *** FOOTER END *** -->

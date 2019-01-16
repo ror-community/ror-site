@@ -1,0 +1,20 @@
+{{ if isset .Site.Params "blurb" }}
+{{ if .Site.Params.blurb.enable }}
+{{ if gt (len .Site.Data.blurb) 0 }}
+<section class="bar background-white">
+    <div class="container">
+        <div class="col-md-12">
+            {{ range sort .Site.Data.blurb }}
+            <div class="row blurb">
+                <div class="col-md-12">                
+                    <h2>{{ .header }}</h2>
+                    <p>{{ .text }}</p>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

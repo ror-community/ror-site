@@ -1,0 +1,25 @@
+{{ if isset .Site.Params "landingbanner" }}
+	{{ if .Site.Params.landingbanner.enable }}
+	<section>
+	    <div class="home-landingbanner"{{ if .Site.Params.landingbanner.image }} style="background-image: url('{{ .Site.Params.landingbanner.image }}')"{{ end }}>
+		    <div class="dark-mask"></div>
+	        {{ if and ( .Site.Params.landingbanner.title ) ( .Site.Params.landingbanner.subtitle ) }}
+	        <div class="container">
+	            <div class="homepage no-carousel">
+	                <div class="row">
+	                    <div class="col-sm-6">
+	                        {{ if .Site.Params.landingbanner.title }}
+	                        <h1>{{ .Site.Params.landingbanner.title | safeHTML }}</h1>
+	                        {{ end }}
+	                        {{ if .Site.Params.landingbanner.subtitle }}
+	                        <p>{{ .Site.Params.landingbanner.subtitle | safeHTML }}</p>
+	                        {{ end }}
+	                    </div>
+	                </div>
+	            </div>
+	        </div>
+			{{ end }}
+	    </div>
+	</section>
+	{{ end }}
+{{ end }}

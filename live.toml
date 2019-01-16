@@ -1,0 +1,58 @@
+languageCode = "en-us"
+title = "ROR"
+baseurl = "https://www.ror.community/"
+style = "turquoise"
+theme = "hugo-universal-theme"
+pluralizelisttitles = "false"
+disqusShortname = "ror"
+
+
+[params]
+date_format = "January 2, 2006"
+image = "/img/banners/ROR_BeeKeeper.jpg"
+
+[[params.menu]]
+  name = "About"
+  url  = "/about"
+  weight = 10
+  class = "about"
+
+[[params.menu]]
+  name = "Scope"
+  url  = "/scope"
+  weight = 20
+  class = "scope"
+
+[[params.menu]]
+  name = "Blog"
+  url  = "/blog"
+  weight = 30
+  class = "blog"
+
+[params.widgets]
+    search = true
+    categories = true
+    tags = true
+
+[params.carousel]
+    enable = false
+
+[params.landingbanner]
+	enable = true
+    image = "/img/banners/ROR_BeeKeeper.jpg"
+
+[params.blurb]
+    enable = true
+
+[params.features]
+    enable = false
+
+[params.testimonials]
+    enable = false
+
+[params.about]
+    enable = true
+    title = "Why ROR?"
+    subtitle = "The scholarly research community depends on a series of open identifier and metadata infrastructure systems to great success. Content identifiers and contributor identifiers are foundational infrastructure for the community. But there is one piece of the infrastructure that is missing – there currently is no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata."
+    link_text = "Learn more"
+    link_url = "/scope"
