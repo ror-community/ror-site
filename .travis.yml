@@ -24,8 +24,8 @@ before_install:
       AUTO_DEPLOY=true;
     fi
   - export CR_AUTHOR_NAME="$(git log -1 $TRAVIS_COMMIT --pretty="%aN")"
-  # - echo "*Commit message:* \"$TRAVIS_COMMIT_MESSAGE\"" | ./scripts/slacktee -p
-  # - echo "*Committed by:* $CR_AUTHOR_NAME" | ./scripts/slacktee -p
+  - echo "*Commit message:* \"$TRAVIS_COMMIT_MESSAGE\"" | ./scripts/slacktee -p
+  - echo "*Committed by:* $CR_AUTHOR_NAME" | ./scripts/slacktee -p
 
 install:
   #- bundle install
@@ -63,3 +63,6 @@ after_deploy:
   # Invalidate every object in the targeted distribution.
   - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
   - echo "Finshed copying new content to server." | ./scripts/slacktee -p
+
+notifications:
+  email: false
