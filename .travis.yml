@@ -50,7 +50,10 @@ deploy:
   acl: public_read
   cache_control: "max-age=31536000"
   on:
-    all_branches: true
+    branch:
+      - master
+      - staging
+      - live
 
 after_deploy:
   - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY
