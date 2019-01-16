@@ -33,7 +33,7 @@ install:
 
 script:
   # - echo "Starting site build..." | ./scripts/slacktee -p
-  - hugo #|& ./scripts/slacktee
+  - hugo -v #|& ./scripts/slacktee
   # - echo "Finished site build." | ./scripts/slacktee -p
 
 before_deploy:
