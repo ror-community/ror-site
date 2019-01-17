@@ -18,7 +18,7 @@ before_install:
     AWS_BUCKET="staging.ror.org";
     cp staging.toml config.toml;
     AUTO_DEPLOY=true;
-    elif [ "$TRAVIS_BRANCH" == "MASTER" ]; then
+    elif [ "$TRAVIS_BRANCH" == "master" ]; then
     AWS_BUCKET="ror.org";
     cp live.toml config.toml;
     AUTO_DEPLOY=true;
