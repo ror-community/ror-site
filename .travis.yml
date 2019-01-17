@@ -32,6 +32,8 @@ install:
   - sudo pip install awscli
 
 script:
+  - echo "On branch $TRAVIS_BRANCH" | ./scripts/slacktee -p
+  - echo "Target $AWS_BUCKET" | ./scripts/slacktee -p
   - echo "Starting site build..." | ./scripts/slacktee -p
   - hugo -v |& ./scripts/slacktee
   - echo "Finished site build." | ./scripts/slacktee -p
@@ -43,7 +45,7 @@ deploy:
   provider: s3
   access_key_id: $AWS_ACCESS_KEY
   secret_access_key: $AWS_SECRET_KEY
-  bucket: ror.org
+  bucket: $AWS_BUCKET
   region: eu-west-1
   skip_cleanup: true
   local_dir: public
