@@ -9,4 +9,4 @@ date = "2017-07-08"
 We'll add you to the mailing list.
 
 ---
-Please [email info@ror.community](mailto:info@ror.community) if you'd like to chat.
+Please [email info@ror.org](mailto:info@ror.org) if you'd like to chat.
