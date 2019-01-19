@@ -59,4 +59,4 @@ ROR will truly benefit from the advice of the community. Expertise and time has 
 And ROR wouldn't be possible without the help and guidance of our consultants in 2017: Helen Szigeti; and Kristen Ratan.
 
 ---
-Please contact [info@ror.community](mailto:info@ror.community) to get involved.
+Please contact [info@ror.org](mailto:info@ror.org) to get involved.
