@@ -13,10 +13,12 @@ before_install:
   - if [ "$TRAVIS_BRANCH" == "dev" ]; then
       AWS_BUCKET="dev.ror.org";
       cp dev.toml config.toml;
+      CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID_DEV;
       AUTO_DEPLOY=true;
     elif [ "$TRAVIS_BRANCH" == "staging" ]; then
       AWS_BUCKET="staging.ror.org";
       cp staging.toml config.toml;
+      CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID_STAGING;
       AUTO_DEPLOY=true;
     elif [ "$TRAVIS_BRANCH" == "master" ]; then
       AWS_BUCKET="ror.org";
