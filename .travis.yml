@@ -11,17 +11,17 @@ before_install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.40.3/hugo_0.40.3_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - if [ "$TRAVIS_BRANCH" == "dev" ]; then
-    AWS_BUCKET="dev.ror.org";
-    cp dev.toml config.toml;
-    AUTO_DEPLOY=true;
+      AWS_BUCKET="dev.ror.org";
+      cp dev.toml config.toml;
+      AUTO_DEPLOY=true;
     elif [ "$TRAVIS_BRANCH" == "staging" ]; then
-    AWS_BUCKET="staging.ror.org";
-    cp staging.toml config.toml;
-    AUTO_DEPLOY=true;
+      AWS_BUCKET="staging.ror.org";
+      cp staging.toml config.toml;
+      AUTO_DEPLOY=true;
     elif [ "$TRAVIS_BRANCH" == "master" ]; then
-    AWS_BUCKET="ror.org";
-    cp live.toml config.toml;
-    AUTO_DEPLOY=true;
+      AWS_BUCKET="ror.org";
+      cp live.toml config.toml;
+      AUTO_DEPLOY=true;
     fi
   - export CR_AUTHOR_NAME="$(git log -1 $TRAVIS_COMMIT --pretty="%aN")"
   - echo "*Commit message:* \"$TRAVIS_COMMIT_MESSAGE\"" | ./scripts/slacktee -p
