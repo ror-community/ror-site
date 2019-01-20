@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "ROR"
 baseurl = "http://dev.ror.org/"
 style = "turquoise"
-theme = ["hugo-ror", "hugo-now-ui"]
+theme = "hugo-ror"
 pluralizelisttitles = "false"
 disqusShortname = "ror"
 
