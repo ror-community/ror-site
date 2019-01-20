@@ -12,7 +12,7 @@
         <div class="container">
           {{ partial "pagetitle.html" . }}
           <div class="row">
-            <div class="col-md-8 offset-md-2" id="blog-post">
+            <div class="col-md-9" id="blog-post">
               <p class="author">{{ if .Params.author }}By {{ .Params.author }} | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
               <div id="post-content">
                 {{ .Content }}
@@ -26,7 +26,7 @@
     
             </div>
     
-            <div class="col-md-2">
+            <div class="col-md-3">
             <!-- *** MENUS AND WIDGETS *** -->
     
               {{ partial "sidebar.html" . }}

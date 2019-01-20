@@ -12,7 +12,7 @@
         <div class="container">
           {{ partial "pagetitle.html" . }}
           <div class="row">
-            <div class="col-md-10" id="blog-listing-medium">
+            <div class="col-md-9" id="blog-listing-medium">
 
               {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
               {{ range $paginator.Pages }}
@@ -73,7 +73,7 @@
               </ul>
             </div>
 
-            <div class="col-md-2">
+            <div class="col-md-3">
 
               <!-- *** MENUS AND WIDGETS *** -->
 
