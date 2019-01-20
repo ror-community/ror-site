@@ -48,11 +48,11 @@ There is an inevitable need for processes to deal with record duplication, erron
 
 ---
 
-## Recommendations
+### Recommendations
 
 1. ROR is intended for use by the research community, for the purposes of increasing the use of organization identifiers in the community and enabling connections between organization records in various systems.
 
-2.  ROR will derive utility through encouraging cross-talk between existing registry providers.
+2. ROR will derive utility through encouraging cross-talk between existing registry providers.
 
 3. Access to organizations for managing ROR records shall be via permission. ROR will be responsible for granting record management permission.
 
@@ -72,7 +72,7 @@ There is an inevitable need for processes to deal with record duplication, erron
 
 ---
 
-## FAQs
+### FAQs
 
 #### What registry data are open?  What does “open” mean in this context?
 
@@ -81,7 +81,6 @@ There is an inevitable need for processes to deal with record duplication, erron
 #### What are the specific components of the registry MVP? (MVP = Minimum Viable Product is a product with just enough features to gather validated learning about the product and its continued development.)
 
 - In general, ROR should have the following features and services:
-
   - Unique and persistent IDs for organizations in the research community
   - IDs resolve to information about the entity: human and machine readable
   - Open API/content negotiation
@@ -98,7 +97,7 @@ There is an inevitable need for processes to deal with record duplication, erron
 
 - After the initial seeding, ROR will build out tools to support record self-management by organizations. This raises specific questions of transparency, control, data quality, and effort.  Without transparent record management criteria and accountability, the quality of ROR will suffer.
 
-####  What are the technical considerations for curation, and for updating of records? Given that not all organizations will engage, what solutions do we need to have in place (curation vs. self-management)?
+#### What are the technical considerations for curation, and for updating of records? Given that not all organizations will engage, what solutions do we need to have in place (curation vs. self-management)?
 
 - There is an inevitable need for processes to deal with record duplication, erroneous records, and relationships between records. Curators may have to make decisions that not only affect the metadata contained in the record or record creation but also establish relationships between these, through record redirection and record obsoletion. In cases of duplication or merger, records should be redirected to the relevant active record. In the rare cases where erroneous records have been created, there should be an obsoletion mechanism that identifies these records as such. When possible, ROR will engage with the entity itself to make record changes, and all changes (assertions) will be marked with provenance indicating who made the change and a timestamp.
 

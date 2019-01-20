@@ -1,8 +1,8 @@
 languageCode = "en-us"
 title = "ROR"
-baseurl = "https://www.ror.org/"
+baseurl = "https://ror.org/"
 style = "turquoise"
-theme = "hugo-universal-theme"
+theme = ["hugo-ror", "hugo-now-ui"]
 pluralizelisttitles = "false"
 disqusShortname = "ror"
 

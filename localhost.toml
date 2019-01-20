@@ -2,7 +2,7 @@ languageCode = "en-us"
 title = "ROR"
 baseurl = "http://localhost:1313/"
 style = "violet"
-theme = "hugo-universal-theme"
+theme = ["hugo-ror", "hugo-now-ui"]
 pluralizelisttitles = "false"
 
 

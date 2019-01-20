@@ -4,6 +4,7 @@ date = "2018-12-02"
 draft = false
 tags = ["communication", "news"]
 categories = ["updates"]
+style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lions-square.jpg"
 author = "California Digital Library, DataCite, Crossref, and Digital Science"
@@ -17,7 +18,7 @@ Fortunately, the Product recommendations were resoundingly conclusive: there is 
 
 Therefore, more recently, four of the original stakeholders decided to take a practical approach, to grasp the mantle and get going with a pilot. We set up this website, calling 'Org ID' the Research Organization Registry (ROR), and are now discussing technical plans to start building something useful to pilot. We haven’t given up on the governance question. We---or rather, you, the community---can help evolve the governance models as needed. But, for now, we will start to execute on our shared vision!
 
-## An agile startup phase
+### An agile startup phase
 
 California Digital Library (CDL), Crossref, DataCite, and Digital Science have agreed on the following approach:
 
@@ -27,13 +28,13 @@ California Digital Library (CDL), Crossref, DataCite, and Digital Science have a
 - We will use the GRID data---which is licensed CC0---as a basis for a ROR 'minimal viable registry'.
 - We will see ourselves as custodians for now; ensuring we are committed to continued community involvement (see below)!
 
-## Are you ready to ROR?
+### Are you ready to ROR?
 
 Did you know that lions roar to communicate between members of the same pride or coalition? What is not often appreciated, is how unbelievably accurately lions can pinpoint exactly where another roar is coming from, and identify exactly what type of lion is calling on the other end.
 
 There were 17 organizations previously in the working group and now we are calling for any and all stakeholders to sign up via this website, to get involved with ROR in some capacity. We are planning to set up a community advisory group to input on a ROR minimal viable registry, and feed into developing a more appropriate governance structure. While our four organizations have stepped up to 'steer', we know that there are numerous universities, funding bodies, and others, who are keen to put some time in to see this exciting vision become a reality.
 
-## See you in Dublin?
+### See you in Dublin?
 
 We’d like to [invite you to our first ROR stakeholder meeting](https://ror-dublin.eventbrite.com), which will take place in Dublin on the 22nd of January---prior to PIDapalooza---from 3-5pm.
 

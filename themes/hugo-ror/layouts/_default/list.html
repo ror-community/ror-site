@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  {{ partial "head.html" . }}
+
+  <body {{ if .Params.style }} class='{{ .Params.style }}' {{ end }}>
+    <div class="wrapper" id="all">
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      <div class="section section-blog" id="content">
+        <div class="container-fluid">
+
+          {{ partial "pagetitle.html" . }}
+          <div class="row">
+            <div class="col-md-8 ml-auto mr-auto">
+              <div>
+                {{ .Content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+
+  </body>
+</html>
