@@ -28,7 +28,6 @@ before_install:
   - echo "*Committed by:* $CR_AUTHOR_NAME" | ./scripts/slacktee -p
 
 install:
-  #- bundle install
   - sudo pip install awscli
 
 script:
@@ -58,13 +57,15 @@ deploy:
       - dev
 
 after_deploy:
-  - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY
-  - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_KEY
-  # Allow `awscli` to make requests to CloudFront.
-  - aws configure set preview.cloudfront true
-  # Invalidate every object in the targeted distribution.
-  - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
-  - echo "Finshed copying new content to server." | ./scripts/slacktee -p
+  - if [ "$TRAVIS_BRANCH" == "master" ]; then
+    - export AWS_ACCESS_KEY_ID=$AWS_ACCESS_KEY
+    - export AWS_SECRET_ACCESS_KEY=$AWS_SECRET_KEY
+    # Allow `awscli` to make requests to CloudFront.
+    - aws configure set preview.cloudfront true
+    # Invalidate every object in the targeted distribution.
+    - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
+    - echo "Finshed copying new content to server." | ./scripts/slacktee -p
+  fi
 
 notifications:
   email: false
