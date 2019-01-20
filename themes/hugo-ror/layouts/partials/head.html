@@ -9,10 +9,42 @@
   <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
   <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
-    <!-- CSS Files -->
+  <!-- Css animations  -->
+  <link href="{{ .Site.BaseURL }}css/animate.css" rel="stylesheet">
+
+  <!-- mailchimp stylings -->
+  <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+
+  <!-- CSS Files -->
   <link rel="stylesheet" href="https://ror.org/assets/ror-app-9f4e0fa740e9f8bdddffb3b04265d005.css" />
+  
+  <!-- plyr HTML5 video/audio player -->
+  <link rel="stylesheet" href="https://cdn.plyr.io/2.0.13/plyr.css">
+
+  <!-- Favicon and apple touch icons-->
+  <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />
   
 {{ range .Site.Params.custom_css -}}
   <link rel="stylesheet" href="{{ . | absURL }}">
 {{- end }}
+
+  <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+
+  <!-- Piwik -->
+  <script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(["setDomains", [".www.ror.community",".www.ror.community"]]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+  var u="//crossref.piwikpro.com/";
+  _paq.push(['setTrackerUrl', u+'piwik.php']);
+  _paq.push(['setSiteId', 19]);
+  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+  g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+  </script>
+  <noscript><p><img src="//crossref.piwikpro.com/piwik.php?idsite=19" style="border:0;" alt="" /></p></noscript>
+  <!-- End Piwik Code -->
 </head>
