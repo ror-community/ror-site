@@ -23,11 +23,11 @@
                       <div class="image">
                         <a href="{{ .Permalink }}">
                           {{ if .Params.thumb }}
-                            <img src="{{ .Params.thumb }}" class="img-responsive" alt="">
+                            <img src="{{ .Params.thumb }}" class="img-raised rounded" alt="">
                           {{ else if .Params.banner }}
-                            <img src="{{ .Params.banner }}" class="img-responsive" alt="">
+                            <img src="{{ .Params.banner }}" class="img-raised rounded" alt="">
                           {{ else }}
-                            <img src="/img/banners/ROR_Banner-grey.jpg" class="img-responsive" alt="">
+                            <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="">
                           {{ end }}
                         </a>
                       </div>
