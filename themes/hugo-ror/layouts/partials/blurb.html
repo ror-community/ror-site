@@ -1,0 +1,18 @@
+{{ if isset .Site.Params "blurb" }}
+{{ if .Site.Params.blurb.enable }}
+{{ if gt (len .Site.Data.blurb) 0 }}
+<section class="section section-blog">
+  <div class="container">
+    {{ range sort .Site.Data.blurb }}
+    <div class="row">
+      <div class="col-md-9 ml-auto mr-auto text-center">
+        <h2 class="title">{{ .header }}</h2>
+        <h4 class="description">{{ .text }}</h4>
+      </div>
+    </div>
+    {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

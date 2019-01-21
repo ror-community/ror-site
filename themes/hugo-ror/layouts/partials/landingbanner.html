@@ -1,0 +1,7 @@
+{{ if isset .Site.Params "landingbanner" }}
+{{ if .Site.Params.landingbanner.enable }}
+<section class="section section-banner">
+  <img src="{{ .Site.Params.landingbanner.image }}">
+</section>
+{{ end }}
+{{ end }}

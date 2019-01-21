@@ -1,0 +1,27 @@
+{{ if isset .Site.Params "carousel" }}
+{{ if .Site.Params.carousel.enable }}
+{{ if gt (len .Site.Data.carousel) 0 }}
+<section>
+  <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+    <div class="carousel-inner" role="listbox">
+      {{ range sort .Site.Data.carousel "weight" }}
+      <div class="carousel-item">
+        <img class="d-block" src="{{ .image }}" alt="slide">
+        <div class="carousel-caption d-none d-md-block">
+          <h5>{{ .title }}</h5>
+          {{ .description | safeHTML }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+    <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+      <i class="now-ui-icons arrows-1_minimal-left"></i>
+    </a>
+    <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+      <i class="now-ui-icons arrows-1_minimal-right"></i>
+    </a>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}
