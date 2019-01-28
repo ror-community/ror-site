@@ -2,6 +2,7 @@
 title = "Thank You"
 draft = false
 date = "2017-07-08"
+style = "card-plain"
 +++
 
 ### Thanks for getting in touch.
