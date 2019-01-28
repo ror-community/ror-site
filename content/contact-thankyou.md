@@ -9,7 +9,5 @@ style = "card-plain"
 
 We'll add you to the mailing list.
 
-<p>Template: <span>{{ .Template }}</span></p>
-
 ---
 Please [email info@ror.org](mailto:info@ror.org) if you'd like to chat.
