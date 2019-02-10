@@ -2,7 +2,7 @@
 title = "Hear us ROR! Announcing our first prototype and next steps"
 date = "2019-02-10"
 draft = false
-tags = ["communication", "news", "prototype", "MVR", "PIDapalooza"]
+tags = ["Community", "prototype", "MVR"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/PrideofLions.jpg"
@@ -16,7 +16,7 @@ Last month was a big and busy one for the ROR project team: we released a workin
 
 We're energized by the positive reception and response we've received and we wanted to take a moment to share information with the community. Here are the links to our latest work, a recap of everything that happened in Dublin, some of the next steps for the project, and how the community can continue to be involved.
 
-## Ta da! The first ROR prototype
+## 🎉 Ta da! The first ROR prototype
 
 The Research Organization Registry (ROR) is finally here! We're thrilled to officially announce the launch of our ROR MVR (minimum viable registry). The MVR consists of the following components, which are ready for anyone to use right now.
 
@@ -44,7 +44,7 @@ On January 22, 60+ representatives from across the research and publishing commu
 
 In the second half of the meeting, attendees split into discussion groups to identify specific aspirations for ROR and brainstorm concrete actions needed to achieve these goals, focusing on the main use case of exposing and capturing all research outputs of a given institution. The proposed ideas covered a spectrum of possibilities for ROR, highlighting the following themes:
 
-1. **ROR as seamlessly-integrated and sometimes invisible infrastructure**
+### ROR as seamlessly-integrated and sometimes invisible infrastructure
 
 - Integration between and within existing systems (and in new ones!)
 
@@ -52,7 +52,7 @@ In the second half of the meeting, attendees split into discussion groups to ide
 
 - As such, researchers don't ever have to be responsible for knowing what a ROR is and using it appropriately - the systems they use will do this for them.
 
-2. **ROR as a critical piece of funder workflows and infrastructure**
+### ROR as a critical piece of funder workflows and infrastructure
 
 - Demonstrate to funders how ROR can help them analyze impact of research they fund
 
@@ -62,7 +62,7 @@ In the second half of the meeting, attendees split into discussion groups to ide
 
 - Integrate ROR with existing systems and identifiers already in use by funders and other stakeholders
 
-3. **ROR as a trusted registry, collaborative partner, and responsible steward**
+### ROR as a trusted registry, collaborative partner, and responsible steward 
 
 - Culturally sensitive, inclusive, and respectful of what countries are already doing with regard to organizational identifiers, partnering with national bodies working on this and mapping ROR IDs to locally used identifiers.
 
