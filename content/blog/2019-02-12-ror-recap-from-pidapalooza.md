@@ -6,7 +6,7 @@ tags = ["Community", "Events", "PIDapalooza", "PIDs", "Persistent Identifiers"]
 categories = ["Events"]
 style = "card-plain"
 banner = "/img/banners/PrideofLions.jpg"
-thumb = "/img/banners/LetsROR-maskcloseup.jpg"
+thumb = "/img/banners/ror-lion-mask.jpg"
 author = "Maria Gould"
 +++
 
