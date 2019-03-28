@@ -10,7 +10,7 @@ disqusShortname = "ror"
 [params]
 date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
-cdnURL = "https://staging.ror.org/"
+cdnURL = "https://dev.ror.org/"
 cdnCss = "ror-app-b5b5c5ce1f8d0529ab528d6947f3ee43.css"
 
 [[params.menu]]
