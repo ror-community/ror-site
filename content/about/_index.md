@@ -14,7 +14,7 @@ Therefore, after extensive community consultation, ROR was launched. ROR will be
 
 Between 2016 and 2018, a group of 17 organizations with a shared purpose invested their time and energy into an Org ID initiative, with the goal of defining requirements for an open, community-led organization identifier registry. The initiative was a transparent, accessible process to help work towards a better system for all of our communities.
 
-The activities that have lead to ROR are numerous:
+The activities that have led to ROR are numerous:
 
 - A series of collaborative workshops were held at the Coalition for Networked Information (CNI) meeting in San Antonio TX (2016), the FORCE11 conference in Portland OR (2016), and at PIDapalooza in Reykjavik (2016).
 - Findings from these workshops were summarized in three documents, which we made openly available to the community for public comment:
