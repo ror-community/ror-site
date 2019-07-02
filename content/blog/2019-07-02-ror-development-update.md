@@ -1,8 +1,8 @@
 +++
 title = "ROR development update: Building and growing an open registry of organizations"
-date = "2019-06-28"
+date = "2019-07-02"
 draft = false
-tags = ["Community", "Implementation", "MVR", "prototype"]
+tags = ["Implementation", "MVR", "prototype", "GRID"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/PrideofLions.jpg"
