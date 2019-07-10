@@ -10,8 +10,6 @@ thumb = "/img/banners/two-lions-sq.jpg"
 author = "Maria Gould and Daniella Lowenberg"
 +++
 
-*Co-authored by ROR and Dryad*
-
 How many datasets have been published in Dryad from researchers at the University of California? This question is surprisingly complicated. A short answer might be, *we don't know*! A better answer could be, *coming soon - stay tuned*!
 
 And a more complete and detailed answer might go something like this:
