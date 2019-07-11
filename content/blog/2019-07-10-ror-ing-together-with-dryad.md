@@ -46,4 +46,4 @@ With the ROR affiliation lookup implemented in Dryad, the future looks bright wh
 
 The Dryad-ROR collaboration shows the promise and power of implementing organization IDs in publishing platforms to enable better tracking and discovery of research outputs by institution. We're excited about this use of ROR and eager to see other platform providers pursue similar implementations in the coming months. Feel free to get in touch with your ideas and questions!
 
-*Maria Gould and Daniella Lowenberg are Research Data Specialists at University of California Curation Center, California Digital Library. Maria is project lead for ROR and Daniella is product manager for Dryad.*
+*Maria Gould and Daniella Lowenberg are Research Data Specialists at the University of California Curation Center, California Digital Library. Maria is project lead for ROR and Daniella is product manager for Dryad.*
