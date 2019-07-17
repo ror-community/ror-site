@@ -1,6 +1,6 @@
 ++
 title = "Facts"
-draft = true
+draft = false
 date = "2019-06-20"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
@@ -20,23 +20,20 @@ ROR data is openly available under a [CC0 waiver](https://creativecommons.org/sh
 
 The ROR minimal viable registry (MVR) includes the following components:
 
--   ROR ID: 
-
+* ROR ID: 
 -   Example: <https://ror.org/03yrm5c26> 
-
 -   Expressed as a URL that resolves to the organization's record
-
 -   Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum
 
--   ROR search (<https://ror.org/search>)
+* ROR search (<https://ror.org/search>)
 
--   ROR API (<https://api.ror.org/organizations>) 
+* ROR API (<https://api.ror.org/organizations>) 
 
--   ROR reconciler (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/reconciler>) 
+* ROR reconciler (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/reconciler>) 
 
--   ROR Github (<https://github.com/ror-community>)  
+* ROR Github (<https://github.com/ror-community>)  
 
--   Crosswalks with other organization identifiers (GRID, ISNI, Crossref Funder Registry, Wikidata)
+* Crosswalks with other organization identifiers (GRID, ISNI, Crossref Funder Registry, Wikidata)
 
 ## Affiliation use case
 

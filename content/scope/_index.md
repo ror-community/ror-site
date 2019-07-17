@@ -13,15 +13,10 @@ The scope of ROR is the "affiliation use case" -  proper description of relatio
 The vision for a registry of research organizations with unique IDs and associated metadata consists of the following required features:
 
 -   Unique and persistent IDs for organizations in the research community
-
 -   IDs resolve to information about the entity: human- and machine-readable
-
 -   Open API/content negotiation
-
 -   Administrative facility to correct, manage, and crosswalk data, including assertion model and syncing with other PID providers
-
 -   Public data dump
-
 -   Common and uniform metadata set
 
 ## Record management and data curation
@@ -35,39 +30,25 @@ The ROR MVR launched in January 2019 and since then the project team has been de
 ### Product development
 
 -   Rewrite the code for both the API and the OpenRefine reconciler - switch from Ruby to Python
-
 -   Update ROR continuously with the latest version of the GRID database (short term) and enable ROR records to be edited independently (longer-term)
-
 -   Make a public data dump available
-
 -   Work with GRID to support adding ROR IDs to GRID
-
 -   Add additional metadata to ROR (city/state, related records, and more)
-
 -   Support ROR IDs in Crossref and DataCite metadata schemas
-
 -   Better support for advanced searches and queries
 
 ### Policy development
 
 -   Finalize policies for adding, updating, merging, and deprecating records
-
 -   Develop curation workflows
 
 ### Outreach and community development
 
 -   Form ROR Community Advisory Group
-
 -   Work with Community Advisory Group members to draft policies and discuss adoption and implementation
-
 -   Meet with community partners to discuss pilot implementations
-
 -   Raise awareness about ROR through presentations and discussions at conferences and events
-
 -   Provide materials to community members to talk about ROR at conferences and events
-
 -   Refresh ROR website
-
 -   Publish blog posts and newsletters with updates about ROR
-
 -   Establish and maintain a communication channel for users and community members to contact ROR with requests and questions

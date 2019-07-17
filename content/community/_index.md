@@ -1,6 +1,6 @@
 +++
 title = "Community"
-draft = true
+draft = false
 date = "2019-06-20"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
@@ -14,17 +14,33 @@ Steering organizations are responsible for strategic decision-making about gover
 
 The steering organizations and representatives are:
 
--   California Digital Library (represented by John Chodacki)
-
--   Crossref (represented by Ed Pentz)
-
--   DataCite (represented by Patricia Cruse)
-
--   Digital Science (represented by Daniel Hook)
+-   [California Digital Library](https://www.cdlib.org) (represented by John Chodacki)
+-   [Crossref](https://www.crossref.org) (represented by Ed Pentz)
+-   [DataCite](https://www.datacite.org) (represented by Patricia Cruse)
+-   [Digital Science](https://wwww.digital-science.com) (represented by Daniel Hook)
 
 ## ROR project team
 
 The ROR project team involves members of all four steering organizations. Project team members work on technical implementation, outreach and communications, and product development and management.
+
+The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination involves two main groups:
+
+### Outreach, communication & adoption
+
+-   Helena Cousijn, DataCite
+-   Ginny Hendricks, Crossref
+-   Rachael Lammey, Crossref   
+-   Suze Kundu, Digital Science
+
+### Technical & product development
+
+-   Geoffrey Bilder, Crossref
+-   Esha Datta, Crossref
+-   Dominka Tkaczyk, Crossref
+-   Martin Fenner, DataCite
+-   Robin Dasler, DataCite
+-   Brian Kirkegaard Lunn, Digital Science
+-   Simon Porter, Digital Science
 
 ## ROR Community Advisory Group
 
@@ -87,37 +103,21 @@ There are slide decks and other resources available if you are attending a confe
 During the early stages of the OrgID initiative, 17 organizations donated their time and expertise to outlining a shared vision for an open registry of organizations:
 
 -   Alfred P. Sloan Foundation
-
 -   American Physical Society
-
 -   California Digital Library
-
 -   Cornell University
-
 -   Crossref
-
 -   DataCite
-
 -   Digital Science
-
 -   Editeur
-
 -   Elsevier
-
 -   Foundation for Earth Sciences
-
 -   Hindawi
-
 -   Jisc
-
 -   ORCID
-
 -   Ringgold
-
 -   Springer Nature
-
 -   The IP Registry
-
 -   U.S. Geological Survey
 
 ROR has also benefited greatly from the help and guidance of Helen Szigeti and Kristen Ratan, who consulted on the OrgID planning process in 2017.
