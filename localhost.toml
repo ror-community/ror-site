@@ -12,6 +12,7 @@ image = "/img/banners/ROR_BeeKeeper.jpg"
 cdnURL = "http://localhost:4200/"
 cdnCss ="ror-app.css"
 
+
 [[params.menu]]
   name = "About"
   url  = "/about"
@@ -25,10 +26,29 @@ cdnCss ="ror-app.css"
   class = "scope"
 
 [[params.menu]]
+  name = "Facts"
+  url  = "/facts"
+  weight = 30
+  class = "facts"
+
+[[params.menu]]
+  name = "Community"
+  url  = "/community"
+  weight = 40
+  class = "community"
+
+[[params.menu]]
+  name = "Resources"
+  url  = "/resources"
+  weight = 50
+  class = "resources"
+
+[[params.menu]]
   name = "Blog"
   url  = "/blog"
-  weight = 30
+  weight = 60
   class = "blog"
+
 
 [params.widgets]
     search = true

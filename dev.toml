@@ -25,10 +25,29 @@ cdnCss = "ror-app-b5b5c5ce1f8d0529ab528d6947f3ee43.css"
   class = "scope"
 
 [[params.menu]]
+  name = "Facts"
+  url  = "/facts"
+  weight = 30
+  class = "facts"
+
+[[params.menu]]
+  name = "Community"
+  url  = "/community"
+  weight = 40
+  class = "community"
+
+[[params.menu]]
+  name = "Resources"
+  url  = "/resources"
+  weight = 50
+  class = "resources"
+
+[[params.menu]]
   name = "Blog"
   url  = "/blog"
-  weight = 30
+  weight = 60
   class = "blog"
+
 
 [params.widgets]
     search = true
