@@ -1,7 +1,7 @@
 +++
 title = "About"
 draft = false
-date = "2017-08-15"
+date = "2017-08-16"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
 +++
