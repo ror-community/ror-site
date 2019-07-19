@@ -6,7 +6,6 @@ theme = "hugo-ror"
 pluralizelisttitles = "false"
 disqusShortname = "ror"
 
-
 [params]
 date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
