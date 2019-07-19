@@ -36,7 +36,7 @@ script:
   - echo "On branch $TRAVIS_BRANCH" | ./scripts/slacktee -p
   - echo "Target $AWS_BUCKET" | ./scripts/slacktee -p
   - echo "Starting site build..." | ./scripts/slacktee -p
-  - hugo -v |& ./scripts/slacktee
+  - hugo --cleanDestinationDir --verbose |& ./scripts/slacktee
   - echo "Finished site build." | ./scripts/slacktee -p
 
 before_deploy:
