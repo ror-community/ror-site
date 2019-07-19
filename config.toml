@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "ROR"
-baseurl = "https://www.ror.org/"
+baseurl = "https://ror.org/"
 style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
@@ -10,8 +10,26 @@ disqusShortname = "ror"
 [params]
 date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
-cdnURL = "https://ror.org/"
-cdnCss = "ror-app-b5b5c5ce1f8d0529ab528d6947f3ee43.css"
+cdnURL = "http://localhost:4200/"
+cdnCss ="ror-app.css"
+
+[[params.menu]]
+  name = "About"
+  url  = "/about"
+  weight = 10
+  class = "about"
+
+[[params.menu]]
+  name = "Scope"
+  url  = "/scope"
+  weight = 20
+  class = "scope"
+
+[[params.menu]]
+  name = "Blog"
+  url  = "/blog"
+  weight = 30
+  class = "blog"
 
 [params.widgets]
     search = true
