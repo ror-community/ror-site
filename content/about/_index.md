@@ -3,7 +3,7 @@ title = "About"
 draft = false
 date = "2017-08-16"
 banner = "/img/banners/ROR_Banner-orange.jpg"
-style = "about"
+style = "card-plain"
 +++
 
 ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.
