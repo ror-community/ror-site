@@ -23,6 +23,7 @@ before_install:
     elif [ "$TRAVIS_BRANCH" == "master" ]; then
       AWS_BUCKET="ror.org";
       cp live.toml config.toml;
+      CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID;
       AUTO_DEPLOY=true;
     fi
   - export CR_AUTHOR_NAME="$(git log -1 $TRAVIS_COMMIT --pretty="%aN")"
