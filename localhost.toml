@@ -9,9 +9,7 @@ pluralizelisttitles = "false"
 [params]
 date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
-cdnURL = "http://localhost:1313/"
-cdnCss ="ror-app.css"
-
+CSSVersion = 2
 
 [[params.menu]]
   name = "About"
