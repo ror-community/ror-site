@@ -35,6 +35,6 @@ CSSVersion = 2
 [params.about]
     enable = true
     title = "Why ROR?"
-    subtitle = "The scholarly research community depends on a series of open identifier and metadata infrastructure systems to great success. Content identifiers and contributor identifiers are foundational infrastructure for the community. But there is one piece of the infrastructure that is missing – there currently is no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata."
+    subtitle = "The scholarly research community depends on a series of open identifier and metadata infrastructure systems to great success. Content identifiers and contributor identifiers are foundational infrastructure for the community. But there is one piece of the infrastructure that is missing – there currently is no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata.&nbsp;"
     link_text = "Learn more"
     link_url = "/scope"

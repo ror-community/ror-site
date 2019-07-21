@@ -11,43 +11,6 @@ date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
 CSSVersion = 2
 
-[[params.menu]]
-  name = "About"
-  url  = "/about"
-  weight = 10
-  class = "about"
-
-[[params.menu]]
-  name = "Scope"
-  url  = "/scope"
-  weight = 20
-  class = "scope"
-
-[[params.menu]]
-  name = "Facts"
-  url  = "/facts"
-  weight = 30
-  class = "facts"
-
-[[params.menu]]
-  name = "Community"
-  url  = "/community"
-  weight = 40
-  class = "community"
-
-[[params.menu]]
-  name = "Resources"
-  url  = "/resources"
-  weight = 50
-  class = "resources"
-
-[[params.menu]]
-  name = "Blog"
-  url  = "/blog"
-  weight = 60
-  class = "blog"
-
-
 [params.widgets]
     search = true
     categories = true
