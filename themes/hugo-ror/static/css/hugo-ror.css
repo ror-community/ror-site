@@ -10070,8 +10070,6 @@ textarea.form-control:active, textarea.form-control:focus {
     padding-top: .625rem;
     padding-bottom: .625rem;
     min-height: 53px;
-    margin-bottom: 20px;
-    box-shadow: 0 0 20px 0 rgba(0, 0, 0, .15);
 }
 .navbar a {
     vertical-align: middle;
@@ -13878,4 +13876,19 @@ img.ror-id {
     width: 100%}
 p#copyright {
     font-size: 12px;
+}
+.page-banner {
+    box-shadow: inset 0 20px 20px 0 rgba(0, 0, 0, .15);
+    margin-top: -70px;
+ }
+.page-banner h1 {
+	color: #fff !important;
+	font-weight: 700;
+	margin: 0;
+}
+.jumbotron {
+	/*reset bootstrap height for this class*/
+	padding: 1rem 2rem;
+	border-radius: 0;
+	background-color: #da3200;
 }
