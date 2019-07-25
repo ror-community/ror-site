@@ -25,7 +25,7 @@ The ROR project team involves members of all four steering organizations. Projec
 
 The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination involves two main groups:
 
-### Outreach, communication & adoption
+### Outreach, communication, and adoption
 
 -   Helena Cousijn, DataCite
 -   Ginny Hendricks, Crossref
