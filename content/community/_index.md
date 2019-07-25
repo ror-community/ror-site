@@ -48,49 +48,49 @@ A broader community advisory group meets for regular calls and in small working 
 
 The advisory group includes people from around the world and across different types of institutions/industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).
 
-Aaron Ballagh,	The Lens
-Anita Bandrowski,	UCSD
-Christopher Brown,	Jisc
-Rebecca Bryant,	OCLC
-Marleen Burger,	TIB
-Xiaofeng (Xavier) Chen,	Sous Direction des Systèmes d'Information et des Etudes Statistiques
-Leighton Christiansen,	US Department of Transportation
-Gail Clement,	Caltech Library
-Scott Delman,	Association for Computing Machinery
-Michael Di Natale,	BioOne
-Mathilda (Tilla) Edmunds,	Clarivate Analytics
-Carolyn Grant,	Astrophysics Data System (ADS), Center for Astrophysics
-Sarah Greaves,	Hindawi
-Christian Gutknecht,	Swiss National Science Foundation
-Adrian Ho,	University of Kentucky Libraries
-Melissa Holden,	Sage
-Elizabeth Hull,	Dryad
-Osmat Jefferson,	The Lens
-Nicole Kearny,	Museums Victoria
-Jennifer Klein,	Atypon
-Cátia Laranjeira,	PTCRIS
-Siobhann McCafferty,	Australian Research Data Commons
-James McKee,	Altum
-Daniel Noesgaard,	Global Biodiversity Information Facility
-Evan Owens,	Independent
-Robyn Price,	Imperial College London
-Markus Putnings,	Universitätsbibliothek der FAU Erlangen-Nürnberg
-Howard Ratner,	CHORUS
-Carly Robinson,	OSTI/DOE
-John Salter,	University of Leeds
-Craig Scott,	Elsevier
-Alexey Skalaban,	NEICON
-Sarah  Slowe,	University of Kent
-Andrew Smeall,	Hindawi
-Arthur Smith,	American Physical Society
-Martin Spenger,	Ludwig-Maximilians-Universität München
-Christina Steensboe,	DTU
-Peter Strickland,	IUCr
-Niklas Zimmer,	University of Cape Town Libraries
+-   Aaron Ballagh,	The Lens
+-   Anita Bandrowski,	UCSD
+-   Christopher Brown,	Jisc
+-   Rebecca Bryant,	OCLC
+-   Marleen Burger,	TIB
+-   Xiaofeng (Xavier) Chen,	Sous Direction des Systèmes d'Information et des Etudes Statistiques
+-   Leighton Christiansen,	US Department of Transportation
+-   Gail Clement,	Caltech Library
+-   Scott Delman,	Association for Computing Machinery
+-   Michael Di Natale,	BioOne
+-   Mathilda (Tilla) Edmunds,	Clarivate Analytics
+-   Carolyn Grant,	Astrophysics Data System (ADS), Center for Astrophysics
+-   Sarah Greaves,	Hindawi
+-   Christian Gutknecht,	Swiss National Science Foundation
+-   Adrian Ho,	University of Kentucky Libraries
+-   Melissa Holden,	Sage
+-   Elizabeth Hull,	Dryad
+-   Osmat Jefferson,	The Lens
+-   Nicole Kearny,	Museums Victoria
+-   Jennifer Klein,	Atypon
+-   Cátia Laranjeira,	PTCRIS
+-   Siobhann McCafferty,	Australian Research Data Commons
+-   James McKee,	Altum
+-   Daniel Noesgaard,	Global Biodiversity Information Facility
+-   Evan Owens,	Independent
+-   Robyn Price,	Imperial College London
+-   Markus Putnings,	Universitätsbibliothek der FAU Erlangen-Nürnberg
+-   Howard Ratner,	CHORUS
+-   Carly Robinson,	OSTI/DOE
+-   John Salter,	University of Leeds
+-   Craig Scott,	Elsevier
+-   Alexey Skalaban,	NEICON
+-   Sarah  Slowe,	University of Kent
+-   Andrew Smeall,	Hindawi
+-   Arthur Smith,	American Physical Society
+-   Martin Spenger,	Ludwig-Maximilians-Universität München
+-   Christina Steensboe,	DTU
+-   Peter Strickland,	IUCr
+-   Niklas Zimmer,	University of Cape Town Libraries
 
 ## ROR supporters
 
-Interested in being a ROR supporter? [Sign up here!](tinyurl.com/ror-supporters)
+Interested in being a ROR supporter? [Sign up here!](https://tinyurl.com/ror-supporters)
 
 ## Get involved
 
