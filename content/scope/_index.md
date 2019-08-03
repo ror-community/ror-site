@@ -2,7 +2,7 @@
 title = "Scope"
 draft = false
 date = "2018-09-21"
-banner = "/img/banners/ROR_Banner-pink.jpg"
+banner = "/img/banners/ROR_Banner-grey.jpg"
 style = "about"
 +++
 
