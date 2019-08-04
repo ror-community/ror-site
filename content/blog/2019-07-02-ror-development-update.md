@@ -5,7 +5,7 @@ draft = false
 tags = ["Implementation", "MVR", "prototype", "GRID"]
 categories = ["updates"]
 style = "card-plain"
-banner = "/img/banners/PrideofLions.jpg"
+banner = "/img/banners/building-banner.jpg"
 thumb = "/img/banners/building-sq.jpg"
 author = "Maria Gould"
 +++

@@ -2,7 +2,7 @@
 title = "Facts"
 draft = false
 date = "2019-06-20"
-banner = "/img/banners/ROR_Banner-orange.jpg"
+banner = "/img/banners/ROR_Banner-grey.jpg"
 style = "card-plain"
 +++
 

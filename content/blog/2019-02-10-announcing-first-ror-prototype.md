@@ -5,7 +5,7 @@ draft = false
 tags = ["Community", "prototype", "MVR"]
 categories = ["updates"]
 style = "card-plain"
-banner = "/img/banners/PrideofLions.jpg"
+banner = "/img/banners/pride-of-lions-us.jpg"
 thumb = "/img/banners/pride-of-lions-sq.jpg"
 author = "Maria Gould"
 +++
@@ -62,7 +62,7 @@ In the second half of the meeting, attendees split into discussion groups to ide
 
 - Integrate ROR with existing systems and identifiers already in use by funders and other stakeholders
 
-### ROR as a trusted registry, collaborative partner, and responsible steward 
+### ROR as a trusted registry, collaborative partner, and responsible steward
 
 - Culturally sensitive, inclusive, and respectful of what countries are already doing with regard to organizational identifiers, partnering with national bodies working on this and mapping ROR IDs to locally used identifiers.
 

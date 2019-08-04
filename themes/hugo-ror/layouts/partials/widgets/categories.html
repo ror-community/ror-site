@@ -7,7 +7,7 @@
 
     <ul class="nav nav-pills nav-stacked">
       {{ range $name, $items := .Site.Taxonomies.categories }}
-      <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}">{{ $name }} ({{ len $items }})</a>
+      <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}"><span>{{ $name }} ({{ len $items }})</span></a>
       </li>
       {{ end }}
     </ul>

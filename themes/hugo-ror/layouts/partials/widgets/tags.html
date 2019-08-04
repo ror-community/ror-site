@@ -7,7 +7,7 @@
 
     <ul class="list-unstyled">
       {{ range $name, $items := .Site.Taxonomies.tags }}
-        <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> {{ $name }}</a>
+        <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> <span>{{ $name }}</span></a>
         </li>
       {{ end }}
     </ul>
