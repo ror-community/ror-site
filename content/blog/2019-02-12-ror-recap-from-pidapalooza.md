@@ -5,7 +5,7 @@ draft = false
 tags = ["Community", "Events", "PIDapalooza", "PIDs", "Persistent Identifiers"]
 categories = ["Events"]
 style = "card-plain"
-banner = "/img/banners/pride-of-lions-us.jpg"
+banner = "/img/banners/ror-matching-game-banner.jpg"
 thumb = "/img/banners/ror-lion-mask.jpg"
 author = "Maria Gould"
 +++

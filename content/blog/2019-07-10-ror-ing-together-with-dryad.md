@@ -5,8 +5,8 @@ draft = false
 tags = ["Implementation", "MVR", "Dryad"]
 categories = ["updates"]
 style = "card-plain"
-banner = "/img/banners/PrideofLions.jpg"
-thumb = "/img/banners/two-lions-sq.jpg"
+banner = "/img/banners/lions-ban.jpg"
+thumb = "/img/banners/lions-square.jpg"
 author = "Maria Gould and Daniella Lowenberg"
 +++
 
