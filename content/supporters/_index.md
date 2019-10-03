@@ -28,11 +28,10 @@ TK something about the Supporters goals
 
 **What kind of animal are you?**
 
-{{< figure src="/img/leopard-thick.png" width="20%" >}} $1000 Leopard (_Panthera pardus_)
-{{< figure src="/img/jaguar-thick.png" width="20%" >}} $3500 Jaguar (_Panthera onca_)
-{{< figure src="/img/tiger-thick.png" width="20%" >}} $7000 Tiger (_Panthera tigris_)
-{{< figure src="/img/lion-thick.png" width="20%" >}} $10000 Lion (_Panthera leo_)
-
+|{{< figure src="/img/leopard-thick.png" width="10%" >}}   	|{{< figure src="/img/jaguar-thick.png" width="10%" >}}   	|{{< figure src="/img/tiger-thick.png" width="10%" >}}   	|{{< figure src="/img/lion-thick.png" width="10%" >}}   	|
+|---	|---	|---	|---	|
+|I am a Leopard _(Panthera pardus)_ and I donated **$1,000**   	|I am a Jaguar _(Panthera onca)_ and I donated **$3,500**   	|I am a Tiger _(Panthera tigris)_ and I donated **$7,000**   	|I am a Lion _(Panthera leo)_ and I donated **$10,000*   	|
+|Org name	|Org name	|Org name	|Org name	|
 
 ---
 
