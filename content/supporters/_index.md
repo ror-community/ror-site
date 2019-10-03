@@ -8,15 +8,10 @@ style = "card-plain"
 
 ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced between Community Advisory Group Members/Signatories and Supporters who have contributed financially. Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward.
 
-[to be in columns with links]
-## ROR Community Advisors & Signatories
+|#### ROR Community Advisors & Signatories	|#### ROR Supporters	|
+|---	|---	|
+|The advisory group includes people from around the world and across different types of institutions/industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).	|ROR supporters are those groups who have donated funds to help the development and adoption of ROR. This phase, commencing January 2020, TK... more ore more more more more more more and more	|
 
-The advisory group includes people from around the world and across different types of institutions/industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).
-
-## ROR Supporters
-
-ROR supporters are those groups who have donated funds to help the development and adoption of ROR. This phase, commencing January 2020, TK...
-[end columns]
 
 ---
 
@@ -28,9 +23,9 @@ TK something about the Supporters goals
 
 **What kind of animal are you?**
 
-|{{< figure src="/img/leopard-thick.png" width="10%" >}}   	|{{< figure src="/img/jaguar-thick.png" width="10%" >}}   	|{{< figure src="/img/tiger-thick.png" width="10%" >}}   	|{{< figure src="/img/lion-thick.png" width="10%" >}}   	|
+|{{< figure src="/img/leopard-thick.png" width="50%" >}}   	|{{< figure src="/img/jaguar-thick.png" width="50%" >}}   	|{{< figure src="/img/tiger-thick.png" width="50%" >}}   	|{{< figure src="/img/lion-thick.png" width="50%" >}}   	|
 |---	|---	|---	|---	|
-|I am a Leopard _(Panthera pardus)_ and I donated **$1,000**   	|I am a Jaguar _(Panthera onca)_ and I donated **$3,500**   	|I am a Tiger _(Panthera tigris)_ and I donated **$7,000**   	|I am a Lion _(Panthera leo)_ and I donated **$10,000*   	|
+|I am a Leopard _(Panthera pardus)_ and I donated **$1,000**   	|I am a Jaguar _(Panthera onca)_ and I donated **$3,500**   	|I am a Tiger _(Panthera tigris)_ and I donated **$7,000**   	|I am a Lion _(Panthera leo)_ and I donated **$10,000**   	|
 |Org name	|Org name	|Org name	|Org name	|
 
 ---
