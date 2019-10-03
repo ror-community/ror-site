@@ -8,9 +8,17 @@ style = "card-plain"
 
 ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced between Community Advisory Group and Supporters who have . Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward.
 
-## ROR Community Advisory Group
+{{% row %}}
+{{% column %}}
+## ROR Community Advisors & Signatories
+
+{{% /column %}}
+{{% column %}}
+
 ## ROR supporters
 
+{{% /column %}}
+{{% /row %}}
 
 ## ROR Community Advisory Group
 
@@ -18,9 +26,9 @@ A broader community advisory group meets for regular calls and in small working 
 
 The advisory group includes people from around the world and across different types of institutions/industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).
 
--   Aaron Ballagh,	The Lens    
--   Anita Bandrowski,	UCSD    
--   Christopher Brown,	Jisc    
+-   Aaron Ballagh, The Lens    
+-   Anita Bandrowski, UCSD    
+-   Christopher Brown, Jisc    
 -   Rebecca Bryant,	OCLC    
 -   Marleen Burger,	TIB    
 -   Xiaofeng (Xavier) Chen,	Sous Direction des Systèmes d'Information et des Etudes Statistiques    
