@@ -1,7 +1,7 @@
 +++
 title = "About"
 draft = false
-date = "2017-08-15"
+date = "2019-10-03"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
 +++
@@ -12,9 +12,45 @@ The scholarly community depends on a network of open identifier and metadata inf
 
 ROR is intended for use by the research community, for the purposes of increasing the use of organization identifiers in the community and enabling connections between organization records in various systems. Implementation of ROR IDs in scholarly infrastructure and metadata will enable more efficient discovery and tracking of research outputs across institutions and funding bodies.
 
-ROR is run by a small group of steering organizations in collaboration with a broad network of community advisors. Read more about the [ROR Community](https://ror.org/community).
+ROR is run by a small group of steering organizations in collaboration with a broad network of community advisors and supporters. Read more about the [ROR Community](https://ror.org/supporters).
+
+
+## Steering organizations
+
+Steering organizations are responsible for strategic decision-making about governance, sustainability, and overall project direction. Steering organizations have also provided key resources for the startup phase of the project.
+
+The steering organizations and representatives are:
+
+-   [California Digital Library](https://www.cdlib.org) (represented by John Chodacki)
+-   [Crossref](https://www.crossref.org) (represented by Ed Pentz)
+-   [DataCite](https://www.datacite.org) (represented by Patricia Cruse)
+-   [Digital Science](https://wwww.digital-science.com) (represented by Daniel Hook)
+
+## ROR project team
+
+The ROR project team involves members of all four steering organizations. Project team members work on technical implementation, outreach and communications, and product development and management.
+
+The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination involves two main groups:
+
+### Outreach, communication, and adoption
+
+-   Helena Cousijn, DataCite
+-   Ginny Hendricks, Crossref
+-   Rachael Lammey, Crossref   
+-   Suze Kundu, Digital Science
+
+### Technical & product development
+
+-   Geoffrey Bilder, Crossref
+-   Esha Datta, Crossref
+-   Dominka Tkaczyk, Crossref
+-   Martin Fenner, DataCite
+-   Robin Dasler, DataCite
+-   Brian Kirkegaard Lunn, Digital Science
+-   Simon Porter, Digital Science
 
 ## History
+
 ROR is the culmination of several years of extensive community collaboration to develop a shared vision for a registry of organization identifiers.
 
 Between 2016 and 2018, a group of 17 organizations with a shared purpose invested their time and energy into an Org ID initiative with the goal of defining requirements for an open, community-led organization identifier registry that would benefit all of our communities. A number of activities took place as part of this initiative. Here is a brief timeline:

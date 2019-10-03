@@ -57,9 +57,10 @@ ROR is focused on being a top-level registry of organizations so we can address 
 
 ## Requesting changes to ROR records
 
-Email <info@ror.org> to request an update to an existing record in ROR or request that a new record be added. We are formalizing data management policies and procedures in the next stage of the project.
+Email [info@ror.org](mailto:info@ror.org) to request an update to an existing record in ROR or request that a new record be added. We are formalizing data management policies and procedures in the next stage of the project.
 
 ## Operations and governance
 
-ROR is in a startup phase right now. The minimum viable registry (MVR) launched in January 2019. ROR is led by four steering organizations: California Digital Library, Crossref, DataCite, and Digital Science. The steering group is tasked with developing the MVR and a long-term governance and sustainability plan.\
-There is also a [community advisory group](https://ror.org/community) of 40+ volunteers from across the research sector and they are looking at issues like data curation, policies, adoption, and engagement.
+An MVR (minimum viable registry) ROR launched in January 2019. ROR is led by four steering organizations: California Digital Library, Crossref, DataCite, and Digital Science. The steering group is tasked with developing ROR and a long-term governance and sustainability plan.
+
+There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector and they are looking at issues like data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.

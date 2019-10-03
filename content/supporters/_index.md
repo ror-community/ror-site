@@ -1,46 +1,16 @@
 +++
-title = "Community"
+title = "Supporters"
 draft = false
-date = "2019-06-20"
+date = "2019-10-03"
 banner = "/img/banners/ROR_Banner-pink.jpg"
 style = "card-plain"
 +++
 
-ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success.
+ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced between Community Advisory Group and Supporters who have . Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward.
 
-## Steering organizations
+## ROR Community Advisory Group
+## ROR supporters
 
-Steering organizations are responsible for strategic decision-making about governance, sustainability, and overall project direction. Steering organizations have also provided key resources for the startup phase of the project.
-
-The steering organizations and representatives are:
-
--   [California Digital Library](https://www.cdlib.org) (represented by John Chodacki)
--   [Crossref](https://www.crossref.org) (represented by Ed Pentz)
--   [DataCite](https://www.datacite.org) (represented by Patricia Cruse)
--   [Digital Science](https://wwww.digital-science.com) (represented by Daniel Hook)
-
-## ROR project team
-
-The ROR project team involves members of all four steering organizations. Project team members work on technical implementation, outreach and communications, and product development and management.
-
-The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination involves two main groups:
-
-### Outreach, communication, and adoption
-
--   Helena Cousijn, DataCite
--   Ginny Hendricks, Crossref
--   Rachael Lammey, Crossref   
--   Suze Kundu, Digital Science
-
-### Technical & product development
-
--   Geoffrey Bilder, Crossref
--   Esha Datta, Crossref
--   Dominka Tkaczyk, Crossref
--   Martin Fenner, DataCite
--   Robin Dasler, DataCite
--   Brian Kirkegaard Lunn, Digital Science
--   Simon Porter, Digital Science
 
 ## ROR Community Advisory Group
 
