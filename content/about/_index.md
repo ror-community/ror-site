@@ -67,3 +67,27 @@ Between 2016 and 2018, a group of 17 organizations with a shared purpose investe
 -   Following an enthusiastic response to the RFI, there was a [stakeholder meeting in Girona](https://orcid.org/content/2018-org-id-meeting) in January 2018 at which ORCID, DataCite, and Crossref were tasked with drafting a proposal that met the Working Group's requirements.
 
 In the discussions and planning process that followed the Girona meeting, it became clear that building a pilot registry would be a practical place to start, with governance and other community layers ultimately built around it. A new steering group consisting of California Digital Library, Crossref, DataCite, and Digital Science stepped up to implement the pilot, with a donation of seed data from Digital Science's GRID database. The pilot was called the Research Organization Registry and thus ROR was born!
+
+## Early supporters and advisors
+
+During the early stages of the OrgID initiative, 17 organizations donated their time and expertise to outlining a shared vision for an open registry of organizations:
+
+-   Alfred P. Sloan Foundation
+-   American Physical Society
+-   California Digital Library
+-   Cornell University
+-   Crossref
+-   DataCite
+-   Digital Science
+-   Editeur
+-   Elsevier
+-   Foundation for Earth Sciences
+-   Hindawi
+-   Jisc
+-   ORCID
+-   Ringgold
+-   Springer Nature
+-   The IP Registry
+-   U.S. Geological Survey
+
+ROR has also benefited greatly from the help and guidance of Helen Szigeti and Kristen Ratan, who consulted on the OrgID planning process in 2017.
