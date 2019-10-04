@@ -25,7 +25,7 @@ TK something about the Supporters goals
 |{{< figure src="/img/leopard-thick.png" width="50%" >}}   	|{{< figure src="/img/jaguar-thick.png" width="50%" >}}   	|{{< figure src="/img/tiger-thick.png" width="50%" >}}   	|{{< figure src="/img/lion-thick.png" width="50%" >}}   	|
 |---	|---	|---	|---	|
 |_Panthera pardus_	| _Panthera onca_	|_Panthera tigris_	|_Panthera leo_	|
-|I am a Leopard and I donated **$1,000**   	|I am a Jaguar and I donated **$3,500**   	|I am a Tiger and I donated **$7,000**   	|I am a Lion and I donated **$10,000**   	|
+|I am a Leopard and I donated **$1,000**   	|I am a Jaguar and I donated **$3,500**   	|I am a Tiger and I donated **$7,000**   	|I am a Lioness and I donated **$10,000**   	|
 |Org name	                |Org name              	|Org name                	|Org name	|
 |Org name x 2             |Org name x 2	          |Org name x 2           	|Org name	 x 2|
 
@@ -112,17 +112,17 @@ Technische Informationsbibliothek (TIB)
 Universitätsbibliothek der Ludwig-Maximilians-Universität München     
 
 ### Individual signatories
-Adrian Ho,	University of Kentucky Libraries     
-Alexey Skalaban,	NEICON     
+Adrian Ho, University of Kentucky Libraries     
+Alexey Skalaban, NEICON     
 Carly Strasser,	Fred Hutchinson Cancer Research Center      
-Catriona J. MacCallum,	Hindawi Ltd      
-John Salter,	University of Leeds / White Rose Libraries     
-Leighton L Christiansen,	National Transportation Library (US)     
-Markus Putnings,	Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsbibliothek Erlangen-Nürnberg      
+Catriona J. MacCallum, Hindawi Ltd      
+John Salter, University of Leeds / White Rose Libraries     
+Leighton L Christiansen, National Transportation Library (US)     
+Markus Putnings, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsbibliothek Erlangen-Nürnberg      
 Nicole Kearney,	Biodiversity Heritage Library Australia (Museums Victoria)      
-Sarah Slowe,	University of Kent     
-Ted Habermann,	Metadata Game Changers     
-Xiaofeng Chen,	French Higher Education Ministry     
+Sarah Slowe, University of Kent     
+Ted Habermann, Metadata Game Changers     
+Xiaofeng Chen, French Higher Education Ministry     
 Matthew B. Jones,	DataONE     
 
 Interested in being a ROR advisor or signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
