@@ -8,10 +8,9 @@ style = "card-plain"
 
 ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced between Community Advisory Group Members/Signatories and Supporters who have contributed financially. Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward.
 
-|#### ROR Community Advisors & Signatories	|#### ROR Supporters	|
-|---	|---	|
-|The advisory group includes people from around the world and across different types of institutions/industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).	|ROR supporters are those groups who have donated funds to help the development and adoption of ROR. This phase, commencing January 2020, TK... more ore more more more more more more and more	|
-
+|ROR Community Advisors	|ROR Signatories	|ROR Supporters	|
+|---	|---	|--- |
+|A broad community advisory group meets to discuss and provide input to the project teams on key aspects such as data curation processes and community engagement. |The ROR Signatories have officially signed on to pledge support for adopting and integrating their systems with ROR. 	|ROR supporters are those groups who have donated funds to help the development and adoption of ROR over 2020-2021.	|
 
 ---
 
@@ -25,14 +24,16 @@ TK something about the Supporters goals
 
 |{{< figure src="/img/leopard-thick.png" width="50%" >}}   	|{{< figure src="/img/jaguar-thick.png" width="50%" >}}   	|{{< figure src="/img/tiger-thick.png" width="50%" >}}   	|{{< figure src="/img/lion-thick.png" width="50%" >}}   	|
 |---	|---	|---	|---	|
-|I am a Leopard _(Panthera pardus)_ and I donated **$1,000**   	|I am a Jaguar _(Panthera onca)_ and I donated **$3,500**   	|I am a Tiger _(Panthera tigris)_ and I donated **$7,000**   	|I am a Lion _(Panthera leo)_ and I donated **$10,000**   	|
-|Org name	|Org name	|Org name	|Org name	|
+|_Panthera pardus_	| _Panthera onca_	|_Panthera tigris_	|_Panthera leo_	|
+|I am a Leopard and I donated **$1,000**   	|I am a Jaguar and I donated **$3,500**   	|I am a Tiger and I donated **$7,000**   	|I am a Lion and I donated **$10,000**   	|
+|Org name	                |Org name              	|Org name                	|Org name	|
+|Org name x 2             |Org name x 2	          |Org name x 2           	|Org name	 x 2|
 
 ---
 
-## Community Advisors & Signatories
+## Community Advisors
+The advisory group includes people from around the world and across different types of institutions/industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).  
 
-A broad community advisory group meets for regular calls and in small working groups to discuss and provide input on key aspects of the project, including data curation processes and data modeling, implementation and adoption of ROR IDs, and outreach and community engagement.
 
 ### Advisors
 
@@ -76,54 +77,57 @@ A broad community advisory group meets for regular calls and in small working gr
 -   Peter Strickland,	IUCr    
 -   Niklas Zimmer, University of Cape Town Libraries    
 
-### Signatories
+
+## ROR Signatories
 
 > "We are research organizations, librarians, platform providers, metadata services, publishers, funders, and more.
 >
 > We support the ROR identifier and its future and we pledge to adopt and use ROR in our applications, tools, workflows, and communications."
 
-Altum, Inc.
-Arctic Data Center
-Association for Computing Machinery
-California Digital Library - CDL
-DataONE
-CHORUS
-Coalition for Networked Information (CNI)
-Crossref
-Data Archiving and Networked Services (DANS - KNAW)
-DataCite e.V.
-Digital Science
-Dryad
-Europe PMC
-FREYA project (Horizon 2020 project on infrastructure for persistent identifiers)
-Hindawi Limited
-International Union of Crystallography
-Lens.org
-LMU Munich
-NASA's ADS Abstract Service
-National Center for Ecological Analysis and Synthesis
-National Electronic Information Consortium (NEICON)
-PANGAEA
-RRID initiative
-Swiss National Science Foundation (SNSF)
-Technische Informationsbibliothek (TIB) // German National Library of Science and Technology
-Universitätsbibliothek der Ludwig-Maximilians-Universität München
+Altum, Inc.   
+Arctic Data Center    
+Association for Computing Machinery     
+California Digital Library - CDL      
+DataONE     
+CHORUS      
+Coalition for Networked Information (CNI)     
+Crossref      
+Data Archiving and Networked Services (DANS - KNAW)     
+DataCite e.V.     
+Digital Science     
+Dryad     
+Europe PMC      
+FREYA (Horizon 2020 project)     
+Hindawi Limited     
+International Union of Crystallography      
+Lens.org      
+LMU Munich      
+NASA's ADS Abstract Service     
+National Center for Ecological Analysis and Synthesis     
+National Electronic Information Consortium (NEICON)     
+PANGAEA     
+RRID initiative     
+Swiss National Science Foundation (SNSF)      
+Technische Informationsbibliothek (TIB)     
+Universitätsbibliothek der Ludwig-Maximilians-Universität München     
 
-#### Individual signatories
-Adrian Ho,	University of Kentucky Libraries
-Alexey Skalaban,	NEICON
-Carly Strasser,	Fred Hutchinson Cancer Research Center
-Catriona J. MacCallum,	Hindawi Ltd
-John Salter,	University of Leeds / White Rose Libraries
-Leighton L Christiansen,	National Transportation Library (US)
-Markus Putnings,	Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsbibliothek Erlangen-Nürnberg
-Nicole Kearney,	Biodiversity Heritage Library Australia (Museums Victoria)
-Sarah Slowe,	University of Kent
-Ted Habermann,	Metadata Game Changers
-Xiaofeng Chen,	French Higher Education Ministry
-Matthew B. Jones,	DataONE
+### Individual signatories
+Adrian Ho,	University of Kentucky Libraries     
+Alexey Skalaban,	NEICON     
+Carly Strasser,	Fred Hutchinson Cancer Research Center      
+Catriona J. MacCallum,	Hindawi Ltd      
+John Salter,	University of Leeds / White Rose Libraries     
+Leighton L Christiansen,	National Transportation Library (US)     
+Markus Putnings,	Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsbibliothek Erlangen-Nürnberg      
+Nicole Kearney,	Biodiversity Heritage Library Australia (Museums Victoria)      
+Sarah Slowe,	University of Kent     
+Ted Habermann,	Metadata Game Changers     
+Xiaofeng Chen,	French Higher Education Ministry     
+Matthew B. Jones,	DataONE     
 
 Interested in being a ROR advisor or signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
+
+---
 
 ## Get involved
 
