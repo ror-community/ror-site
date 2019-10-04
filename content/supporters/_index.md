@@ -16,7 +16,7 @@ ROR is a collaborative effort driven by multiple organizations and individuals. 
 
 ## ROR Supporters
 
-TK something about the Supporters goals
+TK brief line about the Supporters goals
 
 ### Calling all panthera!
 
@@ -26,16 +26,17 @@ TK something about the Supporters goals
 |---	|---	|---	|---	|
 |_Panthera pardus_	| _Panthera onca_	|_Panthera tigris_	|_Panthera leo_	|
 |I am a Leopard and I donated **$1,000**   	|I am a Jaguar and I donated **$3,500**   	|I am a Tiger and I donated **$7,000**   	|I am a Lioness and I donated **$10,000**   	|
-|Org name	                |Org name              	|Org name                	|Org name	|
-|Org name x 2             |Org name x 2	          |Org name x 2           	|Org name	 x 2|
+|- Your organization here   |- Your organization here   |- Your organization here   |- Your organization here   |
+|- Org name x 2         |- Org name x 2 	      |- Org name x 2           	|- Org name	 x 2  |
+
+### How to become a ROR Supporter
+
+TK instructions for donors
 
 ---
 
-## Community Advisors
+## ROR Community Advisors
 The advisory group includes people from around the world and across different types of institutions/industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).  
-
-
-### Advisors
 
 -   Aaron Ballagh, The Lens    
 -   Anita Bandrowski, UCSD    
@@ -77,6 +78,7 @@ The advisory group includes people from around the world and across different ty
 -   Peter Strickland,	IUCr    
 -   Niklas Zimmer, University of Cape Town Libraries    
 
+---
 
 ## ROR Signatories
 
@@ -84,6 +86,9 @@ The advisory group includes people from around the world and across different ty
 >
 > We support the ROR identifier and its future and we pledge to adopt and use ROR in our applications, tools, workflows, and communications."
 
+|Organization Signatories	|Individual Signatories	|
+|---	|---	|
+|
 Altum, Inc.   
 Arctic Data Center    
 Association for Computing Machinery     
@@ -111,7 +116,7 @@ Swiss National Science Foundation (SNSF)
 Technische Informationsbibliothek (TIB)     
 Universitätsbibliothek der Ludwig-Maximilians-Universität München     
 
-### Individual signatories
+|
 Adrian Ho, University of Kentucky Libraries     
 Alexey Skalaban, NEICON     
 Carly Strasser,	Fred Hutchinson Cancer Research Center      
@@ -124,13 +129,8 @@ Sarah Slowe, University of Kent
 Ted Habermann, Metadata Game Changers     
 Xiaofeng Chen, French Higher Education Ministry     
 Matthew B. Jones,	DataONE     
+|
 
-Interested in being a ROR advisor or signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
+Interested in being a ROR signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
 
 ---
-
-## Get involved
-
-Join the ROR community! There are many ways to be involved. Email <info@ror.org> if you would like to join the community advisory group and/or participate in ROR discussion channels on Slack.
-
-There are slide decks and other [resources](/resources) available if you are attending a conference or event and planning to talk about ROR.
