@@ -31,7 +31,7 @@ TK brief line about the Supporters goals
 
 ### How to become a ROR Supporter
 
-Please support us!
+Please support us! Maria and Ginny appreciate it!
 
 ---
 
