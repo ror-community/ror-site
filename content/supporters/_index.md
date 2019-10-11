@@ -31,7 +31,7 @@ TK brief line about the Supporters goals
 
 ### How to become a ROR Supporter
 
-TK instructions for donors
+Please support us!
 
 ---
 
