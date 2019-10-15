@@ -6,7 +6,7 @@ banner = "/img/banners/ROR_Banner-pink.jpg"
 style = "card-plain"
 +++
 
-ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced between Community Advisory Group Members/Signatories and Supporters who have contributed financially. Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward.
+ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced across the ROR Community Advisory Group, Signatories, and financial Supporters. Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward.
 
 |ROR Community Advisors	|ROR Signatories	|ROR Supporters	|
 |---	|---	|--- |
@@ -16,11 +16,16 @@ ROR is a collaborative effort driven by multiple organizations and individuals. 
 
 ## ROR Supporters
 
-TK brief line about the Supporters goals
+All of ROR’s work so far has been completed through in-kind donations from ROR steering organizations. We are committed to ROR for the long-term but we can’t move forward without dedicated community support. We are running a fundraising campaign in order to be able to scale up our operations, hire dedicated staff, and develop and deliver new features, with a plan to launch a paid service tier in 2022 to recover costs while keeping the registry's data open and free.
+
+**ROR aims to raise $175,000 in donations over the next two years.** As a supporter, you’ll have an opportunity to be part of this exciting community effort from the beginning and to ensure its long-term growth and success.
+
+**Our first fundraising target is $75,000 by the end of 2019** in order to secure enough funds to hire a technical lead and to organize an in-person ROR Community planning meeting at PIDapalooza in January 2020.
 
 ### Calling all panthera!
 
 **What kind of animal are you?**
+There are four types of big cats in the world that have the ability to ROAR. Our suggested donation amounts are named for these four cats. We welcome and appreciate donations of all shapes and sizes, however!
 
 |{{< figure src="/img/leopard-thick.png" width="50%" >}}   	|{{< figure src="/img/jaguar-thick.png" width="50%" >}}   	|{{< figure src="/img/tiger-thick.png" width="50%" >}}   	|{{< figure src="/img/lion-thick.png" width="50%" >}}   	|
 |---	|---	|---	|---	|
@@ -31,7 +36,9 @@ TK brief line about the Supporters goals
 
 ### How to become a ROR Supporter
 
-Please support us! Maria and Ginny appreciate it!
+Email donate@ror.org to indicate your interest in donating.
+
+As part of its in-kind contributions to the ROR project, Crossref will process donations on ROR’s behalf. Crossref will report donation details and updates to the ROR Steering Group. The donations will be used exclusively for ROR activities and spending of the funds will be approved by the ROR Steering Group.
 
 ---
 
@@ -86,50 +93,55 @@ The advisory group includes people from around the world and across different ty
 >
 > We support the ROR identifier and its future and we pledge to adopt and use ROR in our applications, tools, workflows, and communications."
 
-|Organization Signatories	|Individual Signatories	|
-|---	|---	|
-|
-Altum, Inc.   
-Arctic Data Center    
-Association for Computing Machinery     
-California Digital Library - CDL      
-DataONE     
-CHORUS      
-Coalition for Networked Information (CNI)     
-Crossref      
-Data Archiving and Networked Services (DANS - KNAW)     
-DataCite e.V.     
-Digital Science     
-Dryad     
-Europe PMC      
-FREYA (Horizon 2020 project)     
-Hindawi Limited     
-International Union of Crystallography      
-Lens.org      
-LMU Munich      
-NASA's ADS Abstract Service     
-National Center for Ecological Analysis and Synthesis     
-National Electronic Information Consortium (NEICON)     
-PANGAEA     
-RRID initiative     
-Swiss National Science Foundation (SNSF)      
-Technische Informationsbibliothek (TIB)     
-Universitätsbibliothek der Ludwig-Maximilians-Universität München     
 
-|
-Adrian Ho, University of Kentucky Libraries     
-Alexey Skalaban, NEICON     
-Carly Strasser,	Fred Hutchinson Cancer Research Center      
-Catriona J. MacCallum, Hindawi Ltd      
-John Salter, University of Leeds / White Rose Libraries     
-Leighton L Christiansen, National Transportation Library (US)     
-Markus Putnings, Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU), Universitätsbibliothek Erlangen-Nürnberg      
-Nicole Kearney,	Biodiversity Heritage Library Australia (Museums Victoria)      
-Sarah Slowe, University of Kent     
-Ted Habermann, Metadata Game Changers     
-Xiaofeng Chen, French Higher Education Ministry     
-Matthew B. Jones,	DataONE     
-|
+-   Altum, Inc.
+
+-   Arctic Data Center
+
+-   [Association for Computing Machinery](https://ror.org/03wsadn68) 
+
+-   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
+
+-   [CERN](https://ror.org/01ggx4157)
+
+-   CHORUS
+
+-   [Coalition for Networked Information](https://ror.org/043fjtb89) (CNI)
+
+-   [Crossref](https://ror.org/02twcfp32)
+
+-   [DataCite e.V.](https://ror.org/04wxnsj81)
+
+-   DataONE
+
+-   [Digital Science](https://ror.org/02ktfc112)
+
+-   [Dryad](https://ror.org/00x6h5n95)
+
+-   FREYA project 
+
+-   Hindawi Limited
+
+-   [International Union of Crystallography](https://ror.org/00vdend65)
+
+-   Lens.org
+
+-   NASA's ADS Abstract Service
+
+-   National Center for Ecological Analysis and Synthesis (NCEAS)
+
+-   National Electronic Information Consortium (NEICON)
+
+-   PANGAEA
+
+-   RRID initiative
+
+-   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
+
+-   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
+
+-   [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://ror.org/05591te55)
+
 
 Interested in being a ROR signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
 
