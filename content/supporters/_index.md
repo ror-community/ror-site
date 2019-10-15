@@ -31,12 +31,11 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 |---	|---	|---	|---	|
 |_Panthera pardus_	| _Panthera onca_	|_Panthera tigris_	|_Panthera leo_	|
 |I am a Leopard and I donated **$1,000**   	|I am a Jaguar and I donated **$3,500**   	|I am a Tiger and I donated **$7,000**   	|I am a Lioness and I donated **$10,000**   	|
-|- Your organization here   |- Your organization here   |- Your organization here   |- Your organization here   |
-|- Org name x 2         |- Org name x 2 	      |- Org name x 2           	|- Org name	 x 2  |
+|- Your organization here!   |- Your organization here!   |- Your organization here!   |- Your organization here!   |
 
 ### How to become a ROR Supporter
 
-Email donate@ror.org to indicate your interest in donating.
+Email <donate@ror.org> to indicate your interest in donating.
 
 As part of its in-kind contributions to the ROR project, Crossref will process donations on ROR’s behalf. Crossref will report donation details and updates to the ROR Steering Group. The donations will be used exclusively for ROR activities and spending of the funds will be approved by the ROR Steering Group.
 
