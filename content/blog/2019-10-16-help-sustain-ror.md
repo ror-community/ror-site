@@ -10,7 +10,7 @@ thumb = "/img/roaringcats-sq.png"
 author = "Maria Gould"
 +++
 
-ROR (<https://ror.org>) is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. 
+ROR is the [Research Organization Registry](https://ror.org), a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. 
 
 ROR emerged to fill a crucial gap in the scholarly communication landscape: while we already had an open network of identifiers for research outputs (DOIs for publications and data) and research contributors (ORCID IDs), open infrastructure for research organizations was a missing piece. 
 

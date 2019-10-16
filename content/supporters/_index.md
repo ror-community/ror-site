@@ -10,7 +10,7 @@ ROR is a collaborative effort driven by multiple organizations and individuals. 
 
 |ROR Community Advisors	|ROR Signatories	|ROR Supporters	|
 |---	|---	|--- |
-|A broad community advisory group meets to discuss and provide input to the project teams on key aspects such as data curation processes and community engagement. |The ROR Signatories have officially signed on to pledge support for adopting and integrating their systems with ROR. 	|ROR supporters are those groups who have donated funds to help the development and adoption of ROR over 2020-2021.	|
+|A broad community advisory group meets to discuss and provide input to the project teams on key aspects such as data curation processes and community engagement. |ROR Signatories have officially signed on to pledge support for adopting and integrating their systems with ROR. 	|ROR supporters are those groups who have donated funds to help the development and adoption of ROR over 2020-2021.	|
 
 ---
 
