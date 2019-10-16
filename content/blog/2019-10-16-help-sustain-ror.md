@@ -6,7 +6,7 @@ tags = ["Community", "Sustainability",]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/leopard-thick.png"
+thumb = "/img/roaringcats-sq.png"
 author = "Maria Gould"
 +++
 
@@ -33,11 +33,8 @@ Our organizations are committed to ROR for the long-term but we can't move forwa
 Donations of all shapes and sizes are welcome. Suggested amounts are as follows:
 
 -   Lion: $10000 
-
 -   Tiger: $7000
-
 -   Jaguar: $3500 
-
 -   Leopard: $1000
 
 *Why these animals?* They are the only four big cats in the world that have the ability to ROAR!
@@ -53,5 +50,4 @@ Please email <donate@ror.org>  to indicate your interest in making a donation. 
 ## Thank you for supporting ROR and the ROR Community
 -   **John Chodacki**, Director of University of California Curation Center (UC3), [California Digital Library](https://ror.org/03yrm5c26)
 -   **Ed Pentz**, Executive Director, [Crossref](https://ror.org/02twcfp32)
-
 -   **Matt Buys**, Executive Director, [DataCite](https://ror.org/04wxnsj81)
