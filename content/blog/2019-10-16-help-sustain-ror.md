@@ -1,16 +1,14 @@
 +++
-title = "ROR-ing Together: Implementing Organization IDs in Dryad"
-date = "2019-07-10"
+title = "Help Build Open Infrastructure for Organization Identifiers: A Call to Support and Sustain ROR"
+date = "2019-10-16"
 draft = false
-tags = ["Implementation", "MVR", "Dryad"]
+tags = ["Community", "Sustainability",]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/banners/lions-square.jpg"
+thumb = "/img/leopard-thick.png"
 author = "Maria Gould"
 +++
-
-Help Build Open Infrastructure for Organization Identifiers: A Call to Support and Sustain ROR
 
 ROR (<https://ror.org>) is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. 
 
