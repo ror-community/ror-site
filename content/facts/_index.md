@@ -24,9 +24,13 @@ The ROR minimal viable registry (MVR) includes the following components:
 -   Expressed as a URL that resolves to the organization's record
 -   Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum
 -   Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)
+
 **ROR search** (<https://ror.org/search>)
+
 **ROR API** (<https://api.ror.org/organizations>) 
+
 **ROR reconciler** (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/reconciler>) 
+
 **ROR Github** (<https://github.com/ror-community>)  
 
 ## Affiliation use case
