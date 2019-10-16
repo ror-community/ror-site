@@ -23,7 +23,7 @@ The steering organizations and representatives are:
 
 -   [California Digital Library](https://www.cdlib.org) (represented by John Chodacki)
 -   [Crossref](https://www.crossref.org) (represented by Ed Pentz)
--   [DataCite](https://www.datacite.org) (represented by Patricia Cruse)
+-   [DataCite](https://www.datacite.org) (represented by Matt Buys)
 -   [Digital Science](https://wwww.digital-science.com) (represented by Daniel Hook)
 
 ## ROR project team
@@ -43,9 +43,10 @@ The project lead and main point of contact is [Maria Gould](mailto:info@ror.org)
 
 -   Geoffrey Bilder, Crossref
 -   Esha Datta, Crossref
--   Dominka Tkaczyk, Crossref
+-   Dominika Tkaczyk, Crossref
 -   Martin Fenner, DataCite
 -   Robin Dasler, DataCite
+-   Sarala Wimaralatne, DataCite
 -   Brian Kirkegaard Lunn, Digital Science
 -   Simon Porter, Digital Science
 
