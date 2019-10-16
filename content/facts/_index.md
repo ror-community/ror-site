@@ -21,9 +21,9 @@ ROR data is openly available under a [CC0 waiver](https://creativecommons.org/sh
 The ROR minimal viable registry (MVR) includes the following components:
 
 **ROR ID** (Example: <https://ror.org/03yrm5c26>)
--   Expressed as a URL that resolves to the organization's record
--   Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum
--   Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)
+* Expressed as a URL that resolves to the organization's record
+* Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum
+* Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)
 
 **ROR search** (<https://ror.org/search>)
 
