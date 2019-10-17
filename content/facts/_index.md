@@ -20,20 +20,18 @@ ROR data is openly available under a [CC0 waiver](https://creativecommons.org/sh
 
 The ROR minimal viable registry (MVR) includes the following components:
 
-* ROR ID: 
--   Example: <https://ror.org/03yrm5c26> 
--   Expressed as a URL that resolves to the organization's record
--   Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum
+**ROR ID** (Example: <https://ror.org/03yrm5c26>)
+- Expressed as a URL that resolves to the organization's record
+- Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum
+- Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)
 
-* ROR search (<https://ror.org/search>)
+**ROR search** (<https://ror.org/search>)
 
-* ROR API (<https://api.ror.org/organizations>) 
+**ROR API** (<https://api.ror.org/organizations>) 
 
-* ROR reconciler (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/reconciler>) 
+**ROR reconciler** (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/reconciler>) 
 
-* ROR Github (<https://github.com/ror-community>)  
-
-* Crosswalks with other organization identifiers (GRID, ISNI, Crossref Funder Registry, Wikidata)
+**ROR Github** (<https://github.com/ror-community>)  
 
 ## Affiliation use case
 
@@ -49,7 +47,7 @@ ROR is interoperable with other identifiers. ROR IDs map to GRID, ISNI, Crossref
 
 For ROR to be useful, it needs to augment the current offerings in a way that is open, trusted, complementary, and collaborative, and not intentionally competitive. We are committed to providing a service that the community finds helpful and not duplicative, and enables as many connections as possible between organization records across systems.
 
-Some aspects of ROR that make it different from other identifiers are that the registry is (a) community-led, (b) completely open, and (c) focused specifically on the affiliation use case.
+Some aspects of ROR that make it different from other identifiers are that the registry is (a) community-led, (b) completely open, and \(\c\)\ focused specifically on the affiliation use case.
 
 ## Granularity and hierarchy
 
@@ -57,9 +55,10 @@ ROR is focused on being a top-level registry of organizations so we can address 
 
 ## Requesting changes to ROR records
 
-Email <info@ror.org> to request an update to an existing record in ROR or request that a new record be added. We are formalizing data management policies and procedures in the next stage of the project.
+Email [info@ror.org](mailto:info@ror.org) to request an update to an existing record in ROR or request that a new record be added. We are formalizing data management policies and procedures in the next stage of the project.
 
 ## Operations and governance
 
-ROR is in a startup phase right now. The minimum viable registry (MVR) launched in January 2019. ROR is led by four steering organizations: California Digital Library, Crossref, DataCite, and Digital Science. The steering group is tasked with developing the MVR and a long-term governance and sustainability plan.\
-There is also a [community advisory group](https://ror.org/community) of 40+ volunteers from across the research sector and they are looking at issues like data curation, policies, adoption, and engagement.
+An MVR (minimum viable registry) ROR launched in January 2019. ROR is led by four steering organizations: California Digital Library, Crossref, DataCite, and Digital Science. The steering group is tasked with developing ROR and a long-term governance and sustainability plan.
+
+There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector and they are looking at issues like data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.
