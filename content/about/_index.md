@@ -6,7 +6,7 @@ banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
 +++
 
-RROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.
+ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.
 
 The scholarly community depends on a network of open identifier and metadata infrastructure. Content identifiers and contributor identifiers are foundational components of this network. But an additional component has been missing---until now, there has been no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata. With the aim of filling this gap, the ROR MVR (minimum viable registry) launched in January 2019 and began assigning unique ROR IDs to more than 91,000 organizations. Read more about the [scope of the ROR MVR and product roadmap](/scope).
 
@@ -15,6 +15,7 @@ ROR is intended for use by the research community, for the purposes of increasin
 ROR is run by a small group of steering organizations in collaboration with a broad network of community advisors and supporters. Read more about the [ROR Community](/supporters).
 
 ## Steering organizations
+
 Steering organizations are responsible for strategic decision-making about governance, sustainability, and overall project direction. Steering organizations have also provided key resources for the startup phase of the project.
 
 The current steering organizations and representatives are:
@@ -49,6 +50,7 @@ The project lead and main point of contact is [Maria Gould](mailto:info@ror.org
 -   Simon Porter, Digital Science
 
 ## History
+
 ROR is the culmination of several years of extensive community collaboration to develop a shared vision for a registry of organization identifiers.
 
 Between 2016 and 2018, a group of 17 organizations with a shared purpose invested their time and energy into an Org ID initiative with the goal of defining requirements for an open, community-led organization identifier registry that would benefit all of our communities. A number of activities took place as part of this initiative. Here is a brief timeline:
