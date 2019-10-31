@@ -32,7 +32,7 @@ Our organizations are committed to ROR for the long-term but we can't move forwa
 ## Supporter opportunities
 Donations of all shapes and sizes are welcome. Suggested amounts are as follows:
 
--   Lion: $10000 
+-   Lioness: $10000 
 -   Tiger: $7000
 -   Jaguar: $3500 
 -   Leopard: $1000
