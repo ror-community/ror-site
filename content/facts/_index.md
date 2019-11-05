@@ -10,7 +10,7 @@ style = "card-plain"
 
 ## ROR data
 
-ROR started with seed data from Digital Science's [GRID](https://grid.ac) database and began assigning ROR IDs to 91,000+ organizations. ROR updates its records when GRID releases a new database update. Ultimately the two registries will diverge. ROR records map to GRID IDs (along with other identifiers). GRID will soon add ROR IDs to its own records as well.
+ROR started with seed data from Digital Science's [GRID](https://grid.ac) database and began assigning ROR IDs to 91,000+ organizations. ROR updates its records when GRID releases a new database update. Ultimately the two registries will diverge. ROR records map to GRID IDs (along with other identifiers) and vice-versa.
 
 ROR records include basic metadata about an organization (including name, alternate names, and location). Additional metadata will be added in the coming months. ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
 
