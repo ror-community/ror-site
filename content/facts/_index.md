@@ -14,7 +14,7 @@ ROR started with seed data from Digital Science's [GRID](https://grid.ac) databa
 
 ROR records include basic metadata about an organization (including name, alternate names, and location). Additional metadata will be added in the coming months. ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
 
-ROR data is openly available under a [CC0 waiver](https://creativecommons.org/share-your-work/public-domain/cc0/).
+All ROR IDs and metadata are provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0//). 
 
 ## ROR MVR
 
