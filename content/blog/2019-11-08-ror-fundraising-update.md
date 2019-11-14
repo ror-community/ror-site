@@ -1,6 +1,6 @@
 +++
 title = "Pride in Community: ROR Fundraising Update"
-date = "2019-11-13"
+date = "2019-11-08"
 draft = false
 tags = ["Community", "Sustainability",]
 categories = ["updates"]
@@ -18,7 +18,7 @@ ROR [launched a fundraising campaign in October](/2019-10-16-help-sustain-ror.md
 - [eLife](https://elifesciences.org/)
 - [German National Library of Science and Technology (TIB)](https://www.tib.eu/en/)
 
-ROR’s growing community of supporters speaks to the importance of building and sustaining open infrastructure for scholarly communications. Steve Pinchotti, CEO of Altum—which has integrated ROR IDs into 26,000 institution profiles in its ProposalCentral grants platform —stated, “ROR is a critical component of a connected research data landscape. As a software company focused on the advancement of research, Altum recognizes our responsibility to financially support and sustain the key research infrastructure initiatives like ORCID and ROR that enable open science and open global identifiers for research outputs, research contributors, and research institutions.”
+ROR’s growing community of supporters speaks to the importance of building and sustaining open infrastructure for scholarly communications. Steve Pinchotti, CEO of Altum—which has integrated ROR IDs into 26,000 institution profiles in its ProposalCentral grants platform —stated, “ROR is a critical component of a connected research data landscape. As a software company focused on the advancement of research, Altum recognizes our responsibility to financially support and sustain the key research infrastructure initiatives like ORCID and ROR that enable open science and open global identifiers for research outputs, research contributors, and research institutions.” Melissa Harrison, eLife Head of Production Operations, adds: “The distribution of high-quality metadata using various persistent identifiers is a great tool for advancing connections and the interlinking of scholarly content with other aspects of the ecosystem. We are delighted to support this community-led initiative for an open persistent identifier for research organizations to complement those we at eLife already use for content, peer review, data, people and funding."
 
 We look forward to crossing other milestones soon on our way to $75,000. But we can’t do this alone! How can you help? By spreading the word far and wide—about the campaign, about the project, and about why open community-driven infrastructure for organization IDs matters to you. You can reference the [blog post](https://ror.org/blog/2019-10-16-help-sustain-ror/) introducing the campaign, and mention [@ResearchOrgs](https://twitter.com/ResearchOrgs) on Twitter ([here is the campaign kick-off Tweet](https://twitter.com/ResearchOrgs/status/1184879636267913216)). And how can you donate? Simply email <donate@ror.org> to make a pledge and we’ll prepare an invoice.
 
