@@ -1,6 +1,6 @@
 +++
 title = "Pride in Community: ROR Fundraising Update"
-date = "2019-11-08"
+date = "2019-11-13"
 draft = false
 tags = ["Community", "Sustainability",]
 categories = ["updates"]
