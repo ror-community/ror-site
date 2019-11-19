@@ -31,7 +31,23 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 |---	|---	|---	|---	|
 |_Panthera pardus_	| _Panthera onca_	|_Panthera tigris_	|_Panthera leo_	|
 |I am a Leopard and I donated **$1,000**   	|I am a Jaguar and I donated **$3,500**   	|I am a Tiger and I donated **$7,000**   	|I am a Lioness and I donated **$10,000**   	|
-|- Your organization here!   |- Your organization here!   |- Your organization here!   |- Your organization here!   |
+|
+- Dryad
+- Curtin University
+- eLife   
+
+|
+- Altum Inc.
+- German National Library S&T (TIB)
+- CWTS, Leiden University  
+
+|
+- Your organization here!   
+
+|
+- American Physical Society   
+
+|
 
 ### How to become a ROR Supporter
 
