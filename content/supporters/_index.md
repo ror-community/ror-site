@@ -34,20 +34,12 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 |
 - Dryad
 - Curtin University
-- eLife   
-
-|
+- eLife   |
 - Altum Inc.
 - German National Library S&T (TIB)
-- CWTS, Leiden University  
-
-|
-- Your organization here!   
-
-|
-- American Physical Society   
-
-|
+- CWTS, Leiden University  |
+- Your organization here!   |
+- American Physical Society   |
 
 ### How to become a ROR Supporter
 
