@@ -60,12 +60,12 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 					<li>Altum Inc.</li>
 					<li>German National Library S&T (TIB)</li>
 					<li>CWTS, Leiden University</li>
-					<li>Association of Comuting Machinery (ACM)</li>
+					<li>Association of Computing Machinery (ACM)</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-					<li>Your organization here</li>
+					<li>Your organization here!</li>
 				</ul>
 			</td>
 			<td>
@@ -75,7 +75,7 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 			</td>
 		</tr>
 	</tbody>
-</table> 
+</table>
 
 
 ### How to become a ROR Supporter
