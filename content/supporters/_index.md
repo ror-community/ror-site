@@ -27,15 +27,56 @@ All of ROR’s work so far has been completed through in-kind donations from ROR
 **What kind of animal are you?**
 There are four types of big cats in the world that have the ability to ROAR. Our suggested donation amounts are named for these four cats. We welcome and appreciate donations of all shapes and sizes, however!
 
-|{{< figure src="/img/leopard-thick.png" width="50%" >}}   	|{{< figure src="/img/jaguar-thick.png" width="50%" >}}   	|{{< figure src="/img/tiger-thick.png" width="50%" >}}   	|{{< figure src="/img/lion-thick.png" width="50%" >}}   	|
-|---	|---	|---	|---	|
-|_Panthera pardus_	| _Panthera onca_	|_Panthera tigris_	|_Panthera leo_	|
-|I am a Leopard and I donated **$1,000**   	|I am a Jaguar and I donated **$3,500**   	|I am a Tiger and I donated **$7,000**   	|I am a Lioness and I donated **$10,000**   	|
-|<ul><li>Dryad</li><li>Curtin University</li><li>eLife</li></ul>
-|<ul><li>Altum Inc.</li><li>German National Library S&T (TIB)</li><li>CWTS, Leiden University</ul></li>Association of Comuting Machinery (ACM)</ul></li></ul>
-|<ul><li>Your organization here!</li></ul>   
-|<ul><li>American Physical Society</li></ul>   
-|
+<table id="donations-table">
+	<tbody>
+		<tr>
+			<td>{{< figure src="/img/leopard-thick.png" width="50%" >}}</td>
+			<td>{{< figure src="/img/jaguar-thick.png" width="50%" >}}</td>
+			<td>{{< figure src="/img/tiger-thick.png" width="50%" >}}</td>
+			<td>{{< figure src="/img/lion-thick.png" width="50%" >}}</td>
+		</tr>
+		<tr>
+			<td><em>Panthera pardus</em></td>
+			<td><em>Panthera onca</em></td>
+			<td><em>Panthera tigris</em></td>
+			<td><em>Panthera leo</em></td>
+		</tr>
+		<tr>
+			<td><p>I am a Leopard and I donated <strong>$1,000</strong></p></td>
+			<td><p>I am a Jaguar and I donated <strong>$3,500</strong></p></td>
+			<td><p>I am a Tiger and I donated <strong>$7,000</strong></p></td>
+			<td><p>I am a Lioness and I donated <strong>$10,000</strong></p></td>
+		</tr>
+		<tr>
+			<td>
+				<ul>
+					<li>Dryad</li>
+					<li>Curtin University</li>
+					<li>eLife</li
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Altum Inc.</li>
+					<li>German National Library S&T (TIB)</li>
+					<li>CWTS, Leiden University</li>
+					<li>Association of Comuting Machinery (ACM)</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>Your organization here</li>
+				</ul>
+			</td>
+			<td>
+				<ul>
+					<li>American Physical Society</li>
+				</ul>
+			</td>
+		</tr>
+	</tbody>
+</table> 
+
 
 ### How to become a ROR Supporter
 

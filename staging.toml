@@ -9,7 +9,7 @@ disqusShortname = "ror"
 [params]
 date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
-CSSVersion = 2
+CSSVersion = 3
 
 [params.widgets]
     search = true
