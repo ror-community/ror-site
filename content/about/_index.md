@@ -14,19 +14,23 @@ ROR is intended for use by the research community, for the purposes of increasin
 
 ROR is run by a small group of steering organizations in collaboration with a broad network of community advisors and supporters. Read more about the [ROR Community](/supporters).
 
-## Steering organizations
-Steering organizations are responsible for strategic decision-making about governance, sustainability, and overall project direction. Steering organizations have also provided key resources for the startup phase of the project.
+## Steering group
+The ROR steering group is responsible for strategic decision-making about governance, sustainability, and overall project direction.
 
-The current steering organizations and representatives are:
+The current steering group representatives are:
 
--   [California Digital Library](https://www.cdlib.org/) (represented by John Chodacki)
--   [Crossref](https://www.crossref.org/) (represented by Ed Pentz)
--   [DataCite](https://www.datacite.org/) (represented by Matt Buys)
--   [Digital Science](https://wwww.digital-science.com/) (represented by Daniel Hook)
+-   **Matt Buys**, [DataCite](https://ror.org/04wxnsj81)
+-   **John Chodacki**, [California Digital Library](https://ror.org/03yrm5c26)
+-   **Daniel Hook**, [Digital Science](https://ror.org/02ktfc112)
+-   **Clifford Lynch**, [Coalition for Networked Information](https://ror.org/043fjtb89)
+-   **Ritsuko Nakajima**, [Japan Science and Technology Agency](https://ror.org/00097mb19)
+-   **Ed Pentz**, [Crossref](https://ror.org/02twcfp32)
+-   **Judy Ruttenberg**, [Association of Research Libraries](https://ror.org/053mpbz30)
+-   **Ina Smith**, [Academy of Science of South Africa](https://ror.org/02qsf1r97)
 
 ## ROR project team
 
-The ROR project team involves members of all four steering organizations. Project team members work on technical implementation, outreach and communications, and product development and management.
+The ROR project team involves members of California Digital Library, Crossref, DataCite, and Digital Science. Project team members work on technical implementation, outreach and communications, and product development and management.
 
 The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination involves two main groups:
 
