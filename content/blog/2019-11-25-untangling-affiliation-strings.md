@@ -12,13 +12,13 @@ author = "Dominika Tkaczyk and Maria Gould"
 
 ROR [launched in January 2019](/blog/2019-02-10-announcing-first-ror-prototype.md) with records for nearly 100,000 research organizations, all with unique IDs and associated metadata. ROR data is useful for a variety of reasons and for a variety of users, including both humans and machines. It is essential for ROR to have robust mechanisms for searching, retrieving, and filtering.
 
-Since launching the registry, we have been making improvements to the codebase to strengthen and enhance these mechanisms. To start off, we [rewrote the API in Python](https://ror.org/blog/2019-07-02-ror-development-update/). Another change that we made was deprecating the parameters *query.name* and *query.names* and redirecting these to the *query* parameter to [support finding organizations using specific terms](https://github.com/ror-community/ror-api#querying).
+Since launching the registry, we have been making improvements to the codebase to strengthen and enhance these mechanisms. To start off, we [rewrote the API in Python](https://ror.org/blog/2019-07-02-ror-development-update/). Another change that we made was to deprecate the parameters *query.name* and *query.names* and redirect these to the *query* parameter to [support finding organizations using specific terms](https://github.com/ror-community/ror-api#querying).
 
 A third improvement that we have recently implemented is affiliation matching to support searching for organizations in a full affiliation string. Previously, the API only supported specific types of tasks, like querying based on a few important terms, or filtering on specific categories like country or organization type. We heard feedback from users that they wanted the API to be able to handle unstructured text strings, including those containing multiple affiliations. A number of ROR stakeholders are working on projects to explore assigning ROR IDs to existing research outputs that have free-text affiliation strings. This type of matching functionality is potentially very useful for such projects.
 
 In the rest of this post we go into detail about what affiliation matching means, why it is useful, and how it works in practice. 
 
-# What is affiliation matching---and why is it needed?
+## What is affiliation matching - and why is it needed?
 Affiliation matching refers to detecting organizations mentioned in raw affiliation strings. For example, given an affiliation string:
 
 *Department of Civil and Industrial Engineering, University of Pisa, Largo Lucio Lazzarino 2, Pisa 56126, Italy*
@@ -37,7 +37,7 @@ Finally, traditional search returns a list of results sorted by relevance, but d
 
 For these reasons, using the traditional search for affiliation matching will make the results much less precise. It will also be difficult to integrate such an approach into an automated affiliation processing workflow.
 
-# How affiliation matching works
+## How affiliation matching works
 To solve these issues, we have added a separate affiliation matching functionality to the ROR API. It can be accessed through API's affiliation parameter, for example:
 
 https://api.ror.org/organizations?affiliation=Department+of+Civil+and+Industrial+Engineering,+University+of+Pisa,+Largo+Lucio+Lazzarino+2,+Pisa+56126,+Italy
