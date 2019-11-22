@@ -10,7 +10,7 @@ thumb = "/img/icon-compass.png"
 author = "Maria Gould"
 +++
 
-ROR is thrilled to announce that we are welcoming new members to the ROR Steering Group. The group now consists of the following members:
+ROR is thrilled to announce that we are welcoming new members to the [ROR Steering Group](https://ror.org/about/#steering-group). The group now consists of the following members:
 
 -   **Matt Buys**, [DataCite](https://ror.org/04wxnsj81)
 -   **John Chodacki**, [California Digital Library](https://ror.org/03yrm5c26)
