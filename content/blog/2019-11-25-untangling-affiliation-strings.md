@@ -1,7 +1,7 @@
 +++
 title = "Untangling Affiliation Strings with the ROR API"
 date = "2019-11-25"
-draft = false
+draft = true
 tags = ["Implementation", "API"]
 categories = ["updates"]
 style = "card-plain"
