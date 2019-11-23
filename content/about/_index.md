@@ -6,7 +6,7 @@ banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
 +++
 
-RROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.
+ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.
 
 The scholarly community depends on a network of open identifier and metadata infrastructure. Content identifiers and contributor identifiers are foundational components of this network. But an additional component has been missing---until now, there has been no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata. With the aim of filling this gap, the ROR MVR (minimum viable registry) launched in January 2019 and began assigning unique ROR IDs to more than 91,000 organizations. Read more about the [scope of the ROR MVR and product roadmap](/scope).
 
