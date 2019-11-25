@@ -11703,8 +11703,8 @@ img {
 .blog-posts .projects-4 {
     padding-top: 0;
 }
-.post a, 
-.post a:focus, 
+.post a,
+.post a:focus,
 .post a:hover {
     color: #da3200;
     text-decoration: underline;
@@ -12360,11 +12360,11 @@ img {
 [data-background-color=black] {
     background-color: #293030;
 }
-[data-background-color=dark-gray], 
-[data-background-color=dark-gray] .social-description h2, 
-[data-background-color=dark-gray] .title, 
-[data-background-color=dark-gray] p, 
-[data-background-color=dark-gray] p.blockquote, 
+[data-background-color=dark-gray],
+[data-background-color=dark-gray] .social-description h2,
+[data-background-color=dark-gray] .title,
+[data-background-color=dark-gray] p,
+[data-background-color=dark-gray] p.blockquote,
 [data-background-color=dark-gray] p.blockquote small {
     color: #FFF;
 }
@@ -13892,4 +13892,3 @@ p#copyright {
 	border-radius: 0;
 	background-color: #da3200;
 }
-

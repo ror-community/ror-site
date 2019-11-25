@@ -1,18 +1,56 @@
 +++
 title = "About"
 draft = false
-date = "2017-08-15"
+date = "2017-08-16"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
 +++
 
 ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.
 
-The scholarly community depends on a network of open identifier and metadata infrastructure. Content identifiers and contributor identifiers are foundational components of this network. But an additional component has been missing---until now, there has been no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata. With the aim of filling this gap, the ROR MVR (minimum viable registry) launched in January 2019 and began assigning unique ROR IDs to more than 91,000 organizations. Read more about the [scope of the ROR MVR and product roadmap](https://ror.org/scope).
+The scholarly community depends on a network of open identifier and metadata infrastructure. Content identifiers and contributor identifiers are foundational components of this network. But an additional component has been missing---until now, there has been no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata. With the aim of filling this gap, the ROR MVR (minimum viable registry) launched in January 2019 and began assigning unique ROR IDs to more than 91,000 organizations. Read more about the [scope of the ROR MVR and product roadmap](/scope).
 
 ROR is intended for use by the research community, for the purposes of increasing the use of organization identifiers in the community and enabling connections between organization records in various systems. Implementation of ROR IDs in scholarly infrastructure and metadata will enable more efficient discovery and tracking of research outputs across institutions and funding bodies.
 
-ROR is run by a small group of steering organizations in collaboration with a broad network of community advisors. Read more about the [ROR Community](https://ror.org/community).
+ROR is run by a small group of steering organizations in collaboration with a broad network of community advisors and supporters. Read more about the [ROR Community](/supporters).
+
+## Steering group
+The ROR steering group is responsible for strategic decision-making about governance, sustainability, and overall project direction.
+
+The current steering group representatives are:
+
+-   **Matt Buys**, [DataCite](https://ror.org/04wxnsj81)
+-   **John Chodacki**, [California Digital Library](https://ror.org/03yrm5c26)
+-   **Daniel Hook**, [Digital Science](https://ror.org/02ktfc112)
+-   **Clifford Lynch**, [Coalition for Networked Information](https://ror.org/043fjtb89)
+-   **Ritsuko Nakajima**, [Japan Science and Technology Agency](https://ror.org/00097mb19)
+-   **Ed Pentz**, [Crossref](https://ror.org/02twcfp32)
+-   **Judy Ruttenberg**, [Association of Research Libraries](https://ror.org/053mpbz30)
+-   **Ina Smith**, [Academy of Science of South Africa](https://ror.org/02qsf1r97)
+
+## ROR project team
+
+The ROR project team involves members of California Digital Library, Crossref, DataCite, and Digital Science. Project team members work on technical implementation, outreach and communications, and product development and management.
+
+The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination involves two main groups:
+
+### Outreach, communication, and adoption
+
+-   Helena Cousijn, DataCite
+-   Ginny Hendricks, Crossref
+-   Rachael Lammey, Crossref   
+-   Suze Kundu, Digital Science
+
+### Technical & product development
+
+-   Geoffrey Bilder, Crossref
+-   Esha Datta, Crossref
+-   Dominika Tkaczyk, Crossref
+-   Martin Fenner, DataCite
+-   Robin Dasler, DataCite
+-   Sarala Wimaralatne, DataCite
+-   Brian Kirkegaard Lunn, Digital Science
+-   Simon Porter, Digital Science
 
 ## History
 ROR is the culmination of several years of extensive community collaboration to develop a shared vision for a registry of organization identifiers.
