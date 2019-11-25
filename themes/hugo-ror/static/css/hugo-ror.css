@@ -13892,3 +13892,17 @@ p#copyright {
 	border-radius: 0;
 	background-color: #da3200;
 }
+
+/* donations table on the Supporters page */
+
+table#donations-table td {
+	vertical-align: top;
+}
+
+table#donations-table td ul {
+	padding-left: 20px;
+}
+
+table#donations-table td ul li {
+	font-size: 1rem;
+}
