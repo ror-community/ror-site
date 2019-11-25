@@ -1,7 +1,7 @@
 +++
 title = "Untangling Affiliation Strings with the ROR API"
 date = "2019-11-25"
-draft = true
+draft = false
 tags = ["Implementation", "API"]
 categories = ["updates"]
 style = "card-plain"
@@ -25,7 +25,7 @@ Affiliation matching refers to detecting organizations mentioned in raw affiliat
 
 we expect to detect the organization University of Pisa with ROR ID <https://ror.org/03ad39j10>
 
-Previously, the only way to find an organization's ROR ID based on some version of its name was the ROR API's search functionality. This search functionality can be accessed through API's query parameter. When a user calls the API providing a number of search words, the internal search engine scores ROR organizations according to the relevance to the search words. All ROR organizations with a non-zero relevance are then sorted according to the relevance (from most to least relevant). The sorted list is finally returned to the user.
+Previously, the only way to find an organization's ROR ID based on some version of its name was the ROR API's search functionality. This search functionality can be accessed through API's *query* parameter. When a user calls the API providing a number of search words, the internal search engine scores ROR organizations according to the relevance to the search words. All ROR organizations with a non-zero relevance are then sorted according to the relevance (from most to least relevant). The sorted list is finally returned to the user.
 
 In theory, this standard search functionality can be also used to find the ROR ID of the organization mentioned in an affiliation string. Indeed, we could simply use the affiliation string as the search query words and accept the top result as the mentioned organization. There are, however, a number of problems with this approach.
 
@@ -38,7 +38,7 @@ Finally, traditional search returns a list of results sorted by relevance, but d
 For these reasons, using the traditional search for affiliation matching will make the results much less precise. It will also be difficult to integrate such an approach into an automated affiliation processing workflow.
 
 ## How affiliation matching works
-To solve these issues, we have added a separate affiliation matching functionality to the ROR API. It can be accessed through API's affiliation parameter, for example:
+To solve these issues, we have added a separate affiliation matching functionality to the ROR API. It can be accessed through API's *affiliation* parameter, for example:
 
 https://api.ror.org/organizations?affiliation=Department+of+Civil+and+Industrial+Engineering,+University+of+Pisa,+Largo+Lucio+Lazzarino+2,+Pisa+56126,+Italy
 
