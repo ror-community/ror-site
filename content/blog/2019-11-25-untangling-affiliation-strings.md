@@ -1,6 +1,6 @@
 +++
 title = "Untangling Affiliation Strings with the ROR API"
-date = "2019-11-25"
+date = "2019-11-26"
 draft = false
 tags = ["Implementation", "API"]
 categories = ["updates"]
