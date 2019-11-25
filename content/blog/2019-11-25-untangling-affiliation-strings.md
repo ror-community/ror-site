@@ -1,7 +1,7 @@
 +++
 title = "Untangling Affiliation Strings with the ROR API"
 date = "2019-11-25"
-draft = false
+draft = true
 tags = ["Implementation", "API"]
 categories = ["updates"]
 style = "card-plain"
@@ -55,8 +55,8 @@ More information about the output fields can be found [here](https://github.com/
 
 How does the matching algorithm work? First, candidate substrings are extracted from the input affiliation string. This is done based on separators such as commas or semicolons. Next, each candidate substring is used separately to query the ROR API in a more traditional way. The resulting organizations are scored based on the similarity with the candidate substring. Then, the results for all candidate substrings are combined together into a final list. Finally, organizations are marked as successfully matched if the following conditions are met:
 
-  * The similarity score is at least 0.9
-  * If the affiliation string contains the name of the country, it must be the same as the matched organization's country
+  * The similarity score is at least 0.9.
+  * If the affiliation string contains the name of the country, it must be the same as the matched organization's country.
   * The substring cannot overlap with another substring successfully matched to an organization.
 
 You can access the affiliation matching code [here](https://github.com/ror-community/ror-api/blob/master/rorapi/matching.py) (along with other helpful API documentation). We hope you give it a try and let us know what you think.
