@@ -14,16 +14,16 @@ ROR started with seed data from Digital Science's [GRID](https://grid.ac) databa
 
 ROR records include basic metadata about an organization (including name, alternate names, and location). Additional metadata will be added in the coming months. ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
 
-All ROR IDs and metadata are provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0//). 
+All ROR IDs and metadata are provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0//).
 
 ## ROR MVR
 
 The ROR minimal viable registry (MVR) includes the following components:
 
 **ROR ID** (Example: <https://ror.org/03yrm5c26>)
-- Expressed as a URL that resolves to the organization's record
-- Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum
-- Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)
+- Expressed as a URL that resolves to the organization's record     
+- Unique and opaque character string: leading 0 followed by 6 characters and a 2-digit checksum     
+- Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)     
 
 **ROR search** (<https://ror.org/search>)
 
@@ -32,6 +32,8 @@ The ROR minimal viable registry (MVR) includes the following components:
 **ROR reconciler** (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/reconciler>) 
 
 **ROR Github** (<https://github.com/ror-community>)  
+
+**ROR data dump** (https://doi.org/10.6084/m9.figshare.9172553)
 
 ## Affiliation use case
 
@@ -59,6 +61,6 @@ Email [info@ror.org](mailto:info@ror.org) to request an update to an existing re
 
 ## Operations and governance
 
-An MVR (minimum viable registry) ROR launched in January 2019. ROR is led by four steering organizations: California Digital Library, Crossref, DataCite, and Digital Science. The steering group is tasked with developing ROR and a long-term governance and sustainability plan.
+An MVR (minimum viable registry) ROR launched in January 2019. ROR is administered by four organizations (California Digital Library, Crossref, DataCite, and Digital Science) and led by a [steering group](/about/#steering-group). The steering group is tasked with developing ROR and a long-term governance and sustainability plan.
 
 There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector and they are looking at issues like data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.
