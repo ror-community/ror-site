@@ -1,5 +1,5 @@
 +++
-title = "ROR Curation Request"
+title = "ROR Curation"
 draft = false
 date = "2019-11-26"
 banner = "/img/banners/ROR_Banner-orange.jpg"

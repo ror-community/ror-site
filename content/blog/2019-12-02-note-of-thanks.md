@@ -1,7 +1,7 @@
 +++
 title = "A Note of Thanks from ROR"
-date = "2019-11-29"
-draft = true
+date = "2019-12-02"
+draft = false
 tags = ["Community", "Sustainability",]
 categories = ["updates"]
 style = "card-plain"
@@ -10,7 +10,7 @@ thumb = "/img/lion-thick.png"
 author = "Maria Gould"
 +++
 
-As announced previously, ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16-help-sustain-ror/) to ensure the registry's long-term sustainability. We are grateful for the community supporters who have contributed to this campaign. The first round of supporters was announced a couple of weeks ago in a [previous post](https://ror.org/blog/2019-11-13-ror-fundraising-update/). We are excited in this post to acknowledge the following additional contributors:
+As we announced previously, ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16-help-sustain-ror/) to ensure the registry's long-term sustainability. We are grateful for the community supporters who have already contributed to this campaign. The first round of supporters was [announced a couple of weeks ago] (https://ror.org/blog/2019-11-13-ror-fundraising-update/). We are excited in this post to acknowledge the following additional contributors:
 
 - [American Physical Society](https://www.aps.org/)
 - [American Psychological Association](https://www.apa.org/)
@@ -25,7 +25,7 @@ These new contributions supplement those previously received from:
 - [eLife](https://elifesciences.org/)
 - [German National Library of Science and Technology (TIB)](https://www.tib.eu/en/)
 
-The ROR campaign has now raised $XX,XXX toward our 2019 target of $75,000. As we approach the end of the year, we are calling on our community to help us reach our goal. Contributions in any amount are welcome, and will go directly to support the registry's growth and development. To start your contribution, email <donate@ror.org> to make a pledge and request an invoice.
+The ROR campaign has now raised $36,000 toward our 2019 target of $75,000. As we approach the end of the year, we are calling on our community to help us reach our goal. Contributions in any amount are welcome, and will go directly to support the registry's growth and development. To start your contribution, email <donate@ror.org> to make a pledge and request an invoice.
 
 If you have already made a contribution, or if you are not able to support the campaign financially, please consider spreading the word to your networks and sharing your views about how and why open and community-led infrastructure for organization identifiers matters to you. You can reference the [blog post](https://ror.org/blog/2019-10-16-help-sustain-ror/) announcing the campaign, and mention [@ResearchOrgs](https://twitter.com/ResearchOrgs) on Twitter ([here is the campaign kick-off Tweet](https://twitter.com/ResearchOrgs/status/1184879636267913216)).
 
