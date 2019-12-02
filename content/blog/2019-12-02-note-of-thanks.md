@@ -6,7 +6,7 @@ tags = ["Community", "Sustainability",]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-thick.png"
+thumb = "/img/jaguar-thick.png"
 author = "Maria Gould"
 +++
 
