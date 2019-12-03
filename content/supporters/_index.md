@@ -18,14 +18,14 @@ ROR is a collaborative effort driven by multiple organizations and individuals. 
 
 All of ROR’s work so far has been completed through in-kind donations from ROR steering organizations. We are committed to ROR for the long-term but we can’t move forward without dedicated community support. We are running a fundraising campaign in order to be able to scale up our operations, hire dedicated staff, and develop and deliver new features, with a plan to launch a paid service tier in 2022 to recover costs while keeping the registry's data open and free.
 
-**ROR aims to raise $175,000 in donations over the next two years.** As a supporter, you’ll have an opportunity to be part of this exciting community effort from the beginning and to ensure its long-term growth and success.
+**ROR aims to raise $175,000 in community contributions over the next two years.** As a supporter, you’ll have an opportunity to be part of this exciting community effort from the beginning and to ensure its long-term growth and success.
 
 **Our first fundraising target is $75,000 by the end of 2019** in order to secure enough funds to hire a technical lead and to organize an in-person ROR Community planning meeting at PIDapalooza in January 2020.
 
 ### Calling all panthera!
 
 **What kind of animal are you?**
-There are four types of big cats in the world that have the ability to ROAR. Our suggested donation amounts are named for these four cats. We welcome and appreciate donations of all shapes and sizes, however!
+There are four types of big cats in the world that have the ability to ROAR. Our suggested supporter categories are named for these four cats. We welcome and appreciate contributions of all shapes and sizes, however!
 
 <table id="donations-table">
 	<tbody>
@@ -42,10 +42,10 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 			<td><em>Panthera leo</em></td>
 		</tr>
 		<tr>
-			<td><p>I am a Leopard and I donated <strong>$1,000</strong></p></td>
-			<td><p>I am a Jaguar and I donated <strong>$3,500</strong></p></td>
-			<td><p>I am a Tiger and I donated <strong>$7,000</strong></p></td>
-			<td><p>I am a Lioness and I donated <strong>$10,000</strong></p></td>
+			<td><p>I am a Leopard and I contributed <strong>$1,000</strong></p></td>
+			<td><p>I am a Jaguar and I contributed <strong>$3,500</strong></p></td>
+			<td><p>I am a Tiger and I contributed <strong>$7,000</strong></p></td>
+			<td><p>I am a Lioness and I contributed <strong>$10,000</strong></p></td>
 		</tr>
 		<tr>
 			<td>
