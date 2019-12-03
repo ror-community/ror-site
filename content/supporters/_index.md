@@ -65,7 +65,7 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 			</td>
 			<td>
 				<ul>
-					<li>Your organization here!</li>
+					<li>American Psychological Association</li>
 				</ul>
 			</td>
 			<td>
