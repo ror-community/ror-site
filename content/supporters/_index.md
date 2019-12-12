@@ -52,7 +52,8 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 				<ul>
 					<li>Dryad</li>
 					<li>Curtin University</li>
-					<li>eLife</li
+					<li>eLife</li>
+          <li>UC Davis Library</li>
 				</ul>
 			</td>
 			<td>
@@ -71,6 +72,7 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 			<td>
 				<ul>
 					<li>American Physical Society</li>
+          <li>Chan Zuckerberg Initiative</li>
 				</ul>
 			</td>
 		</tr>
@@ -80,9 +82,9 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 
 ### How to become a ROR Supporter
 
-Email <donate@ror.org> to indicate your interest in donating.
+Email <donate@ror.org> to make a pledge and request an invoice.
 
-As part of its in-kind contributions to the ROR project, Crossref will process donations on ROR’s behalf. Crossref will report donation details and updates to the ROR Steering Group. The donations will be used exclusively for ROR activities and spending of the funds will be approved by the ROR Steering Group.
+As part of its in-kind contributions to the ROR project, Crossref will process contributions on ROR’s behalf. Crossref will report financial details and updates to the ROR Steering Group. Contributions will be used exclusively for ROR activities and spending of the funds will be approved by the ROR Steering Group.
 
 ---
 
