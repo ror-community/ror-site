@@ -33,7 +33,7 @@ The ROR minimal viable registry (MVR) includes the following components:
 
 **ROR Github** (<https://github.com/ror-community>)  
 
-**ROR data dump** (https://doi.org/10.6084/m9.figshare.9172553)
+**ROR data dump** (<https://doi.org/10.6084/m9.figshare.c.4596503>)
 
 ## Affiliation use case
 
