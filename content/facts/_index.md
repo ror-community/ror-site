@@ -29,7 +29,7 @@ The ROR minimal viable registry (MVR) includes the following components:
 
 **ROR API** (<https://api.ror.org/organizations>) 
 
-**ROR reconciler** (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/reconciler>) 
+**ROR reconciler** (uses OpenRefine to map affiliations to ROR IDs) (<https://github.com/ror-community/ror-reconciler>) 
 
 **ROR Github** (<https://github.com/ror-community>)  
 
@@ -49,7 +49,7 @@ ROR is interoperable with other identifiers. ROR IDs map to GRID, ISNI, Crossref
 
 For ROR to be useful, it needs to augment the current offerings in a way that is open, trusted, complementary, and collaborative, and not intentionally competitive. We are committed to providing a service that the community finds helpful and not duplicative, and enables as many connections as possible between organization records across systems.
 
-Some aspects of ROR that make it different from other identifiers are that the registry is (a) community-led, (b) completely open, and \(\c\)\ focused specifically on the affiliation use case.
+Some aspects of ROR that make it different from other identifiers are that the registry is (a) community-led, (b) completely open, and \(c)\ focused specifically on the affiliation use case.
 
 ## Granularity and hierarchy
 
