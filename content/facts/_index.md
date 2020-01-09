@@ -61,6 +61,6 @@ Email [info@ror.org](mailto:info@ror.org) to request an update to an existing re
 
 ## Operations and governance
 
-An MVR (minimum viable registry) ROR launched in January 2019. ROR is administered by four organizations (California Digital Library, Crossref, DataCite, and Digital Science) and led by a [steering group](/about/#steering-group). The steering group is tasked with developing ROR and a long-term governance and sustainability plan.
+An MVR (minimum viable registry) ROR launched in January 2019. ROR operations are administered by California Digital Library, Crossref, and DataCite and advised by a larger [steering group](/about/#steering-group). The ROR steering group is responsible for strategic decision-making about governance, sustainability, and overall project direction.
 
 There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector and they are looking at issues like data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.
