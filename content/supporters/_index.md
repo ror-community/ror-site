@@ -142,7 +142,9 @@ The advisory group includes people from around the world and across different ty
 
 -   Altum, Inc.
 -   Arctic Data Center
+-   Ariadna Ediciones
 -   [Association for Computing Machinery](https://ror.org/03wsadn68) 
+-   BITECA SAS
 -   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
 -   [CERN](https://ror.org/01ggx4157)
 -   CHORUS
@@ -150,21 +152,26 @@ The advisory group includes people from around the world and across different ty
 -   [Crossref](https://ror.org/02twcfp32)
 -   [DataCite e.V.](https://ror.org/04wxnsj81)
 -   DataONE
+-   Data Salon
 -   [Digital Science](https://ror.org/02ktfc112)
 -   [Dryad](https://ror.org/00x6h5n95)
+-   Europe PMC
 -   FREYA project 
 -   Hindawi Limited
 -   [International Union of Crystallography](https://ror.org/00vdend65)
 -   Lens.org
+-   Metadata Game Changers
 -   NASA's ADS Abstract Service
 -   National Center for Ecological Analysis and Synthesis (NCEAS)
 -   National Electronic Information Consortium (NEICON)
+-   Overton.io
 -   PANGAEA
 -   RRID initiative
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
+-   [Universidad Autónoma de Nuevo León](https://ror.org/01fh86n78)
+-   [Universidade Federal do Ceará](https://ror.org/03srtnf24)
 -   [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://ror.org/05591te55)
-
 
 Interested in being a ROR signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
 
