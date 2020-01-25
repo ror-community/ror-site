@@ -50,8 +50,10 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 		<tr>
 			<td>
 				<ul>
-					<li>Dryad</li>
+					<li>Cambridge University Press</li>
+					<li>Clarivate Analytics</>
 					<li>Curtin University</li>
+					<li>Dryad</li>
 					<li>eLife</li>
           <li>UC Davis Library</li>
 				</ul>
@@ -59,9 +61,9 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 			<td>
 				<ul>
 					<li>Altum Inc.</li>
-					<li>German National Library S&T (TIB)</li>
-					<li>CWTS, Leiden University</li>
 					<li>Association of Computing Machinery (ACM)</li>
+					<li>CWTS, Leiden University</li>
+<li>German National Library S&T (TIB)</li>
 				</ul>
 			</td>
 			<td>
