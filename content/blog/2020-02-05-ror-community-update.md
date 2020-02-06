@@ -1,6 +1,6 @@
 +++
 title = "ROR Community Meeting in Lisbon"
-date = "2020-02-07"
+date = "2020-02-05"
 draft = false
 tags = ["Community", "events",]
 categories = ["updates"]
@@ -48,4 +48,4 @@ Another area of focus will be on driving and supporting greater adoption of ROR 
 
 Meeting attendees spent time working in breakout groups to identify additional priorities for ROR associated with specific stakeholder groups: Funders, Publishers, Repository Managers, System Providers, and Data Wranglers. Common themes across these groups were interoperability, end user support, and connectivity between ROR and other identifiers. These discussions will help to inform future developments with ROR.
 
-It was a fun party, and now it's time to get back to work! 2020 will be a big year for ROR! Thanks for being part of this journey. 
+It was a fun party, and now it's time to get back to work! 2020 will be a big year for ROR! Thanks for being part of this journey.
