@@ -1,16 +1,18 @@
 +++
-title = "ROR Community Meeting in Lisbon"
+title = "ROR Community Celebration in Lisbon"
 date = "2020-02-05"
 draft = false
 tags = ["Community", "events",]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-profile-sq.jpg"
+thumb = "/img/lions-in-lisbon-sq.jpg"
 author = "Maria Gould"
 +++
 
-ROR threw a party last week! Sixty friends - some new, some old - came together in Lisbon to celebrate ROR’s unofficial first birthday, marking one year since the registry debuted at a community meeting in Dublin in January 2019. This year’s gathering was a chance to review the milestones that ROR has passed in the last twelve months, highlight early implementations of ROR, and discuss the work that lies ahead for the next year and beyond with ROR’s active community.
+ROR threw a party last week! Sixty friends - some new, some old - came together in Lisbon on the eve of [PIDapalooza 2020](https://www.pidapalooza.org) to celebrate ROR’s unofficial first birthday, marking one year since the registry debuted at a community meeting in Dublin in January 2019. This year’s gathering was a chance to review the milestones that ROR has passed in the last twelve months, highlight early implementations of ROR, and discuss the work that lies ahead for the next year and beyond with ROR’s active community.
+
+{{< figure src="/img/lions-in-lisbon.jpg" title="Lions in Lisbon" >}}
 
 The review of ROR's first year covered many highlights, including:
 
@@ -40,14 +42,22 @@ The meeting also showcased a variety of ways in which ROR is being used and impl
 -  Richard Wynne (Rescognito) demoed a **researcher recognition platform that uses ROR IDs** to identify organizations
 -  Carolyn Grant (Harvard Center for Astrophysics) previewed work to **link ROR IDs to local department-level identifiers** in the [Astrophysics Data System](https://ui.adsabs.harvard.edu/)
 
+{{< tweet 1222183096126267394 >}}
+
 In the second part of the meeting, the focus was on what comes next for ROR. The key themes for 2020 will be on sustainability, curation, and adoption.
 
 -  **Sustainability**: ROR's fundraising campaign will continue this year, aiming to reach $400,000 by the end of the 2021 through a combination of community investments and grant funding. The success of the fundraising campaign so far will allow ROR to secure additional resourcing for technical development.
-
 -  **Curation**: Curation is a top priority for ROR development. This will entail technical work to manage ROR data independently, and policy-based work to curate the registry with input and involvement from community members.
-
 -  **Adoption**: Another area of focus will be on driving and supporting greater adoption of ROR IDs in various systems, especially by publishers.
 
+{{< tweet 1222183630287646721 >}}
+
 Meeting attendees spent time working in breakout groups to discuss priorities for ROR associated with specific stakeholder groups: Funders, Publishers, Repository Managers, System Providers, and Data Wranglers. Common themes across these groups were interoperability, end user support, and connectivity between ROR and other identifiers. These discussions will help to inform future developments with ROR.
+
+{{< figure src="/img/ror-meeting-breakouts.jpg" title="ROR meeting breakout groups" >}}
+
+At the end of the meeting, we all roared together!
+
+{{< figure src="/img/ror-ing-in-lisbon.jpg" title="ROR-ing in Lisbon" >}}
 
 It was a fun party, and now it's time to get back to work! 2020 will be a big year for ROR - thank you for being part of this journey.
