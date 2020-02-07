@@ -12,7 +12,7 @@ author = "Maria Gould"
 
 ROR threw a party last week! Sixty friends - some new, some old - came together in Lisbon on the eve of [PIDapalooza 2020](https://www.pidapalooza.org) to celebrate ROR’s unofficial first birthday, marking one year since the registry debuted at a community meeting in Dublin in January 2019. This year’s gathering was a chance to review the milestones that ROR has passed in the last twelve months, highlight early implementations of ROR, and discuss the work that lies ahead for the next year and beyond with ROR’s active community.
 
-{{< figure src="/img/lions-in-lisbon.jpg" title="Lions in Lisbon" >}}
+{{< figure src="/img/lions-in-lisbon.jpg" >}}
 
 The review of ROR's first year covered many highlights, including:
 
@@ -54,10 +54,10 @@ In the second part of the meeting, the focus was on what comes next for ROR. The
 
 Meeting attendees spent time working in breakout groups to discuss priorities for ROR associated with specific stakeholder groups: Funders, Publishers, Repository Managers, System Providers, and Data Wranglers. Common themes across these groups were interoperability, end user support, and connectivity between ROR and other identifiers. These discussions will help to inform future developments with ROR.
 
-{{< figure src="/img/ror-meeting-breakouts.jpg" title="ROR meeting breakout groups" >}}
+{{< figure src="/img/ror-meeting-breakouts.jpg" >}}
 
 At the end of the meeting, we all roared together!
 
-{{< figure src="/img/ror-ing-in-lisbon.jpg" title="ROR-ing in Lisbon" >}}
+{{< figure src="/img/ror-ing-in-lisbon.jpg" >}}
 
 It was a fun party, and now it's time to get back to work! 2020 will be a big year for ROR - thank you for being part of this journey.
