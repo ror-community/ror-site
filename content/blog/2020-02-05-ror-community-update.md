@@ -10,7 +10,7 @@ thumb = "/img/lions-in-lisbon-sq.jpg"
 author = "Maria Gould"
 +++
 
-ROR threw a party last week! Sixty friends - some new, some old - came together in Lisbon on the eve of [PIDapalooza 2020](https://www.pidapalooza.org) to celebrate ROR’s unofficial first birthday, marking one year since the registry debuted at a community meeting in Dublin in January 2019. This year’s gathering was a chance to review the milestones that ROR has passed in the last twelve months, highlight early implementations of ROR, and discuss the work that lies ahead for the next year and beyond with ROR’s active community.
+ROR had a party in Portugal last month! Sixty friends - some new, some old - came together in Lisbon on the eve of [PIDapalooza 2020](https://www.pidapalooza.org) to celebrate ROR’s unofficial first birthday, marking one year since the registry debuted at a community meeting in Dublin in January 2019. This year’s gathering was a chance to review the milestones that ROR has passed in the last twelve months, highlight early implementations of ROR, and discuss the work that lies ahead for the next year and beyond with ROR’s active community.
 
 {{< figure src="/img/lions-in-lisbon.jpg" >}}
 
@@ -35,10 +35,10 @@ These developments have been key to ROR's growth, adoption, and sustainability, 
 The meeting also showcased a variety of ways in which ROR is being used and implemented across the community:
 
 -  Simon Porter (Digital Science) showed how **ROR IDs are being collected in submission workflows** for the [Physiome Journal](https://journal.physiomeproject.org/)
--  Jamie McKee (Altum) shared how **ROR IDs are being used in institutional profiles** in its [ProposalCentral](https://www.altum.com/grant-making-management-system-software-tools) grants management platform
--  Martin Fenner (DataCite) presented on how ROR IDs are supported in DataCite metadata and how [DataCite's search faceting uses ROR](https://blog.datacite.org/affiliation-facet-new-in-datacite-search/) to identify research outputs by a given affiliation
+-  Jamie McKee (Altum) shared how **ROR IDs are being used in institutional profiles** in the [ProposalCentral](https://www.altum.com/grant-making-management-system-software-tools) grants management platform
+-  Martin Fenner (DataCite) presented on how **ROR IDs are supported in DataCite metadata** and how [DataCite's search faceting uses ROR](https://blog.datacite.org/affiliation-facet-new-in-datacite-search/) to identify research outputs by a given affiliation
 -  Christine Ferguson (EMBL-EBI) discussed recent [work by the FREYA project](https://www.project-freya.eu/en/deliverables/freya_d4-4.pdf) to analyze opportunities to integrate organization IDs in PID services and scholarly communication systems, with **ROR IDs as a predominant option**
--  Ted Habermann (Metadata Game Changers) examined how **ROR IDs can be used to identify research outputs in specific institutional settings**, such as by federal government agencies
+-  Ted Habermann (Metadata Game Changers) examined the **relationship between affiliation "heterogeneity" and ROR adoption** among DataCite repositories
 -  Richard Wynne (Rescognito) demoed a **researcher recognition platform that uses ROR IDs** to identify organizations
 -  Carolyn Grant (Harvard Center for Astrophysics) previewed work to **link ROR IDs to local department-level identifiers** in the [Astrophysics Data System](https://ui.adsabs.harvard.edu/)
 
