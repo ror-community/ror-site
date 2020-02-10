@@ -1,6 +1,6 @@
 +++
-title = "ROR Community Celebration in Lisbon"
-date = "2020-02-05"
+title = "ROR-ing Together in Portugal: A Community Celebration"
+date = "2020-02-10"
 draft = false
 tags = ["Community", "events",]
 categories = ["updates"]
