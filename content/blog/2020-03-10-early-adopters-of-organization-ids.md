@@ -76,8 +76,7 @@ The numbers in this Table allow us to identify the early adopters of organizatio
 
 In an earlier blog (Habermann, [How Many ROR’s Do We Need?](https://www.tedhabermann.com/blog/2019/11/10/how-many-rors-do-we-need), 2019) I made the somewhat surprising observation that many DataCite repositories contained only a small number of unique affiliations and, therefore, those repositories could uniquely identify all organizations in their metadata with a small number of organizational identifiers. These earlier data are shown in this Figure. It indicates that 108 repositories only need one ROR and that 235 need five or less. This is great news for the adoption of RORs.
 
-{{<figure src="ror-adoption-chart.png"}}
-{{< figure caption="The number of creators/contributor affiliations included in DataCite metadata repositories. The data show that 108 of these repositories only have one affiliation, suggesting that adoption of identifiers in these repositories is straight forward." >"}}
+{{<figure src="ror-adoption-chart.png" caption="The number of creators/contributor affiliations included in DataCite metadata repositories. The data show that 108 of these repositories only have one affiliation, suggesting that adoption of identifiers in these repositories is straightforward.">}}
 
 The early adopters identified above include examples where many metadata records contain a small number of affiliations – low hanging fruit along the path to adoption. Others face much more difficult tasks because of large numbers of affiliations spread across many records. We look forward to learning lessons as all of these groups forge forward.
 
