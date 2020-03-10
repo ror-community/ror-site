@@ -1,6 +1,6 @@
 +++
 title = "ROR Curation"
-draft = false
+draft = true
 date = "2019-11-26"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
