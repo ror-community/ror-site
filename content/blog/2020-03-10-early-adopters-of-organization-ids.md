@@ -48,29 +48,7 @@ Note that both of these queries list only the fifteen repositories with the larg
 
 The results of these queries (as of 2020-02-17), shown in the Table below, indicate that identifiers for creators, in 15+ repositories, are currently more common than identifiers for contributors, in 8 repositories, and that three repositories (bl.imperial, bl.nerc, and tib.wdcc) currently have some identifiers of both types. The counts in this Table are numbers of records with affiliations, not the number of affiliations.
 
-| Repository   |      Creator Record Count      |  Contributor Record Count |
-|----------|:-------------:|------:|
-|dryad.dryad |  20129 |  |
-| bl.imperial |    13400   |   5926 |
-| heallink.tuc | 7848 |     |
-| caltech.library | 4809 |     |
-| odu.viva | 1092 |     |
-| bl.nerc | 956 |   823 |
-| tib.wdcc | 502 |    419 |
-| uky.lib | 311 |     |
-| psnc.uwr | 264 |     |
-| noaa.library | 248 |     |
-| uiowa.prod | 236 |     |
-| bl.iita | 184 |    184 |
-| uutah.usu | 175 |     |
-| cisti.statcan | 152 |    |
-| datacite.blog | 140 |     |
-| bl.cefas | (25) |    27 |
-| inist.cnrs |  |    3 |
-| datacite.datacite | (2) |    2 |
-| zbmed.zfmk | (1) |    1 |
-| tib.hbrs | (35) |    1 |
-| inist.inrap |  |    1 |
+{{figure src="/img/ror-adoption-table.png" >}}
 
 The numbers in this Table allow us to identify the early adopters of organizational identifiers, both DataCite members and repositories. These members of the community are the “guinea pigs” in this effort that are committed enough to the benefits of organizational identifiers in metadata to take action and serve as good examples for the community. All should be recognized as pioneers!
 
@@ -80,4 +58,4 @@ In an earlier blog (Habermann, [How Many ROR’s Do We Need?](https://www.tedhab
 
 The early adopters identified above include examples where many metadata records contain a small number of affiliations – low hanging fruit along the path to adoption. Others face much more difficult tasks because of large numbers of affiliations spread across many records. We look forward to learning lessons as all of these groups forge forward.
 
-*Ted Habermann is a member of the [ROR Community Advisory Group](/supporters). He is currently the founder and CEO of [Metadata Game Changers](https://www.tedhabermann.com/), working with communities to understand and improve how they use metadata to share data and knowledge.*
+*Ted Habermann is a member of the [ROR Community Advisory Group](/supporters). He is currently the founder and CEO of [Metadata Game Changers](https://www.tedhabermann.com/), working with communities to understand and improve how they use metadata to share data and knowledge. This has been re-posted from the [Metadata Game Changers blog](https://www.tedhabermann.com/blog/2020/3/5/early-adopters-of-organizational-identifiers).*
