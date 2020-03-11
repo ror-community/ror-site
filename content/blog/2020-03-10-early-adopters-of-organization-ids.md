@@ -48,7 +48,7 @@ Note that both of these queries list only the fifteen repositories with the larg
 
 The results of these queries (as of 2020-02-17), shown in the Table below, indicate that identifiers for creators, in 15+ repositories, are currently more common than identifiers for contributors, in 8 repositories, and that three repositories (bl.imperial, bl.nerc, and tib.wdcc) currently have some identifiers of both types. The counts in this Table are numbers of records with affiliations, not the number of affiliations.
 
-{{figure src="/img/ror-adoption-table.png" >}}
+{{< figure src="/img/ror-adoption-table.png" >}}
 
 The numbers in this Table allow us to identify the early adopters of organizational identifiers, both DataCite members and repositories. These members of the community are the “guinea pigs” in this effort that are committed enough to the benefits of organizational identifiers in metadata to take action and serve as good examples for the community. All should be recognized as pioneers!
 
@@ -58,4 +58,4 @@ In an earlier blog (Habermann, [How Many ROR’s Do We Need?](https://www.tedhab
 
 The early adopters identified above include examples where many metadata records contain a small number of affiliations – low hanging fruit along the path to adoption. Others face much more difficult tasks because of large numbers of affiliations spread across many records. We look forward to learning lessons as all of these groups forge forward.
 
-*Ted Habermann is a member of the [ROR Community Advisory Group](/supporters). He is currently the founder and CEO of [Metadata Game Changers](https://www.tedhabermann.com/), working with communities to understand and improve how they use metadata to share data and knowledge. This has been re-posted from the [Metadata Game Changers blog](https://www.tedhabermann.com/blog/2020/3/5/early-adopters-of-organizational-identifiers).*
+*Ted Habermann is a member of the [ROR Community Advisory Group](/supporters#ror-community-advisors). He is currently the founder and CEO of [Metadata Game Changers](https://www.tedhabermann.com/), working with communities to understand and improve how they use metadata to share data and knowledge. This has been re-posted from the [Metadata Game Changers blog](https://www.tedhabermann.com/blog/2020/3/5/early-adopters-of-organizational-identifiers).*

@@ -107,7 +107,7 @@ The advisory group includes people from around the world and across different ty
 -   Carolyn Grant, Astrophysics Data System (ADS), Center for Astrophysics
 -   Sarah Greaves, Hindawi    
 -   Christian Gutknecht, Swiss National Science Foundation    
--   Adrian Ho, University of Kentucky Libraries    
+-   Ted Habermann, Metadata Game Changers
 -   Melissa Holden,	Sage    
 -   Elizabeth Hull,	Dryad    
 -   Osmat Jefferson, The Lens    
