@@ -13771,6 +13771,9 @@ img {
     text-decoration: none;
     color: #1F7F67;
 }
+.card a:hover:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link) {
+    text-decoration: underline;
+}
 .card a:hover:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link) span {
     text-decoration: underline;
     color: #da3200;
