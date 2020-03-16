@@ -13769,7 +13769,7 @@ img {
 }
 .card a:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link) {
     text-decoration: none;
-    color: #da3200;
+    color: #53BAA1;
 }
 .card a:hover:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link) span {
     text-decoration: underline;
