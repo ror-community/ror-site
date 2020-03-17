@@ -8665,7 +8665,7 @@ h1, h2, h3, h4, h5, h6 {
 small {
     font-size: 60%}
 a, a:focus, a:hover {
-    color: #da3200;
+    color: #1F7F67;
 }
 .h1, h1 {
     font-size: 3.5em;
@@ -11706,7 +11706,7 @@ img {
 .post a,
 .post a:focus,
 .post a:hover {
-    color: #da3200;
+    color: #1F7F67;
     text-decoration: underline;
 }
 .post a {
@@ -13776,7 +13776,7 @@ img {
 }
 .card a:hover:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link) span {
     text-decoration: underline;
-    color: #da3200;
+    color: #1F7F67;
 }
 .card a:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link):focus, .card a:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link):hover {
     border-bottom: 0;
