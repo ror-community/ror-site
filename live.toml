@@ -4,7 +4,7 @@ baseurl = "https://www.ror.org/"
 style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
-disqusShortname = "ror"
+disqusShortname = "ror-community"
 
 [params]
 date_format = "January 2, 2006"

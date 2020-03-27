@@ -32,7 +32,12 @@ The current steering group representatives are:
 
 The ROR project team involves members of California Digital Library, Crossref, DataCite, and Digital Science. Project team members work on technical implementation, outreach and communications, and product development and management.
 
-The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination involves two main groups:
+The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library. Project coordination is carried out through the following groups:
+
+### Operations and general administration
+-   Matt Buys, DataCite
+-   John Chodacki, California Digital Library
+-   Ed Pentz, Crossref
 
 ### Outreach, communication, and adoption
 

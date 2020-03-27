@@ -18,14 +18,14 @@ ROR is a collaborative effort driven by multiple organizations and individuals. 
 
 All of ROR’s work so far has been completed through in-kind donations from ROR steering organizations. We are committed to ROR for the long-term but we can’t move forward without dedicated community support. We are running a fundraising campaign in order to be able to scale up our operations, hire dedicated staff, and develop and deliver new features, with a plan to launch a paid service tier in 2022 to recover costs while keeping the registry's data open and free.
 
-**ROR aims to raise $175,000 in donations over the next two years.** As a supporter, you’ll have an opportunity to be part of this exciting community effort from the beginning and to ensure its long-term growth and success.
+**ROR aims to raise $175,000 in community contributions over the next two years.** As a supporter, you’ll have an opportunity to be part of this exciting community effort from the beginning and to ensure its long-term growth and success.
 
 **Our first fundraising target is $75,000 by the end of 2019** in order to secure enough funds to hire a technical lead and to organize an in-person ROR Community planning meeting at PIDapalooza in January 2020.
 
 ### Calling all panthera!
 
 **What kind of animal are you?**
-There are four types of big cats in the world that have the ability to ROAR. Our suggested donation amounts are named for these four cats. We welcome and appreciate donations of all shapes and sizes, however!
+There are four types of big cats in the world that have the ability to ROAR. Our suggested supporter categories are named for these four cats. We welcome and appreciate contributions of all shapes and sizes, however!
 
 <table id="donations-table">
 	<tbody>
@@ -42,35 +42,39 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 			<td><em>Panthera leo</em></td>
 		</tr>
 		<tr>
-			<td><p>I am a Leopard and I donated <strong>$1,000</strong></p></td>
-			<td><p>I am a Jaguar and I donated <strong>$3,500</strong></p></td>
-			<td><p>I am a Tiger and I donated <strong>$7,000</strong></p></td>
-			<td><p>I am a Lioness and I donated <strong>$10,000</strong></p></td>
+			<td><p>I am a Leopard and I contributed <strong>$1,000</strong></p></td>
+			<td><p>I am a Jaguar and I contributed <strong>$3,500</strong></p></td>
+			<td><p>I am a Tiger and I contributed <strong>$7,000</strong></p></td>
+			<td><p>I am a Lioness and I contributed <strong>$10,000</strong></p></td>
 		</tr>
 		<tr>
 			<td>
 				<ul>
-					<li>Dryad</li>
+					<li>Cambridge University Press</li>
+					<li>Clarivate Analytics</>
 					<li>Curtin University</li>
-					<li>eLife</li
+					<li>Dryad</li>
+					<li>eLife</li>
+          <li>UC Davis Library</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
 					<li>Altum Inc.</li>
-					<li>German National Library S&T (TIB)</li>
-					<li>CWTS, Leiden University</li>
 					<li>Association of Computing Machinery (ACM)</li>
+					<li>CWTS, Leiden University</li>
+<li>German National Library S&T (TIB)</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
-					<li>Your organization here!</li>
+					<li>American Psychological Association</li>
 				</ul>
 			</td>
 			<td>
 				<ul>
 					<li>American Physical Society</li>
+          <li>Chan Zuckerberg Initiative</li>
 				</ul>
 			</td>
 		</tr>
@@ -80,9 +84,9 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 
 ### How to become a ROR Supporter
 
-Email <donate@ror.org> to indicate your interest in donating.
+Email <donate@ror.org> to make a pledge and request an invoice.
 
-As part of its in-kind contributions to the ROR project, Crossref will process donations on ROR’s behalf. Crossref will report donation details and updates to the ROR Steering Group. The donations will be used exclusively for ROR activities and spending of the funds will be approved by the ROR Steering Group.
+As part of its in-kind contributions to the ROR project, Crossref will process contributions on ROR’s behalf. Crossref will report financial details and updates to the ROR Steering Group. Contributions will be used exclusively for ROR activities and spending of the funds will be approved by the ROR Steering Group.
 
 ---
 
@@ -103,7 +107,7 @@ The advisory group includes people from around the world and across different ty
 -   Carolyn Grant, Astrophysics Data System (ADS), Center for Astrophysics
 -   Sarah Greaves, Hindawi    
 -   Christian Gutknecht, Swiss National Science Foundation    
--   Adrian Ho, University of Kentucky Libraries    
+-   Ted Habermann, Metadata Game Changers
 -   Melissa Holden,	Sage    
 -   Elizabeth Hull,	Dryad    
 -   Osmat Jefferson, The Lens    
@@ -140,7 +144,9 @@ The advisory group includes people from around the world and across different ty
 
 -   Altum, Inc.
 -   Arctic Data Center
+-   Ariadna Ediciones
 -   [Association for Computing Machinery](https://ror.org/03wsadn68) 
+-   BITECA SAS
 -   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
 -   [CERN](https://ror.org/01ggx4157)
 -   CHORUS
@@ -148,21 +154,26 @@ The advisory group includes people from around the world and across different ty
 -   [Crossref](https://ror.org/02twcfp32)
 -   [DataCite e.V.](https://ror.org/04wxnsj81)
 -   DataONE
+-   Data Salon
 -   [Digital Science](https://ror.org/02ktfc112)
 -   [Dryad](https://ror.org/00x6h5n95)
+-   Europe PMC
 -   FREYA project 
 -   Hindawi Limited
 -   [International Union of Crystallography](https://ror.org/00vdend65)
 -   Lens.org
+-   Metadata Game Changers
 -   NASA's ADS Abstract Service
 -   National Center for Ecological Analysis and Synthesis (NCEAS)
 -   National Electronic Information Consortium (NEICON)
+-   Overton.io
 -   PANGAEA
 -   RRID initiative
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
+-   [Universidad Autónoma de Nuevo León](https://ror.org/01fh86n78)
+-   [Universidade Federal do Ceará](https://ror.org/03srtnf24)
 -   [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://ror.org/05591te55)
-
 
 Interested in being a ROR signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
 
