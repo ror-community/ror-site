@@ -20,6 +20,7 @@ $(function () {
   counters()
   demo()
   contactForm()
+  navShow()
 })
 
 // Ajax contact
@@ -139,6 +140,19 @@ function sliders () {
   }
 }
 
+function navShow() { 
+  $('.navbar-toggler').on('click', function () {
+      right = $('.navbar-collapse').css('right');
+      if (right=="300px") {
+        $('.navbar-collapse').css({right: '0'});
+      } else {
+        $('.navbar-collapse').css({right: '300px'});
+      }
+      console.log(right);
+  })
+
+}
+
 /* menu sliding */
 function menuSliding () {
   $('.dropdown').on('show.bs.dropdown', function () {
@@ -242,7 +256,7 @@ function fullScreenContainer () {
 
 function utils () {
   /* tooltips */
-  $('[data-toggle="tooltip"]').tooltip()
+  //$('[data-toggle="tooltip"]').tooltip()
 
   /* click on the box activates the radio */
   $('#checkout').on('click', '.box.shipping-method, .box.payment-method', function () {
