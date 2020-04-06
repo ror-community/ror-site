@@ -21,34 +21,12 @@ The vision for a registry of research organizations with unique IDs and associat
 
 ## Record management and data curation
 
-Organizations change over time, and the management of ROR records will account for this inevitability. The ROR project team, with input from the Community Advisory Group and other stakeholders, is developing processes and policies for handling record management and data curation. These processes and policies will cover record creation, redirection, consolidation, and deprecation. The processes and policies will also take into account the need to maintain persistence of ROR IDs and record metadata, to identify record status (e.g., active or deprecated), and to implement an open provenance model that tracks assertion histories. The project team will also establish communication channels for record changes to be requested, and for organizations to be involved directly in reviewing and approving changes whenever possible. 
+Organizations change over time, and the management of ROR records will account for this inevitability. The ROR project team, with input from the Community Advisory Group and other stakeholders, is developing processes and policies for handling record management and data curation. These processes and policies will cover record creation, redirection, consolidation, and deprecation. The processes and policies will also take into account the need to maintain persistence of ROR IDs and record metadata, to identify record status (e.g., active or deprecated), and to implement an open provenance model that tracks assertion histories. The project team will also establish communication channels for record changes to be requested, and for organizations to be involved directly in reviewing and approving changes when possible. 
 
-## Roadmap
+## Product roadmap
 
-The ROR MVR launched in January 2019 and since then the project team has been developing a long-term plan for the future. The areas of focus on the post-MVR ROR roadmap for 2019 are listed below. We will be sharing a more comprehensive roadmap later this year.
-
-### Product development
-
--   Rewrite the code for both the API and the OpenRefine reconciler - switch from Ruby to Python
--   Update ROR continuously with the latest version of the GRID database (short term) and enable ROR records to be edited independently (longer-term)
--   Make a public data dump available
--   Work with GRID to support adding ROR IDs to GRID
--   Add additional metadata to ROR (city/state, related records, and more)
--   Support ROR IDs in Crossref and DataCite metadata schemas
--   Better support for advanced searches and queries
-
-### Policy development
-
--   Finalize policies for adding, updating, merging, and deprecating records
--   Develop curation workflows
-
-### Outreach and community development
-
--   Form ROR Community Advisory Group
--   Work with Community Advisory Group members to draft policies and discuss adoption and implementation
--   Meet with community partners to discuss pilot implementations
--   Raise awareness about ROR through presentations and discussions at conferences and events
--   Provide materials to community members to talk about ROR at conferences and events
--   Refresh ROR website
--   Publish blog posts and newsletters with updates about ROR
--   Establish and maintain a communication channel for users and community members to contact ROR with requests and questions
+The current product roadmap for ROR is focused on the following workstreams:
+-   Enriching the registry with additional metadata (e.g., relationships between organizations)
+-   Building the technical components and workflows to support independent curation of registry data over time
+-   Growing adoption of ROR IDs in scholarly systems
+-   Supporting ways for humans and machines to interact with the registry

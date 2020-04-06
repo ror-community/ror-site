@@ -12,13 +12,13 @@ style = "card-plain"
 
 ROR started with seed data from Digital Science's [GRID](https://grid.ac) database and began assigning ROR IDs to 91,000+ organizations. ROR updates its records when GRID releases a new database update. Ultimately the two registries will diverge. ROR records map to GRID IDs (along with other identifiers) and vice-versa.
 
-ROR records include basic metadata about an organization (including name, alternate names, and location). Additional metadata will be added in the coming months. ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
+ROR records include basic metadata about an organization (including name, alternate names, and location). Additional metadata will be added in the future. ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
 
 All ROR IDs and metadata are provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0//).
 
-## ROR MVR
+## Core components
 
-The ROR minimal viable registry (MVR) includes the following components:
+ROR's core components consist of the following:
 
 **ROR ID** (Example: <https://ror.org/03yrm5c26>)
 - Expressed as a URL that resolves to the organization's record     
@@ -33,7 +33,7 @@ The ROR minimal viable registry (MVR) includes the following components:
 
 **ROR Github** (<https://github.com/ror-community>)  
 
-**ROR data dump** (<https://doi.org/10.6084/m9.figshare.c.4596503>)
+**ROR data dump** (<https://figshare.com/collections/ROR_Data/4596503>)
 
 ## Affiliation use case
 
@@ -53,14 +53,14 @@ Some aspects of ROR that make it different from other identifiers are that the r
 
 ## Granularity and hierarchy
 
-ROR is focused on being a top-level registry of organizations so we can address the fundamental affiliation use case, and provide a critical source of metadata that can interoperate with other institutional identifiers.
+ROR is focused on being a top-level registry of organizations so we can address the fundamental affiliation use case, and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping university departments and similar sub-units within institutions. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
 
 ## Requesting changes to ROR records
 
-Email [info@ror.org](mailto:info@ror.org) to request an update to an existing record in ROR or request that a new record be added. We are formalizing data management policies and procedures in the next stage of the project.
+Use the [ROR curation request form](/curation) to request an update to an existing record in ROR or request that a new record be added. We are formalizing data management policies and procedures in the next stage of the project.
 
 ## Operations and governance
 
-An MVR (minimum viable registry) ROR launched in January 2019. ROR operations are administered by California Digital Library, Crossref, and DataCite and advised by a larger [steering group](/about/#steering-group). The ROR steering group is responsible for strategic decision-making about governance, sustainability, and overall project direction.
+ROR operations are administered by California Digital Library, Crossref, and DataCite and advised by a larger [steering group](/about/#steering-group). The ROR steering group is responsible for strategic decision-making about governance, sustainability, and overall project direction.
 
-There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector and they are looking at issues like data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.
+There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector who contribute to discussions and planning around issues such as data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.

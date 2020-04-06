@@ -12,9 +12,10 @@ Email <info@ror.org> to:
 
 -   Report a bug
 -   Suggest a new feature
--   Request an update or correction to an existing record
--   Propose that a new record be added
 -   Submit general feedback or request more information
+
+## Suggest changes or additions to ROR
+You can suggest changes or additions to the registry via the [ROR curation request form](/curation).
 
 ## Troubleshooting and support
 
@@ -26,6 +27,6 @@ You can monitor service status and subscribe to status updates at [status.ror.or
 
 ## Get involved
 
-Join the ROR community! There are many ways to be involved to [show your support](/supporters) for ROR. Email [info@ror.org](mailto:info@ror.org) if you would like to join the community advisory group, the list of signatories, or donate some modest funds to the pool for development so we can work toward the sustainability plan. We also have a slack group we can invite you to to participate in discussions.
+Join the ROR community! There are many ways to be involved to [show your support](/supporters) for ROR. Email [info@ror.org](mailto:info@ror.org) if you would like to join the community advisory group, add your name to the list of signatories, or contribute some modest funds toward our sustainability plan. We also have a Slack group you can join to participate in discussions.
 
-There are slide decks and other available if you are attending a conference or event and planning to talk about ROR. Give us a shout and we'll email you what you need.
+There are slide decks and other resources available if you are attending a conference or event and planning to talk about ROR. Give us a shout and we'll set you up with what you need.

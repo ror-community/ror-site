@@ -20,8 +20,6 @@ All of ROR’s work so far has been completed through in-kind donations from ROR
 
 **ROR aims to raise $175,000 in community contributions over the next two years.** As a supporter, you’ll have an opportunity to be part of this exciting community effort from the beginning and to ensure its long-term growth and success.
 
-**Our first fundraising target is $75,000 by the end of 2019** in order to secure enough funds to hire a technical lead and to organize an in-person ROR Community planning meeting at PIDapalooza in January 2020.
-
 ### Calling all panthera!
 
 **What kind of animal are you?**
