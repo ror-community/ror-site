@@ -13047,6 +13047,10 @@ img {
 @media screen and (max-width:991px) {
     #bodyClick, .navbar-collapse: before {
     content: ""}
+
+.navbar-collapse.show {
+    right:300px;
+}
 .navbar-collapse {
     position: fixed;
     display: block;
