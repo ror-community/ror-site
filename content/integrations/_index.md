@@ -8,7 +8,7 @@ style = "card-plain"
 
 See ROR IDs in the wild! A number of systems have integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data. A partial list of current and pending early adopters follows below, with links to more information about their implementations (if available). Contact <info@ror.org> to add other examples to the list.
 
-ROR has open data and infrastructure to facilitate integrations. Check out the ROR Github and public data dump and get in touch if you have questions or need assistance.
+ROR has open data and infrastructure to facilitate integrations. Check out the ROR [Github site](https://github.com/ror-community/) and [public data dumps](https://figshare.com/collections/ROR_Data/4596503 ) and get in touch if you have questions or need assistance.
 
 -   Altum
 
