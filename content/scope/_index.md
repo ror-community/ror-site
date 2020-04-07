@@ -25,8 +25,9 @@ Organizations change over time, and the management of ROR records will account f
 
 ## Product roadmap
 
-The current product roadmap for ROR is focused on the following workstreams: 
--   Enriching the registry with additional metadata (e.g., relationships between organizations)
--   Building the technical components and workflows to support independent curation of registry data over time
--   Growing adoption of ROR IDs in scholarly systems
--   Supporting ways for humans and machines to interact with the registry
+The current product roadmap for ROR is focused on the following workstreams:
+
+-   Enriching the registry with additional metadata (e.g., relationships between organizations)  
+-   Building the technical components and workflows to support independent curation of registry data over time  
+-   Growing adoption of ROR IDs in scholarly systems  
+-   Supporting ways for humans and machines to interact with the registry  
