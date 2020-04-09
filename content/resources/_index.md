@@ -27,7 +27,7 @@ You can monitor service status and subscribe to status updates at [status.ror.or
 
 ## Integrations
 
-Current and pending ROR integrations are being tracked on [this list](/integrations). Contact [info@ror.org](mailto:info@ror.org) to add other examples to the list.
+See the [list of current and pending integrations](/integrations). Contact [info@ror.org](mailto:info@ror.org) to add other examples to the list.
 
 ## Get involved
 
