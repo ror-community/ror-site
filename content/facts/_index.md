@@ -64,3 +64,7 @@ Use the [ROR curation request form](/curation) to request an update to an existi
 ROR operations are administered by California Digital Library, Crossref, and DataCite and advised by a larger [steering group](/about/#steering-group). The ROR steering group is responsible for strategic decision-making about governance, sustainability, and overall project direction.
 
 There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector who contribute to discussions and planning around issues such as data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.
+
+## Integrations
+
+ROR IDs are being implemented in various systems. See the [list of current and pending integrations](/integrations).

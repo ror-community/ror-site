@@ -6,7 +6,7 @@ banner = "/img/banners/ROR_Banner-pink.jpg"
 style = "card-plain"
 +++
 
-ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced across the ROR Community Advisory Group, Signatories, and financial Supporters. Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward.
+ROR is a collaborative effort driven by multiple organizations and individuals. The community-based aspect of ROR sets it apart from similar efforts in this space. Wide adoption and support across the scholarly research community is central to ROR's growth, sustainability, and success. The support is balanced across the ROR Community Advisory Group, Signatories, and financial Supporters. Also take a look at the [steering organizations and project teams](/about) who are driving ROR forward, and the adopters who are [integrating ROR IDs](/integrations) in their systems.
 
 |ROR Community Advisors	|ROR Signatories	|ROR Supporters	|
 |---	|---	|--- |

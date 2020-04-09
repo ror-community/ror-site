@@ -25,6 +25,10 @@ Contact <info@ror.org> if you are experiencing any issues using ROR. You can als
 
 You can monitor service status and subscribe to status updates at [status.ror.org](https://status.ror.org).
 
+## Integrations
+
+Current and pending ROR integrations are being tracked on this list. Contact [info@ror.org](mailto:info@ror.org) to add other examples to the list.
+
 ## Get involved
 
 Join the ROR community! There are many ways to be involved to [show your support](/supporters) for ROR. Email [info@ror.org](mailto:info@ror.org) if you would like to join the community advisory group, add your name to the list of signatories, or contribute some modest funds toward our sustainability plan. We also have a Slack group you can join to participate in discussions.
