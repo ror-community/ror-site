@@ -48,6 +48,7 @@ There are four types of big cats in the world that have the ability to ROAR. Our
 		<tr>
 			<td>
 				<ul>
+					<li>Caltech Library</li>
 					<li>Cambridge University Press</li>
 					<li>Clarivate Analytics</>
 					<li>Curtin University</li>
@@ -106,8 +107,7 @@ The advisory group includes people from around the world and across different ty
 -   Sarah Greaves, Hindawi    
 -   Christian Gutknecht, Swiss National Science Foundation    
 -   Ted Habermann, Metadata Game Changers
--   Melissa Holden,	Sage    
--   Elizabeth Hull,	Dryad    
+-   Melissa Holden,	Sage      
 -   Osmat Jefferson, The Lens    
 -   Nicole Kearny, Museums Victoria    
 -   Jennifer Klein,	Atypon    
@@ -141,9 +141,11 @@ The advisory group includes people from around the world and across different ty
 
 
 -   Altum, Inc.
+-   [Alzahra University](https://ror.org/013cdqc34)
 -   Arctic Data Center
 -   Ariadna Ediciones
 -   [Association for Computing Machinery](https://ror.org/03wsadn68) 
+-   [Bielefeld University](https://ror.org/02hpadn98)
 -   BITECA SAS
 -   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
 -   [CERN](https://ror.org/01ggx4157)
@@ -158,15 +160,19 @@ The advisory group includes people from around the world and across different ty
 -   Europe PMC
 -   FREYA project 
 -   Hindawi Limited
+-   ISCP International Centre for Coaching Psychology Research
 -   [International Union of Crystallography](https://ror.org/00vdend65)
 -   Lens.org
 -   Metadata Game Changers
+-   [Moscow State University](https://ror.org/010pmpe69)
 -   NASA's ADS Abstract Service
--   National Center for Ecological Analysis and Synthesis (NCEAS)
+-   [National Center for Ecological Analysis and Synthesis](https://ror.org/0146z4r19) (NCEAS)
 -   National Electronic Information Consortium (NEICON)
+-   OaMetrix
 -   Overton.io
 -   PANGAEA
 -   RRID initiative
+-   [State Scientific and Technical Library of Ukraine](https://ror.org/019tz0c71)
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
 -   [Universidad Autónoma de Nuevo León](https://ror.org/01fh86n78)
