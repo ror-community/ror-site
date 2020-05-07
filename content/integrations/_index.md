@@ -14,6 +14,8 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 
 -   British Library
 
+-   Caltech Library
+
 -   CERN
 
 -   Cobaltmetrics
