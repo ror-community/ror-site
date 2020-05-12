@@ -159,6 +159,7 @@ The advisory group includes people from around the world and across different ty
 -   [Dryad](https://ror.org/00x6h5n95)
 -   Europe PMC
 -   FREYA project 
+-   Helmholtz Open Science Office
 -   Hindawi Limited
 -   ISCP International Centre for Coaching Psychology Research
 -   [International Union of Crystallography](https://ror.org/00vdend65)
@@ -172,6 +173,7 @@ The advisory group includes people from around the world and across different ty
 -   Overton.io
 -   PANGAEA
 -   RRID initiative
+-   [Saarland University and State Library](https://ror.org/01jdpyv68)
 -   [State Scientific and Technical Library of Ukraine](https://ror.org/019tz0c71)
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
