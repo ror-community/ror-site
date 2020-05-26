@@ -17,6 +17,11 @@ Email <info@ror.org> to:
 ## Suggest changes or additions to ROR
 You can suggest changes or additions to the registry via the [ROR curation request form](/curation).
 
+## Terms of use
+All ROR IDs and metadata are provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0//).
+
+Content on the ROR website is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
+
 ## Troubleshooting and support
 
 Contact <info@ror.org> if you are experiencing any issues using ROR. You can also report issues on the ROR [Github](https://www.github.com/ror-community).
