@@ -18,7 +18,7 @@ Email <info@ror.org> to:
 You can suggest changes or additions to the registry via the [ROR curation request form](/curation).
 
 ## Terms of use
-ROR IDs and metadata can be accessed via [ROR Search](https://ror.org/search) and the [ROR API](https://api.ror.org/organizations). The [ROR data files](https://doi.org/10.6084/m9.figshare.c.4596503) are also publicly available for download.
+ROR IDs and metadata can be freely accessed via [ROR Search](https://ror.org/search) and the [ROR API](https://api.ror.org/organizations). The [ROR data files](https://doi.org/10.6084/m9.figshare.c.4596503) are also publicly available for download.
 
 All ROR IDs and metadata are provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0//). There are no restrictions on access to and use of ROR IDs and metadata.
 
