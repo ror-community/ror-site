@@ -127,7 +127,7 @@ The advisory group includes people from around the world and across different ty
 -   Bailey McAllister, EBSCO  
 -   Siobhann McCafferty, Australian Research Data Commons    
 -   James McKee, Altum    
--   Katherine McNeill, Harvard Business School
+-   Katherine McNeill, Harvard University
 -   Hector Melgar Sasieta, CONCYTEC
 -   Tom Morrell, Caltech Library
 -   Daniel Noesgaard,	Global Biodiversity Information Facility
@@ -169,6 +169,7 @@ The advisory group includes people from around the world and across different ty
 -   [Association for Computing Machinery](https://ror.org/03wsadn68) 
 -   [Bielefeld University](https://ror.org/02hpadn98)
 -   BITECA SAS
+-   [Brazilian Institute of Information in Science and Technology](https://ror.org/006c42y96) (IBICT)
 -   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
 -   [CERN](https://ror.org/01ggx4157)
 -   CHORUS
@@ -195,12 +196,14 @@ The advisory group includes people from around the world and across different ty
 -   Overton.io
 -   PANGAEA
 -   RRID initiative
+-   [RS Global Sp. z O.O.](https://ror.org/00m73vh91)
 -   [Saarland University and State Library](https://ror.org/01jdpyv68)
 -   [State Scientific and Technical Library of Ukraine](https://ror.org/019tz0c71)
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
 -   [Universidad Autónoma de Nuevo León](https://ror.org/01fh86n78)
 -   [Universidade Federal do Ceará](https://ror.org/03srtnf24)
+-   [Universität Konstanz](https://ror.org/0546hnb39)
 -   [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://ror.org/05591te55)
 
 Interested in being a ROR signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
