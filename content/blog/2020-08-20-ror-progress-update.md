@@ -51,9 +51,9 @@ ROR has also convened an adoption working group for publishers and publishing sy
 ROR outreach and events are continuing this year and we appreciate the ability to stay connected virtually.
 
 Catch the recordings of some recent conferences where ROR presented:
--  [VIVO Conference 2020](https://doi.org/10.5446/48011)
--  [Coalition for Networked Information (CNI) Spring 2020 meeting](https://youtu.be/eQlG7BQfAGs)
--  [UKSG Annual Conference](https://bit.ly/3cTES97) (note: registration required) 
+-   [VIVO Conference 2020](https://doi.org/10.5446/48011)
+-   [Coalition for Networked Information (CNI) Spring 2020 meeting](https://youtu.be/eQlG7BQfAGs)
+-   [UKSG Annual Conference](https://bit.ly/3cTES97) (note: registration required) 
 
 We started holding an "Introduction to ROR" webinar for those interested in getting a basic overview of the project. The inaugural webinar was held in April (watch the recording [here](https://youtu.be/W61JMsC3Dho)) and the next one will take place in October (date to be confirmed soon).
 
