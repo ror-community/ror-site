@@ -22,14 +22,14 @@ Comprising the Operations Team plus an additional 4 members external to the gove
 
 The current steering group representatives are:
 
--   **Matt Buys**, [DataCite](https://ror.org/04wxnsj81)
--   **John Chodacki**, [California Digital Library](https://ror.org/03yrm5c26)
--   **Daniel Hook**, [Digital Science](https://ror.org/02ktfc112)
--   **Clifford Lynch**, [Coalition for Networked Information](https://ror.org/043fjtb89)
--   **Ritsuko Nakajima**, [Japan Science and Technology Agency](https://ror.org/00097mb19)
--   **Ed Pentz**, [Crossref](https://ror.org/02twcfp32)
--   **Judy Ruttenberg**, [Association of Research Libraries](https://ror.org/053mpbz30)
--   **Ina Smith**, [Academy of Science of South Africa](https://ror.org/02qsf1r97)
+-  **Matt Buys**, [DataCite](https://ror.org/04wxnsj81)
+-  **John Chodacki**, [California Digital Library](https://ror.org/03yrm5c26)
+-  **Daniel Hook**, [Digital Science](https://ror.org/02ktfc112)
+-  **Clifford Lynch**, [Coalition for Networked Information](https://ror.org/043fjtb89)
+-  **Ritsuko Nakajima**, [Japan Science and Technology Agency](https://ror.org/00097mb19)
+-  **Ed Pentz**, [Crossref](https://ror.org/02twcfp32)
+-  **Judy Ruttenberg**, [Association of Research Libraries](https://ror.org/053mpbz30)
+-  **Ina Smith**, [Academy of Science of South Africa](https://ror.org/02qsf1r97)
 
 ### Project Team
 Comprising representatives from each governing organization, this group is led by the ROR Project Lead and includes sub-groups focused on product development, outreach, and adoption. 
@@ -45,11 +45,11 @@ ROR is designed to be a free service with optional fee-based services to be prov
 
 During its startup years (2019--2022) ROR relies on a mixed funding model and phased resourcing approach. Funding during this period comes from:
 
--   **In-kind support** from the ROR governing organizations
+-  **In-kind support** from the ROR governing organizations
 
--   **Donations and contributions** from community stakeholder organizations
+-  **Donations and contributions** from community stakeholder organizations
 
--   **Grants** (Institute for Museum and Library Services and the National Science Foundation).
+-  **Grants** (Institute for Museum and Library Services and the National Science Foundation).
 
 ROR plans to launch an optional paid service in 2022 with enhanced features for certain users and user groups. The optional paid service will be designed and developed with community input.
 
