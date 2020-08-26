@@ -18,15 +18,15 @@ ROR is run by a small group of steering organizations in collaboration with a br
 
 ROR's sustainability strategy has been developed according to and motivated by the following goals and principles.
 
--   **Focus on providing free and open data**: ROR data is CC0. It can never be owned by anyone, and future paid services won't impact access to the core data.
+-  **Focus on providing free and open data**: ROR data is CC0. It can never be owned by anyone, and future paid services won't impact access to the core data.
 
--   **Keep the scope manageable**: ROR is focused exclusively on providing core high-quality open data and infrastructure that is specific to the affiliation use case, can be easily implemented and integrated, and can be leveraged and built upon by external services and projects.
+-  **Keep the scope manageable**: ROR is focused exclusively on providing core high-quality open data and infrastructure that is specific to the affiliation use case, can be easily implemented and integrated, and can be leveraged and built upon by external services and projects.
 
--   **Cultivate early and sustained community engagement and governance**: Community is key to ROR's success and longevity. Since Day 1, ROR has been focused on establishing a core base of community users invested in ROR's long-term success, driving adoption across the research landscape, and ensuring that ROR is attentive and adaptable to community needs.
+-  **Cultivate early and sustained community engagement and governance**: Community is key to ROR's success and longevity. Since Day 1, ROR has been focused on establishing a core base of community users invested in ROR's long-term success, driving adoption across the research landscape, and ensuring that ROR is attentive and adaptable to community needs.
 
--   **Maintain low overhead**: ROR does not need to be its own organization, but can succeed as a joint collaboration by steering organizations and wider community. In this way, costs and other overhead can be contained. 
+-  **Maintain low overhead**: ROR does not need to be its own organization, but can succeed as a joint collaboration by steering organizations and wider community. In this way, costs and other overhead can be contained. 
 
--   **Diversify resourcing streams**: ROR is not reliant on a single source of funding but rather strategically resourced through a combination of in-kind funds from steering organizations, grant funding, community contributions, and (in future) optional add-on service fees.
+-  **Diversify resourcing streams**: ROR is not reliant on a single source of funding but rather strategically resourced through a combination of in-kind funds from steering organizations, grant funding, community contributions, and (in future) optional add-on service fees.
 
 ## History
 ROR is the culmination of several years of extensive community collaboration to develop a shared vision for a registry of organization identifiers.
