@@ -8,7 +8,7 @@ style = "card-plain"
 
 ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world.
 
-The scholarly community depends on a network of open identifier and metadata infrastructure. Content identifiers and contributor identifiers are foundational components of this network. But an additional component has been missing---until now, there has been no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata. With the aim of filling this gap, ROR launched in January 2019.
+The scholarly community depends on a network of open identifier and metadata infrastructure. Content identifiers and contributor identifiers are foundational components of this network. But an additional component has been missing---until now, there has been no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata. With the aim of filling this gap, ROR [launched in January 2019](/2019-02-10-announcing-first-ror-prototype).
 
 ROR is intended for use by the research community, for the purposes of increasing the use of organization identifiers in the community and enabling connections between organization records in various systems. Implementation of ROR IDs in scholarly infrastructure and metadata will enable more efficient discovery and tracking of research outputs across institutions and funding bodies. Read more about the [ROR scope and roadmap](/scope).
 
