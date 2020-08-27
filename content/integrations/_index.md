@@ -22,7 +22,9 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 
 -   [Crossref metadata schema](https://www.crossref.org/blog/youve-had-your-say-now-what-next-steps-for-schema-changes/)
 
--   DataCite [metadata schema](https://blog.datacite.org/identify-your-affiliation-with-metadata-schema-4-3/) and [search](https://blog.datacite.org/affiliation-facet-new-in-datacite-search/)
+-   DataCite [metadata schema](https://blog.datacite.org/identify-your-affiliation-with-metadata-schema-4-3/), [search](https://blog.datacite.org/affiliation-facet-new-in-datacite-search/), and [DataCite Commons](https://commons.datacite.org)
+
+-   DataSalon [MasterVision](https://www.datasalon.com/web/features/dashboards.htm) and [PaperStack](https://www.datasalon.com/web/features/paperstack.htm)
 
 -   [DMPTool](https://github.com/DMPRoadmap/roadmap/issues/2339)
 
@@ -38,6 +40,8 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 
 -   NARCIS
 
+-   Ocean Networks Canada
+
 -   [ORCID](https://orcid.org/blog/2020/03/24/what-orcid-and-ror)
 
 -   PANGAEA
@@ -49,5 +53,7 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 -   Scholarcy
 
 -   SPARC Portal
+
+-   [Unsub](https://intercom.help/get-unsub/en/articles/4205412-what-s-ror)
 
 -   [Wikidata](https://www.wikidata.org/wiki/Property:P6782)
