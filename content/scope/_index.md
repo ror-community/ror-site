@@ -6,6 +6,8 @@ banner = "/img/banners/ROR_Banner-purple.jpg"
 style = "about"
 +++
 
+## Criteria for inclusion in ROR
+
 The scope of ROR is the "affiliation use case" -  proper description of relationships between contributors, contributions, research sponsors, publishers, and employers. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, educator, funder, or scholarly society. We define "research organization" as any organization that conducts, produces, manages, or touches research. 
 
 ## Product overview

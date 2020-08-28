@@ -1,12 +1,12 @@
 +++
 title = "Test page"
-draft = false
+draft = true
 date = "2017-08-15"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
 +++
 ## Multi column layouts
-Refer to [the Crossref site's _editors info](https://testweb.crossref.org/_editors/shortcodes-reference/#custom-shortcodes) for instructions on how to implement. 
+Refer to [the Crossref site's _editors info](https://testweb.crossref.org/_editors/shortcodes-reference/#custom-shortcodes) for instructions on how to implement.
 
 ## 2 column layout
 
@@ -36,7 +36,7 @@ Lorem Ipsum is the single greatest threat. We are not - we are not keeping up wi
 {{% /column-thirds %}}
 {{% /row %}}
 
-## 4 column layout 
+## 4 column layout
 
 {{% row %}}
 {{% column-quarters %}}
