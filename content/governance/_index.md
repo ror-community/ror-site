@@ -46,9 +46,7 @@ ROR is designed to be a free service with optional fee-based services to be prov
 During its startup years (2019--2022) ROR relies on a mixed funding model and phased resourcing approach. Funding during this period comes from:
 
 -  **In-kind support** from the ROR governing organizations
-
 -  **Donations and contributions** from community stakeholder organizations
-
 -  **Grants** (Institute for Museum and Library Services and the National Science Foundation).
 
 ROR plans to launch an optional paid service in 2022 with enhanced features for certain users and user groups. The optional paid service will be designed and developed with community input.

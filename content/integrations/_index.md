@@ -50,6 +50,8 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 
 -   Rescognito
 
+-   Rockefeller University Press
+
 -   Scholarcy
 
 -   SPARC Portal
