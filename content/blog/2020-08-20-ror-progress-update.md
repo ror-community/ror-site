@@ -16,11 +16,11 @@ Thanks to your support, engagement, and hard work, ROR has been making great pro
 
 ## Sustainability
 Sustainability planning is a key activity for ROR this year as the project matures. ROR's sustainability strategy has been developed according to and motivated by the following goals and principles.
--   **Focus on providing free and open data**: ROR data is CC0. It can never be owned by anyone, and future paid services won't impact access to the core data.
--   **Keep the scope manageable**: ROR is focused exclusively on providing core high-quality open data and infrastructure that is specific to the affiliation use case, can be easily implemented and integrated, and can be leveraged and built upon by external services and projects.
--   **Cultivate early and sustained community engagement and governance**: Community is key to ROR's success and longevity. Since Day 1, ROR has been focused on establishing a core base of community users invested in ROR's long-term success, driving adoption across the research landscape, and ensuring that ROR is attentive and adaptable to community needs.
--   **Maintain low overhead**: ROR does not need to be its own organization, but can succeed as a joint collaboration by steering organizations and wider community. In this way, costs and other overhead can be contained.
--   **Diversify resourcing streams**: ROR is not reliant on a single source of funding but rather strategically resourced through a combination of in-kind funds from steering organizations, grant funding, community contributions, and (in future) optional add-on service fees.
+-  **Focus on providing free and open data**: ROR data is CC0. It can never be owned by anyone, and future paid services won't impact access to the core data.
+-  **Keep the scope manageable**: ROR is focused exclusively on providing core high-quality open data and infrastructure that is specific to the affiliation use case, can be easily implemented and integrated, and can be leveraged and built upon by external services and projects.
+-  **Cultivate early and sustained community engagement and governance**: Community is key to ROR's success and longevity. Since Day 1, ROR has been focused on establishing a core base of community users invested in ROR's long-term success, driving adoption across the research landscape, and ensuring that ROR is attentive and adaptable to community needs.
+-  **Maintain low overhead**: ROR does not need to be its own organization, but can succeed as a joint collaboration by steering organizations and wider community. In this way, costs and other overhead can be contained.
+-  **Diversify resourcing streams**: ROR is not reliant on a single source of funding but rather strategically resourced through a combination of in-kind funds from steering organizations, grant funding, community contributions, and (in future) optional add-on service fees.
 
 ## Fundraising
 Last October, ROR kicked off a [fundraising campaign](https://ror.org/blog/2019-10-16-help-sustain-ror/) to shore up resourcing for crucial development work and adoption efforts through a combination of grant funding and community investments, supplementing in-kind contributions from ROR's partner organizations. A number of you stepped up and pitched in to pledge support, providing an early and crucial boost to the campaign.
@@ -33,11 +33,11 @@ It is tremendously meaningful for ROR to have this support to count on from comm
 
 ## Development
 ROR development work is continuing to set up the registry's infrastructure to support independent management and curation of registry data. This is the top development priority for 2020. There are some key aspects to this effort:
--   Create a **ROR schema**
--   Add **additional metadata fields** to ROR (based on the original GRID seed file)
--   Identify **records by status** (e.g., active or inactive) and support redirects and tombstone pages for merged and deprecated records
--   Build an **input mechanism for users to submit requests** to make changes to the registry
--   Build a mechanism to **make changes directly in ROR**
+-  Create a **ROR schema**
+-  Add **additional metadata fields** to ROR (based on the original GRID seed file)
+-  Identify **records by status** (e.g., active or inactive) and support redirects and tombstone pages for merged and deprecated records
+-  Build an **input mechanism for users to submit requests** to make changes to the registry
+-  Build a mechanism to **make changes directly in ROR**
 
 As part of this development work, ROR is also building out workflows and policies to support long-term curation of the registry. We have been piloting these workflows with a small group of community group members and will be expanding this community-based curation model later this year.
 
@@ -51,9 +51,9 @@ ROR has also convened an adoption working group for publishers and publishing sy
 ROR outreach and events are continuing this year and we appreciate the ability to stay connected virtually.
 
 Catch the recordings of some recent conferences where ROR presented:
--   [VIVO Conference 2020](https://doi.org/10.5446/48011)
--   [Coalition for Networked Information (CNI) Spring 2020 meeting](https://youtu.be/eQlG7BQfAGs)
--   [UKSG Annual Conference](https://bit.ly/3cTES97) (note: registration required) 
+-  [VIVO Conference 2020](https://doi.org/10.5446/48011)
+-  [Coalition for Networked Information (CNI) Spring 2020 meeting](https://youtu.be/eQlG7BQfAGs)
+-  [UKSG Annual Conference](https://bit.ly/3cTES97) (note: registration required) 
 
 We started holding an "Introduction to ROR" webinar for those interested in getting a basic overview of the project. The inaugural webinar was held in April (watch the recording [here](https://youtu.be/W61JMsC3Dho)) and the next one will take place in October (date to be confirmed soon).
 
