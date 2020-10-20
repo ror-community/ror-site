@@ -18,7 +18,7 @@ Email <info@ror.org> to:
 You can suggest changes or additions to the registry via the [ROR curation request form](/curation).
 
 ## Technical guidance
-ROR documentation is available on [Github](https://www.github.com/ror-community). We have some video guidance available on the [ROR YouTube channel[(https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg)].
+ROR documentation is available on [Github](https://www.github.com/ror-community). We have some video guidance available on the [ROR YouTube channel](https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg).
 
 See the [list of current and pending integrations](/integrations) to get an idea of how ROR is being implemented in research infrastructure. Contact [info@ror.org](mailto:info@ror.org) to add other examples to the list or if you have questions about approaching an integration.
 
@@ -29,7 +29,7 @@ Contact <info@ror.org> if you are experiencing any technical issues using ROR. Y
 You can monitor service status and subscribe to status updates at [status.ror.org](https://status.ror.org).
 
 ## Presentations and other resources
-You can view recordings of ROR presentations on the [ROR YouTube channel[(https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg)].
+You can view recordings of ROR presentations on the [ROR YouTube channel](https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg).
 
 There are slide decks and other resources available if you are attending a conference or event and planning to talk about ROR. Give us a shout and we'll set you up with what you need.
 
