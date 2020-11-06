@@ -163,22 +163,26 @@ The advisory group includes people from around the world and across different ty
 > We support the ROR identifier and its future and we pledge to adopt and use ROR in our applications, tools, workflows, and communications."
 
 
+-   asencis Ltd
+-   AfricArXiv
 -   Altum, Inc.
 -   [Alzahra University](https://ror.org/013cdqc34)
--   Arctic Data Center
+-   [Arctic Data Center](https://ror.org/055hrh286)
 -   Ariadna Ediciones
 -   [Association for Computing Machinery](https://ror.org/03wsadn68) 
 -   [Bielefeld University](https://ror.org/02hpadn98)
 -   BITECA SAS
 -   [Brazilian Institute of Information in Science and Technology](https://ror.org/006c42y96) (IBICT)
 -   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
+-   [Centre for East European and International Studies](https://ror.org/00a0w0523)
 -   [CERN](https://ror.org/01ggx4157)
 -   CHORUS
 -   [Coalition for Networked Information](https://ror.org/043fjtb89) (CNI)
 -   [Crossref](https://ror.org/02twcfp32)
 -   [DataCite e.V.](https://ror.org/04wxnsj81)
--   DataONE
+-   [DataONE](https://ror.org/00hr5y405)
 -   Data Salon
+-   Derwen, Inc.
 -   [Digital Science](https://ror.org/02ktfc112)
 -   [Dryad](https://ror.org/00x6h5n95)
 -   Europe PMC
@@ -188,24 +192,30 @@ The advisory group includes people from around the world and across different ty
 -   ISCP International Centre for Coaching Psychology Research
 -   [International Union of Crystallography](https://ror.org/00vdend65)
 -   Lens.org
+-   Litinfinite Journal
 -   Metadata Game Changers
 -   [Moscow State University](https://ror.org/010pmpe69)
 -   NASA's ADS Abstract Service
 -   [National Center for Ecological Analysis and Synthesis](https://ror.org/0146z4r19) (NCEAS)
--   National Electronic Information Consortium (NEICON)
+-   [National Electronic Information Consortium](https://ror.org/0012p6j68) (NEICON)
 -   OaMetrix
+-   [Our Research](https://ror.org/02nr0ka47)
 -   Overton.io
 -   PANGAEA
+-   Poltekkes Kemenkes Kendari
 -   RRID initiative
 -   [RS Global Sp. z O.O.](https://ror.org/00m73vh91)
 -   [Saarland University and State Library](https://ror.org/01jdpyv68)
 -   [State Scientific and Technical Library of Ukraine](https://ror.org/019tz0c71)
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
+-   [Thunken](https://ror.org/00pdj0786)
 -   [Universidad Autónoma de Nuevo León](https://ror.org/01fh86n78)
 -   [Universidade Federal do Ceará](https://ror.org/03srtnf24)
 -   [Universität Konstanz](https://ror.org/0546hnb39)
 -   [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://ror.org/05591te55)
+-   [World Vegetable Center](https://ror.org/05dvmy761)
+-   Yazilim Parki Bilisim Teknolojileri
 
 Interested in being a ROR signatory? [Take the pledge here!](https://tinyurl.com/ror-supporters)
 
