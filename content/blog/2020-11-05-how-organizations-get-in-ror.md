@@ -1,7 +1,7 @@
 +++
 title = "What Does it Mean to Be in ROR?"
 date = "2020-11-05"
-draft = false
+draft = true
 tags = ["Community", "implementation", "sustainability"]
 categories = ["updates"]
 style = "card-plain"
