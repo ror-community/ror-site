@@ -26,25 +26,27 @@ This blog post highlights three key aspects of ROR's community focus:
 
 - ROR is a collaborative, global, multi-stakeholder effort
 - There are a number of ways to get involved in ROR
-- It is important to have mechanisms for "taking the temperature" of the ROR community. So we are collecting data and input in the first-ever ROR Community Survey, which we hope to run on a regular basis going forward.
+- It is important to have mechanisms for "taking the temperature" of the ROR community. So we are collecting data and input in the first-ever [ROR Community Survey]((https://tinyurl.com/ror-survey-2020)), which we hope to run on a regular basis going forward.
 
 ## Who runs ROR?
 
 CDL, Crossref, and DataCite are the operational team leading ROR. They are the [governing organizations](https://ror.org/governance/) that share the overall responsibility for coordinating ROR activities and making decisions that support the growth and sustainability of ROR. These three organizations also contribute in-kind resources in the form of dedicated and ad hoc personnel for the ROR project team, which works on product development, outreach, and adoption, as well as infrastructural resources such as server hosting.
 
-The [ROR Steering Group](https://ror.org/governance/#steering-group) consists of four additional members external to the governing organizations. This group provides input on decisions and overall strategy, and support for ROR's growth and sustainability through outreach to funders, potential adopters, and other stakeholders in their respective networks.
+The [ROR Steering Group](https://ror.org/governance/#steering-group) consists of five additional members external to the governing organizations. This group provides input on decisions and overall strategy, and support for ROR's growth and sustainability through outreach to funders, potential adopters, and other stakeholders in their respective networks.
 
 ## Who is the ROR Community?
 
-The ROR Community Advisory Group is composed of individuals from around the world representing a range of organization types.
+The ROR Community Advisory Group is a voluntary group of about fifty users and stakeholders interested in adopting and championing ROR in their work and networks. Members participate in regular meetings to discuss project updates and provide feedback.
 
-{{< figure src="/img/ror-community-map.png" >}}
+Group members are located around the world, reinforcing ROR's global reach.
 
-This is a voluntary group of users and stakeholders interested in adopting and championing ROR in their work and networks and who participate in regular meetings to discuss project updates and provide feedback.
+{{< figure src="/img/ror-community-map.png" title="Geographic distribution of ROR Community Advisory Group members" width=75% >}}
 
-{{< figure src="/img/ror-community-orgtypes.png" >}}
+Group members also represent a range of organizations, reinforcing the broad application of uses for ROR.
 
-ROR is also coordinating smaller working groups in specific domains, one focused on publisher adoption and the other focused on curation. Some members of these groups also participate in the activities of the broader community advisory group.
+{{< figure src="/img/ror-community-orgtypes.png" "ROR Community Advisory Group members by organization type" width=75% >}}
+
+ROR also coordinates coordinating smaller working groups in specific domains, one focused on publisher adoption and the other focused on curation. Some members of these groups also participate in the activities of the broader community advisory group.
 
 [ROR Supporters](https://ror.org/supporters/) are community members who have invested financially in ROR and/or signed on to a [public statement of support for ROR](https://ror.org/supporters/#ror-signatories).
 
