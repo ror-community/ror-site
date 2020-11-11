@@ -26,7 +26,7 @@ This blog post highlights three key aspects of ROR's community focus:
 
 - ROR is a collaborative, global, multi-stakeholder effort
 - There are a number of ways to get involved in ROR
-- It is important to have mechanisms for "taking the temperature" of the ROR community. So we are collecting data and input in the first-ever [ROR Community Survey]((https://tinyurl.com/ror-survey-2020)), which we hope to run on a regular basis going forward.
+- It is important to have mechanisms for "taking the temperature" of the ROR community. So we are collecting data and input in the first-ever [ROR Community Survey]((https://tinyurl.com/ror-survey-2020), which we hope to run on a regular basis going forward.
 
 ## Who runs ROR?
 
