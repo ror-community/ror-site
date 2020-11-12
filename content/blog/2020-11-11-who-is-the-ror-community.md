@@ -1,12 +1,12 @@
 +++
 title = "What (and Who) Is the ROR Community?"
-date = "2020-11-05"
+date = "2020-11-11"
 draft = false
 tags = ["Community"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-profile-sq.jpg"
+thumb = "/img/lions-in-lisbon-sq.jpg"
 author = "Maria Gould"
 +++
 
@@ -24,9 +24,9 @@ Especially as ROR is still relatively new, keeping things relatively lightweight
 
 This blog post highlights three key aspects of ROR's community focus:
 
-- ROR is a collaborative, global, multi-stakeholder community
-- There are a number of ways to get involved in ROR
-- It is important to have mechanisms for "taking the temperature" of the ROR community. So we are collecting data and input in the first-ever [ROR Community Survey](https://tinyurl.com/ror-survey-2020), which we hope to run on a regular basis going forward.
+- ROR is a **collaborative, global, multi-stakeholder** community
+- There are a **number of ways to get involved** in ROR
+- It is important to have mechanisms for "taking the temperature" of the ROR community. So we are collecting data and input in the **first-ever [ROR Community Survey](https://tinyurl.com/ror-survey-2020)**, which we hope to run on a regular basis going forward.
 
 ## Who runs ROR?
 
