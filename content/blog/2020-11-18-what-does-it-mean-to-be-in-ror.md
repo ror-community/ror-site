@@ -1,12 +1,12 @@
 +++
 title = "What Does it Mean to Be in ROR?"
-date = "2020-11-05"
-draft = true
-tags = ["Community", "implementation", "sustainability"]
+date = "2020-11-16"
+draft = false
+tags = ["Community", "Data", "Curation"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-profile-sq.jpg"
+thumb = "/img/lion-reflection-sq.jpg"
 author = "Maria Gould"
 +++
 
@@ -30,30 +30,24 @@ This situation is going to change in the future. Read on for more details!
 
 The work of maintaining ROR over time, which we refer to as curation, involves infrastructure and workflows to support:
 
--   Receiving, reviewing, and approving requests to add, update, merge, and deprecate records
-
--   Consistent and transparent policies around how records are added and maintained
-
--   A ROR metadata schema that is appropriate for ROR's global stakeholders
-
--   Tracking the history of registry changes over time
-
--   A regular schedule of public releases
+- Receiving, reviewing, and approving requests to add, update, merge, and deprecate records
+- Consistent and transparent policies around how records are added and maintained
+- A ROR metadata schema that is appropriate for ROR's global stakeholders
+- Tracking the history of registry changes over time
+- A regular schedule of public releases
 
 As mentioned above, ROR has already been doing some of this curation work, in coordination with GRID. The plan has always been for ROR to do all of this curation independently and that is what ROR is working toward now. ROR will continue to include GRID IDs in its metadata, and GRID will continue to map to ROR; there may be some inevitable points of divergence between the registries as ROR focuses on curating the registry with extensive community input (more on this below) and GRID focuses on providing metadata for Digital Science's product portfolio.
 
 ## A vision for community-based curation
 
-ROR is a collaborative effort supported and adopted by stakeholders around the globe. [Community participation shaped the early vision for ROR](https://ror.org/about#history) and continues to drive the project today and distinguish it from similar initiatives.
+ROR is a collaborative effort supported and adopted by stakeholders around the globe. [Community participation shaped the early vision for ROR](https://ror.org/about#history) and [continues to drive the project today](https://ror.org/blog/2020-11-11-who-is-the-ror-community) and distinguish it from similar initiatives.
 
 From the very beginning, community involvement in the curation of ROR has been central to this vision. ROR's users and stakeholders have wide-ranging experiences working with persistent identifiers and scholarly infrastructure, whether in the context of libraries, research administration, platforms and repositories, and beyond, and it is important that they be involved in decisions about how the registry is maintained.
 
 As part of a [funded project with IMLS](https://www.imls.gov/grants/awarded/lg-246305-ols-20), ROR will establish a curation advisory board comprising community members with the expertise and the ethos to help develop policies and processes to ensure the integrity and longevity of registry data. This approach will allow ROR to: 
 
--   Provide open channels for any community members interested in suggesting additions and updates
+- Provide open channels for any community members interested in suggesting additions and updates
+- Centralize and scale curation processes through a trusted board of advisors
+- Make curation decisions that are appropriate for ROR's global stakeholders and also applied consistently and transparently across the dataset
 
--   Centralize and scale curation processes through a trusted board of advisors
-
--   Make curation decisions that are appropriate for ROR's global stakeholders and also applied consistently and transparently across the dataset
-
-This model will evolve over time as ROR grows and is more widely adopted. We are focused on reaching key milestones while continuing to make adjustments as we go along.  In forthcoming updates, we will share more about ROR's plans with curation. Please get in touch with ROR if you have any questions or suggestions at this time.
+This model will evolve over time as ROR grows and is more widely adopted. We are focused on reaching key milestones while continuing to make adjustments as we go along.  In forthcoming updates, we will share more about ROR's plans with curation. Please [get in touch with ROR](mailto:info@ror.org) if you have any questions or suggestions at this time.
