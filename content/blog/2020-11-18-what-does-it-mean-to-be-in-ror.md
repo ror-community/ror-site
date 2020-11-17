@@ -16,7 +16,7 @@ Some of the most frequent questions ROR receives are about what it means when an
 
 ROR is a registry of identifiers and metadata about research organizations---that is, organizations that are involved in research in some way. This can mean producing, facilitating, disseminating, funding, employing, and educating research(ers). The purpose of a ROR identifier is to be able to uniquely and unambiguously identify the organizations affiliated with research. These identifiers can be used in scholarly infrastructure to more efficiently discover and track research.
 
-If an organization has a ROR ID, it means that it has been designated as a research organization and that the organization has been or will be linked to research outputs and activities. Inclusion in ROR does not imply anything about an organization's reputation or ranking or the quality of the research it is associated with, but it does indicate that the organization is involved in research.
+If an organization has a ROR ID, it means that it has been designated as a research organization and that the organization has been or will be linked to research outputs and activities. Inclusion in ROR does not imply anything about an organization's reputation or ranking or the quality of the research it is associated with. Inclusion in ROR does indicate that the organization is involved in research and that its ROR ID is or will be used to identify the organization in research infrastructure and metadata.
 
 ## How are organizations added to ROR? 
 
@@ -36,18 +36,18 @@ The work of maintaining ROR over time, which we refer to as curation, involves i
 - Tracking the history of registry changes over time
 - A regular schedule of public releases
 
-As mentioned above, ROR has already been doing some of this curation work, in coordination with GRID. The plan has always been for ROR to do all of this curation independently and that is what ROR is working toward now. ROR will continue to include GRID IDs in its metadata, and GRID will continue to map to ROR; there may be some inevitable points of divergence between the registries as ROR focuses on curating the registry with extensive community input (more on this below) and GRID focuses on providing metadata for Digital Science's product portfolio.
+As mentioned above, ROR has already been doing some of this curation work, in coordination with GRID. The plan has always been for ROR to do all of its curation independently. This is what ROR is working toward now. ROR will continue to include GRID IDs in its metadata, and we expect that GRID will continue to map to ROR. There may be some inevitable points of divergence between the registries given that ROR is being designed as a community-based project (more on this below), while GRID is primarily designed to provide metadata for Digital Science's product portfolio.
 
 ## A vision for community-based curation
 
 ROR is a collaborative effort supported and adopted by stakeholders around the globe. [Community participation shaped the early vision for ROR](https://ror.org/about#history) and [continues to drive the project today](https://ror.org/blog/2020-11-11-who-is-the-ror-community) and distinguish it from similar initiatives.
 
-From the very beginning, community involvement in the curation of ROR has been central to this vision. ROR's users and stakeholders have wide-ranging experiences working with persistent identifiers and scholarly infrastructure, whether in the context of libraries, research administration, platforms and repositories, and beyond, and it is important that they be involved in decisions about how the registry is maintained.
+From the very beginning, community involvement in the curation of ROR has been central to this vision. ROR's users and stakeholders have wide-ranging experiences working with persistent identifiers and scholarly infrastructure, whether in the context of libraries, research administration, platforms and repositories, and beyond. It is important that they be involved in decisions about how the registry is maintained.
 
-As part of a [funded project with IMLS](https://www.imls.gov/grants/awarded/lg-246305-ols-20), ROR will establish a curation advisory board comprising community members with the expertise and the ethos to help develop policies and processes to ensure the integrity and longevity of registry data. This approach will allow ROR to: 
+As part of a [funded project with IMLS](https://www.imls.gov/grants/awarded/lg-246305-ols-20) starting this fall, ROR is establishing a curation advisory board comprising community members with the expertise and the ethos to help develop policies and processes to ensure the integrity and longevity of registry data. This approach will allow ROR to: 
 
-- Provide open channels for any community members interested in suggesting additions and updates
+- Provide open channels for community members interested in suggesting additions and updates
 - Centralize and scale curation processes through a trusted board of advisors
-- Make curation decisions that are appropriate for ROR's global stakeholders and also applied consistently and transparently across the dataset
+- Make curation decisions that are appropriate for ROR's global stakeholders and that also can be applied consistently and transparently across the dataset
 
-This model will evolve over time as ROR grows and is more widely adopted. We are focused on reaching key milestones while continuing to make adjustments as we go along.  In forthcoming updates, we will share more about ROR's plans with curation. Please [get in touch with ROR](mailto:info@ror.org) if you have any questions or suggestions at this time.
+This model will evolve over time as ROR grows and is more widely adopted. We are focused on reaching key milestones while continuing to make adjustments as we go along. We will share more about ROR's plans with curation in forthcoming updates. Please [get in touch with ROR](mailto:info@ror.org) if you have any questions or suggestions at this time.
