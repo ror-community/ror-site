@@ -14,7 +14,7 @@ The Research Organization Registry is a cross-organizational and multi-stakehold
 
 This approach to operating ROR means that it does not fit neatly into existing notions of organizations in the scholarly communications and open infrastructure space:
 
-- ROR is **not an organization** (fun fact: this means that ROR does not have its own ROR!)
+- ROR is **not an organization** (fun fact: this means that ROR does not have its own ROR ID!)
 - ROR does **not belong to any one organization**
 - ROR is **not structured around a membership model**
 
@@ -46,7 +46,7 @@ Group members also represent a range of organizations, reinforcing the range of 
 
 {{< figure src="/img/ror-community-orgtypes.png" >}}
 
-ROR also coordinates coordinating smaller working groups in specific domains, one focused on publisher adoption and the other focused on curation. Some members of these groups also participate in the activities of the broader advisory group.
+ROR also coordinates smaller working groups in specific domains, one focused on publisher adoption and the other focused on curation. Some members of these groups also participate in the activities of the broader advisory group.
 
 [ROR Supporters](https://ror.org/supporters/) are community members who have invested financially in ROR and/or signed on to a [public statement of support for ROR](https://ror.org/supporters/#ror-signatories).
 
