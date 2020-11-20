@@ -18,6 +18,10 @@ ROR is a registry of identifiers and metadata about research organizations---tha
 
 If an organization has a ROR ID, it means that it has been designated as a research organization and that the organization has been or will be linked to research outputs and activities. Inclusion in ROR does not imply anything about an organization's reputation or ranking or the quality of the research it is associated with. Inclusion in ROR does indicate that the organization is involved in research and that its ROR ID is or will be used to identify the organization in research infrastructure and metadata.
 
+## Is my organization already in ROR?
+
+ROR already includes records for close to 99,000 organizations. You can look up organizations on the [ROR Search page](https://ror.org/search) and via the [ROR API](https://api.ror.org/organizations).  
+
 ## How are organizations added to ROR? 
 
 ROR was initially launched using seed data from GRID. The contents of ROR currently mirror those in GRID. ROR has all of the organizations that are in GRID as well as a subset of the GRID metadata.
