@@ -11,12 +11,12 @@ before_install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.40.3/hugo_0.40.3_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - if [ "$TRAVIS_BRANCH" == "dev" ]; then
-      AWS_BUCKET="dev.ror.org";
+      AWS_BUCKET="www.dev.ror.community";
       cp dev.toml config.toml;
       CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID_DEV;
       AUTO_DEPLOY=true;
     elif [ "$TRAVIS_BRANCH" == "staging" ]; then
-      AWS_BUCKET="staging.ror.org";
+      AWS_BUCKET="www.staging.ror.community";
       cp staging.toml config.toml;
       CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID_STAGING;
       AUTO_DEPLOY=true;
