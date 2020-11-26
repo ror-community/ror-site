@@ -1,9 +1,9 @@
 {{ if isset .Site.Params "about" }}
 {{ if .Site.Params.about.enable }}
-<section class="section section-blog" data-background-color="gray">
+<section class="section section-blog" data-background-color="dark-gray">
   <div class="container">
     <div class="row">
-      <div class="col-md-9 ml-auto mr-auto text-center">
+      <div class="col-md-11 ml-auto mr-auto text-center">
         <h2 class="title">{{ .Site.Params.about.title }}</h2>
         <h4>{{ .Site.Params.about.subtitle }}</h4>
           <a href="{{ .Site.Params.about.link_url }}" class="btn btn-sm btn-round">{{ .Site.Params.about.link_text }}</a>

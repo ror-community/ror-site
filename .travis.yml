@@ -8,7 +8,7 @@ before_install:
   - export STARTTIME="$(date +%s)"
   - sudo apt-get -qq update
   - sudo apt-get install -y libyaml-dev
-  - wget https://github.com/gohugoio/hugo/releases/download/v0.40.3/hugo_0.40.3_Linux-64bit.deb
+  - wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.deb
   - sudo dpkg -i hugo*.deb
   - if [ "$TRAVIS_BRANCH" == "dev" ]; then
       AWS_BUCKET="www.dev.ror.community";
@@ -23,6 +23,7 @@ before_install:
     elif [ "$TRAVIS_BRANCH" == "master" ]; then
       AWS_BUCKET="ror.org";
       cp live.toml config.toml;
+      CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID;
       AUTO_DEPLOY=true;
     fi
   - export CR_AUTHOR_NAME="$(git log -1 $TRAVIS_COMMIT --pretty="%aN")"

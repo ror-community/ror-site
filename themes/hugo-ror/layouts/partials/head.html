@@ -5,8 +5,9 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <title>{{.Site.Title}}</title>
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
+
   <!--     Fonts and icons     -->
-  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700,200" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700,200" rel="stylesheet" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
   <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
   <!-- Css animations  -->
@@ -16,19 +17,13 @@
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
   <!-- CSS Files -->
-  <link rel="stylesheet" href="{{ $.Site.Params.cdnURL }}assets/{{ $.Site.Params.cdnCss }}" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hugo-ror.css?v={{ $.Site.Params.CSSVersion }}" />
+  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/shortcodes.css?v={{ $.Site.Params.CSSVersion }}" />
   
-  <!-- plyr HTML5 video/audio player -->
-  <link rel="stylesheet" href="https://cdn.plyr.io/2.0.13/plyr.css">
-
   <!-- Favicon and apple touch icons-->
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />
   
-{{ range .Site.Params.custom_css -}}
-  <link rel="stylesheet" href="{{ . | absURL }}">
-{{- end }}
-
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
 
   <!-- Piwik -->
