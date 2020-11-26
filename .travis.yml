@@ -21,7 +21,7 @@ before_install:
       CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID_STAGING;
       AUTO_DEPLOY=true;
     elif [ "$TRAVIS_BRANCH" == "master" ]; then
-      AWS_BUCKET="ror.org";
+      AWS_BUCKET="www.ror.community";
       cp live.toml config.toml;
       CLOUDFRONT_DISTRIBUTION_ID=$CLOUDFRONT_DISTRIBUTION_ID;
       AUTO_DEPLOY=true;
