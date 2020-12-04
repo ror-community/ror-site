@@ -136,7 +136,7 @@ To help guide the next stages of the project, we are putting out an open call fo
 
 For those who want to stay informed about the project but not necessarily be part of the advisory group, you have other options!
 
-- Sign up for our mailing list (via the footer at [ror.org](https://www.ror.org))
+- Sign up for our mailing list (via the footer at [ror.org](https://ror.org))
 
 - Join our community on Slack ([www.tinyurl.com/ror-community](http://www.tinyurl.com/ror-community)),
 

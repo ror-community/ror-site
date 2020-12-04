@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "ROR"
-baseurl = "https://www.ror.org/"
+baseurl = "https://ror.org/"
 style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
