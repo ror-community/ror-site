@@ -38,9 +38,13 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 
 -   Imperial College London
 
+-   [Journal Checker Tool](https://journalcheckertool.org/)
+
 -   NARCIS
 
 -   Ocean Networks Canada
+
+-   OJS
 
 -   [ORCID](https://orcid.org/blog/2020/03/24/what-orcid-and-ror)
 
