@@ -191,6 +191,7 @@ The advisory group includes people from around the world and across different ty
 -   Hindawi Limited
 -   ISCP International Centre for Coaching Psychology Research
 -   [International Union of Crystallography](https://ror.org/00vdend65)
+-   [Karlsruhe Institute of Technology](https://ror.org/04t3en479)
 -   Lens.org
 -   Litinfinite Journal
 -   Metadata Game Changers
@@ -206,6 +207,7 @@ The advisory group includes people from around the world and across different ty
 -   RRID initiative
 -   [RS Global Sp. z O.O.](https://ror.org/00m73vh91)
 -   [Saarland University and State Library](https://ror.org/01jdpyv68)
+-   SCImago Research Group
 -   [State Scientific and Technical Library of Ukraine](https://ror.org/019tz0c71)
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
