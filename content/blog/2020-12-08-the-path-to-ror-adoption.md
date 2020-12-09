@@ -6,13 +6,13 @@ tags = ["Community", "Data", "Adoption", "Metadata"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-reflection-sq.jpg"
+thumb = "/img/tiger-pool-sq.jpg"
 author = "Maria Gould"
 +++
 
 ROR offers an open and community-driven solution for tracking research outputs by institutions. ROR identifiers for research organizations are not meant to exist on their own. Their potential will only be realized with wide adoption of ROR IDs in scholarly infrastructure and metadata.
 
-Although ROR is still relatively new, ROR IDs are already being integrated and used in various ways. In a previous post, we shared the story of [how Dryad relies on ROR](/2019-07-10-ror-ing-together-with-dryad) to capture affiliation data for its 30,000 datasets and counting. Dryad sends metadata to DataCite, which supports ROR IDs in its schema. This along with metadata provided by other DataCite members allows for [searching research affiliated with specific institutions](https://search.datacite.org) and makes it possible to connect this research to other identifiers for scholarship and present these connections in [discovery services(https://commons.datacite.org).
+Although ROR is still relatively new, ROR IDs are already being integrated and used in various ways. In a previous post, we shared the story of [how Dryad relies on ROR](/2019-07-10-ror-ing-together-with-dryad) to capture affiliation data for its 30,000 datasets and counting. Dryad sends metadata to DataCite, which supports ROR IDs in its schema. This along with metadata provided by other DataCite members allows for [searching research affiliated with specific institutions](https://blog.datacite.org/affiliation-facet-new-in-datacite-search/) and makes it possible to connect this research to other identifiers for scholarship and present these connections in [discovery services](https://blog.datacite.org/datacite-commons-at-your-service/).
 
 In this post we highlight ROR integration work focused on scholarly publishing, an area that depends heavily on the identification of institutional affiliations and that can benefit from ROR’s open approach to this challenge.
 
@@ -20,7 +20,7 @@ Affiliations are a central component of publishing practices in a number of ways
 
 Affiliations are also an increasingly crucial data point for open access publishing agreements. Publishers need to know if authors are covered under any agreements with their institutions or funders. Libraries negotiating agreements need to know how much publishing volume to expect by authors at their institutions.
 
-The [OA Switchboard](https://www.oaswitchboard.org/) and cOAlitionS [Journal Checker Tool](https://journalcheckertool.org/) are two examples of how affiliation data based on ROR is being used to help navigate this landscape. There are additional implementations taking place in the context of manuscript submission systems: Rockefeller University Press has built a ROR integration into its eJournalPress instance; a team is developing a [ROR plugin](https://github.com/withanage/ror#installation) for PKP’s Open Journal Systems (OJS) platform, and Aries’ Editorial Manager is planning to support ROR in early 2021.
+The [OA Switchboard](https://www.oaswitchboard.org/) and cOAlitionS [Journal Checker Tool](https://journalcheckertool.org/) are two examples of how affiliation data based on ROR can be used by publishers, institutions, authors, and publishing stakeholders to help navigate this landscape. There are additional implementations taking place in the context of manuscript submission systems: Rockefeller University Press has built a ROR integration into its system, a team is developing a [ROR plugin](https://github.com/withanage/ror#installation) for PKP’s Open Journal Systems (OJS) platform, and we expect to see additional integrations in place in early 2021.
 
 With the [forthcoming arrival of the new Crossref metadata schema](https://www.crossref.org/blog/publishers-are-you-ready-to-ror/), ROR IDs can be included in the metadata that Crossref members deposit and will be available for others to use via Crossref’s API. This opens up a world of possibilities for discovering and linking research by institutions.
 
