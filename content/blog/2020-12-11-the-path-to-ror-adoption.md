@@ -1,6 +1,6 @@
 +++
 title = "The Path to ROR Adoption in Scholarly Publishing and Beyond"
-date = "2020-12-08"
+date = "2020-12-11"
 draft = false
 tags = ["Community", "Data", "Adoption", "Metadata"]
 categories = ["updates"]
@@ -24,4 +24,4 @@ The [OA Switchboard](https://www.oaswitchboard.org/) and cOAlitionS [Journal Che
 
 With the [forthcoming arrival of the new Crossref metadata schema](https://www.crossref.org/blog/publishers-are-you-ready-to-ror/), ROR IDs can be included in the metadata that Crossref members deposit and will be available for others to use via Crossref’s API. This opens up a world of possibilities for discovering and linking research by institutions.
 
-The value proposition of ROR truly depends on wide adoption and focusing on the potential to leverage affiliations across scholarly metadata is a core theme for the coming year. To that end, we are thrilled to [welcome Liz Krznarich](https://blog.datacite.org/working-at-the-intersection-of-people-and-technology/) to the team as ROR’s new (and first) Adoption Manager. Based at DataCite (one of the organizations behind ROR), where she will also be supporting adoption efforts more generally, Liz’s work for ROR will be focused on driving wide adoption of ROR IDs, including support and guidance for the various ways in which ROR can be implemented. Liz’s background as a librarian and programmer, and her prior experience at ORCID, make her an ideal fit for this position. Stay tuned for more news from Liz as adoption projects get underway!
+The value proposition of ROR truly depends on wide adoption and focusing on the potential to leverage affiliations across scholarly metadata is a core theme for the coming year. To that end, we are thrilled to [welcome Liz Krznarich](https://blog.datacite.org/working-at-the-intersection-of-people-and-technology/) to the team as ROR’s new (and first) Adoption Manager. Based at DataCite (one of the organizations behind ROR), where she will also be supporting adoption efforts more generally, Liz’s work with ROR will be focused on driving wide adoption of ROR IDs, including support and guidance for the various ways in which ROR can be implemented. Liz’s background as a librarian and programmer, and her prior experience at ORCID, make her an ideal fit for this position. Stay tuned for more news from Liz as adoption projects get underway!
