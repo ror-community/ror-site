@@ -18,7 +18,7 @@ ROR is intended for use by the research community, for the purposes of increasin
 
 Reflecting and reinforcing core principles of openness, transparency, and sustainability for research infrastructure has been a central aim and focus for ROR since the very beginning. As we approach the two-year anniversary of ROR's official launch, and as we are seeing greater adoption of ROR and implementation of open affiliation identifiers across the scholarly landscape, this is a key moment to evaluate how ROR has remained aligned to these principles and where it might need to focus and improve in the years ahead. The [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/) (POSI) provide a useful framework for this evaluation.
 
-POSI's set of sixteen principles was proposed in 2015 with the aim of encouraging the scholarly community to more critically assess the infrastructure they rely on and hold each other to account. POSI has since been built upon and discussed by others in the community; last month, the principles were codified and now live on an independent website that anyone can point to: https://openscholarlyinfrastructure.org. In addition to codifying the principles, the website also aims to guide and encourage infrastructure organizations and initiatives to make a commitment to POSI. In recent weeks, both Crossref and Dryad have responded to this by posting self-assessments and a public statement of intent to comply with POSI. ROR is following their lead in preparing its own evaluation, which appears below.
+POSI's set of sixteen principles was proposed in 2015 with the aim of encouraging the scholarly community to more critically assess the infrastructure they rely on and hold each other to account. POSI has since been built upon and discussed by others in the community; last month, the principles were codified and now live on an independent website that anyone can point to: https://openscholarlyinfrastructure.org. In addition to codifying the principles, the website also aims to guide and encourage infrastructure organizations and initiatives to make a commitment to POSI. In recent weeks, both [Crossref](https://www.crossref.org/blog/crossrefs-board-votes-to-adopt-the-principles-of-open-scholarly-infrastructure/) and [Dryad](https://blog.datadryad.org/2020/12/08/dryads-commitment-to-the-principles-of-open-scholarly-infrastructure/) have responded to this by posting self-assessments and public statements of intent to comply with POSI. ROR is following their lead in preparing its own evaluation, which appears below.
 
 ## Understanding the principles
 
@@ -30,11 +30,9 @@ The POSI framework focuses on three key areas for open infrastructure organizati
 
 3.  Adherence to the principles is an ongoing process. It will take ROR time to meet all of them in an ideal way and this is to be expected.
 
-|
-
 ### Governance
 
-|   | Goernance                                       |
+|   | Governance                                       |
 |---|-------------------------------------------------|
 |   | Coverage across the research enterprise         |
 |   | Stakeholder Governed                            |
