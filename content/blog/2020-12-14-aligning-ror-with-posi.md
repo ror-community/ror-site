@@ -34,6 +34,8 @@ The POSI framework focuses on three key areas for open infrastructure organizati
 
 ### Governance
 
+|   | Goernance                                       |
+|---|-------------------------------------------------|
 |   | Coverage across the research enterprise         |
 |   | Stakeholder Governed                            |
 |   | Non-discriminatory membership                   |
@@ -73,23 +75,22 @@ A signed agreement between ROR's operating organizations describes how ROR would
 As a relatively small and focused effort, ROR is already lean by design. By deliberately operating as an initiative and not forming an organization, ROR is more nimble and won't face a scenario in which an organization has to be dissolved. ROR IDs will continue to be needed for as long as affiliation data is a core aspect of research infrastructure. The mission of ROR will only go away when this need goes away.
 
 ## Sustainability
+|   | Sustainability                                                      |
+|---|---------------------------------------------------------------------|
 |   | Time-limited funds are used only for time-limited activities        |
 |   | Goal to generate surplus                                            |
 |   | Goal to create contingency fund to support operations for 12 months |
 |   | Mission-consistent revenue generation                               |
-|   |Revenue based on services, not data                                  |
+|   | Revenue based on services, not data                                 |
 
 > Time-limited funds are used only for time-limited activities -- day to day operations should be supported by day to day sustainable revenue sources. Grant dependency for funding operations makes them fragile and more easily distracted from building core infrastructure.
 
 ROR is designed to be operated and sustained through a mix of funding sources. These include:
 
--   In-kind contributions by ROR's governing organizations
-
--   Contributory investments by community stakeholders
-
--   Grant funding
-
--   Optional paid service fees, based on services and not on data, to be launched later (described further below)
+- In-kind contributions by ROR's governing organizations
+- Contributory investments by community stakeholders
+- Grant funding
+- Optional paid service fees, based on services and not on data, to be launched later (described further below)
 
 ROR has a planned dependency on grant funding for two years, through the end of 2022, which will allow it to shore up plans and infrastructure to support the service fee model.
 
@@ -110,11 +111,13 @@ ROR currently plans to implement an optional paid service tier in 2022 while kee
 The fees associated with a paid ROR tier will be focused on optional value-added services, such as a separate API Service Level Agreement or custom data dumps. ROR data will remain open and free in the spirit of making it available as a community property.
 
 ## Insurance
+|   | Insurance                                           |
+|---|-----------------------------------------------------|
 |   | Open source                                         |
 |   | Open data (within constraints of privacy laws)      |
 |   | Available data (within constraints of privacy laws) |
 |   | Patent non-assertion                                |
-|   |Revenue based on services, not data                  |
+|   | Revenue based on services, not data                 |
 
 > Open source -- All software required to run the infrastructure should be available under an open source license. This does not include other software that may be involved with running the organisation.
 
