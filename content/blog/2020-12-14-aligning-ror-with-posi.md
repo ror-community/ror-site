@@ -1,7 +1,7 @@
 +++
 title = "Aligning ROR with the Principles of Open Scholarly Infrastructure"
 date = "2020-12-14"
-draft = false
+draft = true
 tags = ["Community", "Data", "Adoption", "Metadata"]
 categories = ["updates"]
 style = "card-plain"
