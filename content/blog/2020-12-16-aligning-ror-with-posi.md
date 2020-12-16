@@ -20,7 +20,7 @@ Reflecting and reinforcing core principles of openness, transparency, and sustai
 
 POSI's set of sixteen principles was proposed in 2015 with the aim of encouraging the scholarly community to more critically assess the infrastructure they rely on and hold each other to account. POSI has since been built upon and discussed by others in the community; last month, the principles were codified and now live on an independent website: https://openscholarlyinfrastructure.org.
 
-In addition to codifying the principles, the website also aims to guide and encourage infrastructure organizations and initiatives to make a commitment to POSI. In recent weeks, both Crossref and Dryad have responded to this by posting self-assessments and a public statement of intent to comply with POSI. ROR is following their lead in preparing its own evaluation, which appears below.
+In addition to codifying the principles, the website also aims to guide and encourage infrastructure organizations and initiatives to make a commitment to POSI. In recent weeks, both [Crossref](https://www.crossref.org/blog/crossrefs-board-votes-to-adopt-the-principles-of-open-scholarly-infrastructure/) and [Dryad](https://blog.datadryad.org/2020/12/08/dryads-commitment-to-the-principles-of-open-scholarly-infrastructure/) have responded to this by posting self-assessments and a public statement of intent to comply with POSI. ROR is following their lead in preparing its own evaluation, which appears below.
 
 ## Understanding the principles
 
