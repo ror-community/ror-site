@@ -1,6 +1,6 @@
 +++
 title = "Aligning ROR with the Principles of Open Scholarly Infrastructure"
-date = "2020-12-11"
+date = "2020-12-16"
 draft = false
 tags = ["Community", "Data", "Adoption", "Metadata"]
 categories = ["updates"]
@@ -31,6 +31,8 @@ The POSI framework focuses on three key areas for open infrastructure organizati
 2. The principles must be considered as a whole; one is not more important than the other. It would be counterproductive to focus specifically on reaching one item's "green" status if it would have a detrimental impact on another commitment. 
 
 3. Adherence to the principles is an ongoing process. Since ROR has taken an innovative approach of offering open infrastructure through a multi-organization collaboration instead of a standalone organization, some of these principles are less applicable than others. Furthermore, it is newly implemented infrastructure and it will  take time to meet all of the principles in an ideal way. This is to be expected.
+
+## Governance Principles
 
 {{< figure src="/img/ror-posi-governance.png" >}}
 
@@ -66,6 +68,8 @@ A signed agreement between ROR's governing organizations describes how ROR would
 
 As a relatively small and focused effort, ROR is already lean by design. By deliberately operating as an initiative and not forming an organization, ROR is more nimble and won't face a scenario in which an organization has to be dissolved. ROR identifiers will continue to be needed for as long as affiliation data is a core aspect of research infrastructure. The mission of ROR will only go away when this need goes away.
 
+## Sustainability Principles
+
 {{< figure src="/img/ror-posi-sustainability.png" >}}
 
 > *Time-limited funds are used only for time-limited activities – day to day operations should be supported by day to day sustainable revenue sources. Grant dependency for funding operations makes them fragile and more easily distracted from building core infrastructure.*
@@ -98,6 +102,8 @@ Ensuring the full availability of the ROR dataset over the long term is a core v
 The fees associated with any future paid ROR tier will be focused on optional value-added services, such as a separate API Service Level Agreement or custom data dumps.*
 
 ROR data will remain open and free in the spirit of making it available as a community property.
+
+## Insurance Principles
 
 {{< figure src="/img/ror-posi-insurance.png" >}}
 
