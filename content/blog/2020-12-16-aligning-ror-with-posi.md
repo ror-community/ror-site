@@ -70,7 +70,7 @@ As a relatively small and focused effort, ROR is already lean by design. By deli
 
 ## Sustainability Principles
 
-{{< figure src="/img/ror-posi-sustainability.png" >}}
+{{< figure src="/img/ror-posi-sustain.png" >}}
 
 > *Time-limited funds are used only for time-limited activities – day to day operations should be supported by day to day sustainable revenue sources. Grant dependency for funding operations makes them fragile and more easily distracted from building core infrastructure.*
 
