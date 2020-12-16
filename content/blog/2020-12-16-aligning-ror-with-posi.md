@@ -30,7 +30,7 @@ The POSI framework focuses on three key areas for open infrastructure organizati
 
 2. The principles must be considered as a whole; one is not more important than the other. It would be counterproductive to focus specifically on reaching one item's "green" status if it would have a detrimental impact on another commitment. 
 
-3. Adherence to the principles is an ongoing process. Since ROR has taken an innovative approach of offering open infrastructure through a multi-organization collaboration instead of a standalone organization, some of these principles are less applicable than others. Furthermore, it is newly implemented infrastructure and it will  take time to meet all of the principles in an ideal way. This is to be expected.
+3. Adherence to the principles is an ongoing process. Since ROR has taken an innovative approach of offering open infrastructure through a multi-organization collaboration instead of a standalone organization, some of these principles are less applicable than others. Furthermore, it is newly implemented infrastructure and it will take time to meet all of the principles in an ideal way. This is to be expected.
 
 ## Governance Principles
 
@@ -85,7 +85,7 @@ ROR has a planned dependency on community fundraising and grants for two years, 
 
 > *Goal to generate surplus – organisations which define sustainability based merely on recovering costs are brittle and stagnant. It is not enough to merely survive, it has to be able to adapt and change. To weather economic, social and technological volatility, they need financial resources beyond immediate operating costs.*
 
-ROR is still in its startup phase and prides itself on running operations that are as lean as possible. During the startup phase, ROR’s governing organizations contribute in-kind support to main the resources needed to keep ROR running. Since its inception the banking and funds management of the ROR project has remained in sequestered financial reporting structures. The ROR budget is managed by the leadership of each governing organization and all accounts are easily auditable.
+ROR is still in its startup phase and prides itself on running operations that are as lean as possible. During the startup phase, ROR’s governing organizations contribute in-kind support to maintain the resources needed to keep ROR running. Since its inception the banking and funds management of the ROR project has remained in sequestered financial reporting structures. The ROR budget is managed by the leadership of each governing organization and all accounts are easily auditable.
 
 ROR understands that to maintain community trust, we must innovate and iterate over time. We also understand that innovation requires investment of additional resources. With financial reporting structures in place, ROR is well positioned to build a firm financial footing. ROR has explored and will continue to explore ways of building a surplus to maintain stability and ensure continuous innovation.
 
@@ -122,4 +122,4 @@ As stated above, ROR code is freely and openly available on Github under the ter
 
 > *Patent non-assertion – The organisation should commit to a patent non-assertion covenant. The organisation may obtain patents to protect its own operations, but not use them to prevent the community from replicating the infrastructure.*
 
-We value ourselves as a fully open and public registry of factual information about research organizations. The metadata and curatorial value that we contribute to the ROR registry are not considered the intellectual property by any ROR related entity. As facts, information stored in the registry, by its nature, cannot be patented. In addition,  ROR fully asserts no ownership of the  information by making it available to the public under a CC0 1.0 public domain dedication.
+We value ourselves as a fully open and public registry of factual information about research organizations. The metadata and curatorial value that we contribute to the ROR registry are not considered the intellectual property of any ROR-related entity. As facts, information stored in the registry, by its nature, cannot be patented. In addition, ROR fully asserts no ownership of the  information by making it available to the public under a CC0 1.0 public domain dedication.
