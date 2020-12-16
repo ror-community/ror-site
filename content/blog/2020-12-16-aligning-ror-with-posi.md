@@ -75,6 +75,7 @@ As a relatively small and focused effort, ROR is already lean by design. By deli
 > *Time-limited funds are used only for time-limited activities – day to day operations should be supported by day to day sustainable revenue sources. Grant dependency for funding operations makes them fragile and more easily distracted from building core infrastructure.*
 
 ROR is designed to be operated and sustained through a mix of funding sources. These include:
+
 - In-kind contributions by ROR’s governing organizations
 - Contributory investments by community stakeholders
 - Grant funding for discrete project work
