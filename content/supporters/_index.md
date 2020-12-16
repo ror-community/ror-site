@@ -97,6 +97,7 @@ The advisory group includes people from around the world and across different ty
 -   Aaron Ballagh, The Lens    
 -   Anita Bandrowski, UCSD    
 -   Manuel Bernal Llinares, EMBL-EBI
+-   Amanda Blatch-Jones, University of Southampton
 -   Christopher Brown, Jisc    
 -   Rebecca Bryant,	OCLC    
 -   Marleen Burger,	TIB    
@@ -113,13 +114,13 @@ The advisory group includes people from around the world and across different ty
 -   Andrea Reyes Elizondo, CWTS Leiden University
 -   Vessela Ensberg, UC Davis Library
 -   Christine Ferguson, EMBL-EBI
--   Carolyn Grant, Astrophysics Data System (ADS), Center for Astrophysics
--   Sarah Greaves, Hindawi    
+-   Carolyn Grant, Astrophysics Data System (ADS), Center for Astrophysics  
 -   Christian Gutknecht, Swiss National Science Foundation    
 -   Ted Habermann, Metadata Game Changers
 -   Quinn Hart, UC Davis Library
 -   Adrian K. Ho, University of Kentucky Libraries
--   Melissa Holden,	Sage      
+-   Melissa Holden,	Sage   
+-   Beth Hoskins, Ringgold
 -   Osmat Jefferson, The Lens    
 -   Nicole Kearny, Museums Victoria    
 -   Jennifer Klein,	Atypon    
