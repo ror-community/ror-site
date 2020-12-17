@@ -51,7 +51,7 @@ jobs:
           delete-removed: true
 
       - name: Notify Slack
-        uses: adamkdean/simple-slack-notify@1.1.1
+        uses: edge/simple-slack-notify@master
         with:
           channel: '#website-updates'
           username: 'ror-site'
