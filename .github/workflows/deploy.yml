@@ -12,6 +12,9 @@ jobs:
       S3_BUCKET: ${{ secrets.S3_BUCKET_DEV }}
       CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID_DEV }}
       SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      SLACK_CHANNEL: "#website-updates"
+      SLACK_NAME: "ror-site"
+      SLACK_ICON: "tiger"
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-python@v2
