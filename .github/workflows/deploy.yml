@@ -21,10 +21,6 @@ jobs:
           submodules: true
           fetch-depth: 0
 
-      - uses: actions/setup-node@v2
-        with:
-          node-version: '12'
-
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
@@ -50,7 +46,7 @@ jobs:
       - name: Deploy 
         uses: reggionick/s3-deploy@v3
         with:
-          folder: build
+          folder: public
           bucket: ${{ secrets.S3_BUCKET_DEV }}
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
           dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID_DEV }}
