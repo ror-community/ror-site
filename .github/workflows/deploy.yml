@@ -11,7 +11,7 @@ jobs:
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       S3_BUCKET: ${{ secrets.S3_BUCKET_DEV }}
       CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID_DEV }}
-      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK_URL }}
       SLACK_CHANNEL: "#website-updates"
       SLACK_NAME: "ror-site"
       SLACK_ICON: "tiger"
@@ -66,6 +66,6 @@ jobs:
         uses: adamkdean/simple-slack-notify@1.0.4
         with:
           channel: '#website-updates'
-          username: 'GitHub Actions'
+          username: 'ror-site'
           color: 'good'
           text: 'Finished copying new content to server...'
