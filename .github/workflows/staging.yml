@@ -28,13 +28,6 @@ jobs:
         with:
           hugo-version: '0.75.1'
 
-      - uses: actions/cache@v2
-        with:
-          path: /tmp/hugo_cache
-          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
-          restore-keys: |
-            ${{ runner.os }}-hugomod-
-
       - name: Build
         run: |
           cp staging.toml config.toml
@@ -56,3 +49,8 @@ jobs:
           channel: '#website-updates'
           color: 'good'
           text: 'Finished copying new content to server staging.ror.org...'
+          fields: |
+            [{ "title": "Commit message", "value": "${{ github.event.head_commit.message }}" }],
+             { "title": "Committed by", "value": "${{ github.actor }}", "short": true },
+             { "title": "Branch", "value": "${{ github.ref }}", "short": true },
+             { "title": "Commit SHA", "value": "${{ github.sha }}" }]
