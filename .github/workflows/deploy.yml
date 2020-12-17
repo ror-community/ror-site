@@ -34,23 +34,11 @@ jobs:
 
       - name: Build
         run: |
-          set -e
-          export STARTTIME="$(date +%s)"
           sudo apt-get -qq update
           sudo apt-get install -y libyaml-dev
           wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.deb
           sudo dpkg -i hugo*.deb
-
-          # export CR_AUTHOR_NAME="$(git log -1 ${{ steps.set_git_vars.outputs.GIT_SHA }} --pretty="%aN")"
-          # echo "*Commit message:* ${{ github.event.head_commit.message }} | ./scripts/slacktee -p
-          # echo "*Committed by:* $CR_AUTHOR_NAME" | ./scripts/slacktee -p
-
-          # echo "On branch ${{ steps.extract_branch.outputs.branch }} | ./scripts/slacktee -p
-          # echo "Target $S3_BUCKET_DEV" | ./scripts/slacktee -p
-          # echo "Starting site build..." | ./scripts/slacktee -p
-          hugo -v |& ./scripts/slacktee
-          echo "Finished site build." | ./scripts/slacktee -p
-          echo "Copying new content to $S3_BUCKET_DEV..." | ./scripts/slacktee -p
+          hugo -v
           
       - name: Deploy 
         uses: reggionick/s3-deploy@v3
