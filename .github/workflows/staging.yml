@@ -37,7 +37,7 @@ jobs:
 
       - name: Build
         run: |
-          cp dev.toml config.toml
+          cp staging.toml config.toml
           hugo -v --minify
           
       - name: Deploy 
