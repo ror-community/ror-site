@@ -17,30 +17,31 @@ jobs:
       SLACK_ICON: "tiger"
     steps:
       - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
         with:
-          python-version: '3.x'
-          architecture: 'x64' 
+          submodules: true
+          fetch-depth: 0
 
       - name: Extract branch name
         shell: bash
         run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
         id: extract_branch
 
-      - name: Extract git sha
-        run: |
-          echo "::set-output name=GIT_SHA::$(git rev-parse --short HEAD)"
-        id: set_git_vars
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.75.1'
+
+      - uses: actions/cache@v2
+        with:
+          path: /tmp/hugo_cache
+          key: ${{ runner.os }}-hugomod-${{ hashFiles('**/go.sum') }}
+          restore-keys: |
+            ${{ runner.os }}-hugomod-
 
       - name: Build
         run: |
-          sudo apt-get -qq update
-          sudo apt-get install -y libyaml-dev
-          wget https://github.com/gohugoio/hugo/releases/download/v0.55.6/hugo_extended_0.55.6_Linux-64bit.deb
-          sudo dpkg -i hugo*.deb
-          
           cp dev.toml config.toml
-          hugo -v
+          hugo -v --minify
           
       - name: Deploy 
         uses: reggionick/s3-deploy@v3
