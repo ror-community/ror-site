@@ -54,6 +54,5 @@ jobs:
         uses: edge/simple-slack-notify@master
         with:
           channel: '#website-updates'
-          username: 'GitHub Actions'
           color: 'good'
           text: 'Finished copying new content to server dev.ror.org...'
