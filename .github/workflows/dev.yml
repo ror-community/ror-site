@@ -22,7 +22,8 @@ jobs:
         shell: bash
         run: |
           echo "::set-output name=BRANCH::$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
-          echo "::set-output name=GIT_SHA::$(git rev-parse --short HEAD)"
+          echo "::set-output name=GIT_SHA::$(git rev-parse HEAD)"
+          echo "::set-output name=GIT_SHA_SHORT::$(git rev-parse --short HEAD)"
         id: extract_variables
 
       - name: Setup Hugo
@@ -56,6 +57,6 @@ jobs:
           fields: |
             [{ "title": "Commit message", "value": "${{ github.event.head_commit.message }}" },
              { "title": "Committed by", "value": "<https://github.com/ror-community/ror-site/commits?author=${{ github.actor }}|${{ github.actor }}>", "short": true },
-             { "title": "Commit SHA", "value": "<https://github.com/ror-community/ror-site/commit/${{ steps.extract_variables.outputs.GIT_SHA }}|${{ steps.extract_variables.outputs.GIT_SHA }}>", "short": true },
+             { "title": "Commit SHA", "value": "<https://github.com/ror-community/ror-site/commit/${{ steps.extract_variables.outputs.GIT_SHA }}|${{ steps.extract_variables.outputs.GIT_SHA_SHORT }}>", "short": true },
              { "title": "Repository", "value": "<https://github.com/${{ github.repository }}|${{ github.repository }}>", "short": true },
              { "title": "Branch", "value": "<https://github.com/ror-community/ror-site/tree/${{ steps.extract_variables.outputs.BRANCH }}|${{ steps.extract_variables.outputs.BRANCH }}>", "short": true }]
