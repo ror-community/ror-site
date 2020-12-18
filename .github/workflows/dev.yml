@@ -43,7 +43,7 @@ jobs:
           bucket: ${{ secrets.S3_BUCKET_DEV }}
           bucket-region: ${{ secrets.S3_BUCKET_REGION }}
           dist-id: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID_DEV }}
-          invalidation: /
+          invalidation: /*
           delete-removed: true
 
       - name: Notify Slack
