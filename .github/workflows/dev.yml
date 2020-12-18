@@ -20,7 +20,9 @@ jobs:
 
       - name: Extract branch name
         shell: bash
-        run: echo "##[set-output name=branch;]$(echo ${GITHUB_REF#refs/heads/})"
+        run: |
+          echo "::set-env name=BRANCH::$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
+          echo "::set-env name=GIT_SHA::$(git rev-parse --short HEAD)"
         id: extract_branch
 
       - name: Setup Hugo
@@ -44,14 +46,16 @@ jobs:
           delete-removed: true
 
       - name: Notify Slack
+        if: always()
         uses: edge/simple-slack-notify@master
         with:
           channel: '#website-updates'
           color: 'good'
           text: 'Finished copying new content to server dev.ror.org...'
+          failure_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) build failed'
           fields: |
             [{ "title": "Commit message", "value": "${{ github.event.head_commit.message }}" },
              { "title": "Committed by", "value": "<https://github.com/ror-community/ror-site/commits?author=${{ github.actor }}|${{ github.actor }}>", "short": true },
-             { "title": "Commit SHA", "value": "<https://github.com/ror-community/ror-site/commit/${{ github.sha }}|${{ github.sha }}.substring(0, 7)>", "short": true },
-             { "title": "Repository", "value": "<https://github.com/ror-community/ror-site/${{ github.repository }}|${{ github.repository }}>", "short": true },
-             { "title": "Branch", "value": "<https://github.com/ror-community/ror-site/tree/${{ github.ref }}.split(",").pop()|${{ github.ref }}.split(",").pop()>", "short": true }]
+             { "title": "Commit SHA", "value": "<https://github.com/ror-community/ror-site/commit/${ env.GIT_SHA }|${ env.GIT_SHA }>", "short": true },
+             { "title": "Repository", "value": "<https://github.com/${{ github.repository }}|${{ github.repository }}>", "short": true },
+             { "title": "Branch", "value": "<https://github.com/ror-community/ror-site/tree/${ env.BRANCH }|${ env.BRANCH }>", "short": true }]
