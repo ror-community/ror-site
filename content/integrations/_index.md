@@ -44,7 +44,7 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 
 -   Ocean Networks Canada
 
--   OJS
+-   [OJS](https://github.com/pkp/pkp-lib/issues/5912)
 
 -   [ORCID](https://orcid.org/blog/2020/03/24/what-orcid-and-ror)
 
