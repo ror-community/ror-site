@@ -52,7 +52,7 @@ As an open, community-based initiative, ROR has no membership model by design bu
 
 > _Transparent operations -- achieving trust in the selection of representatives to governance groups will be best achieved through transparent processes and operations in general (within the constraints of privacy laws)._
 
-ROR's day-to-day operations are overseen by its governing organizations: California Digital Library, Crossref, and DataCite. These organizations have signed a memorandum of agreement that states their long-term resource commitments to ROR. This agreement has been discussed and approved by the leadership at each governing organization. As ROR approaches the start of its forth year, we will continue to develop a framework to reflect the unique nature of ROR as a collaborative initiative, not an organization.
+ROR's day-to-day operations are overseen by its governing organizations: California Digital Library, Crossref, and DataCite. These organizations have signed a memorandum of agreement that states their long-term resource commitments to ROR. This agreement has been discussed and approved by the leadership at each governing organization. As ROR approaches the start of its third year, we will continue to develop a framework to reflect the unique nature of ROR as a collaborative initiative, not an organization.
 
 This is therefore an area for improvement. As ROR solidifies its operations, it plans to formalize and publicize operational documentation, such as financial and governance documents.
 
