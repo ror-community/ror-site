@@ -20,7 +20,7 @@ ROR has open data and infrastructure to facilitate integrations. Check out the R
 
 -   Cobaltmetrics
 
--   [Crossref metadata schema](https://www.crossref.org/blog/youve-had-your-say-now-what-next-steps-for-schema-changes/)
+-   [Crossref metadata schema](https://www.crossref.org/community/ror/)
 
 -   DataCite [metadata schema](https://blog.datacite.org/identify-your-affiliation-with-metadata-schema-4-3/), [search](https://blog.datacite.org/affiliation-facet-new-in-datacite-search/), and [DataCite Commons](https://commons.datacite.org)
 
