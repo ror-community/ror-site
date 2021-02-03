@@ -2,12 +2,12 @@
 title = "Unmute to ROAR! ROR's third annual (and first virtual) community meeting"
 date = "2020-12-16"
 draft = false
-tags = ["Community", "Data", "Adoption", "Metadata"]
+tags = ["Community", "Events"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-sq.jpg"
-author = "ROR Leadership Team"
+author = "Maria Gould"
 +++
 
 ROR turned three last week and marked the occasion just like anyone else celebrating a birthday during the pandemic: with a virtual party! More than eighty attendees from around the world came together for the now third annual ROR community meeting, held this year on Zoom across two sessions.
