@@ -10,7 +10,7 @@ thumb = "/img/cub-pride-sq.png"
 author = "Maria Gould"
 +++
 
-ROR turned three last week and marked the occasion just like anyone else celebrating a birthday during the pandemic: with a virtual party! More than eighty attendees from around the world came together for the now third annual ROR community meeting, held this year on Zoom across two sessions.
+ROR turned three last week and marked the occasion just like anyone else celebrating a birthday during the pandemic: with a virtual party! More than eighty attendees from around the world came together for the now third annual ROR community meeting, held this year on Zoom across two sessions to reach ROR's gobal community in as many timezones as possible.
 
 At the meeting, we reflected on milestones and highlights from the past year and discussed the goals, opportunities, and challenges that lie ahead. The two main areas of focus for ROR in 2021 are adoption and curation.
 
@@ -20,7 +20,7 @@ For those integrating ROR, guidelines for how (or even if) to display ROR IDs ar
 
 The ability to maintain the data in ROR and curate it over time is also critical. ROR needs to become independent from GRID, which provided the seed data for the registry, and implement its own infrastructure and workflows for adding and updating records. ROR is developing community-based processes and policies for reviewing changes. Please get in touch with ROR if this is something you are interested in helping with.
 
-While we wished we could have seen everyone in person for the 2021 annual meeting, the virtual format made it possible to bring even more people together who would not have ordinarily been able to travel to the meeting. Fortunately, we even figured out a way to ROR together on Zoom!
+While we wished we could have seen everyone in person for the 2021 annual meeting, the virtual format made it possible to bring even more people together who would not have ordinarily been able to travel to attend the meeting in person. Fortunately, we even figured out a way to ROAR together on Zoom!
 
 {{< figure src="/img/roring-on-zoom.png" >}}
 
