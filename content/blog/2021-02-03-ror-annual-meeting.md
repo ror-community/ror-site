@@ -1,12 +1,12 @@
 +++
 title = "Unmute to ROAR! ROR's third annual (and first virtual) community meeting"
-date = "2020-12-16"
+date = "2021-02-03"
 draft = false
 tags = ["Community", "Events"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-profile-sq.jpg"
+thumb = "/img/cub-pride-sq.png"
 author = "Maria Gould"
 +++
 
