@@ -15,7 +15,7 @@ Email <info@ror.org> to:
 -   Submit general feedback or request more information
 
 ## Suggest changes or additions to ROR
-You can suggest changes or additions to the registry via the [ROR curation request form](/curation).
+You can suggest changes or additions to the registry via the [ROR request form](/curation).
 
 ## Technical guidance
 ROR documentation is available on [Github](https://www.github.com/ror-community). We have some video guidance available on the [ROR YouTube channel](https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg).
