@@ -10,7 +10,7 @@ thumb = "/img/cub-pride-sq.png"
 author = "Maria Gould"
 +++
 
-ROR turned three last week and marked the occasion just like anyone else celebrating a birthday during the pandemic: with a virtual party! More than eighty attendees from around the world came together for the now third annual ROR community meeting, held this year on Zoom across two sessions to reach ROR's gobal community in as many timezones as possible.
+ROR turned three last week and marked the occasion just like anyone else celebrating a birthday during the pandemic: with a virtual party! More than eighty attendees from around the world came together for the now third annual ROR community meeting, held this year on Zoom across two sessions to reach ROR's global community in as many timezones as possible.
 
 At the meeting, we reflected on milestones and highlights from the past year and discussed the goals, opportunities, and challenges that lie ahead. The two main areas of focus for ROR in 2021 are adoption and curation.
 
