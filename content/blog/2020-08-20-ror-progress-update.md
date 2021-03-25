@@ -43,7 +43,7 @@ As part of this development work, ROR is also building out workflows and policie
 
 
 ## ROR adoption and integrations
-A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data. The ROR website is keeping a running list of [current and pending adopters](https://ror.org/integrations) that we know about. Contact ROR (mailto:info@ror.org) to add other examples to the list.
+A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data. The ROR website is keeping a running list of [current and pending adopters](https://ror.org/integrations) that we know about. [Contact ROR](mailto:info@ror.org) to add other examples to the list.
 
 ROR has also convened an adoption working group for publishers and publishing systems working on or planning ROR integrations. If you are working on an integration and wish to be part of this group, please get in touch.
 
