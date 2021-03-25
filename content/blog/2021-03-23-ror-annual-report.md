@@ -20,8 +20,10 @@ Another way ROR seeks to frame and present its activities is by preparing our fi
 
 [View the 2020 Annual Report](https://doi.org/10.5281/zenodo.4620044)
 
-The 2020 report also includes the results of the 2020 ROR Community Survey, which was initiated in November and is expected to run on an annual basis going forward. The 2020 survey received 179 responses from all continents except for Antarctica but primarily Europe and North America. The results highlight the range of stakeholders interested in supporting and integrating ROR, as well as opportunities and challenges for continued engagement and adoption. This input is valuable for ROR as it continues to grow in the coming years.
+The 2020 report also includes the results of the 2020 ROR Community Survey, which was initiated in November and is expected to run on an annual basis going forward. The 2020 survey received 179 responses from all continents except for Antarctica but primarily Europe and North America.
 
-{{< figure src="/img/ror-survey-excerpts.png" caption = "Excerpts from the 2020 ROR Community Survey">}}
+{{< figure src="/img/ror-survey-excerpts.png">}}
+
+The results highlight the range of stakeholders interested in supporting and integrating ROR, as well as opportunities and challenges for continued engagement and adoption. This input is valuable for ROR as it continues to grow in the coming years.
 
 Community is at the heart of ROR, and this means accountability, active participation, and consulting with each of you. There are many ways to be involved in ROR. Please get in touch!
