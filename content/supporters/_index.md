@@ -104,7 +104,8 @@ The advisory group includes people from around the world and across different ty
 -   Clara Calero Medina, CWTS Leiden University
 -   Xiaofeng (Xavier) Chen,	Sous Direction des Systèmes d'Information et des Etudes Statistiques    
 -   Leighton Christiansen, US Department of Transportation    
--   Gail Clement,	Caltech Library    
+-   Gail Clement,	Caltech Library   
+-   Iain Craig, Wiley
 -   Scott Delman,	Association for Computing Machinery  
 -   Tom Demeranville, ORCID  
 -   Michael Di Natale, BioOne   
@@ -113,7 +114,7 @@ The advisory group includes people from around the world and across different ty
 -   Amrutha Elamparuthy, US Global Change Research Program
 -   Andrea Reyes Elizondo, CWTS Leiden University
 -   Vessela Ensberg, UC Davis Library
--   Christine Ferguson, EMBL-EBI
+-   Christine Ferguson, Independent
 -   Carolyn Grant, Astrophysics Data System (ADS), Center for Astrophysics  
 -   Christian Gutknecht, Swiss National Science Foundation    
 -   Ted Habermann, Metadata Game Changers
@@ -125,6 +126,7 @@ The advisory group includes people from around the world and across different ty
 -   Nicole Kearny, Museums Victoria    
 -   Jennifer Klein,	Atypon    
 -   Cátia Laranjeira,	Fundação para Ciência e a Tecnologia  
+-   Nick Lundvick, Argonne National Laboratory
 -   Frances Madden, British Library
 -   Bailey McAllister, EBSCO  
 -   Siobhann McCafferty, Australian Research Data Commons    
@@ -133,8 +135,7 @@ The advisory group includes people from around the world and across different ty
 -   Hector Melgar Sasieta, CONCYTEC
 -   Tom Morrell, Caltech Library
 -   Daniel Noesgaard,	Global Biodiversity Information Facility
--   César Olivares Poggi, CONCYTEC    
--   Evan Owens,	Independent    
+-   César Olivares Poggi, CONCYTEC      
 -   Robyn Price,	Imperial College London    
 -   Markus Putnings,	Universitätsbibliothek der FAU Erlangen-Nürnberg   
 -   Sheila Rabun, LYRASIS
