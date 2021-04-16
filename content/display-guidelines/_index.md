@@ -79,12 +79,12 @@ If you choose to display ROR IDs, please follow these guidelines:
 - Use the [scalable SVG icon version](https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg) wherever possible for best image quality
 - When using the SVG icon, use ROR brand colors <span style="color:#53baa1;font-weight:bold">#53baa1</span> or <span style="color:#2c2c2c;font-weight:bold">#2c2c2c</span> whenever possible. In cases where use of ROR brand colors is not possible, use black or white.
 - Scale the ROR icon to match the line height of the surrounding text, but no smaller than a height of 16px
-- Make sure that the target size for links to ROR records is at least 44x44px, in order to comply with WCAG accessibility guidelines .
+- Make sure that the target size for links to ROR records is at least 44x44px, in order to comply with [WCAG accessibility guidelines](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=255#target-size).
 - Link to [https://ror.org](https://ror.org) when using the ROR icon on its own (ex, when you are referring to the ROR initiative, rather than a specific ROR record)
 
 ### Don’t
 - Display the ROR icon any smaller than 16px in height
-- Link just the ROR icon to its corresponding ROR record, unless the icon is large enough to meet WCAG target size requirements (44x44px)
+- Link just the ROR icon to its corresponding ROR record, unless the icon is large enough to meet [WCAG target size requirements](https://www.w3.org/WAI/WCAG21/quickref/?showtechniques=255#target-size) (44x44px)
 - Manipulate the icon (including rotating, changing colors, and adding drop shadows or animations)
 
 ## Icon files
