@@ -11,6 +11,11 @@ date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
 CSSVersion = 3
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params.widgets]
     search = true
     categories = true
