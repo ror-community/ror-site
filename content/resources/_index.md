@@ -7,7 +7,6 @@ style = "card-plain"
 +++
 
 ## General information
-
 Email <info@ror.org> to:
 
 -   Report a bug
@@ -15,34 +14,27 @@ Email <info@ror.org> to:
 -   Submit general feedback or request more information
 
 ## Suggest changes or additions to ROR
-You can suggest changes or additions to the registry via the [ROR request form](/curation).
+Anyone can suggest changes or additions to the registry via the [ROR request form](/curation).
 
 ## Technical guidance
-ROR documentation is available on [Github](https://www.github.com/ror-community). We have some video guidance available on the [ROR YouTube channel](https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg).
+ROR documentation is available on [Github](https://www.github.com/ror-community). Join the [ROR API users' group](https://groups.google.com/a/ror.org/g/ror-api-users) to discuss technical issues and get support.
 
 See the [list of current and pending integrations](/integrations) to get an idea of how ROR is being implemented in research infrastructure. Contact [info@ror.org](mailto:info@ror.org) to add other examples to the list or if you have questions about approaching an integration.
 
-Contact <info@ror.org> if you are experiencing any technical issues using ROR. You can also report bugs on the ROR [Github](https://www.github.com/ror-community).
-
 ## Service status
-
 You can monitor service status and subscribe to status updates at [status.ror.org](https://status.ror.org).
 
 ## Display guidelines
-
 ROR IDs are primarily intended for use internally by web applications and services. Displaying ROR IDs in your application user interfaces or digital documents may have limited benefit to the general public. Displaying or linking to ROR IDs is entirely optional, and we recommend that you consider their relevance for your audience carefully.
 
 If you choose to display ROR IDs, please follow the [ROR  Display Guidelines](/display-guidelines).
 
 ## Presentations and other resources
-
 You can view recordings of ROR presentations on the [ROR YouTube channel](https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg).
 
 There are slide decks and other resources available if you are attending a conference or event and planning to talk about ROR. Give us a shout and we'll set you up with what you need.
 
-
 ## Get involved
-
 Join the ROR community! There are many ways to be involved to [show your support](/supporters) for ROR. Email [info@ror.org](mailto:info@ror.org) if you would like to join the community advisory group, add your name to the list of signatories, or contribute some modest funds toward our sustainability plan. We also have a Slack group you can join to participate in discussions.
 
 ## Terms of use
