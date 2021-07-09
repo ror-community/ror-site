@@ -2,7 +2,7 @@
 title = "ROR and GRID: The Way Forward"
 date = "2021-07-08"
 draft = false
-tags = ["News," "Updates," "Community", "Sustainability", "GRID" ]
+tags = ["News", "Updates", "Community", "Sustainability", "GRID" ]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
