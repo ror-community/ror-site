@@ -65,4 +65,4 @@ ROR is a community-driven effort and we encourage anyone who is interested to ge
 
 You can follow project updates on [Twitter](https://twitter.com/ResearchOrgs) and here on the ROR Blog, and participate in discussions in the [ROR Slack](https://tinyurl.com/ror-slack). If you're working on a ROR integration, check out the [API documentation on Github](https://github.com/ror-community/ror-api).
 
-The ROR Community Advisory Group holds community calls every other month. Contact info@ror.org (mailto:info@ror.org) to join this group.
+The ROR Community Advisory Group holds community calls every other month. Contact [info@ror.org](mailto:info@ror.org) to join this group.
