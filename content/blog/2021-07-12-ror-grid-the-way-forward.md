@@ -1,6 +1,6 @@
 +++
 title = "ROR and GRID: The Way Forward"
-date = "2021-07-08"
+date = "2021-07-12"
 draft = false
 tags = ["News", "Updates", "Community", "Sustainability", "GRID" ]
 categories = ["updates"]
