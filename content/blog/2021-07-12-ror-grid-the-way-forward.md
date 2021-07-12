@@ -10,7 +10,7 @@ thumb = "/img/lion-silhouette-sq.jpg"
 author = "ROR Leadership Team"
 +++
 
-Earlier today, [GRID announced that it will discontinue its schedule of public releases in Q4 2021]. This decision marks an important and exciting milestone in the evolution of both organization registries.
+Earlier today, [GRID announced that it will discontinue its schedule of public releases in Q4 2021](https://www.digital-science.com/press-release/grid-passes-torch-to-ror/). This decision marks an important and exciting milestone in the evolution of both organization registries.
 
 ROR's core mission is to be a *community-led registry of open organization identifiers*. While GRID has maintained an open registry of organization identifiers available CC0 to the community since 2015, it did not intend to serve as a community-driven initiative. Therefore, it was a natural arrangement to jump-start ROR with seed data from GRID, and accept ongoing updates from GRID while developing  ROR to ultimately function independently as the community registry of record. The plan has always been that ROR would inevitably need to be able to diverge from GRID in order to more fully address the requirements and use cases that come with maintaining a community-based initiative. GRID's recent decision aligns perfectly with the progress ROR has already made towards this goal.
 
@@ -35,4 +35,4 @@ You can find resources about transitioning from GRID to ROR on the [ROR support 
 
 Digital Science and ROR are extremely excited to see how well the project has developed, and look forward to seeing how ROR is used in the future. The GRID and ROR teams would like to thank the academic community for their engagement and involvement.
 
-[FAQs]
+[See additional FAQs about this transition here](https://www.digital-science.com/blog/2021/07/grid-passes-torch-to-ror/).
