@@ -22,7 +22,7 @@ ROR's core components consist of the following:
 
 **ROR ID** (Example: <https://ror.org/03yrm5c26>)
 - Expressed as a URL that resolves to the organization's record     
-- Unique and opaque character string: leading 0 followed by 6 characters (excludes I,L,O) and a 2-digit checksum based on the Crockford base-32 url library and [ISO-7064](https://www.iso.org/standard/31531.html)     
+- Unique and opaque character string: leading 0 followed by 6 lowercase alphanumeric characters (excludes `i`,`l`,`o`,`u`) and two decimal checksum digits based on the Modulo 97-10 algorithm of [ISO-7064](https://www.iso.org/standard/31531.html) (implemented in the [Crockford base-32 url library](https://base32-lib.readthedocs.io/en/latest/))
 - Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)     
 
 **ROR search** (<https://ror.org/search>)
