@@ -7,5 +7,3 @@ style = "card-plain"
 +++
 
 Use the [ROR request form](https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform) to request an update to an existing record in ROR or request that a new record be added.
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform?embedded=true" width="640" height="1889" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
