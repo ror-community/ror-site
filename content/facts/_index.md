@@ -10,7 +10,7 @@ style = "card-plain"
 
 ## ROR data
 
-ROR started with seed data from Digital Science's [GRID](https://grid.ac) database and began assigning ROR IDs to 91,000+ organizations. ROR updates its records when GRID releases a new database update. Ultimately the two registries will diverge. ROR records map to GRID IDs (along with other identifiers) and vice-versa.
+ROR started with seed data from Digital Science's [GRID](https://grid.ac) database and began assigning ROR IDs to 91,000+ organizations. ROR updates its records when GRID releases a new database update. [Ultimately the two registries will diverge](/blog/2021-07-12-ror-grid-the-way-forward). ROR records map to GRID IDs (along with other identifiers) and vice-versa.
 
 ROR records include basic metadata about an organization to help with discoverability and disambiguation (including alternate organization names, URL, location, and relationships to other organizations). ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
 
@@ -57,7 +57,7 @@ ROR is focused on being a top-level registry of organizations so we can address 
 
 ## Requesting changes to ROR records
 
-Use the [ROR curation request form](/curation) to request an update to an existing record in ROR or request that a new record be added. We are formalizing data management policies and procedures in the next stage of the project.
+Use the [ROR curation request form](/curation) to request an update to an existing record in ROR or request that a new record be added. Read more about curation policies and processes [here](https://github.com/ror-community/ror-updates).
 
 ## Operations and governance
 
