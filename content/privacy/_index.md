@@ -18,7 +18,7 @@ If you find content on the ROR website, Github site, blog, or social media chann
 
 ## Website, Github, Blog, and Services
 
-ROR operates a website at <https://ror.org>, maintains code and documentation on a Github site at <https://www.github.com/ror-community>, publishes blog posts at <https://ror.org/blog>, and manages support requests via email at <info@ror.org>. It is ROR's policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on these sites please contact <info@ror.org>.
+ROR operates a website at <https://ror.org>, maintains code on a Github site at <https://www.github.com/ror-community>, maintains documentation on a Readme.io site at <https://ror.readme.io>, publishes blog posts at <https://ror.org/blog>, and manages support requests via email at <info@ror.org>. It is ROR's policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on these sites please contact <info@ror.org>.
 
 ## Site Visitors
 
@@ -36,7 +36,7 @@ ROR does not employ a formal membership model but ROR does engage in discussions
 
 ## Support Site
 
-ROR provides documentation and support guidance on a Github page (<https://github.com/ror-community>) to help enable ROR users to interact with ROR data and services. Github fully [complies](https://readme.io/gdpr/) with current privacy regulations.
+ROR provides documentation and support guidance on a Readme.io site (<https://ror.readme.io>) to help enable ROR users to interact with ROR data and services. Readme.io fully [complies](https://readme.io/gdpr/) with current privacy regulations.
 
 ## Metadata and Identifiers
 
