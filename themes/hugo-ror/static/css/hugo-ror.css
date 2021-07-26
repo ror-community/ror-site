@@ -8368,7 +8368,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
 .alert {
     border: 0;
     border-radius: 0;
-    color: #FFF;
+    color: #000;
     padding-top: .9rem;
     padding-bottom: .9rem;
 }
