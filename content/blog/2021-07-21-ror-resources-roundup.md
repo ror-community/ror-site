@@ -1,6 +1,6 @@
 +++
 title = "ROR Resources Roundup"
-date = "2021-07-21"
+date = "2021-07-27"
 draft = false
 tags = ["API", "Updates" ]
 categories = ["updates"]
