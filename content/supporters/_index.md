@@ -165,21 +165,27 @@ The advisory group includes people from around the world and across different ty
 > We support the ROR identifier and its future and we pledge to adopt and use ROR in our applications, tools, workflows, and communications."
 
 
+-   4Science
+-   Al-Shamal Private University
 -   asencis Ltd
 -   AfricArXiv
 -   Altum, Inc.
 -   [Alzahra University](https://ror.org/013cdqc34)
 -   [Arctic Data Center](https://ror.org/055hrh286)
 -   Ariadna Ediciones
+-   Arya College Jaipur
 -   [Association for Computing Machinery](https://ror.org/03wsadn68) 
+-   Beech Planning
 -   [Bielefeld University](https://ror.org/02hpadn98)
 -   BITECA SAS
 -   [Brazilian Institute of Information in Science and Technology](https://ror.org/006c42y96) (IBICT)
 -   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
 -   [Centre for East European and International Studies](https://ror.org/00a0w0523)
+-   Centre for Marine Applied Research
 -   [CERN](https://ror.org/01ggx4157)
 -   CHORUS
 -   [Coalition for Networked Information](https://ror.org/043fjtb89) (CNI)
+-   [Common Ground Research Networks](https://ror.org/01ajd9545)
 -   [Crossref](https://ror.org/02twcfp32)
 -   [DataCite e.V.](https://ror.org/04wxnsj81)
 -   [DataONE](https://ror.org/00hr5y405)
@@ -187,13 +193,17 @@ The advisory group includes people from around the world and across different ty
 -   Derwen, Inc.
 -   [Digital Science](https://ror.org/02ktfc112)
 -   [Dryad](https://ror.org/00x6h5n95)
+-   Environmental Data Initiative
 -   Europe PMC
 -   FREYA project 
 -   Helmholtz Open Science Office
 -   Hindawi Limited
 -   ISCP International Centre for Coaching Psychology Research
+-   [Instituto Nacional de Cardiología](https://ror.org/01fjcgc06)
+-   Instituto Universitario de Investigación Inudi Perú
 -   [International Union of Crystallography](https://ror.org/00vdend65)
 -   [Karlsruhe Institute of Technology](https://ror.org/04t3en479)
+-   [Knology](https://ror.org/05j5jkn24)
 -   Lens.org
 -   Litinfinite Journal
 -   Metadata Game Changers
@@ -205,16 +215,21 @@ The advisory group includes people from around the world and across different ty
 -   [Our Research](https://ror.org/02nr0ka47)
 -   Overton.io
 -   PANGAEA
+-   [Pensoft Publishers](https://ror.org/01znaqx63)
 -   Poltekkes Kemenkes Kendari
+-   Rockefeller University Press
 -   RRID initiative
 -   [RS Global Sp. z O.O.](https://ror.org/00m73vh91)
 -   [Saarland University and State Library](https://ror.org/01jdpyv68)
 -   SCImago Research Group
+-   Scientific Foundation SPIROSKI
 -   [State Scientific and Technical Library of Ukraine](https://ror.org/019tz0c71)
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
 -   [Thunken](https://ror.org/00pdj0786)
+-   Turkish Primary Education Association
 -   [Universidad Autónoma de Nuevo León](https://ror.org/01fh86n78)
+-   Universidad Nacional Autónoma de Tayacaja "Daniel Hernández Morillo"
 -   [Universidade Federal do Ceará](https://ror.org/03srtnf24)
 -   [Universität Konstanz](https://ror.org/0546hnb39)
 -   [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://ror.org/05591te55)
