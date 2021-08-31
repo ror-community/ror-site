@@ -10,7 +10,7 @@ style = "card-plain"
 
 ## ROR data
 
-ROR started with seed data from Digital Science's [GRID](https://grid.ac) database. [Ultimately the two registries will diverge](/blog/2021-07-12-ror-grid-the-way-forward). ROR records map to GRID IDs (along with other identifiers) and vice-versa.
+ROR started with seed data from Digital Science's [GRID](https://grid.ac) database. ROR IDs map to GRID IDs and vice-versa. The two registries will begin to diverge in Q4 2021 after GRID's [final public release](/blog/2021-07-12-ror-grid-the-way-forward).
 
 ROR records include basic metadata about an organization to help with discoverability and disambiguation (including alternate organization names, URL, location, and relationships to other organizations). ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
 
@@ -33,7 +33,8 @@ ROR's core components consist of the following:
 
 **ROR Github** (<https://github.com/ror-community>)  
 
-**ROR data dump** (<https://figshare.com/collections/ROR_Data/4596503>)
+**ROR data dump** (<https://zenodo.org/communities/ror-data>)
+
 
 ## Affiliation use case
 
