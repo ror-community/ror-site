@@ -12,9 +12,9 @@ author = "Maria Gould"
 
 In July, ROR and GRID [announced](/blog/2021-07-12-ror-grid-the-way-forward) that the two registries would begin to diverge following GRID's final public release in Q4 2021.
 
-GRID has now completed its latest and final public release, which was [published on September XX]. ROR has incorporated the updates in this release into its own data. With these two releases, there is a 1:1 correspondence of GRID IDs to ROR IDs, and vice versa.
+GRID has now completed its latest and final public release ([available here](https://grid.ac/downloads)). ROR has incorporated the updates in this release into its own data. With these two releases, there is a 1:1 correspondence of GRID IDs to ROR IDs, and vice versa.
 
-The new ROR dataset includes IDs and metadata for XXX,XXX organizations.
+The new ROR dataset includes IDs and metadata for 102,392 organizations.
 
 - Access the [ROR data dump](https://zenodo.org/communities/ror-data/)
 - Query the [ROR API](https://api.ror.org/organizations)
