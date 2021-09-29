@@ -23,7 +23,7 @@ The new ROR dataset includes IDs and metadata for 102,392 organizations.
 ROR has always planned to become independent of GRID. Since the July announcement, ROR has been working with community members to support their needs and use cases for transitioning from GRID to ROR.    
 
 ## How can I switch from GRID to ROR?
-The following resources are a good starting point for those transition from GRID to ROR. If you have questions, please post in the [ROR Tech Support discussion group](https://groups.google.com/a/ror.org/g/ror-api-users) so other users can be part of the conversation.
+The following resources are a good starting point for those transitioning from GRID to ROR. If you have questions, please post in the [ROR Tech Support discussion group](https://groups.google.com/a/ror.org/g/ror-api-users) so other users can be part of the conversation.
 
 - [ROR/GRID transition FAQ](https://ror.readme.io/docs/gridror-transition-faq)
 - [Technical docs](https://ror.readme.io/docs/rest-api) about ROR tools and services
