@@ -1,6 +1,6 @@
 +++
 title = "New ROR Update and Final GRID Sync"
-date = "2021-09-21"
+date = "2021-09-29"
 draft = false
 tags = ["Updates", "GRID" ]
 categories = ["updates"]
@@ -16,7 +16,7 @@ GRID has now completed its latest and final public release ([available here](htt
 
 The new ROR dataset includes IDs and metadata for 102,392 organizations.
 
-- Access the [ROR data dump](https://zenodo.org/communities/ror-data/)
+- Access the [ROR data dump](https://doi.org/10.5281/zenodo.5534442.)
 - Query the [ROR API](https://api.ror.org/organizations)
 - Search the [ROR registry](https://ror.org/search)
 
@@ -24,10 +24,11 @@ ROR has always planned to become independent of GRID. Since the July announcemen
 
 ## How can I switch from GRID to ROR?
 
+- [ROR/GRID transition FAQ](https://ror.readme.io/docs/gridror-transition-faq)
 - [Technical docs](https://ror.readme.io/docs/rest-api) about ROR tools and services
 - [Implementation guides](https://ror.readme.io/docs/map-other-organization-id-types-to-ror) with tips for using these tools/services to address specific use cases
-- Links to relevant code examples in the new [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) and out in the world
-- [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users) (formerly ROR API Users - we recently changed the name to make it clear that we welcome all sorts of tech questions/discussion).
+- Relevant code examples in the [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) and out in the world
+- [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users)
 
 ## When will ROR's first independent release happen?
 ROR is developing its infrastructure to support independent updates to the registry. The timeframe for ROR's first independent release is not yet finalized but we will continue to share information with the community about the projected schedule.
