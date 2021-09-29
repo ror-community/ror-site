@@ -23,12 +23,12 @@ The new ROR dataset includes IDs and metadata for 102,392 organizations.
 ROR has always planned to become independent of GRID. Since the July announcement, ROR has been working with community members to support their needs and use cases for transitioning from GRID to ROR.    
 
 ## How can I switch from GRID to ROR?
+The following resources are a good starting point for those transition from GRID to ROR. If you have questions, please post in the ROR Tech Support discussion group so other users can be part of the conversation.
 
 - [ROR/GRID transition FAQ](https://ror.readme.io/docs/gridror-transition-faq)
 - [Technical docs](https://ror.readme.io/docs/rest-api) about ROR tools and services
-- [Implementation guides](https://ror.readme.io/docs/map-other-organization-id-types-to-ror) with tips for using these tools/services to address specific use cases
-- Relevant code examples in the [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) and out in the world
-- [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users)
+- [Implementation guides](https://ror.readme.io/docs/map-other-organization-id-types-to-ror) for mapping GRID as well as other identifier types to ROR
+- Utility scripts [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) for working with the ROR API
 
 ## When will ROR's first independent release happen?
 ROR is developing its infrastructure to support independent updates to the registry. The timeframe for ROR's first independent release is not yet finalized but we will continue to share information with the community about the projected schedule.
