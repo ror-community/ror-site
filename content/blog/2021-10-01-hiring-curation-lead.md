@@ -6,7 +6,7 @@ tags = ["Updates", "Jobs", "Curation" ]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/banners/lion-trio.jpg"
+thumb = "/img/lion-couple-sq.jpg"
 author = "Maria Gould"
 +++
 
