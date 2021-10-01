@@ -10,11 +10,9 @@ thumb = "/img/banners/lion-trio.jpg"
 author = "Maria Gould"
 +++
 
-ROR is hiring!
-
 ROR is looking for a metadata curation lead to coordinate registry updates and maintenance, work with ROR’s community curation advisors, and develop and implement long-term curation policies and practices. This is an exciting time to join the ROR team and support ROR's emerging independent, community-based curation model.
 
-The job description and application instructions follow below. Please consider applying or help spread the word to your networks. 
+The job description and application instructions follow below. Please consider applying or help spread the word to your networks.
 
 # ROR Metadata Curation Lead
 
@@ -68,7 +66,8 @@ ROR is looking for a metadata curation lead to coordinate registry updates and m
 - Ability to lead small groups
 - Strong, compelling, and clear written, oral, and visual communication
 - Self-motivated to succeed and take initiative and seek continuous improvement
-- Desired skills
+
+## Desired skills
 - Outreach experience
 - Data science skills
 - Familiarity with scholarly research infrastructures and the open science landscape
