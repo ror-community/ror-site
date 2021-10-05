@@ -180,6 +180,7 @@ The advisory group includes people from around the world and across different ty
 -   BITECA SAS
 -   [Brazilian Institute of Information in Science and Technology](https://ror.org/006c42y96) (IBICT)
 -   [California Digital Library ](https://ror.org/03yrm5c26)(CDL)
+-   Centre for Computational Science Research
 -   [Centre for East European and International Studies](https://ror.org/00a0w0523)
 -   Centre for Marine Applied Research
 -   [CERN](https://ror.org/01ggx4157)
@@ -197,7 +198,7 @@ The advisory group includes people from around the world and across different ty
 -   Europe PMC
 -   FREYA project 
 -   Helmholtz Open Science Office
--   Hindawi Limited
+-   [Hindawi Limited](https://ror.org/02rt9z237)
 -   ISCP International Centre for Coaching Psychology Research
 -   [Instituto Nacional de Cardiología](https://ror.org/01fjcgc06)
 -   Instituto Universitario de Investigación Inudi Perú
@@ -205,8 +206,7 @@ The advisory group includes people from around the world and across different ty
 -   [Karlsruhe Institute of Technology](https://ror.org/04t3en479)
 -   [Knology](https://ror.org/05j5jkn24)
 -   Lens.org
--   Litinfinite Journal
--   Metadata Game Changers
+-   [Metadata Game Changers](https://ror.org/05bp8ka05)
 -   [Moscow State University](https://ror.org/010pmpe69)
 -   NASA's ADS Abstract Service
 -   [National Center for Ecological Analysis and Synthesis](https://ror.org/0146z4r19) (NCEAS)
@@ -226,13 +226,16 @@ The advisory group includes people from around the world and across different ty
 -   [State Scientific and Technical Library of Ukraine](https://ror.org/019tz0c71)
 -   [Swiss National Science Foundation](https://ror.org/00yjd3n13) (SNSF)
 -   [Technische Informationsbibliothek](https://ror.org/04aj4c181) (TIB) // German National Library of Science and Technology
+-   [Technische Universität Braunschweig](https://ror.org/010nsgg66)
 -   [Thunken](https://ror.org/00pdj0786)
 -   Turkish Primary Education Association
 -   [Universidad Autónoma de Nuevo León](https://ror.org/01fh86n78)
+-   [Universidad Azteca](https://ror.org/01r98zz61)
 -   Universidad Nacional Autónoma de Tayacaja "Daniel Hernández Morillo"
 -   [Universidade Federal do Ceará](https://ror.org/03srtnf24)
 -   [Universität Konstanz](https://ror.org/0546hnb39)
 -   [Universitätsbibliothek der Ludwig-Maximilians-Universität München](https://ror.org/05591te55)
+-   Universitätsbibliothek Regensburg
 -   [World Vegetable Center](https://ror.org/05dvmy761)
 -   Yazilim Parki Bilisim Teknolojileri
 
