@@ -21,7 +21,7 @@ Comprising the directors from each governing organization plus the ROR Project L
 ### Steering Group
 Comprising the Operations Team plus an additional 4 members external to the governing organizations, this group provides input on decisions and overall strategy, and support for ROR's growth and sustainability through outreach to funders, potential adopters, and other stakeholders in their respective networks.
 
-The current steering group representatives are:
+Current steering group representatives:
 
 -  **Matt Buys**, [DataCite](https://ror.org/04wxnsj81)
 -  **John Chodacki**, [California Digital Library](https://ror.org/03yrm5c26)
@@ -35,11 +35,34 @@ The current steering group representatives are:
 ### Project Team
 Comprising representatives from each governing organization, this group is led by the ROR Project Lead and includes sub-groups focused on product development, outreach, and adoption. 
 
+Current project team:
+-  **Geoffrey Bilder**, Crossref (Technical Advisor)
+-  **Esha Datta**, Crossref (Technical Lead)
+-  **Maria Gould**, California Digital Library (Project Lead)
+-  **Richard Hallett**, DataCite (DevOps Support)
+-  **Ginny Hendricks**, Crossref (Outreach)
+-  **Liz Krznarich**, DataCite (Adoption Manager)
+-  **Rachael Lammey**, Crossref (Outreach)
+-  **Paul Vierkant**, DataCite (Outreach)
+
 ### Community Advisory Group
 Comprising individuals from around the world representing a range of organization types, this is a voluntary group of users and stakeholders interested in adopting and championing ROR in their work and networks and who participate in regular meetings to discuss project updates and provide feedback. 
 
-### Curation Team
-Comprising ROR community members and the ROR Project Lead, this group advises on curation practices and standards for ROR to implement.
+[See the list of Advisory Group members](/supporters).
+
+### Curation Advisory Board
+Comprising ROR community members and the ROR Project Lead, the Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
+
+Current advisory board members:
+-  **Mike Conlon**, University of Florida / VIVO
+-  **Nick Lundvick**, Argonne National Laboratory
+-  **Carly Robinson**, OSTI/DOE
+-  **Arthur Smith**, American Physical Society
+-  **Martin Spenger**, LMU Munich
+-  **Kelly Stathis**, Portage Network
+-  **Niklas Zimmer**, University of Cape Town
+
+Read more about ROR's [community-based curation process](https://github.com/ror-community/ror-updates#readme).
 
 ## Business Model 
 ROR is designed to be a free service with optional fee-based services to be provided in the future. ROR data is freely and openly available without any restrictions under the terms of the Creative Commons CC0 1.0 Universal Public Domain dedication. ROR code is available on Github under a MIT License.
