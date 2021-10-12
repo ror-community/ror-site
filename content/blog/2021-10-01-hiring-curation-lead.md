@@ -10,11 +10,11 @@ thumb = "/img/lion-couple-sq.jpg"
 author = "Maria Gould"
 +++
 
-ROR is looking for a metadata curation lead to coordinate registry updates and maintenance, work with ROR’s community curation advisors, and develop and implement long-term curation policies and practices. This is an exciting time to join the ROR team and support ROR's emerging independent, community-based curation model.
+ROR is looking for a data manager to lead metadata curation activities for the registry, including coordinating registry updates and maintenance, working with ROR’s community curation advisors, and developing and implement long-term curation policies and practices. This is an exciting time to join the ROR team and support ROR's emerging independent, community-based curation model.
 
 The job description and application instructions follow below. Please consider applying or help spread the word to your networks.
 
-# ROR Metadata Curation Lead
+# ROR Data Manager
 
 The Research Organization Registry (ROR) is a community-led registry of open, sustainable, usable, and unique identifiers for every research organization in the world.
 
@@ -22,7 +22,7 @@ ROR is a cross-organization collaborative led by California Digital Library, Cro
 
 The ROR registry includes IDs and metadata for more than 100,000 research organizations. ROR receives regular input from its global community of users and stakeholders about records that should be added to or updated in the registry. ROR also seeks and incorporates input from the broader community about policies and processes for maintaining registry data. ROR has implemented a community-based curation workflow for processing registry feedback and implementing registry updates.
 
-ROR is looking for a metadata curation lead to coordinate registry updates and maintenance, work with ROR’s community curation advisors, and develop and implement long-term curation policies and practices.
+ROR is looking for a data manager to lead metadata curation activities for the registry, including coordinating registry updates and maintenance, working with ROR’s community curation advisors, and developing and implement long-term curation policies and practices.
 
 ## Responsibilities
 ### (1) Coordinate community-based curation processes
