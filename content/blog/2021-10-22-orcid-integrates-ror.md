@@ -10,7 +10,7 @@ thumb = "/img/orcid-id-icon.png"
 author = "Tom Demeranville, Paula Demain, and Dan Dineen"
 +++
 
-_This is a guest post by the ORCID team that was originally published on the ORCID blog. See the original post [here](https://info.orcid.org/add-research-institution-identifiers-with-ror/)._
+_This is a guest post by the [ORCID](https://orcid.org) team that was originally published on the ORCID blog. See the original post [here](https://info.orcid.org/add-research-institution-identifiers-with-ror/)._
 
 As part of our ongoing commitment to increase value to our researchers and our members, we are pleased to announce that the [Research Organization Registry (ROR)](https://ror.org) has been added to the ORCID Registry as a disambiguated Organization ID. ROR can now be used with the API and our Affiliation Manager to record research institution identifiers and metadata, thus making it easier to track the impact of institutional research. ORCID’s own staff affiliations have now been updated to include a ROR ID!
 
@@ -39,8 +39,8 @@ Here at ORCID, we continue with our [work to integrate ROR into the Registry](ht
 
 If you need assistance adopting ROR within your ORCID integration, please reach out to your Consortial Lead or your Engagement Lead.
 
-_Tom is ORCID's Product Director, he ensures our technology is responsive to our community and aligned with our mission.
+_Tom is ORCID's Product Director, he ensures our technology is responsive to our community and aligned with our mission._
 
-Paula is ORCID's Product Manager, responsible for gathering, managing and refining the requirements of the ORCID user community, with a specific focus on members and integrators.
+_Paula is ORCID's Product Manager, responsible for gathering, managing and refining the requirements of the ORCID user community, with a specific focus on members and integrators._
 
-Dan is our UX designer. He works making sure we have usable, accessible products that are a joy to use.
+_Dan is our UX designer. He works making sure we have usable, accessible products that are a joy to use._
