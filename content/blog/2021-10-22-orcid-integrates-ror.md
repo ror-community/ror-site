@@ -6,7 +6,7 @@ tags = ["Updates", "Integrations", "ORCID" ]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/orcid-id-icon.jpg"
+thumb = "/img/orcid-id-icon.png"
 author = "Tom Demeranville, Paula Demain, and Dan Dineen"
 +++
 
@@ -23,7 +23,7 @@ _Example API code for ROR_
 ## A short history of ROR’s inception
 The scholarly research community depends on a series of open identifier and metadata infrastructure systems to accurately identify and disambiguate researchers, their work, and the institutions that support that work.
 
-To help complete a missing piece of the infrastructure puzzle, [ROR was launched in 2019](https://ror.org/about/#history). It  is now a collaborative initiative run by [California Digital Library (CDL)[(https://cdlib.org)], [Crossref](https://crossref.org), and [DataCite](https://datacite.org).
+To help complete a missing piece of the infrastructure puzzle, [ROR was launched in 2019](https://ror.org/about/#history). It  is now a collaborative initiative run by [California Digital Library (CDL)](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org).
 
 ## Why ROR? Why now?
 There are numerous ways data is used within the persistent identifier (PID) ecosystem, and affiliation is the key. Knowing where research is coming from, accessing clean and consistent data, and being able to report on the output of institutional research is central to many research stakeholders.
@@ -43,4 +43,4 @@ _Tom is ORCID's Product Director, he ensures our technology is responsive to our
 
 Paula is ORCID's Product Manager, responsible for gathering, managing and refining the requirements of the ORCID user community, with a specific focus on members and integrators.
 
-Dan is our UX designer. He works making sure we have usable, accessible products that are a joy to use._
+Dan is our UX designer. He works making sure we have usable, accessible products that are a joy to use.
