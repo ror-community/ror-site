@@ -28,68 +28,41 @@ All our work is publicly available on <https://github.com/ror-community> and <ht
 
 # Responsibilities and duties
 
-- Lead the ROR technical strategy in consultation with various stakeholders, including the ROR Operations Team.
-
-- Collaborate closely with the ROR team on day to day activities, including the ROR Project Lead, Adoption Manager and Data Manager.
-
+- Lead the ROR technical strategy in consultation with various stakeholders, including the ROR Operations Team
+- Collaborate closely with the ROR team on day to day activities, including the ROR Project Lead, Adoption Manager and Data Manager
 - Participate as an active member of the ROR Operations Team (including stakeholders from the governing organizations)
-
 - Collaborate with the ROR team to develop specifications and prioritize development tasks
-
-- Develop full-stack product features in an open source software environment, including user-facing front-end services and backend APIs.
-
-- Refactor applications and infrastructure as needed  and to ensure services run smoothly and reliably.
-
-- Test, deploy and monitor applications, and react to problems.
-
-- Collaborate with the rest of the DataCite Engineering team and follow best practices and processes in place  to provide a quality and iterative environment.
-
-- Support the DataCite development team in shared services.
-
-- Advocate for product quality, security and performance.
-
-- Follow industry best practices for highly scalable web applications and services, and work with the team to provide suggestions for improvement.
-
+- Develop full-stack product features in an open source software environment, including user-facing front-end services and backend APIs
+- Refactor applications and infrastructure as needed  and to ensure services run smoothly and reliably
+- Test, deploy and monitor applications, and react to problems
+- Collaborate with the rest of the DataCite Engineering team and follow best practices and processes in place  to provide a quality and iterative environment
+- Support the DataCite development team in shared services
+- Advocate for product quality, security and performance
+- Follow industry best practices for highly scalable web applications and services, and work with the team to provide suggestions for improvement
 - Develop and maintain documentation for common operational tasks
 
 # Requirements
 
-- Experience architecting and leading global projects.
-
-- Preferably based in a timezone that aligns with the Americas.
-
-- Proven experience as a Full stack Developer.
-
+- Experience architecting and leading global projects
+- Preferably based in a timezone that aligns with the Americas
+- Proven experience as a Full stack Developer
 - Proficiency with fundamental front-end technologies, HTML/CSS/Javascript
-
 - 3+ years of experience with server-side languages such as Python or Ruby
-
-- Hands-on experience architecting, developing, deploying, and maintaining web applications, including system administration, monitoring, log management, and support.
-
-- Familiarity with relational databases and search engines such as ElasticSearch.
-
-- Familiarity with cloud computing and DevOps practices including Infrastructure as Code. 
-
-- Excellent communication skills, and the flexibility that is needed for working in a small, distributed team.
+- Hands-on experience architecting, developing, deploying, and maintaining web applications, including system administration, monitoring, log management, and support
+- Familiarity with relational databases and search engines such as ElasticSearch
+- Familiarity with cloud computing and DevOps practices including Infrastructure as Code
+- Excellent communication skills, and the flexibility that is needed for working in a small, distributed team
 
 # Nice to have
 
 - Experience with AWS, Terraform and Git/Github
-
 - Experience with Django or similar
-
-- Strong interest in open science and data sharing.
-
-- Experience with performance investigation and optimization.
-
-- Understanding of code review processes.
-
-- Good technical documentation skills.
-
-- Computer science education or equivalent experience.
-
-- Interest to learn and use other programming languages.
-
+- Strong interest in open science and data sharing
+- Experience with performance investigation and optimization
+- Understanding of code review processes
+- Good technical documentation skills
+- Computer science education or equivalent experience
+- Interest to learn and use other programming languages
 - Familiarity with events driven architecture, distributed systems, serverless architecture and async processing
 
 Above all what we value are smart and engaged software engineers who care about the work they do and the quality of the end result, this makes up for any lack of experience you may have in any of the above requirements.
@@ -101,17 +74,11 @@ DataCite is committed to a policy of non-discrimination and equal opportunity fo
 # Why work for us
 
 - Full-time, fully remote position
-
 - Healthcare and retirement benefits in alignment with local conventions
-
 - 30 days vacation time annually and 1 day paid extra for volunteer work of your choice
-
 - Flexible working hours
-
 - Option to work in co-working with a paid contribution from us.
-
 - Opportunity to learn something new every day, we are an evolving community and team
-
 - Adaptable - we embrace change and uncertainty and work together to adapt to new situations
 
 # To apply
