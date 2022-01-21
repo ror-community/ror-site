@@ -8,13 +8,14 @@ style = "card-plain"
 
 *Need quick information about ROR at a glance? Start here!*
 
-## ROR data
-
-ROR started with seed data from Digital Science's [GRID](https://grid.ac) database. ROR IDs map to GRID IDs and vice-versa. The two registries will begin to diverge in Q4 2021 after GRID's [final public release](/blog/2021-07-12-ror-grid-the-way-forward).
-
-ROR records include basic metadata about an organization to help with discoverability and disambiguation (including alternate organization names, URL, location, and relationships to other organizations). ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
+## Using ROR data and services
 
 All ROR IDs and metadata are provided under the [Creative Commons CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0//).
+
+There are no fees or access requirements for the ROR API and public data dump.
+
+Learn more about working with ROR data and services on the [ROR support site](https://ror.readme.io).
+
 
 ## Core components
 
@@ -23,7 +24,8 @@ ROR's core components consist of the following:
 **ROR ID** (Example: <https://ror.org/03yrm5c26>)
 - Expressed as a URL that resolves to the organization's record     
 - Unique and opaque character string: leading 0 followed by 6 characters (excludes I,L,O) and a 2-digit checksum based on the Crockford base-32 url library and [ISO-7064](https://www.iso.org/standard/31531.html)     
-- Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)     
+- Crosswalks with other identifiers for the organization (GRID, ISNI, Crossref Funder Registry, Wikidata)  
+- Metadata records associated with every ROR ID include basic information about an organization to help with discoverability and disambiguation (including alternate organization names, URL, location, and relationships to other organizations). ROR can support multiple languages and character sets (here is an example: <https://ror.org/01k4yrm29>).
 
 **ROR search** (<https://ror.org/search>)
 
@@ -35,6 +37,13 @@ ROR's core components consist of the following:
 
 **ROR data dump** (<https://zenodo.org/communities/ror-data>)
 
+## Relationship to other identifiers
+
+ROR is interoperable with other identifiers. ROR IDs map to GRID, ISNI, Crossref Funder ID, and Wikidata.
+
+For ROR to be useful, it needs to augment the current offerings in a way that is open, trusted, complementary, and collaborative, and not intentionally competitive. We are committed to providing a service that the community finds helpful and not duplicative, and enables as many connections as possible between organization records across systems.
+
+Some aspects of ROR that make it different from other identifiers are that the registry is (a) community-led, (b) completely open, and \(c) focused specifically on the affiliation use case.
 
 ## Affiliation use case
 
@@ -43,14 +52,6 @@ ROR's focus is the "affiliation use case" - identifying which organizations are 
 ## Criteria for inclusion in ROR
 
 ROR is a registry of "research organizations." We define the "research organization" as any organization that conducts, produces, manages, or touches research. This is in line with ROR's stated scope, which is to address the affiliation use case and be able to connect organizations to research outputs. 
-
-## Relationship to other identifiers
-
-ROR is interoperable with other identifiers. ROR IDs map to GRID, ISNI, Crossref Funder ID, and Wikidata.
-
-For ROR to be useful, it needs to augment the current offerings in a way that is open, trusted, complementary, and collaborative, and not intentionally competitive. We are committed to providing a service that the community finds helpful and not duplicative, and enables as many connections as possible between organization records across systems.
-
-Some aspects of ROR that make it different from other identifiers are that the registry is (a) community-led, (b) completely open, and \(c) focused specifically on the affiliation use case.
 
 ## Granularity and hierarchy
 
@@ -64,7 +65,9 @@ Use the [ROR curation request form](/curation) to request an update to an existi
 
 ROR operations are administered by California Digital Library, Crossref, and DataCite and advised by a larger [steering group](/about/#steering-group). The ROR steering group is responsible for strategic decision-making about governance, sustainability, and overall project direction.
 
-There is also a [community advisory group](/supporters) of 40+ volunteers from across the research sector who contribute to discussions and planning around issues such as data curation, policies, adoption, and engagement. ROR [supporters](/supporters) have also contributed financially.
+There is also a [community advisory group](/community) of users and stakeholders from across the research sector who contribute to discussions and planning around issues such as data curation, policies, adoption, and engagement.
+
+ROR is funded through partial in-kind support from its three operating organizations, time-limited grant funds, and contributions from organizations that support ROR. Learn more about ROR [supporters](/supporters).
 
 ## Integrations
 
