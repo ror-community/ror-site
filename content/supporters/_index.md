@@ -14,15 +14,11 @@ The community-based aspect of ROR sets it apart from similar efforts in this spa
 
 Community support for ROR takes many forms, primarily through the following areas:
 
--   **Operations and leadership**: ROR is operated by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org)---three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. 
-
--   **Governance**: The ROR [steering group](/governance/#steering-group) is a small advisory body that supports the registry's strategic planning and decision-making activities. The ROR [community advisory group](/community) is a larger, voluntary group of ROR users and stakeholders from around the world who work to adopt and champion ROR in their work and networks. Representing a range of organization types, group members participate in regular meetings to discuss project updates and provide feedback.
-
--   **Adoption**: Many organizations are [integrating](/integrations) ROR IDs in their systems and using ROR data and services in different ways. The ROR adoption working group is an opportunity for those actively working on or planning ROR integrations to get support and share information about their implementations.
-
--   **Curation**: The ROR [curation advisory board](/curation) reviews proposed updates to the registry and advises on curation practices and standards for ROR to implement.
-
--   **Funders**: ROR is funded through in-kind support from its three operating organizations, time-limited grant funds, and contributions from community supporters.
+-  **Operations and leadership**: ROR is operated by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org)---three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. 
+-  **Governance**: The ROR [steering group](/governance/#steering-group) is a small advisory body that supports the registry's strategic planning and decision-making activities. The ROR [community advisory group](/community) is a larger, voluntary group of ROR users and stakeholders from around the world who work to adopt and champion ROR in their work and networks. Representing a range of organization types, group members participate in regular meetings to discuss project updates and provide feedback.
+-  **Adoption**: Many organizations are [integrating](/integrations) ROR IDs in their systems and using ROR data and services in different ways. The ROR adoption working group is an opportunity for those actively working on or planning ROR integrations to get support and share information about their implementations.
+-  **Curation**: The ROR [curation advisory board](/curation) reviews proposed updates to the registry and advises on curation practices and standards for ROR to implement.
+-  **Funders**: ROR is funded through in-kind support from its three operating organizations, time-limited grant funds, and contributions from community supporters.
 
 ## Financial supporters
 
