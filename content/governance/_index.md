@@ -51,7 +51,7 @@ Comprising individuals from around the world representing a range of organizatio
 [See the list of Advisory Group members](/supporters).
 
 ### Curation Advisory Board
-Comprising ROR community members and the ROR Project Lead, the Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
+Comprising ROR community members and the ROR Metadata Curation Lead, the Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
 
 Current advisory board members:
 -  **Mike Conlon**, University of Florida / VIVO
