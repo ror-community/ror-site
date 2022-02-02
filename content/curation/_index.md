@@ -20,3 +20,6 @@ Use the [ROR request form](https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7m
 Requests submitted via the feedback form go through an initial triage and are added to the ROR Updates tracker on Github for community curators to review. Curators review the feedback and decide how the proposed changes should be processed. Approved requests will end up in a queue for metadata preparation so the changes can be deployed on the ROR production site.
 
 Learn more about the curation process and review ROR's curation policies on [Github](https://github.com/ror-community/ror-updates#readme).
+
+# ROR request form
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
