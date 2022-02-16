@@ -35,15 +35,15 @@ Current steering group representatives:
 ### Project Team
 Comprising representatives from each governing organization, this group is led by the ROR Project Lead and includes sub-groups focused on product development, outreach, and adoption. 
 
-Current project team:
--  **Geoffrey Bilder**, Crossref (Technical Advisor)
--  **Esha Datta**, Crossref (Technical Lead)
--  **Maria Gould**, California Digital Library (Project Lead)
--  **Richard Hallett**, DataCite (DevOps Support)
--  **Ginny Hendricks**, Crossref (Outreach)
--  **Liz Krznarich**, DataCite (Adoption Manager)
--  **Rachael Lammey**, Crossref (Outreach)
--  **Paul Vierkant**, DataCite (Outreach)
+-  **Geoffrey Bilder**, Technical Advisor
+-  **Adam Buttrick**, Metadata Curation Lead
+-  **Esha Datta**, Technical Lead, outgoing
+-  **Maria Gould**, Project Lead
+-  **Richard Hallett**, DevOps support
+-  **Ginny Hendricks**, Outreach support
+-  **Liz Krznarich**, Technical Lead, incoming
+-  **Rachael Lammey**, Outreach support
+-  **Paul Vierkant**, Outreach support
 
 ### Community Advisory Group
 Comprising individuals from around the world representing a range of organization types, this is a voluntary group of users and stakeholders interested in adopting and championing ROR in their work and networks and who participate in regular meetings to discuss project updates and provide feedback. 
