@@ -13,13 +13,14 @@ The end of January 2022 marked the third anniversary of [ROR's launch](https://r
 
 The 2022 ROR annual meeting consisted of 2 virtual sessions with around 100 community members from 26 different countries. We reviewed developments from 2021, discussed upcoming milestones in 2022, [heard from ROR adopters](https://www.youtube.com/watch?v=wBBMM_2M1X8&list=PL4n_Cvd0PpoHfsM3_6VfhAovGIfL3Z79x) about how ROR IDs are being implemented in a variety of settings, and brainstormed ideas for the future.
 
-{{< figure src="/img/ror-meeting-hopes.png">}}
+_Snapshot of community feedback on future directions for ROR_
+{{< figure src="/img/ror-meeting-hopes.png" width="75%" >}}
 
 Read on for a recap of the meeting's highlights. Some of these will be covered in more detail in forthcoming blog posts, so stay tuned!
 
 ## Changes on the ROR team
 
-The new year for ROR also came with some changes on the ROR team. First of all, we are pleased to introduce **Adam Buttrick** as the newest member of the ROR pride. Adam has been hired as ROR's metadata curation lead to coordinate ongoing updates and improvements to the registry and work closely with ROR's curation advisory board to develop and implement ROR's community-based curation model. A librarian and developer based in Los Angeles, USA, Adam previously worked as a data developer for the Getty Conservation Institute, as an implementation manager for OCLC's Metadata Services, and for the University of Michigan's Art, Architecture, and Engineering Library. We are excited and fortunate to have Adam working on the many aspects of ROR's curation!
+The new year for ROR also came with some changes on the ROR team. First of all, we are pleased to introduce **Adam Buttrick** as the newest member of the ROR pride. Adam has been hired as ROR's metadata curation lead to coordinate ongoing updates and improvements to the registry and work closely with ROR's [curation advisory board](/governance/#curation-advisory-board) to develop and implement ROR's community-based curation model. A librarian and developer based in Los Angeles, USA, Adam previously worked as a data developer for the Getty Conservation Institute, as an implementation manager for OCLC's Metadata Services, and for the University of Michigan's Art, Architecture, and Engineering Library. We are excited and fortunate to have Adam working on the many aspects of ROR's curation!
 
 ROR's technical team is undergoing a transition this month as our current Technical Lead, **Esha Datta**, is returning full-time to Crossref in March having been on loan to ROR for the past couple of years. Esha worked on the original ROR prototype back in 2018 and more recently developed ROR's new infrastructure to support independent curation of the registry. We are grateful for Esha's many contributions and sorry to see her go, but we know Crossref is eager to have her back.
 
