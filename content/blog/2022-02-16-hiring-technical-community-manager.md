@@ -6,7 +6,7 @@ tags = ["Updates"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-closeup-sq.jpg"
+thumb = "/img/lion-crew-sq.jpg"
 author = "Maria Gould"
 +++
 
@@ -23,53 +23,37 @@ This position is full-time, fully remote, so location and hours are flexible. Ov
 #### (1) Build strategies to drive adoption and technical implementation
 
 -   Identify opportunities and challenges for adoption and integration of ROR in key research and scholarly communication systems and workflows
-
 -   Develop and implement strategies to encourage and support the adoption and integration of ROR into those key systems and workflows
-
 -   Develop measures/benchmarks to assess and communicate adoption progress both internally and to the ROR community
 
 #### (2) Lead technical community engagement efforts
 
 -   Organize regular meetings, webinars, and other events for new and current integrators
-
 -   Engage with the ROR community to develop and encourage integration best practices
-
 -   Build and maintain tools and documentation that meet the needs of key communities
-
 -   Engage with the ROR community to identify needs and develop specifications for improvements and new features
-
 -   Provide first-line support/troubleshooting help to adopters
 
 #### (3) Cultivate and manage relationships with adopters
 
 -   Identify and engage with potential ROR adopters, such as publishers, funders, repositories, research institutions, and the service providers/developers that provide systems to those organizations
-
 -   Maintain ongoing communication with adopters through regular check-ins to ensure their integration work is well-supported
-
 -   Consult with adopters to recommend ROR integration approaches for their particular system/use case, collaborating with other ROR team members as needed
-
 -   Communicate feedback about adopter needs to the ROR team
 
 #### (4) Contribute to the development and implementation of overall ROR strategies
 
 -   Work with ROR and Crossref teams to develop and implement outreach strategies that support wider adoption
-
 -   Collaborate with ROR team on product development strategy
 
 ## Skills and experience
 
 -   Community management experience, particularly in an international environment. This encompasses a mix of interpersonal, technical, program management, program development and communication skills. The [CSCCE skills wheel](https://doi.org/10.5281/zenodo.4437294) is a good resource to explore what is meant by these in the context of community management.
-
 -   Deep knowledge of research & scholarly communications systems, workflows and familiarity with the academic research environment 
-
 -   Familiarity with research infrastructure and the open science landscape 
-
 -   Ability to work remotely with small distributed teams across time zones
-
 -   Strong, compelling, and clear written, oral, and visual communication
-
 -   Sufficient technical skills to advise adopters on integrations, including experience with making and troubleshooting requests to RESTful APIs and familiarity with XML and JSON data structures (or technical aptitude and desire to learn!)
-
 -   Self-motivated to succeed, take initiative, and seek continuous improvement
 
 ## Working at ROR & Crossref
