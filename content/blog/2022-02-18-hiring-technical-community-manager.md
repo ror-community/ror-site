@@ -2,7 +2,7 @@
 title = "ROR Is Hiring a Technical Community Manager"
 date = "2022-02-18"
 draft = false
-tags = ["Updates"]
+tags = ["Updates", "Jobs", "Development", "Community", "Adoption"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
@@ -18,7 +18,7 @@ The Technical Community Manager will work closely with the small and committed c
 
 This position is full-time and fully remote, so location and hours are flexible. Overlap with the US Pacific timezone will be necessary. As pandemic circumstances allow, we expect to resume a small amount of international travel for meetings and events.
 
-## Responsibilities
+## **Responsibilities**
 
 #### **(1) Build strategies to drive adoption and technical implementation**
 
@@ -56,7 +56,7 @@ This position is full-time and fully remote, so location and hours are flexible.
 -   Sufficient technical skills to advise adopters on integrations, including experience with making and troubleshooting requests to RESTful APIs and familiarity with XML and JSON data structures (or technical aptitude and desire to learn!)
 -   Self-motivated to succeed, take initiative, and seek continuous improvement
 
-## Working at ROR & Crossref
+## **Working at ROR & Crossref**
 
 As a young start-up initiative, ROR is a dynamic place to work as we are growing quickly and laying the groundwork for long-term sustainability. We are a fun community (we do actually roar sometimes 🦁) but we also take our work seriously. ROR's three operating organizations work closely together and everyone contributing to ROR balances the needs of ROR with those of their home organization. We also work closely with ROR adopters and community stakeholders through working groups and advisory boards and aim for all of these activities to be open and transparent, in line with the [Principles of Open Scholarly Infrastructure](https://principlesofopenscholarlyinfrastructure.org) (POSI).
 
@@ -64,7 +64,7 @@ ROR has a Project Lead based at CDL and a Metadata Curation Lead with Crossref. 
 
 Crossref is about [40 staff](https://www.crossref.org/people). We are active supporters of ongoing professional development opportunities and promote self-learning at every opportunity. We are dedicated to an open and fair research ecosystem and that's reflected in our ethos and staff culture. 
 
-## Thinking of applying?
+## **Thinking of applying?**
 
 We especially encourage applications from people with backgrounds historically underrepresented in research and scholarly communications.
 
@@ -72,7 +72,7 @@ The role will be accountable to the [ROR operations team](https://ror.org/govern
 
 To apply, please send a CV along with a covering letter to <jobs@ror.org> by 16th March 2022. Interviews will take place in late March/early April. 
 
-## Equal opportunities commitment
+## **Equal opportunities commitment**
 
 Crossref and ROR are committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, colour, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. Crossref and ROR will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
 
