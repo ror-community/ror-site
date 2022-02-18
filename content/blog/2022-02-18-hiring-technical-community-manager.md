@@ -48,7 +48,7 @@ This position is full-time and fully remote, so location and hours are flexible.
 
 ## **Skills and experience**
 
--   Several years of community management experience, particularly in an international environment. This encompasses a mix of interpersonal, technical, program management, program development and communication skills. The [CSCCE skills wheel](https://doi.org/10.5281/zenodo.4437294) is a good resource to explore what is meant by these in the context of community management.
+-   Community management experience, particularly in an international environment. This encompasses a mix of interpersonal, technical, program management, program development and communication skills. The [CSCCE skills wheel](https://doi.org/10.5281/zenodo.4437294) is a good resource to explore what is meant by these in the context of community management. While we don't require a specific number of years of experience, this is a senior position, and entry-level candidates are unlikely to be considered.
 -   Deep knowledge of research and scholarly communications systems and workflows, and familiarity with the academic research environment 
 -   Familiarity with research infrastructure and the open science landscape 
 -   Ability to work remotely with small distributed teams across time zones
