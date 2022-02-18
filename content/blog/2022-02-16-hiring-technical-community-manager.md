@@ -10,13 +10,13 @@ thumb = "/img/lion-crew-sq.jpg"
 author = "Maria Gould"
 +++
 
-The Research Organization Registry (ROR) is looking for a full-time Technical Community Manager, based at Crossref, to expand the adoption and integration of ROR throughout the global scholarly communications ecosystem.
+ROR is hiring! We are looking for a full-time Technical Community Manager, based at Crossref, to expand the adoption and integration of ROR throughout the global scholarly communications ecosystem.
 
-ROR is a community-led initiative to develop an open, sustainable, usable, and unique identifier for every research organization in the world. It is jointly managed by DataCite, Crossref, and California Digital Library. Each of these operating organizations provides input on decisions and strategies that support the growth and sustainability of ROR. Our goal is to address the problem of tracking affiliations in research communications. The Technical Community Manager will be a key driver of that change.
+ROR (Research Organization Registry) is a community-led initiative to develop an open, sustainable, usable, and unique identifier for every research organization in the world. It is jointly managed by DataCite, Crossref, and California Digital Library. Each of these operating organizations provides input on decisions and strategies that support the growth and sustainability of ROR. Our goal is to address the problem of tracking affiliations in research communications. The Technical Community Manager will be a key driver of that change.
 
-You will work closely with the small and committed core ROR team, staff from the three operating organizations, and the broader ROR community to promote and support the adoption of ROR in key systems used throughout research and scholarly communications workflows. This includes engaging with new and existing ROR adopters and other community stakeholders to understand their workflows and systems, and to guide their implementations and integrations.
+The Technical Community Manager will work closely with the small and committed core ROR team, staff from the three operating organizations, and the broader ROR community to promote and support the adoption of ROR in key systems used throughout research and scholarly communications workflows. This includes engaging with new and existing ROR adopters and other community stakeholders to understand their workflows and systems, and to guide their implementations and integrations.
 
-This position is full-time, fully remote, so location and hours are flexible. Overlap with US Pacific timezone will be necessary. As pandemic circumstances allow, we expect to resume a small amount of international travel for meetings and events.
+This position is full-time and fully remote, so location and hours are flexible. Overlap with the US Pacific timezone will be necessary. As pandemic circumstances allow, we expect to resume a small amount of international travel for meetings and events.
 
 ## Responsibilities
 
@@ -48,8 +48,8 @@ This position is full-time, fully remote, so location and hours are flexible. Ov
 
 ## Skills and experience
 
--   Community management experience, particularly in an international environment. This encompasses a mix of interpersonal, technical, program management, program development and communication skills. The [CSCCE skills wheel](https://doi.org/10.5281/zenodo.4437294) is a good resource to explore what is meant by these in the context of community management.
--   Deep knowledge of research & scholarly communications systems, workflows and familiarity with the academic research environment 
+-   Several years of community management experience, particularly in an international environment. This encompasses a mix of interpersonal, technical, program management, program development and communication skills. The [CSCCE skills wheel](https://doi.org/10.5281/zenodo.4437294) is a good resource to explore what is meant by these in the context of community management.
+-   Deep knowledge of research and scholarly communications systems and workflows, and familiarity with the academic research environment 
 -   Familiarity with research infrastructure and the open science landscape 
 -   Ability to work remotely with small distributed teams across time zones
 -   Strong, compelling, and clear written, oral, and visual communication
@@ -60,7 +60,7 @@ This position is full-time, fully remote, so location and hours are flexible. Ov
 
 As a young start-up initiative, ROR is a dynamic place to work as we are growing quickly and laying the groundwork for long-term sustainability. We are a fun community (we do actually roar sometimes 🦁) but we also take our work seriously. ROR's three operating organizations work closely together and everyone contributing to ROR balances the needs of ROR with those of their home organization. We also work closely with ROR adopters and community stakeholders through working groups and advisory boards and aim for all of these activities to be open and transparent.
 
-ROR has a Project Lead based at CDL and a Metadata Lead with Crossref. Our Adoption Lead has become our full-time Tech Lead (at DataCite) and so we're now reshaping the adoption role in the ROR team as Technical Community Management. This is a full-time role focused on ROR and you will be a staff member at Crossref which will include balancing being part of two teams - ROR - and Crossref.
+ROR has a Project Lead based at CDL and a Metadata Lead with Crossref. Our Adoption Lead has recently become our full-time Technical Lead (at DataCite) and so we're now reshaping the adoption role in the ROR team as Technical Community Management. This is a full-time role focused on ROR and you will be a staff member at Crossref which will include balancing being part of two teams - ROR - and Crossref.
 
 Crossref is about [40 staff](https://www.crossref.org/people). We are active supporters of ongoing professional development opportunities and promote self-learning at every opportunity. We are dedicated to an open and fair research ecosystem and that's reflected in our ethos and staff culture. 
 
@@ -68,7 +68,7 @@ Crossref is about [40 staff](https://www.crossref.org/people). We are active sup
 
 We especially encourage applications from people with backgrounds historically underrepresented in research and scholarly communications.
 
-The role will be accountable to the [ROR operations team](https://ror.org/governance/) and within Crossref will report to Ginny Hendricks who will review applications along with Maria Gould and Liz Krznarich. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 90-minute online interview which will include an exercise you'll have a chance to prepare for.
+The role will be accountable to the [ROR operations team](https://ror.org/governance/) and within Crossref will report to Ginny Hendricks who will review applications along with Project Lead Maria Gould and Technical Lead Liz Krznarich. Candidates who meet the qualifications will be invited to a 30-minute screening call. Those subsequently shortlisted will be invited to a 90-minute online interview which will include an exercise you'll have a chance to prepare for.
 
 To apply, please send a CV along with a covering letter to <jobs@ror.org> by 16th March 2022. Interviews will take place in late March/early April. 
 
