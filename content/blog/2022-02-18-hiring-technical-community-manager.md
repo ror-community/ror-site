@@ -14,9 +14,9 @@ ROR is hiring! We are looking for a full-time Technical Community Manager to exp
 
 [ROR](https://ror.org) (Research Organization Registry) is a community-led initiative to develop an open, sustainable, usable, and unique identifier for every research organization in the world. It is jointly managed by [DataCite](https://datacite.org), [Crossref](https://crossref.org), and [California Digital Library](https://cdlib.org). Each of these operating organizations provides input on decisions and strategies that support the growth and sustainability of ROR. Our goal is to address the problem of tracking affiliations in research communications. The Technical Community Manager will be a key driver of that change.
 
-The Technical Community Manager will work closely with the small and committed core ROR team, staff from the three operating organizations, and the broader ROR community to promote and support the adoption of ROR in key systems used throughout research and scholarly communications workflows. This includes engaging with new and existing ROR adopters and other community stakeholders to understand their workflows and systems, and to guide their implementations and integrations.
+The Technical Community Manager will work closely with the small and committed core ROR team, staff from the three operating organizations, and the broader ROR community, to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows. This includes engaging with new and existing ROR adopters and other community stakeholders to understand their workflows and systems, and to guide their implementations and integrations.
 
-This position will be based at Crossref. It is full-time and fully remote, so location and hours are flexible. Overlap with the US Pacific timezone will be necessary. As pandemic circumstances allow, we expect to resume a small amount of international travel for meetings and events.
+This position will be based at Crossref as a full-time staff member. It is fully remote, so location and hours are flexible but overlap with the US Pacific timezone will be necessary. As pandemic circumstances allow, we expect to resume a small amount of international travel for meetings and events.
 
 ## **Responsibilities**
 
@@ -58,7 +58,7 @@ This position will be based at Crossref. It is full-time and fully remote, so lo
 
 ## **Working at ROR & Crossref**
 
-As a young start-up initiative, ROR is a dynamic place to work as we are growing quickly and laying the groundwork for long-term sustainability. We are a fun community (we do actually roar sometimes 🦁) but we also take our work seriously. ROR's three operating organizations work closely together and everyone contributing to ROR balances the needs of ROR with those of their home organization. We also work closely with ROR adopters and community stakeholders through working groups and advisory boards and aim for all of these activities to be open and transparent, in line with the [Principles of Open Scholarly Infrastructure](https://principlesofopenscholarlyinfrastructure.org) (POSI).
+As a young start-up initiative, ROR is a dynamic place to work as we are growing quickly and laying the groundwork for long-term sustainability. We are a fun community (we do actually roar sometimes 🦁) but we also take our work seriously! ROR's three operating organizations work closely together and everyone contributing to ROR balances the needs of ROR with those of their home organization. We also work closely with ROR adopters and community stakeholders through working groups and advisory boards and aim for all of these activities to be open and transparent, in line with the [Principles of Open Scholarly Infrastructure](https://principlesofopenscholarlyinfrastructure.org) (POSI).
 
 ROR has a Project Lead based at CDL and a Metadata Curation Lead with Crossref. Our previous Adoption Lead has moved over to become our new full-time Technical Lead and is based at DataCite. We’re now reshaping the previous adoption role on the ROR team as this Technical Community Manager. This is a full-time role focused on ROR and you will be employed as a full-time staff member at Crossref. This will mean you will need to balance being part of two teams - ROR - and Crossref.
 
@@ -72,7 +72,7 @@ The role will be accountable to the [ROR operations team](https://ror.org/govern
 
 To apply, please send a CV along with a covering letter to <jobs@ror.org> by 16th March 2022. Interviews will take place in late March/early April. 
 
-## **Equal opportunities commitment**
+### **Equal opportunities commitment**
 
 Crossref and ROR are committed to a policy of non-discrimination and equal opportunity for all employees and qualified applicants for employment without regard to race, colour, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law. Crossref and ROR will make reasonable accommodations for qualified individuals with known disabilities in accordance with applicable law.
 
