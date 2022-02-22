@@ -43,19 +43,19 @@ This position will be employed by Crossref as a full-time staff member and inclu
 
 #### **(4) Contribute to the development and implementation of overall ROR strategies**
 
-- Based on community needs, identify specifications for improvements and new features
+-   Based on community needs, identify specifications for improvements and new features
 -   Collaborate with ROR team on product development strategy
 -   Work with ROR and Crossref teams to develop and implement strategies that support wider adoption
 
 ## **Skills and experience**
 
 -   Community management experience, particularly in an international environment.
-- An understanding that community management needs a mix of interpersonal, technical, program management, program development, and communication skills. The [CSCCE skills wheel](https://doi.org/10.5281/zenodo.4437294) is a good resource to explore.
-- While we don't ask for a specific number of years' experience, this is a senior position and entry-level candidates are unlikely to be successful in the role.
+-   An understanding that community management needs a mix of interpersonal, technical, program management, program development, and communication skills. The [CSCCE skills wheel](https://doi.org/10.5281/zenodo.4437294) is a good resource to explore.
+-   While we don't ask for a specific number of years' experience, entry-level candidates are unlikely to be successful in the role.
 -   Sufficient technical skills to advise adopters on integrations, including experience with making and troubleshooting requests to RESTful APIs and familiarity with XML and JSON data structures (or technical aptitude and a desire to learn!)
 -   Deep knowledge of research and scholarly communications systems and workflows, and familiarity with the academic research environment 
 -   Familiarity with research infrastructure and the open science landscape 
-- Familiarity with a not-for-profit environment and the transparency that entails
+-   Familiarity with a not-for-profit environment and the transparency that entails
 -   Ability to work remotely with small distributed teams across global time zones
 -   Strong, compelling, and clear written, oral, and visual communication
 -   Self-motivated to succeed, take initiative, and seek continuous improvement
