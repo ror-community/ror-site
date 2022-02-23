@@ -14,7 +14,7 @@ author = "Maria Gould"
 
 This month, ROR is launching a new round of community fundraising. Building on the community fundraising campaign we ran during 2019-2021, we are renewing a call for organizations to contribute to ROR. We are also opening up more ways for organizations to participate in the collective funding of ROR.
 
-ROR Sustaining Supporters program
+## **ROR Sustaining Supporters program**
 
 Organizations are encouraged to support ROR on a recurring annual basis as Sustaining Supporters. Any organization that signs up to support ROR through the end of 2022 will be recognized as a Founding Supporter and receive a supporter badge that can be displayed on their website.
 
