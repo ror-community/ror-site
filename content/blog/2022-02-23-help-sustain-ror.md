@@ -2,7 +2,7 @@
 title = "Let's Fund Open Infrastructure Together"
 date = "2022-02-23"
 draft = false
-tags = ["Updates", "Sustainability" "Community"]
+tags = ["Updates", "Sustainability", "Community"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
