@@ -34,7 +34,7 @@ We've all seen key infrastructure components disappear, be enclosed, or get acqu
 
 ROR is a free resource for the research community. However, this shared infrastructure does require a collective funding approach that can sustain it as a common good.
 
-## **Join Us!**
+## **Join us!**
 
 This is an exciting moment to be part of ROR's growth. Let's fund open infrastructure together!
 
