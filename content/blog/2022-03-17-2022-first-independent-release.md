@@ -1,6 +1,6 @@
 +++
 title = "ROR-ing on our own: Announcing our first independent registry update"
-date = "2022-03-16"
+date = "2022-03-17"
 draft = false
 tags = ["Updates", "Curation", "Community"]
 categories = ["updates"]
@@ -14,9 +14,9 @@ We are excited to announce a new ROR registry release. With this update, the reg
 
 This update is really exciting for many reasons. But we know some of you may be eager to skip ahead and check out the update right away. If that's you, here are the quick links:
 
-- ROR data dump
 - [ROR API](https://api.ror.org/organizations)
-- ROR search](https://ror.org/search)
+- [ROR search](https://ror.org/search)
+- [ROR data dump](https://zenodo.org/communities/ror-data)
 - [Documentation](https://ror.readme.io)
 
 ## **A key milestone for ROR**
@@ -63,14 +63,12 @@ We also know that as ROR adoption continues to increase, ROR integrators need to
 
 We hope that you are excited as we are about this milestone. We also know you might have some questions about what it means. Here are some things you might be wondering about and a few things that might be helpful to keep in mind:
 
-- **How can I check what is in this release?** You can see a summary of the records added or updated in this release here [LINK TO RELEASE NOTES]. You can look up the IDs and metadata in the ROR production service via the [search UI](https://ror.org/search), [API](https://api.ror.org/organizations), and [data dump].  
-
+- **How can I check what is in this release?** You can see a summary of the records added or updated in this release here [LINK TO RELEASE NOTES]. You can look up the IDs and metadata in the ROR production service via the [search UI](https://ror.org/search), [API](https://api.ror.org/organizations), and [data dump](https://zenodo.org/communities/ror-data).  
 - **Has the data model changed from previous releases?** This release preserves ROR's existing [data structure](https://ror.readme.io/docs/ror-data-structure), which was inherited from GRID. For the new and updated records included in the release, there are some slight differences in how we handle certain values in the location data (within the "addresses" array) because we are now pulling directly from Geonames based on a given location ID, and this was not always the case for previous releases.
-
 - **I submitted a request - why isn't it in this release?** This release (1.0) includes addition and update requests that ROR received from late 2020 through the end of 2021, along with a few that were submitted in early 2022. If you submitted a request and it was not included in this release, this could be because it was submitted in the past couple of months. Another reason is that your request may have been determined to be out of scope for ROR. If so, the Github issue should explain why. Some requests were also not included in this release because we did not have the functionality to process them. For instance, since we do not yet have the ability to merge, redirect, and deprecate records, these types of requests are currently on hold.  
 - **Why did it take so long for this release to be completed?** We know that some of you submitted requests a while ago and expected a faster turnaround. While we were able to initiate workflows for reviewing and approving requests shortly after ROR's launch, we needed to build brand-new infrastructure to support the technical process by which the registry is updated (which includes generating and validating metadata, generating new ROR IDs, linking related records to each other, indexing the data, and deploying to our production services). This work ended up taking longer than expected for our small, minimally resourced team. Now that we have reached the critical milestone of publishing our first release with the new infrastructure, we assure you that the next releases will not take as long to complete!
 - **So, when is the next release going to be?** Going forward, we plan to publish new releases on a regular and predictable basis, approximately quarterly. This is similar to the frequency with which the public GRID data used to be updated (which ROR would sync to). We will communicate more details about the release schedule when these are firmed up.
-- **There's something wrong in the data - can you fix it?** If you have feedback about a specific organization record (whether it was part of this release or not), the best way to let us know is to submit the form available at <https://ror.org/curation>. If you have questions or feedback about the registry data overall, please get in touch via <info@ror.org> or post your question in the [technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-api-users). 
+- **There's something wrong in the data - can you fix it?** If you have feedback about a specific organization record (whether it was part of this release or not), the best way to let us know is to submit the form available [here](https://ror.org/curation). If you have questions or feedback about the registry data overall, please [get in touch](mailto:info@ror.org) or post your question in the [technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-api-users). 
 
 ## **Join us in growing the registry even further**
 
