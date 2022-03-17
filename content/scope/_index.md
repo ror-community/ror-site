@@ -23,13 +23,8 @@ The vision for a registry of research organizations with unique IDs and associat
 
 ## Record management and data curation
 
-Organizations change over time, and the management of ROR records will account for this inevitability. The ROR project team, with input from the Community Advisory Group and other stakeholders, is developing processes and policies for handling record management and data curation. These processes and policies will cover record creation, redirection, consolidation, and deprecation. The processes and policies will also take into account the need to maintain persistence of ROR IDs and record metadata, to identify record status (e.g., active or deprecated), and to implement an open provenance model that tracks assertion histories. The project team will also establish communication channels for record changes to be requested, and for organizations to be involved directly in reviewing and approving changes when possible. 
+Organizations change over time, and the management of ROR records accounts for this inevitability. The ROR project team, with input from the Community Advisory Group and other stakeholders, developed a [community-based curation model](/curation) to establish and carry out processes and policies for handling record management and data curation. These processes and policies will cover record creation, modification, redirection, consolidation, and deprecation. The processes and policies will also take into account the need to maintain persistence of ROR IDs and record metadata, to identify record status (e.g., active or deprecated), and to implement an open provenance model that tracks assertion histories. This model also includes open communication channels for registry changes to be requested, and transparent, centralized processes for reviewing and approving these changes.  
 
-## Product roadmap
+## Roadmap
 
-The current product roadmap for ROR is focused on the following workstreams:
-
--   Enriching the registry with additional metadata (e.g., relationships between organizations)  
--   Building the technical components and workflows to support independent curation of registry data over time  
--   Growing adoption of ROR IDs in scholarly systems  
--   Supporting ways for humans and machines to interact with the registry  
+The ROR roadmap is available on [Github](https://github.com/ror-community/ror-roadmap#readme).

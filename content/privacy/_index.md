@@ -40,7 +40,7 @@ ROR provides documentation and support guidance on a Readme.io site (<https://ro
 
 ## Metadata and Identifiers
 
-ROR provides a registry of unique identifiers for research organizations and associated metadata about these organizations. All of the metadata and Identifiers registered with ROR are made available for use and reuse without restriction and under a CC0 license through our public APIs, search interfaces, and dataset downloads from Figshare. We are open and transparent about the use of our identifiers and metadata.
+ROR provides a registry of unique identifiers for research organizations and associated metadata about these organizations. All of the metadata and Identifiers registered with ROR are made available for use and reuse without restriction and under a CC0 license through our public APIs, search interfaces, and dataset downloads from Figshare and Zenodo. We are open and transparent about the use of our identifiers and metadata.
 
 ## ROR Support Queries
 
