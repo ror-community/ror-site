@@ -44,7 +44,7 @@ After ROR launched, we held meetings with community stakeholders to discuss diff
 
 We began piloting this curation model while ROR was still coordinating updates through GRID. The registry update this week represents the first end-to-end completion of the new community-based process.
 
-You can read more about ROR's curation model and current workflow [here](https://github.com/ror-community/ror-updates#readme). 
+Read more about ROR's [curation model and current workflow](https://github.com/ror-community/ror-updates#readme). 
 
 ### ROR is now in a position to continue developing the registry further
 
