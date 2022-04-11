@@ -23,25 +23,26 @@ Comprising the Operations Team plus an additional 4 members external to the gove
 
 Current steering group representatives:
 
--  **Matt Buys**, [DataCite](https://ror.org/04wxnsj81)
--  **John Chodacki**, [California Digital Library](https://ror.org/03yrm5c26)
--  **Daniel Hook**, [Digital Science](https://ror.org/02ktfc112)
--  **Clifford Lynch**, [Coalition for Networked Information](https://ror.org/043fjtb89)
+-  **Matt Buys**, [DataCite](https://datacite.org)
+-  **John Chodacki**, [California Digital Library](https://cdlib.org)
+-  **Daniel Hook**, [Digital Science](https://digital-science.com)
+-  **Clifford Lynch**, [Coalition for Networked Information](https://cni.org)
 -  **Ritsuko Nakajima**, [Japan Science and Technology Agency](https://ror.org/00097mb19)
--  **Ed Pentz**, [Crossref](https://ror.org/02twcfp32)
--  **Judy Ruttenberg**, [Association of Research Libraries](https://ror.org/053mpbz30)
--  **Ina Smith**, [Academy of Science of South Africa](https://ror.org/02qsf1r97)
+-  **Lautaro Matas**, [LA Referencia](https://www.lareferencia.info/)
+-  **Ed Pentz**, [Crossref](https://crossref.org)
+-  **Judy Ruttenberg**, [Association of Research Libraries](https://arl.org)
+-  **Kathleen Shearer**, [Confederation of Open Access Repositories](https://www.coar-repositories.org/)
+-  **Chris Shillum**, [ORCID](https://orcid.org)
 
 ### Project Team
 Comprising representatives from each governing organization, this group is led by the ROR Project Lead and includes sub-groups focused on product development, outreach, and adoption. 
 
 -  **Geoffrey Bilder**, Technical Advisor
 -  **Adam Buttrick**, Metadata Curation Lead
--  **Esha Datta**, Technical Lead, outgoing
 -  **Maria Gould**, Project Lead
 -  **Richard Hallett**, DevOps support
 -  **Ginny Hendricks**, Outreach support
--  **Liz Krznarich**, Technical Lead, incoming
+-  **Liz Krznarich**, Technical Lead
 -  **Rachael Lammey**, Outreach support
 -  **Paul Vierkant**, Outreach support
 
@@ -54,12 +55,11 @@ Comprising individuals from around the world representing a range of organizatio
 Comprising ROR community members and Metadata Curation Lead **Adam Buttrick**, the Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
 
 Current advisory board members:
--  **Mike Conlon**, University of Florida / VIVO
 -  **Nick Lundvick**, Argonne National Laboratory
 -  **Carly Robinson**, OSTI/DOE
 -  **Arthur Smith**, American Physical Society
 -  **Martin Spenger**, LMU Munich
--  **Kelly Stathis**, Portage Network
+-  **Kelly Stathis**, Digital Research Alliance of Canada
 -  **Niklas Zimmer**, University of Cape Town
 
 Read more about ROR's [community-based curation process](https://github.com/ror-community/ror-updates#readme).
