@@ -39,6 +39,7 @@ Comprising representatives from each governing organization, this group is led b
 
 -  **Geoffrey Bilder**, Technical Advisor
 -  **Adam Buttrick**, Metadata Curation Lead
+-  **Amanda French**, Technical Community Manager
 -  **Maria Gould**, Project Lead
 -  **Richard Hallett**, DevOps support
 -  **Ginny Hendricks**, Outreach support
