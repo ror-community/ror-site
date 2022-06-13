@@ -1,8 +1,8 @@
 +++
 title = "Welcome Amanda French, Technical Community Manager"
-date = "2022-06-09"
+date = "2022-06-13"
 draft = false
-tags = ["Updates", "Team", "Adoption"]
+tags = ["Updates", "Team", "Adoption", "Community"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
