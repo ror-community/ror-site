@@ -19,7 +19,7 @@ The following groups organize, implement, and participate in ROR activities. The
 Comprising the directors from each governing organization plus the ROR Project Lead, this group is responsible for resourcing, decision-making, and general operations. 
 
 ### Steering Group
-Comprising the Operations Team plus additional members external to the governing organizations, this group provides input on decisions and overall strategy, and support for ROR's growth and sustainability through outreach to funders, potential adopters, and other stakeholders in their respective networks. More details about the remit and composition of the ROR Steering Group can be found in the group's [terms of reference](/documents/ROR-Steering-Group-Terms-2022-06).
+Comprising the Operations Team plus additional members external to the governing organizations, this group provides input on decisions and overall strategy, and support for ROR's growth and sustainability through outreach to funders, potential adopters, and other stakeholders in their respective networks. More details about the remit and composition of the ROR Steering Group can be found in the group's [terms of reference](/documents/ROR-Steering-Group-Terms-2022-06.pdf).
 
 Current steering group representatives:
 
