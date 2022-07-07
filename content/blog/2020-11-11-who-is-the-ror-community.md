@@ -40,11 +40,11 @@ The ROR Community Advisory Group is a voluntary group of about fifty users and s
 
 Group members are located around the world, reinforcing ROR's global reach. It would be great to see even greater coverage in the future.
 
-{{< figure src="/img/ror-community-map.png" title="ROR community members by location" >}}
+{{< figure src="/img/ror-community-map.png" title="_ROR community members by location_" >}}
 
 Group members also represent a range of organizations, reinforcing the range of stakeholders with an interest in ROR.
 
-{{< figure src="/img/ror-community-orgtypes.png" caption="ROR community members by organization type" >}}
+{{< figure src="/img/ror-community-orgtypes.png" caption="_ROR community members by organization type_" >}}
 
 ROR also coordinates smaller working groups in specific domains, one focused on publisher adoption and the other focused on curation. Some members of these groups also participate in the activities of the broader advisory group.
 
