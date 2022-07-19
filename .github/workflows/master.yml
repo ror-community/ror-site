@@ -4,7 +4,7 @@ on:
     branches:
       - "master"
     paths-ignore:
-      - '**/README.md'
+      - '**README.md'
 jobs:
   run:
     runs-on: ubuntu-latest
