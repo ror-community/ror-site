@@ -3,6 +3,8 @@ on:
   push:
     branches:
       - "staging"
+    paths-ignore:
+      - '**/README.md'
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -36,8 +38,8 @@ jobs:
         run: |
           cp staging.toml config.toml
           hugo -v --minify
-          
-      - name: Deploy 
+
+      - name: Deploy
         uses: reggionick/s3-deploy@v3
         with:
           folder: public
