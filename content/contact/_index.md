@@ -16,7 +16,7 @@ Use the following open communication channels to ask questions and get support:
 
 ### Suggest changes or additions to ROR
 
-Anyone can suggest changes or additions to the registry via the [ROR request form](https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform).
+Anyone can suggest changes or additions to the registry via the [ROR request form](https://curation-request.ror.org).
 
 ### Bug reports & feature requests
 
