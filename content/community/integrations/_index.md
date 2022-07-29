@@ -2,7 +2,7 @@
 title = "Integrations"
 draft = false
 date = "2020-04-07"
-banner = "/img/banners/ROR_Banner-grey.jpg"
+banner = "/img/banners/ROR_Banner-pink.jpg"
 style = "card-plain"
 +++
 

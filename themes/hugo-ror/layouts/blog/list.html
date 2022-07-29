@@ -8,9 +8,11 @@
       <header>
         {{ partial "nav.html" . }}
       </header>
-      <section class="section section-blog" id="content">
+      <section class="section" id="content">
 
        {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
 
         <div class="container">
           <div class="row">
@@ -37,7 +39,7 @@
                       <div class="col-md-8">
                         {{ if isset .Params "categories" }}
                           {{ if gt (len .Params.categories) 0 }}
-                          <h6 class="category mt-3"><a class="category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a></h6>
+                          <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a></strong>
                           {{ end }}
                         {{ end }}
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
@@ -89,8 +91,8 @@
     </div>
 
     {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
     {{ partial "footer.html" . }}
     {{ partial "scripts.html" . }}
-
   </body>
 </html>

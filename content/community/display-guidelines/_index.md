@@ -2,7 +2,7 @@
 title = "ROR Display Guidelines"
 draft = false
 date = "2021-04-15"
-banner = "/img/banners/ROR_Banner-purple.jpg"
+banner = "/img/banners/ROR_Banner-pink.jpg"
 style = "card-plain"
 +++
 

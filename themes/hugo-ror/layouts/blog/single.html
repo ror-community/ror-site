@@ -8,9 +8,11 @@
       <header>
         {{ partial "nav.html" . }}
       </header>
-      <div class="section section-blog" id="content">
+      <section class="section" id="content">
 
        {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
 
         <div class="container">
           <div class="row">
@@ -38,12 +40,12 @@
             </div>
           </div>
         </div>
-      </div>
+      </section>
     </div>
 
     {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
     {{ partial "footer.html" . }}
     {{ partial "scripts.html" . }}
-
   </body>
 </html>

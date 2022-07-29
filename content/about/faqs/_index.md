@@ -1,8 +1,8 @@
 +++
-title = "Facts"
+title = "FAQs"
 draft = false
 date = "2019-06-20"
-banner = "/img/banners/ROR_Banner-grey.jpg"
+banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
 +++
 

@@ -1,5 +1,5 @@
 +++
-title = "Scope"
+title = "Use the registry"
 draft = false
 date = "2018-09-21"
 banner = "/img/banners/ROR_Banner-purple.jpg"

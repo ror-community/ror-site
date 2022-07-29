@@ -43,3 +43,11 @@ CSSVersion = 3
     subtitle = "The scholarly research community depends on a series of open identifier and metadata infrastructure systems to great success. Content identifiers and contributor identifiers are foundational infrastructure for the community. But there is one piece of the infrastructure that is missing – there currently is no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata."
     link_text = "Learn more"
     link_url = "/scope"
+
+[params.socials]
+  email = "info@ror.org"
+  twitter = "https://twitter.com/ResearchOrgs"
+  youtube = "https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg"
+  linkedin = "https://www.linkedin.com/company/ror-research-organization-registry/"
+  github = "https://github.com/ror-community"
+  support_site = "https://ror.readme.io/"
