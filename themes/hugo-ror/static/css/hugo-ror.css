@@ -28,6 +28,10 @@ pre, textarea {
 article, aside, figcaption, figure, footer, header, hgroup, legend, main, nav, section {
     display: block;
 }
+figcaption p {
+  font-size: .8em;
+  font-style: italic;
+}
 address, legend {
     line-height: inherit;
 }
