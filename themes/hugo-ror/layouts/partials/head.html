@@ -12,16 +12,15 @@
   <link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
   <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
-  <!-- Css animations  -->
-  <link href="{{ .Site.BaseURL }}css/animate.css" rel="stylesheet">
-
+ 
   <!-- mailchimp stylings -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-  <!-- CSS Files -->
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hugo-ror.css?v={{ $.Site.Params.CSSVersion }}" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/shortcodes.css?v={{ $.Site.Params.CSSVersion }}" />
-  
+  <!-- sass built file -->
+  {{ $sass := resources.Get "sass/main.scss" }}
+	{{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+ 
   <!-- Favicon and apple touch icons-->
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />
