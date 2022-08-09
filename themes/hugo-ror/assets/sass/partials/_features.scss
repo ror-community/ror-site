@@ -1,0 +1,15 @@
+#homepage-features {
+    .feature {
+        padding-bottom: 40px;
+        .icon {
+            width:100%;
+            
+            aspect-ratio: 2/1;
+            background-size: cover;
+            background-position:center;
+        }
+        .btn {
+            margin-top:0;
+        }
+    }
+}

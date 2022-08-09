@@ -20,6 +20,9 @@
   {{ $sass := resources.Get "sass/main.scss" }}
 	{{ $style := $sass | resources.ToCSS (dict "targetPath" "/css/hugo-ror.css") }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+  <!-- google material font -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
  
   <!-- Favicon and apple touch icons-->
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />

@@ -1,18 +1,17 @@
 {{ if isset .Site.Params "homepage_features" }}
 {{ if .Site.Params.homepage_features.enable }}
 {{ if gt (len .Site.Data.homepage_features) 0 }}
-<section class="section bar background-white">
+<section id='homepage-features' class="section bar background-white">
     <div class="container">
         <div class="row">
             {{ range sort .Site.Data.homepage_features "weight" }}
             <div class="col-md-12">
-                <div class="row">
-                    <div class="col-md-4">
-                        <div class="icon">
-                            <img src="{{ .icon }}" />
+                <div class="row feature">
+                    <div class="col-md-5">
+                        <div class="icon" style="background-image:url({{ .icon }});">
                         </div>
                     </div>
-                    <div class="col-md-8">
+                    <div class="col-md-7">
                         <h3>{{ .name }}</h3>
                         <p>{{ .description }}</p>
                         
