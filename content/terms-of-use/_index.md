@@ -3,7 +3,6 @@ title = "Terms of Use"
 draft = false
 date = "2021-07-26"
 banner = "/img/banners/ROR_Banner-grey.jpg"
-style = "card-plain"
 +++
 
 ROR IDs and metadata can be freely accessed via [ROR Search](https://ror.org/search) and the [ROR API](https://api.ror.org/organizations). [ROR data files](https://doi.org/10.6084/m9.figshare.c.4596503) are also publicly available for download.

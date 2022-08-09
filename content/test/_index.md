@@ -3,7 +3,6 @@ title = "Test page"
 draft = false
 date = "2017-08-15"
 banner = "/img/banners/ROR_Banner-grey.jpg"
-style = "card-plain"
 +++
 ## Multi column layouts
 Refer to [the Crossref site's _editors info](https://testweb.crossref.org/_editors/shortcodes-reference/#custom-shortcodes) for instructions on how to implement.

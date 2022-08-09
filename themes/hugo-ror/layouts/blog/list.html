@@ -3,7 +3,7 @@
 
   {{ partial "head.html" . }}
 
-  <body {{ if .Params.style }} class='{{ .Params.style }}' {{ end }}>
+  <body class='{{ path.Dir (.File.Path) }}'>
     <div class="wrapper" id="all">
       <header>
         {{ partial "nav.html" . }}

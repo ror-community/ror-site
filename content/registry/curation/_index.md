@@ -3,7 +3,6 @@ title = "ROR Curation"
 draft = false
 date = "2019-11-26"
 banner = "/img/banners/ROR_Banner-purple.jpg"
-style = "card-plain"
 +++
 
 ROR employs a centralized, community-based curation model to maintain the registry.
