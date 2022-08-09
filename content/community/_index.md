@@ -3,10 +3,9 @@ title = "Community"
 draft = false
 date = "2022-01-21"
 banner = "/img/banners/ROR_Banner-pink.jpg"
-style = "card-plain"
 +++
 
-# ROR Community Advisory Group
+## ROR Community Advisory Group
 The ROR Community Advisory Group includes users and stakeholders from around the world and across different types of institutions and industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more). Read more about the group in [this blog post](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email info@ror.org.
 
 -   Elias Balafoutis, Atypon

@@ -1,15 +1,25 @@
+.section.section-socials {
+  padding: 30px 0;
 
-.section-socials i.fa {
+  div.col-6.col-md-2 {
+    padding: 20px 0
+  }
+
+  i.fa {
     display: block;
     font-size: 2em;
     color: #505759;
   }
-  .section-socials p, .section-socials a, .section-socials a:focus, .section-socials a:hover {
+
+  p, a, a:focus, a:hover {
     color:#505759;
   }
-  .section-socials a, .section-socials a:focus, .section-socials a:hover {
+
+  a, a:focus, a:hover {
     text-decoration: none;
   }
-  .section-socials a:hover span {
+
+  a:hover span {
     text-decoration: underline;
   }
+}

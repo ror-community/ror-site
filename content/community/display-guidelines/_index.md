@@ -3,7 +3,6 @@ title = "ROR Display Guidelines"
 draft = false
 date = "2021-04-15"
 banner = "/img/banners/ROR_Banner-pink.jpg"
-style = "card-plain"
 +++
 
 ROR IDs are primarily intended for use internally by web applications and services. Displaying ROR IDs in your application user interfaces or digital documents may have limited benefit to the general public. Displaying or linking to ROR IDs is entirely optional, and we recommend that you consider their relevance for your audience carefully.

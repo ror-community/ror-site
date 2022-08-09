@@ -3,7 +3,6 @@ title = "Test page"
 draft = false
 date = "2017-08-15"
 banner = "/img/banners/ROR_Banner-grey.jpg"
-style = "card-plain"
 +++
 ## Multi column layouts
 Refer to [the Crossref site's _editors info](https://testweb.crossref.org/_editors/shortcodes-reference/#custom-shortcodes) for instructions on how to implement.
@@ -66,8 +65,9 @@ Lorem Ipsum is the single greatest threat. We are not - we are not keeping up wi
 
 {{% callout color="black" icon="fa-question-circle" %}} This is a black callout box, with a question-circle icon. Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud. {{% /callout %}}
 
-Buttons work similarly to the new callout boxes above. Just wrap the _text_ of your button in the new <code>button</code> shortcode, and specify the link in the shortcode itself. You can specify a colour of green, or leave out the color for the default grey button (no other colors are currently supported).
+Buttons work similarly to the new callout boxes above. Just wrap the _text_ of your button in the new <code>button</code> shortcode, and specify the link in the shortcode itself. You can specify a colour of green or red (only, for now), or leave out the color for the default grey button (no other colors are currently supported).
 
 {{% button color="green" link="/blog" %}} this is a button {{% /button %}}
+{{% button color="red" link="/blog" %}} this is a button {{% /button %}}
 {{% button link="/blog" %}} this is a button {{% /button %}}
 

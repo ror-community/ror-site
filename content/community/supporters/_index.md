@@ -3,7 +3,6 @@ title = "Supporters"
 draft = false
 date = "2019-10-03"
 banner = "/img/banners/ROR_Banner-pink.jpg"
-style = "card-plain"
 +++
 
 ROR is community-supported and community-funded open infrastructure. It is a collaborative effort driven by multiple organizations and individuals.

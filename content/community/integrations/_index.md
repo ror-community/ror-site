@@ -3,7 +3,6 @@ title = "Integrations"
 draft = false
 date = "2020-04-07"
 banner = "/img/banners/ROR_Banner-pink.jpg"
-style = "card-plain"
 +++
 
 See ROR IDs in the wild! A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data.

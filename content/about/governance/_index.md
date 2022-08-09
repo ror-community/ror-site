@@ -3,7 +3,6 @@ title = "Governance"
 draft = false
 date = "2020-08-20"
 banner = "/img/banners/ROR_Banner-orange.jpg"
-style = "card-plain"
 +++
 
 The Research Organization Registry is a cross-organizational and multi-stakeholder collaboration. It is led by California Digital Library, Crossref, and DataCite, in conjunction with the ROR Steering Group, ROR project team, and ROR's advisory and working groups.
