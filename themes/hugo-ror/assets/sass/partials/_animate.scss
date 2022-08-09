@@ -3156,3 +3156,8 @@ Copyright (c) 2014 Daniel Eden
   -webkit-animation-name: slideOutUp;
           animation-name: slideOutUp;
 }
+
+
+@mixin standard-ease {
+  transition: all ease-in-out 0.1s;
+}
