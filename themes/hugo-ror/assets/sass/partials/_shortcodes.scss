@@ -9,20 +9,10 @@
 .shortcode-row:after {
     clear:both;
 }
-.columns_2 p, .columns_3 p {
-  margin-top: 0;
-}
 
-.columns_2 {
-  -webkit-column-count: 2; /* Chrome, Safari, Opera */
-  -moz-column-count: 2; /* Firefox */
-  column-count: 2;
-}
-
-.columns_3 {
-  -webkit-column-count: 3; /* Chrome, Safari, Opera */
-  -moz-column-count: 3; /* Firefox */
-  column-count: 3;
+.shortcode-row .col-md-5,
+.shortcode-row .col-md-7 {
+  padding-left: 0;
 }
 
 .col-md-1, .col-md-10, .col-md-11, .col-md-12, .col-md-2, .col-md-3, .col-md-4, .col-md-5, .col-md-6, .col-md-7, .col-md-8, .col-md-9 {
