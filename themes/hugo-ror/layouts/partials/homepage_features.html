@@ -1,0 +1,29 @@
+{{ if isset .Site.Params "homepage_features" }}
+{{ if .Site.Params.homepage_features.enable }}
+{{ if gt (len .Site.Data.homepage_features) 0 }}
+<section class="section bar background-white">
+    <div class="container">
+        <div class="row">
+            {{ range sort .Site.Data.homepage_features "weight" }}
+            <div class="col-md-12">
+                <div class="row">
+                    <div class="col-md-4">
+                        <div class="icon">
+                            <img src="{{ .icon }}" />
+                        </div>
+                    </div>
+                    <div class="col-md-8">
+                        <h3>{{ .name }}</h3>
+                        <p>{{ .description }}</p>
+                        
+                        <a href="{{ .link_url }}" class="btn btn-sm btn-round">{{ .link_text }}</a>
+                    </div>
+                </div>
+            </div>
+            {{ end }}
+        </div>
+    </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

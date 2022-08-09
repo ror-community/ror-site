@@ -1,0 +1,15 @@
+
+.section-socials i.fa {
+    display: block;
+    font-size: 2em;
+    color: #505759;
+  }
+  .section-socials p, .section-socials a, .section-socials a:focus, .section-socials a:hover {
+    color:#505759;
+  }
+  .section-socials a, .section-socials a:focus, .section-socials a:hover {
+    text-decoration: none;
+  }
+  .section-socials a:hover span {
+    text-decoration: underline;
+  }

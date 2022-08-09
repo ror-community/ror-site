@@ -1,0 +1,34 @@
+
+/*** Callout boxes ***/
+.callout,
+.callout.beige {
+  border-radius: .25rem!important;
+  padding: 2rem;
+  background-color: #d3bdb0;
+  margin-bottom: 1.5rem;
+}
+.callout .fa {
+  font-size: 4rem;
+}
+.callout.green {
+  background-color: #53baa1;
+}
+.callout.dark-grey {
+  background-color: #505759;
+}
+.callout.mustard {
+  background-color: #e89005;
+}
+.callout.black {
+  background-color: #293030;
+}
+.callout.dark-grey, .callout.black {
+  color: #fff;
+}
+.btn.green {
+  color:#293030!important;
+  background-color: #53baa1;
+}
+.btn.green:hover {
+  background-color: #66CCB3!important
+}

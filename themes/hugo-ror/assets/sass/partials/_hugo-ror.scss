@@ -7090,17 +7090,7 @@ img.ror-id {
     text-transform: none;
 }
 
-.section-banner {
-    z-index: 1;
-    padding: 0;
-    margin: 0;
-    width: 100%;
-    overflow: hidden;
-}
-.section-banner img {
-    margin: -13% 0;
-    display: block;
-    width: 100%}
+
 .footer {
   font-size: .7em;
   line-height: 1.1em;
@@ -7131,83 +7121,3 @@ table#donations-table td ul li {
 	font-size: 1rem;
 }
 
-/* BREADCRUMBS */
-.breadcrumbs-wrap {
-  background-color: #efefef;
-  margin-bottom: 2rem;
-}
-
-ul.breadcrumbs {
-  display: table;
-  padding: 0;
-  list-style: none;
-  line-height: 10px;
-  margin: .5rem 0 .5rem 0;
-  font-size: .8em;
-}
-ul.breadcrumbs li {
-    display: inline;
-    line-height:1.4em;
-    padding: 0;
-}
-ul.breadcrumbs li:before {
-      content: "";
-    }
-ul.breadcrumbs li span {
-      padding: 0 6px;
-      display:inline-block;
-    }
-
-ul.breadcrumbs li a {
-    color: #505759;
-  }
-ul.breadcrumbs li a:hover {
-    color: #ff6900;
-}
-.section-socials i.fa {
-  display: block;
-  font-size: 2em;
-  color: #505759;
-}
-.section-socials p, .section-socials a, .section-socials a:focus, .section-socials a:hover {
-  color:#505759;
-}
-.section-socials a, .section-socials a:focus, .section-socials a:hover {
-  text-decoration: none;
-}
-.section-socials a:hover span {
-  text-decoration: underline;
-}
-/*** Callout boxes ***/
-.callout,
-.callout.beige {
-  border-radius: .25rem!important;
-  padding: 2rem;
-  background-color: #d3bdb0;
-  margin-bottom: 1.5rem;
-}
-.callout .fa {
-  font-size: 4rem;
-}
-.callout.green {
-  background-color: #53baa1;
-}
-.callout.dark-grey {
-  background-color: #505759;
-}
-.callout.mustard {
-  background-color: #e89005;
-}
-.callout.black {
-  background-color: #293030;
-}
-.callout.dark-grey, .callout.black {
-  color: #fff;
-}
-.btn.green {
-  color:#293030!important;
-  background-color: #53baa1;
-}
-.btn.green:hover {
-  background-color: #66CCB3!important
-}
