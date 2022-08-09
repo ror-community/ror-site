@@ -18,7 +18,7 @@
 
   <!-- sass built file -->
   {{ $sass := resources.Get "sass/main.scss" }}
-	{{ $style := $sass | resources.ToCSS (dict "targetPath" "hugo-ror.css") }}
+	{{ $style := $sass | resources.ToCSS (dict "targetPath/css/" "hugo-ror.css") }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
  
   <!-- Favicon and apple touch icons-->

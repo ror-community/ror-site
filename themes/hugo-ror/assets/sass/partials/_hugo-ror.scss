@@ -7072,11 +7072,15 @@ img.ror-id {
     -webkit-border-radius: 0;
     -moz-border-radius: 0;
 }
-#mc_embed_signup h2 {
+#mc_embed_signup h2,
+.section-subscribe h2 {
     margin: 0;
     font-size: 1.2em;
     text-transform: none;
     font-weight: 600;
+}
+#mc-embedded-subscribe {
+  margin: 0;
 }
 #mc_embed_signup .mc-field-group {
     width: 80%;
