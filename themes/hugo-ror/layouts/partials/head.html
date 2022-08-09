@@ -18,8 +18,8 @@
 
   <!-- sass built file -->
   {{ $sass := resources.Get "sass/main.scss" }}
-	{{ $style := $sass | resources.ToCSS | resources.Fingerprint }}
-	<link rel="stylesheet" href="{{ $style.Permalink }}" integrity="{{ $style.Data.Integrity }}">
+	{{ $style := $sass | resources.ToCSS  }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}">
  
   <!-- Favicon and apple touch icons-->
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
