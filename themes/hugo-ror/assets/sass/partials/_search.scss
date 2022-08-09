@@ -1,0 +1,19 @@
+#search {
+    .form-inline {
+        display:block;
+        #query {
+            width:100%;
+        }
+        .form-control {
+            border-radius:0;
+        }
+        .search-icon {
+            position: absolute;
+            right:0;
+            font-size: 2rem;
+            padding-right: calc(0.75rem + 3px);
+            padding-top: 3px;
+            color: $light-grey;
+        }
+    }
+}
