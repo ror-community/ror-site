@@ -42,3 +42,5 @@ Buttons work similarly to the new callout boxes above. Just wrap the _text_ of y
 {{% button color="red" link="/blog" %}} this is a button {{% /button %}}
 {{% button link="/blog" %}} this is a button {{% /button %}}
 
+{{% button link="/blog" style="center" %}} this is a button {{% /button %}}
+
