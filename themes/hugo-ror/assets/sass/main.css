@@ -1,4 +1,5 @@
 @charset "UTF-8";
+@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap");
 .material-icons-outlined {
   font-family: "Material Icons Outlined";
   font-weight: normal;
@@ -19752,6 +19753,51 @@ ul.breadcrumbs li a:hover {
 #recent-posts {
   background-color: #eeeeee;
 }
+#recent-posts .view-all {
+  padding: 0 1rem;
+  text-align: center;
+}
+#recent-posts .news-item h3 {
+  font-size: 1em;
+  line-height: 2rem;
+}
+#recent-posts .news-item .content {
+  padding-top: 20px;
+}
+#recent-posts .news-item .top {
+  position: relative;
+  height: 300px;
+}
+#recent-posts .news-item .top .image {
+  height: 100%;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+#recent-posts .news-item .top .text {
+  position: absolute;
+  bottom: -20px;
+  right: 10px;
+}
+#recent-posts .news-item .top .title {
+  padding-top: 0;
+  position: absolute;
+  top: 0;
+}
+#recent-posts .news-item .top .title h4 {
+  margin-top: 0;
+  padding: 10px;
+}
+#recent-posts .news-item .top .title h4 a {
+  color: #fff;
+  border-bottom: 2px solid transparent;
+  text-decoration: none;
+  transition: all ease-in-out 0.1s;
+}
+#recent-posts .news-item .top .title h4 a:hover {
+  border-color: #fff;
+}
 
 .section-banner {
   height: 50vh;
@@ -19773,7 +19819,20 @@ ul.breadcrumbs li a:hover {
   text-align: center;
   padding: 0 15%;
 }
+@media screen and (max-width: 768px) {
+  .section-banner .content {
+    font-size: 40px;
+  }
+}
+@media screen and (max-width: 420px) {
+  .section-banner .content {
+    font-size: 32px;
+  }
+}
 
+#search h2 {
+  font-size: 1.5rem;
+}
 #search .form-inline {
   display: block;
 }
@@ -19787,7 +19846,7 @@ ul.breadcrumbs li a:hover {
   position: absolute;
   right: 0;
   font-size: 2rem;
-  padding-right: calc(0.75rem + 3px);
+  padding-right: calc(0.75rem + 8px);
   padding-top: 3px;
   color: #e3e3e3;
 }
@@ -19827,6 +19886,12 @@ ul.breadcrumbs li a:hover {
 }
 #homepage-features .feature .btn {
   margin-top: 0;
+}
+
+.section-blurb,
+.section-search,
+.section-features {
+  padding: 50px 0;
 }
 
 /*# sourceMappingURL=main.css.map */

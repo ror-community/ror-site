@@ -24,18 +24,11 @@
                             <div class="top">
                                 <div class="image" style="background-image:url({{ if isset .Params "thumb" }}{{ .Site.BaseURL}}{{ .Params.thumb }}{{ else }}{{ .Site.BaseURL}}img/banners/ROR_Banner-green.png{{ end }});">
                                 </div>
-                                <div class="text">
-                                    <p class="buttons">
-                                        <a href="{{ .Permalink }}" class="btn btn-sm btn-round red">Read more</a>
-                                    </p>
-                                </div>
-                                <div class="title">
-                                    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                                </div>
                             </div>
 
                             <div class="content">                                
-                                <p class="intro">{{ .Summary }}</p>
+                                <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+                                <p class="intro">{{ if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Summary | plainify }}{{ end }}</p>
                                 <p class="author-category">
                                     {{ with .Params.author }}
                                     By <a href="#">{{ . }}</a>

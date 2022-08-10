@@ -2,9 +2,16 @@
     background-color: $section-background;
     .view-all {
         padding:0 1rem;
+        text-align: center;
     }
     
     .news-item {
+        
+        h3 {
+            font-size: 1em;
+            line-height: 2rem;
+        }
+        
         .content {
             padding-top:20px;
         }
