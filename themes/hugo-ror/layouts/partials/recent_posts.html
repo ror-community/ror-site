@@ -18,36 +18,32 @@
                 <div class="row">
 
                     {{ $posts := .Paginate (where .Site.RegularPages "Section" "blog") }}
-                    {{ range first 4 $posts.Pages }}
-                    <div class="col-md-3 col-sm-6 ">
+                    {{ range first 3 $posts.Pages }}
+                    <div class="col-md-4 col-sm-6 news-item">
                         <div class="box-image-text blog">
                             <div class="top">
-                                <div class="image" style="overflow:hidden">
-                                    {{ if isset .Params "banner" }}
-                                    <img src="{{ .Site.BaseURL}}{{ .Params.banner }}" class="img-responsive" alt="" >
-                                    {{ else }}
-                                    <img src="{{ .Site.BaseURL}}img/banners/ROR_Banner-green.png" class="img-responsive" alt="">
-                                    {{ end }}
+                                <div class="image" style="background-image:url({{ if isset .Params "banner" }}{{ .Site.BaseURL}}{{ .Params.banner }}{{ else }}{{ .Site.BaseURL}}img/banners/ROR_Banner-green.png{{ end }});">
                                 </div>
-                                <div class="bg"></div>
                                 <div class="text">
                                     <p class="buttons">
-                                        <a href="{{ .Permalink }}" class="btn btn-template-transparent-primary"><i class="fa fa-link"></i> Read more</a>
+                                        <a href="{{ .Permalink }}" class="btn btn-sm btn-round red">Read more</a>
                                     </p>
+                                </div>
+                                <div class="title">
+                                    <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
                                 </div>
                             </div>
 
-                            <div class="content">
-                                <h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-                                <p class="author-category">
-                                {{ with .Params.author }}
-                                By <a href="#">{{ . }}</a>
-                                {{ end }}
-                                on {{ .Date.Format .Site.Params.date_format }}
-                                </p>
+                            <div class="content">                                
                                 <p class="intro">{{ .Summary }}</p>
+                                <p class="author-category">
+                                    {{ with .Params.author }}
+                                    By <a href="#">{{ . }}</a>
+                                    {{ end }}
+                                    on {{ .Date.Format .Site.Params.date_format }}
+                                </p>
                                 <p class="read-more">
-                                <a href="{{ .Permalink }}" class="btn btn-template-main">Continue reading</a>
+                                    <a href="{{ .Permalink }}" class="btn btn-sm btn-round red">Continue reading</a>
                                 </p>
                             </div>
                         </div>
@@ -55,6 +51,7 @@
 
                     </div>
                     {{ end }}
+                    {{ template "_internal/pagination.html" . }}
 
                 </div>
                 <!-- /.row -->

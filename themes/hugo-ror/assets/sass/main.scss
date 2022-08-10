@@ -6,9 +6,15 @@
         "partials/breadcrumbs",
         "partials/socials",
         "partials/callouts",
-        "partials/news",
+        "partials/recent-posts",
         "partials/banner",
         "partials/search",
         "partials/shortcodes",
         "partials/features";
+
+.section-blurb,
+.section-search,
+.section-features {
+    padding: 20px 0;
+}
 

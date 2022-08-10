@@ -1,7 +1,7 @@
 {{ if isset .Site.Params "homepage_features" }}
 {{ if .Site.Params.homepage_features.enable }}
 {{ if gt (len .Site.Data.homepage_features) 0 }}
-<section id='homepage-features' class="section bar background-white">
+<section id='homepage-features' class="section bar background-white section-features">
     <div class="container">
         <div class="row">
             {{ range sort .Site.Data.homepage_features "weight" }}
@@ -15,7 +15,7 @@
                         <h3>{{ .name }}</h3>
                         <p>{{ .description }}</p>
                         
-                        <a href="{{ .link_url }}" class="btn btn-sm btn-round">{{ .link_text }}</a>
+                        <a href="{{ .link_url }}" class="btn btn-sm btn-round red">{{ .link_text }}</a>
                     </div>
                 </div>
             </div>
