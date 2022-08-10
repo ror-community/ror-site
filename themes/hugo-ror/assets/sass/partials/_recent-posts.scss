@@ -1,5 +1,8 @@
 #recent-posts {
     background-color: $section-background;
+    .view-all {
+        padding:0 1rem;
+    }
     
     .news-item {
         .content {

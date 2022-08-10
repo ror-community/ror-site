@@ -16,5 +16,11 @@
         line-height:90%;
         text-align:center;
         padding:0 15%;
+        @media screen and (max-width:$tablet-width) {
+          font-size:40px;
+        }
+        @media screen and (max-width:$phone-width) {
+          font-size:32px;
+        }
       }
 }
