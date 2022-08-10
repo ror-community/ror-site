@@ -42,5 +42,17 @@ Buttons work similarly to the new callout boxes above. Just wrap the _text_ of y
 {{% button color="red" link="/blog" %}} this is a button {{% /button %}}
 {{% button link="/blog" %}} this is a button {{% /button %}}
 
+
+## Centered content
+
+You can center any block of content, including just a single button, usign the `centered` shortcode. View the .md file for this page to see how it works. You can see an example of it below. 
+
+{{% centered %}}
+
 {{% button link="/blog" style="center" %}} this is a button {{% /button %}}
 
+### Here is a title
+
+And some text beneath it. 
+
+{{% /centered %}}
