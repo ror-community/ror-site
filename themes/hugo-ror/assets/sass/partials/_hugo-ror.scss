@@ -440,7 +440,7 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
     background-color: #FFF;
 }
 .slider.slider-neutral.noUi-target {
-    background-color: rgba(255, 255, 255, .3);
+    background-color: rgba($black, .3);
 }
 .slider.slider-neutral .noUi-handle {
     background-color: #FFF;
@@ -1270,19 +1270,19 @@ input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget .picker-switch
     color: #FFF;
 }
 input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table th.dow {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td.new>div, input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td.old>div {
-    color: rgba(255, 255, 255, .4);
+    color: rgba($black, .4);
 }
 input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget button[data-action], input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td.active:hover>div, input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td.active>div {
     background-color: #FFF;
 }
 input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td span:hover, input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td.hour:hover>div, input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td.minute:hover>div, input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td.second:hover>div, input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table td:not(.active).day:hover>div {
-    background: rgba(255, 255, 255, .2);
+    background: rgba($black, .2);
 }
 input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table thead tr:first-child th.picker-switch:hover, input.datetimepicker[data-color]+.bootstrap-datetimepicker-widget table thead tr:first-child th:hover span {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
 }
 input.datetimepicker[data-color=orange]+.bootstrap-datetimepicker-widget {
     background-color: #53BAA1;
@@ -1857,7 +1857,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
 }
 .pagination .page-item.disabled>.page-link {
     opacity: .2;
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
 }
 .pagination.pagination-info .page-item.active>.page-link, .pagination.pagination-info .page-item.active>.page-link:focus, .pagination.pagination-info .page-item.active>.page-link:hover {
     background-color: #2CA8FF;
@@ -1883,7 +1883,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
     color: #FFF;
 }
 .pagination.pagination-neutral .page-item>.page-link:focus, .pagination.pagination-neutral .page-item>.page-link:hover {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 .button-bar, .main {
@@ -2034,11 +2034,11 @@ li {
     color: #FF3636;
 }
 .blockquote.blockquote-white {
-    border-color: rgba(255, 255, 255, .8);
+    border-color: rgba($black, .8);
     color: #FFF;
 }
 .blockquote.blockquote-white small {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 body {
     color: #2c2c2c;
@@ -3135,7 +3135,7 @@ textarea.form-control:active, textarea.form-control:focus {
     font-size: .8571em;
 }
 .progress-container.progress-neutral .progress {
-    background: rgba(255, 255, 255, .3);
+    background: rgba($black, .3);
 }
 .progress-container.progress-neutral .progress-bar {
     background: #FFF;
@@ -3227,7 +3227,7 @@ textarea.form-control:active, textarea.form-control:focus {
     font-size: 24px;
 }
 .nav-pills.nav-pills-neutral .nav-item .nav-link {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 .nav-pills.nav-pills-neutral .nav-item .nav-link.active, .nav-pills.nav-pills-neutral .nav-item .nav-link.active:focus, .nav-pills.nav-pills-neutral .nav-item .nav-link.active:hover {
@@ -3303,13 +3303,13 @@ textarea.form-control:active, textarea.form-control:focus {
     margin-right: 3px;
 }
 .nav-tabs>.nav-item.disabled>.nav-link, .nav-tabs>.nav-item.disabled>.nav-link:hover {
-    color: rgba(255, 255, 255, .5);
+    color: rgba($black, .5);
 }
 .nav-tabs.nav-tabs-neutral>.nav-item>.nav-link {
     color: #FFF;
 }
 .nav-tabs.nav-tabs-neutral>.nav-item>.nav-link.active {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 .nav-tabs.nav-tabs-primary>.nav-item>.nav-link.active {
@@ -3391,7 +3391,7 @@ textarea.form-control:active, textarea.form-control:focus {
     color: #FFF;
 }
 .navbar .navbar-nav .nav-item .nav-link:not(.btn):active, .navbar .navbar-nav .nav-item .nav-link:not(.btn):focus, .navbar .navbar-nav .nav-item .nav-link:not(.btn):hover, .navbar .navbar-nav .nav-item.active .nav-link:not(.btn) {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     border-radius: .1875rem;
 }
 .navbar .logo-container {
@@ -3556,13 +3556,13 @@ textarea.form-control:active, textarea.form-control:focus {
     color: #49b59b;
 }
 .dropdown-menu.dropdown-primary .dropdown-header:not([href]):not([tabindex]) {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .dropdown-menu.dropdown-primary .dropdown-item {
     color: #FFF;
 }
 .dropdown-menu.dropdown-primary .dropdown-divider, .dropdown-menu.dropdown-primary .dropdown-item:focus, .dropdown-menu.dropdown-primary .dropdown-item:hover {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
 }
 .dropdown-menu.dropdown-info {
     background-color: #1da2ff;
@@ -3571,13 +3571,13 @@ textarea.form-control:active, textarea.form-control:focus {
     color: #1da2ff;
 }
 .dropdown-menu.dropdown-info .dropdown-header:not([href]):not([tabindex]) {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .dropdown-menu.dropdown-info .dropdown-item {
     color: #FFF;
 }
 .dropdown-menu.dropdown-info .dropdown-divider, .dropdown-menu.dropdown-info .dropdown-item:focus, .dropdown-menu.dropdown-info .dropdown-item:hover {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
 }
 .dropdown-menu.dropdown-danger {
     background-color: #ff2727;
@@ -3586,13 +3586,13 @@ textarea.form-control:active, textarea.form-control:focus {
     color: #ff2727;
 }
 .dropdown-menu.dropdown-danger .dropdown-header:not([href]):not([tabindex]) {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .dropdown-menu.dropdown-danger .dropdown-item {
     color: #FFF;
 }
 .dropdown-menu.dropdown-danger .dropdown-divider, .dropdown-menu.dropdown-danger .dropdown-item:focus, .dropdown-menu.dropdown-danger .dropdown-item:hover {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
 }
 .dropdown-menu.dropdown-success {
     background-color: #16c00e;
@@ -3601,13 +3601,13 @@ textarea.form-control:active, textarea.form-control:focus {
     color: #16c00e;
 }
 .dropdown-menu.dropdown-success .dropdown-header:not([href]):not([tabindex]) {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .dropdown-menu.dropdown-success .dropdown-item {
     color: #FFF;
 }
 .dropdown-menu.dropdown-success .dropdown-divider, .dropdown-menu.dropdown-success .dropdown-item:focus, .dropdown-menu.dropdown-success .dropdown-item:hover {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
 }
 .dropdown-menu.dropdown-warning {
     background-color: #ffac27;
@@ -3616,13 +3616,13 @@ textarea.form-control:active, textarea.form-control:focus {
     color: #ffac27;
 }
 .dropdown-menu.dropdown-warning .dropdown-header:not([href]):not([tabindex]) {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .dropdown-menu.dropdown-warning .dropdown-item {
     color: #FFF;
 }
 .dropdown-menu.dropdown-warning .dropdown-divider, .dropdown-menu.dropdown-warning .dropdown-item:focus, .dropdown-menu.dropdown-warning .dropdown-item:hover {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
 }
 .button-dropdown {
     padding-right: .7rem;
@@ -4416,22 +4416,22 @@ img {
     border: 0;
 }
 .card[data-background-color=green] {
-    background-color: #53baa1;
+    background-color: $theme-green;
 }
 .card[data-background-color=dark-grey] {
-    background-color: #505759;
+    background-color: $theme-dark-grey;
 }
 .card[data-background-color=orange] {
-    background-color: #da3200;
+    background-color: $theme-orange;
 }
 .card[data-background-color=light-grey] {
-    background-color: #efefef;
+    background-color: $theme-light-grey;
 }
 .card[data-background-color=coral] {
-    background-color: #e0004d;
+    background-color: $theme-coral;
 }
 .card[data-background-color=black] {
-    background-color: #293030;
+    background-color: $theme-black;
 }
 .card .rounded {
     border-radius: .1875rem!important;
@@ -4549,7 +4549,7 @@ img {
     line-height: 1.9;
 }
 .card-background .card-description, .card-background .category, .card-background small {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .card-background .card-title {
     color: #FFF;
@@ -4625,7 +4625,7 @@ img {
     z-index: 2;
     position: absolute;
     pointer-events: none;
-    border-color: rgba(255, 255, 255, 0);
+    border-color: rgba($black, 0);
     border-left-color: #fff;
     border-width: 10px;
     margin-top: -10px;
@@ -4744,7 +4744,7 @@ img {
 }
 .card-pricing.card-background ul li {
     color: #FFF;
-    border-color: rgba(255, 255, 255, .3);
+    border-color: rgba($black, .3);
 }
 .card-pricing.card-background ul li b {
     color: #FFF;
@@ -4929,7 +4929,7 @@ img {
     padding: 0 15px;
     width: 100%;
     text-align: center;
-    color: rgba(255, 255, 255, .5);
+    color: rgba($black, .5);
 }
 .landing-page .page-header .title, .profile-page .profile-container, .section-full-page .footer, .section-full-page .footer .copyright a, .section-full-page .footer nav>ul a:not(.btn) {
     color: #FFF;
@@ -5245,7 +5245,7 @@ img {
     filter: alpha(opacity=100);
 }
 .login-page .card-login.card-plain .form-control {
-    border-color: rgba(255, 255, 255, .5);
+    border-color: rgba($black, .5);
     color: #FFF;
 }
 .login-page .card-login.card-plain .form-control:focus {
@@ -5261,7 +5261,7 @@ img {
 }
 .login-page .card-login.card-plain .input-group-text {
     background-color: transparent;
-    border-color: rgba(255, 255, 255, .5);
+    border-color: rgba($black, .5);
     color: #FFF;
 }
 .login-page .card-login.card-plain .input-group-focus .input-group-text {
@@ -5270,31 +5270,31 @@ img {
     color: #FFF;
 }
 .login-page .card-login.card-plain .form-group.no-border .form-control, .login-page .card-login.card-plain .input-group.no-border .form-control {
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba($black, .1);
     color: #FFF;
 }
 .login-page .card-login.card-plain .form-group.no-border .form-control:active, .login-page .card-login.card-plain .form-group.no-border .form-control:focus, .login-page .card-login.card-plain .input-group.no-border .form-control:active, .login-page .card-login.card-plain .input-group.no-border .form-control:focus {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 .login-page .card-login.card-plain .form-group.no-border .form-control+.input-group-text, .login-page .card-login.card-plain .input-group.no-border .form-control+.input-group-text {
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba($black, .1);
 }
 .login-page .card-login.card-plain .form-group.no-border .form-control+.input-group-text:active, .login-page .card-login.card-plain .form-group.no-border .form-control+.input-group-text:focus, .login-page .card-login.card-plain .form-group.no-border .form-control:focus+.input-group-text, .login-page .card-login.card-plain .input-group.no-border .form-control+.input-group-text:active, .login-page .card-login.card-plain .input-group.no-border .form-control+.input-group-text:focus, .login-page .card-login.card-plain .input-group.no-border .form-control:focus+.input-group-text {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 .login-page .card-login.card-plain .form-group.no-border .input-group-text, .login-page .card-login.card-plain .input-group.no-border .input-group-text {
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba($black, .1);
     border: none;
     color: #FFF;
 }
 .login-page .card-login.card-plain .form-group.no-border.input-group-focus .input-group-text, .login-page .card-login.card-plain .input-group.no-border.input-group-focus .input-group-text {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 .login-page .card-login.card-plain .form-group.no-border .input-group-text, .login-page .card-login.card-plain .input-group-text, .login-page .card-login.card-plain .input-group.no-border .input-group-text {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .login-page .link {
     font-size: 10px;
@@ -5458,7 +5458,7 @@ img {
     position: relative;
 }
 .page-header .category, .page-header .description {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .page-header:after, .page-header:before {
     position: absolute;
@@ -5603,10 +5603,10 @@ img {
     right: 12%}
 /* ROR brand colours from https://coolors.co/53baa1-505759-da3200-e89005-d3bdb0 plus a very dark grey for use as black */
 [data-background-color=green] {
-    background-color: #53baa1;
+    background-color: $green;
 }
 [data-background-color=dark-grey] {
-    background-color: #505759;
+    background-color: $dark-grey;
 }
 [data-background-color=light-grey] {
     background-color: #efefef;
@@ -5640,19 +5640,19 @@ img {
 .category-link a,
 .category-link a:focus,
 .category-link a:hover {
-    color: #e89005 !important;
+    color: $mustard !important;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .separator {
     background-color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .navbar.bg-white p {
-    color: #888;
+    color: $dark-grey;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .description, [data-background-color]:not([data-background-color=dark-grey]) .social-description p {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .checkbox label::after, [data-background-color]:not([data-background-color=dark-grey]) .checkbox label::before, [data-background-color]:not([data-background-color=dark-grey]) .radio label::after, [data-background-color]:not([data-background-color=dark-grey]) .radio label::before, [data-background-color]:not([data-background-color=dark-grey]) p.blockquote {
-    border-color: rgba(255, 255, 255, .2);
+    border-color: rgba($black, .2);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .checkbox input[type=checkbox]:disabled+label, [data-background-color]:not([data-background-color=dark-grey]) .checkbox label, [data-background-color]:not([data-background-color=dark-grey]) .checkbox label::after, [data-background-color]:not([data-background-color=dark-grey]) .radio input[type=radio]:disabled+label, [data-background-color]:not([data-background-color=dark-grey]) .radio label {
     color: #FFF;
@@ -5682,7 +5682,7 @@ img {
     filter: alpha(opacity=100);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-control {
-    border-color: rgba(255, 255, 255, .5);
+    border-color: rgba($black, .5);
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-control:focus {
@@ -5698,7 +5698,7 @@ img {
 }
 [data-background-color]:not([data-background-color=dark-grey]) .input-group-text {
     background-color: transparent;
-    border-color: rgba(255, 255, 255, .5);
+    border-color: rgba($black, .5);
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .input-group-focus .input-group-text {
@@ -5707,32 +5707,32 @@ img {
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .form-control, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .form-control {
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba($black, .1);
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .form-control:active, [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .form-control:focus, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .form-control:active, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .form-control:focus {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .form-control+.input-group-text, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .form-control+.input-group-text {
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba($black, .1);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .form-control+.input-group-text:active, [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .form-control+.input-group-text:focus, [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .form-control:focus+.input-group-text, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .form-control+.input-group-text:active, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .form-control+.input-group-text:focus, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .form-control:focus+.input-group-text {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .input-group-text, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .input-group-text {
-    background-color: rgba(255, 255, 255, .1);
+    background-color: rgba($black, .1);
     border: none;
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border.input-group-focus .input-group-text, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border.input-group-focus .input-group-text {
-    background-color: rgba(255, 255, 255, .2);
+    background-color: rgba($black, .2);
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .btn.btn-simple {
     background-color: transparent;
-    border-color: rgba(255, 255, 255, .5);
+    border-color: rgba($black, .5);
     color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .btn.btn-simple:active, [data-background-color]:not([data-background-color=dark-grey]) .btn.btn-simple:focus, [data-background-color]:not([data-background-color=dark-grey]) .btn.btn-simple:hover {
@@ -5758,7 +5758,7 @@ img {
     color: #FFF;
 }
 .section-image .description, .section-image .info .icon:not(.icon-circle) {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .section-image .card:not(.card-plain) .info-title {
     color: #2c2c2c;
@@ -5770,7 +5770,7 @@ img {
     color: #FFF;
 }
 .section-image .card-plain .category {
-    color: rgba(255, 255, 255, .5);
+    color: rgba($black, .5);
 }
 .section-image:after {
     position: absolute;
@@ -5816,7 +5816,7 @@ img {
     position: relative;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .separator-line {
-    background-color: rgba(255, 255, 255, .5);
+    background-color: rgba($black, .5);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .footer.footer-white .footer-brand, [data-background-color]:not([data-background-color=dark-grey]) .footer.footer-white ul li>a.nav-link:not(.btn-icon) {
     color: initial;
@@ -5834,16 +5834,16 @@ img {
     border-color: #FFF;
 }
 [data-background-color]:not([data-background-color=dark-grey]).card-pricing .icon i, [data-background-color]:not([data-background-color=dark-grey]).card-pricing ul li, [data-background-color]:not([data-background-color=dark-grey]).footer hr {
-    border-color: rgba(255, 255, 255, .2);
+    border-color: rgba($black, .2);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .card-footer .stats i, [data-background-color]:not([data-background-color=dark-grey]) .card-header:after, [data-background-color]:not([data-background-color=dark-grey]) .card-plain .category, [data-background-color]:not([data-background-color=dark-grey]).card-plain .category {
-    color: rgba(255, 255, 255, .5);
+    color: rgba($black, .5);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .author span, [data-background-color]:not([data-background-color=dark-grey]) .card-category, [data-background-color]:not([data-background-color=dark-grey]) .card-pricing.card-plain ul li b, [data-background-color]:not([data-background-color=dark-grey]) .card-pricing.card-plain ul li i, [data-background-color]:not([data-background-color=dark-grey]).card-pricing ul li b, [data-background-color]:not([data-background-color=dark-grey]).card-pricing ul li i {
-    color: rgba(255, 255, 255, .8)!important;
+    color: rgba($black, .8)!important;
 }
 [data-background-color]:not([data-background-color=dark-grey]) .form-group.no-border .input-group-text, [data-background-color]:not([data-background-color=dark-grey]) .input-group-text, [data-background-color]:not([data-background-color=dark-grey]) .input-group.no-border .input-group-text {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 [data-background-color]:not([data-background-color=dark-grey]) .subscribe-line .form-control {
     background-color: transparent;
@@ -6271,7 +6271,7 @@ img {
     background-size: cover;
 }
 .subscribe-line.subscribe-line-image .description {
-    color: rgba(255, 255, 255, .8);
+    color: rgba($black, .8);
 }
 .subscribe-line.subscribe-line-image .title {
     color: #FFF;
@@ -6298,7 +6298,7 @@ img {
     background-color: #2c2c2c;
 }
 .social-line-black [class*=col-], .subscribe-line-black [class*=col-] {
-    border-color: rgba(255, 255, 255, .1);
+    border-color: rgba($black, .1);
 }
 [data-background-color] .social-line h1, [data-background-color] .social-line h2, [data-background-color] .social-line h3, [data-background-color] .social-line h4, [data-background-color] .social-line h5, [data-background-color] .social-line h6 {
     color: initial;

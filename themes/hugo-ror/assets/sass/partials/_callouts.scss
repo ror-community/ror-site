@@ -10,33 +10,41 @@
   font-size: 4rem;
 }
 .callout.green {
-  background-color: #53baa1;
+  background-color: $green;
 }
 .callout.dark-grey {
-  background-color: #505759;
+  background-color: $dark-grey;
 }
 .callout.mustard {
-  background-color: #e89005;
+  background-color: $mustard;
 }
 .callout.black {
-  background-color: #293030;
+  background-color: $black;
 }
 .callout.dark-grey, .callout.black {
   color: #fff;
 }
+
+/*** CTA buttons ***/
+
 .btn.green {
-  color:#293030!important;
-  background-color: #53baa1;
+  color: #000!important;
+  background-color: $green;
+  filter: saturate(.6);
+
+  &:hover {
+    background-color: $green;
+    filter: saturate(1);
+  }
+
 }
 .btn.red {
   color: #fff!important;
-  background-color: #B74225;
-}
+  background-color: $orange;
+  filter: saturate(.6);
 
-/*** CTA buttons ***/
-.btn.green:hover {
-  background-color: #66CCB3!important
-}
-.btn.red:hover {
-  background-color: #da3200!important;
+  &:hover {
+    background-color: $orange;  
+    filter: saturate(1);
+  }
 }
