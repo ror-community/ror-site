@@ -4,12 +4,15 @@ baseurl = "https://dev.ror.org/"
 style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
+summaryLength = 20
+
 disqusShortname = "ror-community"
+
 
 [params]
 date_format = "January 2, 2006"
 image = "/img/banners/ROR_BeeKeeper.jpg"
-CSSVersion = 4
+CSSVersion = 3
 
 [markup]
   [markup.goldmark]
@@ -25,21 +28,36 @@ CSSVersion = 4
     enable = false
 
 [params.landingbanner]
-	enable = true
+  enable = true
     image = "/img/banners/ROR_BeeKeeper.jpg"
+    text = "ROR is a community-led registry of open, sustainable, usable and unique identifiers for every research organization in the world"
+    textcolor = '#fff'
 
 [params.blurb]
     enable = true
 
-[params.features]
-    enable = false
+[params.homepage_features]
+    enable = true
 
 [params.testimonials]
     enable = false
 
 [params.about]
-    enable = true
+    enable = false
     title = "Why ROR?"
-    subtitle = "The scholarly research community depends on a series of open identifier and metadata infrastructure systems to great success. Content identifiers and contributor identifiers are foundational infrastructure for the community. But there is one piece of the infrastructure that is missing – there currently is no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata.&nbsp;"
+    subtitle = "The scholarly research community depends on a series of open identifier and metadata infrastructure systems to great success. Content identifiers and contributor identifiers are foundational infrastructure for the community. But there is one piece of the infrastructure that is missing – there currently is no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata."
     link_text = "Learn more"
     link_url = "/scope"
+
+[params.socials]
+  email = "info@ror.org"
+  twitter = "https://twitter.com/ResearchOrgs"
+  youtube = "https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg"
+  linkedin = "https://www.linkedin.com/company/ror-research-organization-registry/"
+  github = "https://github.com/ror-community"
+  support_site = "https://ror.readme.io/"
+
+    
+[params.recent_posts]
+    enable = true    
+    title = "News and Updates"
