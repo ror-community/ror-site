@@ -1,0 +1,58 @@
+#recent-posts {
+    background-color: $section-background;
+    .view-all {
+        padding:0 1rem;
+        text-align: center;
+        margin-bottom: 0;
+    }
+    
+    .news-item {
+        
+        h3 {
+            font-size: 1em;
+            line-height: 2rem;
+        }
+        
+        .content {
+            padding-top:20px;
+        }
+        .top {
+            position:relative;
+            height:300px;
+            &:hover {
+                .image {
+                }
+            }
+            .image {
+                height:100%;
+                width:100%;
+                background-size:cover;
+                background-position:center;
+                background-repeat:no-repeat;
+            }
+            .text {
+                position:absolute;
+                bottom:-20px;
+                right:10px;
+            }
+            .title {
+                padding-top:0;
+                position:absolute;
+                top:0;
+                h4 {
+                    margin-top:0;
+                    padding:10px;
+                    a {
+                        color:#fff;
+                        border-bottom: 2px solid transparent;
+                        text-decoration:none;
+                        @include standard-ease;
+                        &:hover {                            
+                            border-color: #fff;
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

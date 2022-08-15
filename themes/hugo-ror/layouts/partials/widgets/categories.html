@@ -1,14 +1,17 @@
 {{ if .Site.Params.widgets.categories }}
 {{ if isset .Site.Taxonomies "categories" }}
 {{ if not (eq (len .Site.Taxonomies.categories) 0) }}
-<div class="card card-plain">
+<div class="card card-plain taxonomy">
   <div class="card-body">
-    <h3 class="panel-title">Categories</h3>
+    <h3 class="card-title">Categories</h3>
 
     <ul class="nav nav-pills nav-stacked">
       {{ range $name, $items := .Site.Taxonomies.categories }}
-      <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}"><span>{{ $name }} ({{ len $items }})</span></a>
-      </li>
+        {{ if eq ( $.Title | lower ) ( $name | lower ) }}
+          <li><span>{{ $name }} ({{ len $items }})</span></li>
+        {{ else }}
+          <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}"><span>{{ $name }} ({{ len $items }})</span></a></li>
+        {{ end }}
       {{ end }}
     </ul>
   </div>

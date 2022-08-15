@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  {{ partial "head.html" . }}
+
+  <body class='{{ with .File }}{{ path.Dir (.File.Path) }}{{ end }}'>
+    <div class="wrapper" id="all">
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      <div class="section" id="content">
+
+       {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
+
+        <div class="container">
+          <div class="row">
+            <div class="col-md-12 mr-auto">
+              <div>
+                {{ .Content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

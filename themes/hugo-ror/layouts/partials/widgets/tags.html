@@ -1,14 +1,17 @@
 {{ if .Site.Params.widgets.tags }}
 {{ if isset .Site.Taxonomies "tags" }}
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
-<div class="card card-plain">
+<div class="card card-plain taxonomy">
   <div class="card-body">
     <h3 class="card-title">Tags</h3>
 
     <ul class="list-unstyled">
       {{ range $name, $items := .Site.Taxonomies.tags }}
-        <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> <span>{{ $name }}</span></a>
-        </li>
+        {{ if eq ( $.Title | lower ) ( $name | lower ) }}
+          <li><i class="fa fa-tags"></i> <span>{{ $name }}</span></li>
+        {{ else }}
+          <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> <span>{{ $name }}</span></a></li>
+        {{ end }}
       {{ end }}
     </ul>
 </div>

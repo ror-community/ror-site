@@ -1,31 +1,97 @@
 <!DOCTYPE html>
 <html lang="en">
+  
   {{ partial "head.html" . }}
-
-  <body {{ if .Params.style }} class='{{ .Params.style }}' {{ end }}>
+ 
+  <body class='{{ with .File }}{{ path.Dir (.File.Path) }}{{ end }}'>
     <div class="wrapper" id="all">
       <header>
         {{ partial "nav.html" . }}
       </header>
-      <div class="section section-blog" id="content">
+      <section class="section" id="content">
 
        {{ partial "pagetitle.html" . }}
-
+       
+       {{ partial "breadcrumbs.html" . }}
+       
         <div class="container">
           <div class="row">
-            <div class="col-md-9 mr-auto">
-              <div>
-                {{ .Content }}
-              </div>
+            <div class="col-md-12" id="blog-listing-medium">
+           
+              {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
+              {{ range $paginator.Pages }}
+              <section class="post">
+               <div class="row">
+                 <div class="col-md-4">
+                   <div class="image">
+                     <a href="{{ .Permalink }}">
+                       {{ if .Params.thumb }}
+                         <img src="{{ .Params.thumb }}" class="img-raised rounded" alt="">
+                       {{ else if .Params.banner }}
+                         <img src="{{ .Params.banner }}" class="img-raised rounded" alt="">
+                       {{ else }}
+                         <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="">
+                       {{ end }}
+                     </a>
+                   </div>
+                 </div>
+                   <div class="col-md-8">
+                     {{ if isset .Params "categories" }}
+                       {{ if gt (len .Params.categories) 0 }}
+                       <h6 class="category mt-3"><a class="category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a></h6>
+                       {{ end }}
+                     {{ end }}
+                     <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                       <div class="clearfix post-meta">
+                         <p class="author-category">
+                           {{ if isset .Params "author" }}
+                             By {{ .Params.author }}
+                           {{ end }}
+                         </p>
+                         <p class="date-comments">
+                             <a href="{{ .Permalink }}">{{ .Date.Format .Site.Params.date_format }}</a>
+                         </p>
+                       </div>
+                       <p class="intro">{{ .Summary }}</p>
+                       <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round">Continue reading</a>
+                       </p>
+                     </div>
+                 </div>
+              </section>
+              {{ end }}
+              
+              <ul class="pagination justify-content-center">
+                {{ if .Paginator.HasPrev }}
+                <li class="page-item"><a class="page-link" href="{{ .Paginator.Prev.URL }}">&larr; Newer</a></li>
+                {{ else }}
+                <li class="page-item disabled"><a class="page-link" href="#">&larr; Newer</a></li>
+                {{ end }}
+
+                {{ if .Paginator.HasNext }}
+                <li class="page-item"><a class="page-link" href="{{ .Paginator.Next.URL }}">Older &rarr;</a></li>
+                {{ else }}
+                <li class="page-item disabled"><a class="page-link" href="#">Older &rarr;</a></li>
+                {{ end }}
+              </ul>
+            </div>
+
+            <div class="col-md-3">
+
+              <!-- *** MENUS AND WIDGETS *** -->
+
+              {{ partial "sidebar.html" . }}
+
+              <!-- *** MENUS AND FILTERS END *** -->
+
             </div>
           </div>
         </div>
-      </div>
+      </section>
     </div>
 
     {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
     {{ partial "footer.html" . }}
     {{ partial "scripts.html" . }}
-
   </body>
 </html>

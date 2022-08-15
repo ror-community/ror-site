@@ -1,0 +1,57 @@
+<section class="section section-socials" data-background-color="light-grey">
+  <div class="container">
+	<div class="row no-gutters">
+		<div class="col-md-12 ml-auto mr-auto text-center  no-gutters">
+			<div class="col-6 col-md-2">
+			
+			{{ if isset .Site.Params.Socials "email" }}
+				<a href="mailto:{{ .Site.Params.Socials.email }}">
+					<i class="fa fa-envelope"></i>
+					<span>Email</span>
+				</a>
+			{{ end }}
+			</div>
+			<div class="col-6 col-md-2">
+			{{ if isset .Site.Params.Socials "twitter" }}
+				<a href="mailto:{{ .Site.Params.Socials.twitter }}">
+					<i class="fa fa-twitter"></i>
+					<span>Twitter</span>
+				</a>
+			{{ end }}
+			</div>
+			<div class="col-6 col-md-2">
+			{{ if isset .Site.Params.Socials "youtube" }}
+				<a href="mailto:{{ .Site.Params.Socials.youtube }}">
+					<i class="fa fa-youtube"></i>
+					<span>YouTube</span>
+				</a>
+			{{ end }}
+			</div>
+			<div class="col-6 col-md-2">
+			{{ if isset .Site.Params.Socials "linkedin" }}
+				<a href="mailto:{{ .Site.Params.Socials.linkedin }}">
+					<i class="fa fa-linkedin"></i>
+					<span>LinkedIn</span>
+				</a>
+			{{ end }}
+			</div>
+			<div class="col-6 col-md-2">
+			{{ if isset .Site.Params.Socials "github" }}
+				<a href="mailto:{{ .Site.Params.Socials.github }}">
+					<i class="fa fa-github"></i>
+					<span>GitHub</span>
+				</a>
+			{{ end }}
+			</div>
+			<div class="col-6 col-md-2">
+			{{ if isset .Site.Params.Socials "support_site" }}
+				<a href="mailto:{{ .Site.Params.Socials.support_site }}">
+					<i class="fa fa-life-ring"></i>
+					<span>Support Site</span>
+				</a>
+			{{ end }}
+			</div>
+		</div>
+	</div>
+  </div>
+</section>

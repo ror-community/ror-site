@@ -1,0 +1,33 @@
+/* BREADCRUMBS */
+.breadcrumbs-wrap {
+    background-color: #efefef;
+    margin-bottom: 2rem;
+  }
+  
+  ul.breadcrumbs {
+    display: table;
+    padding: 0;
+    list-style: none;
+    line-height: 10px;
+    margin: .5rem 0 .5rem 0;
+    font-size: .8em;
+  }
+  ul.breadcrumbs li {
+      display: inline;
+      line-height:1.4em;
+      padding: 0;
+  }
+  ul.breadcrumbs li:before {
+        content: "";
+      }
+  ul.breadcrumbs li span {
+        padding: 0 6px;
+        display:inline-block;
+      }
+  
+  ul.breadcrumbs li a {
+      color: #505759;
+    }
+  ul.breadcrumbs li a:hover {
+      color: #ff6900;
+  }
