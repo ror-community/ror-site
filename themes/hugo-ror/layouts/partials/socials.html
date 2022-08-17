@@ -5,7 +5,7 @@
 			<div class="col-6 col-md-2">
 			
 			{{ if isset .Site.Params.Socials "email" }}
-				<a href="mailto:{{ .Site.Params.Socials.email }}">
+				<a href="{{ .Site.Params.Socials.email }}">
 					<i class="fa fa-envelope"></i>
 					<span>Email</span>
 				</a>
@@ -13,7 +13,7 @@
 			</div>
 			<div class="col-6 col-md-2">
 			{{ if isset .Site.Params.Socials "twitter" }}
-				<a href="mailto:{{ .Site.Params.Socials.twitter }}">
+				<a href="{{ .Site.Params.Socials.twitter }}">
 					<i class="fa fa-twitter"></i>
 					<span>Twitter</span>
 				</a>
@@ -21,7 +21,7 @@
 			</div>
 			<div class="col-6 col-md-2">
 			{{ if isset .Site.Params.Socials "youtube" }}
-				<a href="mailto:{{ .Site.Params.Socials.youtube }}">
+				<a href="{{ .Site.Params.Socials.youtube }}">
 					<i class="fa fa-youtube"></i>
 					<span>YouTube</span>
 				</a>
@@ -29,7 +29,7 @@
 			</div>
 			<div class="col-6 col-md-2">
 			{{ if isset .Site.Params.Socials "linkedin" }}
-				<a href="mailto:{{ .Site.Params.Socials.linkedin }}">
+				<a href="{{ .Site.Params.Socials.linkedin }}">
 					<i class="fa fa-linkedin"></i>
 					<span>LinkedIn</span>
 				</a>
@@ -37,7 +37,7 @@
 			</div>
 			<div class="col-6 col-md-2">
 			{{ if isset .Site.Params.Socials "github" }}
-				<a href="mailto:{{ .Site.Params.Socials.github }}">
+				<a href="{{ .Site.Params.Socials.github }}">
 					<i class="fa fa-github"></i>
 					<span>GitHub</span>
 				</a>
@@ -45,7 +45,7 @@
 			</div>
 			<div class="col-6 col-md-2">
 			{{ if isset .Site.Params.Socials "support_site" }}
-				<a href="mailto:{{ .Site.Params.Socials.support_site }}">
+				<a href="{{ .Site.Params.Socials.support_site }}">
 					<i class="fa fa-life-ring"></i>
 					<span>Support Site</span>
 				</a>

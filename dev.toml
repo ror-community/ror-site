@@ -50,7 +50,7 @@ CSSVersion = 3
     link_url = "/scope"
 
 [params.socials]
-  email = "info@ror.org"
+  email = "mailto:info@ror.org"
   twitter = "https://twitter.com/ResearchOrgs"
   youtube = "https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg"
   linkedin = "https://www.linkedin.com/company/ror-research-organization-registry/"
