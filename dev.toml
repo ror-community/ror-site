@@ -50,7 +50,7 @@ CSSVersion = 3
     link_url = "/scope"
 
 [params.socials]
-    enable = false
+    enable = true
     
 [params.recent_posts]
     enable = true    
