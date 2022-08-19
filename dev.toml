@@ -50,13 +50,7 @@ CSSVersion = 3
     link_url = "/scope"
 
 [params.socials]
-  email = "mailto:info@ror.org"
-  twitter = "https://twitter.com/ResearchOrgs"
-  youtube = "https://www.youtube.com/channel/UCQBOpOpW-JEKoVCUlmCK1Eg"
-  linkedin = "https://www.linkedin.com/company/ror-research-organization-registry/"
-  github = "https://github.com/ror-community"
-  support_site = "https://ror.readme.io/"
-
+    enable = false
     
 [params.recent_posts]
     enable = true    
