@@ -2108,17 +2108,17 @@ body {
     text-transform: uppercase;
 }
 .btn, .navbar .navbar-nav>a.btn {
-    font-weight: 400;
-    font-size: .8571em;
-    line-height: 1.35em;
-    margin: 10px 1px;
+    font-weight: 700;
+    line-height: 1em;
+    margin: .5em 0;
     border: none;
     border-radius: .1875rem;
-    padding: 11px 22px;
+    padding: 2em;
     cursor: pointer;
     background-color: #888;
     color: #FFF !important;
     text-decoration: none;
+    transition: 0.25s;
 }
 .btn.active:hover, .btn:active:hover, .btn:focus, .btn:hover, .btn:not(:disabled):not(.disabled).active, .btn:not(:disabled):not(.disabled).active:focus, .btn:not(:disabled):not(.disabled):active, .btn:not(:disabled):not(.disabled):active:focus, .navbar .navbar-nav>a.btn.active:hover, .navbar .navbar-nav>a.btn:active:hover, .navbar .navbar-nav>a.btn:focus, .navbar .navbar-nav>a.btn:hover, .navbar .navbar-nav>a.btn:not(:disabled):not(.disabled).active, .navbar .navbar-nav>a.btn:not(:disabled):not(.disabled).active:focus, .navbar .navbar-nav>a.btn:not(:disabled):not(.disabled):active, .navbar .navbar-nav>a.btn:not(:disabled):not(.disabled):active:focus, .show>.btn.dropdown-toggle, .show>.btn.dropdown-toggle:focus, .show>.btn.dropdown-toggle:hover, .show>.navbar .navbar-nav>a.btn.dropdown-toggle, .show>.navbar .navbar-nav>a.btn.dropdown-toggle:focus, .show>.navbar .navbar-nav>a.btn.dropdown-toggle:hover {
     background-color: #979797;
@@ -2126,7 +2126,9 @@ body {
     box-shadow: none;
 }
 .btn:hover, .navbar .navbar-nav>a.btn:hover {
-    box-shadow: 0 3px 8px 0 rgba(0, 0, 0, .17);
+    box-shadow: 0 0.5em 0.5em -0.4em rgba(0, 0, 0, .6);
+    transform: translateY(-0.2em);
+    text-decoration: none!important;
 }
 .btn.disabled, .btn.disabled.active, .btn.disabled.focus, .btn.disabled:active, .btn.disabled:focus, .btn.disabled:hover, .btn:disabled, .btn:disabled.active, .btn:disabled.focus, .btn:disabled:active, .btn:disabled:focus, .btn:disabled:hover, .btn[disabled], .btn[disabled].active, .btn[disabled].focus, .btn[disabled]:active, .btn[disabled]:focus, .btn[disabled]:hover, .navbar .navbar-nav>a.btn.disabled, .navbar .navbar-nav>a.btn.disabled.active, .navbar .navbar-nav>a.btn.disabled.focus, .navbar .navbar-nav>a.btn.disabled:active, .navbar .navbar-nav>a.btn.disabled:focus, .navbar .navbar-nav>a.btn.disabled:hover, .navbar .navbar-nav>a.btn:disabled, .navbar .navbar-nav>a.btn:disabled.active, .navbar .navbar-nav>a.btn:disabled.focus, .navbar .navbar-nav>a.btn:disabled:active, .navbar .navbar-nav>a.btn:disabled:focus, .navbar .navbar-nav>a.btn:disabled:hover, .navbar .navbar-nav>a.btn[disabled], .navbar .navbar-nav>a.btn[disabled].active, .navbar .navbar-nav>a.btn[disabled].focus, .navbar .navbar-nav>a.btn[disabled]:active, .navbar .navbar-nav>a.btn[disabled]:focus, .navbar .navbar-nav>a.btn[disabled]:hover, fieldset[disabled] .btn, fieldset[disabled] .btn.active, fieldset[disabled] .btn.focus, fieldset[disabled] .btn:active, fieldset[disabled] .btn:focus, fieldset[disabled] .btn:hover, fieldset[disabled] .navbar .navbar-nav>a.btn, fieldset[disabled] .navbar .navbar-nav>a.btn.active, fieldset[disabled] .navbar .navbar-nav>a.btn.focus, fieldset[disabled] .navbar .navbar-nav>a.btn:active, fieldset[disabled] .navbar .navbar-nav>a.btn:focus, fieldset[disabled] .navbar .navbar-nav>a.btn:hover {
     background-color: #888;
@@ -2477,7 +2479,6 @@ body {
 .btn-group-sm>.btn, .btn-sm {
     font-size: 1rem;
     border-radius: .1875rem;
-    padding: 5px 15px;
 }
 .btn-group-sm>.btn-simple.btn, .btn-sm.btn-simple {
     padding: 4px 14px;

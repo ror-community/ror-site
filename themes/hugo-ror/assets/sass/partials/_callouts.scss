@@ -29,22 +29,10 @@
 
 .btn.green {
   color: #000!important;
-  background-color: $green;
-  filter: saturate(.6);
-
-  &:hover {
-    background-color: $green;
-    filter: saturate(1);
-  }
-
+  background-color: $mustard;
 }
-.btn.red {
+.btn.red,
+.btn.orange {
   color: #fff!important;
   background-color: $orange;
-  filter: saturate(.6);
-
-  &:hover {
-    background-color: $orange;  
-    filter: saturate(1);
-  }
 }
