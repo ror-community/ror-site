@@ -55,5 +55,5 @@ CSSVersion = 3
     title = "News and Updates"    
     
 [params.twitter_feed]
-    enable = true    
+    enable = false    
     title = "Twitter Feed"
