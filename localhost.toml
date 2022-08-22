@@ -52,4 +52,8 @@ CSSVersion = 3
     
 [params.recent_posts]
     enable = true    
-    title = "News and Updates"
+    title = "News and Updates"    
+    
+[params.twitter_feed]
+    enable = true    
+    title = "Twitter Feed"

@@ -1,0 +1,23 @@
+{{ if isset .Site.Params "twitter_feed" }}
+{{ if .Site.Params.twitter_feed.enable }}
+
+<section id="twitter-feed" class="section bar background-white no-mb">
+    <div class="container">
+
+        <div class="row">
+
+            <div class="col-md-12">
+
+                <a class="twitter-timeline" data-height="500" href="https://twitter.com/ResearchOrgs?ref_src=twsrc%5Etfw">
+                    Loading tweets from @ResearchOrgs...
+                </a>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+{{ end }}
+{{ end }}
