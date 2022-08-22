@@ -1,9 +1,9 @@
 /*** Callout boxes ***/
 .callout,
-.callout.beige {
+.callout.grey {
   border-radius: .25rem!important;
   padding: 2rem;
-  background-color: #d3bdb0;
+  background-color: $light-grey;
   margin-bottom: 1.5rem;
 }
 .callout .fa {
