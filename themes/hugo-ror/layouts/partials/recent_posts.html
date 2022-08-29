@@ -16,28 +16,9 @@
 
                 <!-- *** BLOG HOMEPAGE *** -->
                 <div class="row">
-
-                    <!-- twitter feed-->
-                    <div class="col-md-4 col-sm-6 news-item">
-                        <div class="box-image-text blog">
-
-                            <div class="content no-top-pad">                                
-                                <a class="twitter-timeline" 
-                                    data-tweet-limit="1" 
-                                    data-height="" 
-                                    data-chrome="nofooter noborders transparent"
-                                    href="https://twitter.com/ResearchOrgs?ref_src=twsrc%5Etfw"
-                                >
-                                    Loading tweets from @ResearchOrgs...
-                                </a>
-                                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                            </div>
-                        </div>
-                        <!-- /.box-image-text -->
-
-                    </div>
+                    
                     {{ $posts := .Paginate (where .Site.RegularPages "Section" "blog") }}
-                    {{ range first 2 $posts.Pages }}
+                    {{ range first 3 $posts.Pages }}
                     <div class="col-md-4 col-sm-6 news-item">
                         <div class="box-image-text blog">
                             <div class="top">
