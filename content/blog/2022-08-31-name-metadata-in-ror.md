@@ -50,7 +50,7 @@ Metadata is therefore an important, useful, and necessary part of ROR. An organi
 
 ## **How names are represented in ROR**
 
-Now let's turn to the question of names in ROR.
+Now let's turn to the question of how names are used in ROR.
 
 A given ROR record may have multiple names associated with it. ROR actually has four different metadata fields that capture information about names:
 
