@@ -16,7 +16,7 @@ Names in ROR are a key piece of metadata that helps with discovery and disambigu
 
 One of the most common questions we receive is about how we handle this process, so we thought it would be helpful to put together this blog post to share some observations and discuss our current practices with regard to organization names in ROR.
 
-## Background
+## **Background**
 
 ROR first launched in 2019 using seed data from GRID, and subsequent registry updates were coordinated through and [synced to GRID](https://ror.org/blog/2019-07-02-ror-development-update/) while we worked to develop infrastructure and practices for maintaining the registry. ROR completed its multi-year transition to an independent community-based curation model in [March 2022](https://ror.org/blog/2022-03-17-first-independent-release/), officially diverging from GRID at this time.
 
@@ -24,7 +24,7 @@ Curation of ROR is an ongoing process and helps to ensure that the registry is a
 
 Now that the registry is fully independent, we are able to be more responsive to and proactive about community feedback about registry additions and updates. The registry is updated on a rolling basis, with new releases available approximately once a month, and the curation process is tracked publicly on [Github](https://github.com/ror-community/ror-updates#ror-updates).
 
-## Names in context: ROR aims and scope
+## **Names in context: ROR aims and scope**
 
 In order to understand how ROR handles organization names, it is important to understand the wider context of ROR's aims and scope.
 
@@ -36,7 +36,7 @@ ROR is also not designed to promote or rank the value or quality of a given orga
 
 These nuances about ROR's aims and scope are important to understand because they influence ROR's approach to metadata curation. Let's turn to that topic next.
 
-## The role of metadata in ROR
+## **The role of metadata in ROR**
 
 As noted above, ROR is a registry of persistent identifiers. However, an identifier string on its own is not very useful. This is where metadata comes in.
 
@@ -48,7 +48,7 @@ Metadata in ROR is also useful for disambiguation. Let's say we are looking for 
 
 Metadata is therefore an important, useful, and necessary part of ROR. An organization might change over time, but its ROR identifier will not. ROR metadata needs to be able to reflect these changes. ROR metadata also needs to be understood in the context of ROR's purpose as an open, community-driven registry of persistent identifiers. ROR metadata should not be interpreted as serving as the canonical authority on a given organization.
 
-## How names are represented in ROR
+## **How names are represented in ROR**
 
 Now let's turn to the question of names in ROR.
 
@@ -65,7 +65,7 @@ When we are creating a new record in ROR, or updating metadata in an existing re
 
 For example, let's say we are working on the record for an organization whose official name is "University of ROR," but we identify many published articles that have the affiliation written as "ROR University." In order to make sure these articles can be associated with the correct ROR ID, we include this name variation — even though it is not official — as an alias in the record.
 
-## Common themes with name metadata
+## **Common themes with name metadata**
 
 As we curate the ROR registry, we spend a lot of time making sure that metadata for organization names is accurate, up to date, and comprehensive. A few common themes come up in this work. 
 
@@ -85,7 +85,7 @@ Because ROR's focus is on identifying affiliations, the name used in an organiza
 
 Many ROR records include translations of the organization's name in multiple languages, or shortened or alternate versions of the primary name. We sometimes receive requests to remove these variations from the record. However, our general practice is to retain these variations. As discussed throughout this piece, the metadata in ROR serves to support discovery and disambiguation; it is not meant to serve as the canonical name authority for a given organization. If there is evidence of research associated with those versions of the name, the metadata in ROR reflects this. 
 
-## Future directions for name metadata in ROR
+## **Future directions for name metadata in ROR**
 
 As we continue to improve the quality and coverage of organization metadata in ROR, we plan to focus especially on name metadata. This will be a key component of future schema changes, which we will be exploring in the coming months with input from community stakeholders.
 
@@ -93,16 +93,16 @@ Another area of focus for the future is analyzing current name metadata across t
 
 We also work to support those who are integrating ROR in their systems to help them develop implementations that can leverage the full breadth of name metadata (and additional information) in ROR. Implementation guidance is available on the [ROR support site](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets). 
 
-## Bringing it all together
+## **Bringing it all together**
 
 To sum up these thoughts: in this discussion about handling name metadata in ROR, we aim to underscore a few key concepts:
 
-- ROR's primary purpose is to be a registry of persistent identifiers for research affiliations
-- Metadata serves to support discovery and disambiguation of ROR records
-- Metadata in ROR is not the same thing as legal metadata about an organization
-- Names in ROR are a key part of the metadata for each record, and it is useful to have multiple names associated with each record
-- ROR records are more useful when they have more metadata
-- ROR is a community-curated registry that is responsive to community feedback
+- ROR's primary purpose is to be a **registry of persistent identifiers** for research affiliations
+- Metadata serves to **support discovery and disambiguation** of ROR records
+- Metadata in ROR is **not the same thing as legal metadata** about an organization
+- ROR records are more useful when they have **more metadata**
+- Names in ROR are a key part of the metadata for each record, and it is **useful to have multiple names** associated with each record
+- ROR is a **community-curated registry** that is responsive to community feedback
 
 We hope this explanation has provided interesting insights into the work we do at ROR to support rich and useful metadata associated with every ROR ID.
 
