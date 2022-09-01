@@ -52,7 +52,7 @@ Metadata is therefore an important, useful, and necessary part of ROR. An organi
 
 Now let's turn to the question of how names are used in ROR.
 
-A given ROR record may have multiple names associated with it. ROR actually has four different metadata fields that capture information about names:
+A given ROR record may have multiple names associated with it. ROR actually has four different [metadata fields](https://github.com/ror-community/ror-updates/wiki/ROR-Metadata-Policies) that capture information about names:
 
 - The primary form of the organization name when used as an affiliation (`name`)
 - Translations of the primary form of the affiliation name in other languages (`labels`)
