@@ -59,6 +59,9 @@ A given ROR record may have multiple names associated with it. ROR actually has 
 - Alternate versions or previous versions of the name (`aliases`)
 - Acronyms or initialisms in use for the name (`acronyms`)
 
+_Example ROR record with multiple names_
+{{< figure src="/img/name-metadata-example.png" width="75%" >}}
+
 All of these fields can be useful because collectively they support the goals of discovery and disambiguation discussed above. We believe that having robust metadata for names is key for this reason. When a record has less metadata, it can be harder for users to discover the ID they are looking for, or it can be challenging to disambiguate between two similar records.
 
 When we are creating a new record in ROR, or updating metadata in an existing record, we make decisions about which names appear in which fields based on details provided by the organization (or the person submitting feedback about the organization's record), information available on the organization's website and other official channels, and evidence of research activities associated with the organization. We aim to make sure that the name metadata in the record reflects the current state of the organization as well as current affiliation usage.
