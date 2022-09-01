@@ -60,7 +60,7 @@ A given ROR record may have multiple names associated with it. ROR actually has 
 - Acronyms or initialisms in use for the name (`acronyms`)
 
 _Example ROR record with multiple names_
-{{< figure src="/img/name-metadata-example.png" width="75%" >}}
+{{< figure src="/img/name-metadata-example.png" width="50%" >}}
 
 All of these fields can be useful because collectively they support the goals of discovery and disambiguation discussed above. We believe that having robust metadata for names is key for this reason. When a record has less metadata, it can be harder for users to discover the ID they are looking for, or it can be challenging to disambiguate between two similar records.
 
