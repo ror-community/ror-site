@@ -1,0 +1,10 @@
+<div class='callout {{ .Get "color" }}'>
+	<div class="row">
+		<div class="col-md-2" style="text-align: center;">
+			<i class='fa {{ if ( .Get "icon" ) }}{{ .Get "icon" }}{{ else }}fa-info{{ end }}'></i>
+		</div>
+		<div class="col-md-10">
+			<span>{{ .Inner | markdownify }}</span>
+		</div>
+	</div>
+</div>

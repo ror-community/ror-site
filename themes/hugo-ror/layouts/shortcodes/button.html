@@ -1,0 +1,1 @@
+{{ if ( .Get "color" ) }}<a class='btn btn-sm btn-round {{ .Get "color" }}' href='{{ .Get "link" }}'>{{ .Inner | markdownify }}</a>{{ else }}<a class='btn btn-sm btn-round' href='{{ .Get "link" }}'>{{ .Inner | markdownify }}</a>{{ end }}

@@ -3,7 +3,6 @@ title = "Contact Us"
 draft = false
 date = "2021-07-26"
 banner = "/img/banners/ROR_Banner-grey.jpg"
-style = "card-plain"
 +++
 
 ### Tech questions & support

@@ -42,7 +42,7 @@ The meeting also showcased a variety of ways in which ROR is being used and impl
 -  Richard Wynne (Rescognito) demoed a **researcher recognition platform that uses ROR IDs** to identify organizations
 -  Carolyn Grant (Harvard Center for Astrophysics) previewed work to **link ROR IDs to local department-level identifiers** in the [Astrophysics Data System](https://ui.adsabs.harvard.edu/)
 
-{{< tweet 1222183096126267394 >}}
+{{< tweet user="gabioshka" id="1222183096126267394" >}}
 
 In the second part of the meeting, the focus was on what comes next for ROR. The key themes for 2020 will be on sustainability, curation, and adoption.
 
@@ -50,7 +50,7 @@ In the second part of the meeting, the focus was on what comes next for ROR. The
 -  **Curation**: Curation is a top priority for ROR development. This will entail technical work to manage ROR data independently, and policy-based work to curate the registry with input and involvement from community members.
 -  **Adoption**: Another area of focus will be on driving and supporting greater adoption of ROR IDs in various systems, especially by publishers.
 
-{{< tweet 1222183630287646721 >}}
+{{< tweet user="connector_erin" id="1222183630287646721" >}}
 
 Meeting attendees spent time working in breakout groups to discuss priorities for ROR associated with specific stakeholder groups: Funders, Publishers, Repository Managers, System Providers, and Data Wranglers. Common themes across these groups were interoperability, end user support, and connectivity between ROR and other identifiers. These discussions will help to inform future developments with ROR.
 
