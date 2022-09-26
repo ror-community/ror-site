@@ -5,68 +5,50 @@ date = "2022-01-21"
 banner = "/img/banners/ROR_Banner-pink.jpg"
 +++
 
-## ROR Community Advisory Group
-The ROR Community Advisory Group includes users and stakeholders from around the world and across different types of institutions and industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more). Read more about the group in [this blog post](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email info@ror.org.
+ROR is community-supported, community-driven, community-funded open infrastructure.
 
--   Elias Balafoutis, Atypon
--   Aaron Ballagh, The Lens    
--   Anita Bandrowski, UCSD    
--   Manuel Bernal Llinares, EMBL-EBI
--   Amanda Blatch-Jones, University of Southampton
--   Christopher Brown, Jisc    
--   Rebecca Bryant,	OCLC    
--   Marleen Burger,	TIB    
--   Clara Calero Medina, CWTS Leiden University
--   Xiaofeng (Xavier) Chen,	Sous Direction des Systèmes d'Information et des Etudes Statistiques    
--   Leighton Christiansen, US Department of Transportation    
--   Gail Clement,	Caltech Library   
--   Iain Craig, Wiley
--   Scott Delman,	Association for Computing Machinery  
--   Tom Demeranville, ORCID  
--   Michael Di Natale, BioOne   
--   Taylor Dietrich, Cambridge University Press
--   Mathilda (Tilla) Edmunds,	Clarivate Analytics   
--   Amrutha Elamparuthy, US Global Change Research Program
--   Andrea Reyes Elizondo, CWTS Leiden University
--   Vessela Ensberg, UC Davis Library
--   Christine Ferguson, Independent
--   Carolyn Grant, Astrophysics Data System (ADS), Center for Astrophysics  
--   Christian Gutknecht, Swiss National Science Foundation    
--   Ted Habermann, Metadata Game Changers
--   Quinn Hart, UC Davis Library
--   Adrian K. Ho, University of Kentucky Libraries
--   Melissa Holden,	Sage   
--   Beth Hoskins, Ringgold
--   Osmat Jefferson, The Lens    
--   Nicole Kearny, Museums Victoria    
--   Jennifer Klein,	Atypon    
--   Cátia Laranjeira,	Fundação para Ciência e a Tecnologia  
--   Nick Lundvick, Argonne National Laboratory
--   Frances Madden, British Library
--   Bailey McAllister, EBSCO  
--   Siobhann McCafferty, Australian Research Data Commons    
--   James McKee, Altum    
--   Katherine McNeill, Harvard University
--   Hector Melgar Sasieta, CONCYTEC
--   Tom Morrell, Caltech Library
--   Daniel Noesgaard,	Global Biodiversity Information Facility
--   César Olivares Poggi, CONCYTEC      
--   Robyn Price,	Imperial College London    
--   Markus Putnings,	Universitätsbibliothek der FAU Erlangen-Nürnberg   
--   Sheila Rabun, LYRASIS
--   Howard Ratner, CHORUS    
--   Carly Robinson, OSTI/DOE    
--   John Salter, University of Leeds    
--   Craig Scott, Elsevier    
--   Reid Sherman, US Global Change Research Program
--   Alexey Skalaban, NEICON    
--   Sarah  Slowe,	University of Kent    
--   Andrew Smeall, Hindawi    
--   Arthur Smith,	American Physical Society    
--   Martin Spenger,	Ludwig-Maximilians-Universität München
--   Christina Steensboe, DTU    
--   Peter Strickland,	IUCr
--   Alex Wade, Chan Zuckerberg Meta
--   Martijn Visser, CWTS Leiden University  
--   Ludo Waltman, CWTS Leiden University
--   Niklas Zimmer, University of Cape Town Libraries    
+The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers.
+
+ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org)--three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share collective responsibility for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
+
+The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).
+
+Community involvement in ROR takes many forms:
+
+- **Community advisors** help shape ROR’s priorities and future directions through the Steering Group and Community Advisory Group
+- **Adopters** integrate ROR in their systems and champion best practices with ROR IDs
+- **Supporters** contribute financially to the sustainability of ROR’s open infrastructure
+
+## Steering Group
+
+The ROR Steering Group is an advisory body composed of the ROR Operations Team plus external members that provides input on ROR priorities and strategy. The ROR Steering Group was initiated in November 2019.
+
+Members of the ROR Steering Group are selected by the ROR Operations Team and serve time-limited terms. Steering Group activities are guided by a terms of reference document.
+
+### Current steering group representatives
+- Matt Buys, DataCite (permanent member)
+- John Chodacki, California Digital Library (permanent member)
+- Daniel Hook, Digital Science
+- Clifford Lynch, Coalition for Networked Information
+- Ritsuko Nakajima, Japan Science and Technology Agency
+- Lautaro Matas, LA Referencia
+- Ed Pentz, Crossref (permanent member)
+- Judy Ruttenberg, Association of Research Libraries
+- Chris Shillum, ORCID
+
+## Community Advisory Group
+The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on future directions. The group meets on a bimonthly basis and is open to anyone who is working on ROR implementations or just generally interested in ROR. Read more about the group on the ROR Blog. To join the group, email [info@ror.org](mailto:info@ror.org).
+
+## Adopters
+A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+ROR has open data and infrastructure to facilitate integrations. For integration support, join the ROR Tech Support Google Group and check out the [developer documentation](https://ror.readme.io).
+
+Working on a ROR integration? Let us know via [this form](https://airtable.com/shrQlmqDpXie13ufz).
+
+## Supporters
+ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
