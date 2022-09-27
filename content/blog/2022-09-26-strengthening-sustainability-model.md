@@ -42,7 +42,7 @@ Other potential revenue-generation options that might be relevant in other situa
 
 This experience led to a realization of how ROR is inextricably tied to our three organizations’ strategic goals, and vice versa. For instance:
 
-- ROR will only be successful if we see widespread inclusion of ROR IDs in DataCite and Crossref metadata. Likewise, DataCite and Crossref benefit from having the clean and consistent affiliation data that ROR IDs provide.
+- ROR will only be successful if there is widespread inclusion of ROR IDs in DataCite and Crossref metadata. Likewise, DataCite and Crossref benefit from having the clean and consistent affiliation data that ROR IDs provide.
 - ROR’s success depends on institutions such as California Digital Library leveraging and advocating for ROR IDs in publishing workflows, publisher agreements, citation databases, and research information systems. California Digital Library likewise benefits from the open availability of affiliation metadata that allows for University of California research outputs to be discoverable.
 
 Therefore, we realized that the optimal way to position ROR for success and sustainability would be for our organizations to commit to supporting ROR independently. With this approach, we can set up ROR for long-term resourcing, free up time and focus by not pursuing additional revenue-generation options, and remove uncertainties about being able to fund staff roles or infrastructure costs in the future.
