@@ -63,11 +63,11 @@ The ROR operations team is responsible for strategic decision-making about regis
 
 ROR's core team is responsible for all activities related to day-to-day operations and development. 
 
-#### Adam Buttrick, Metadata Curation Lead
+##### Adam Buttrick, Metadata Curation Lead
 
 Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). As metadata curation lead, Adam coordinates ongoing updates and improvements to the registry and works closely with ROR's community curation advisory board. A librarian and developer based in Los Angeles, USA, Adam previously worked as a data developer for the Getty Conservation Institute, as an implementation manager for OCLC's Metadata Services, and for the University of Michigan's Art, Architecture, and Engineering Library.
 
-#### Amanda French, Technical Community Manager
+##### Amanda French, Technical Community Manager
 
 Amanda [joined ROR in June 2022](blog/2022-06-13-welcome-amanda-french/). Amanda works with ROR's three operating organizations and the broader ROR community to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.
 
@@ -81,7 +81,7 @@ Liz [joined the ROR team in late 2020](blog.datacite.org/working-at-the-intersec
 
 Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) and led the team that launched the minimum viable registry (MVR) prototype at PIDapalooza in 2019. As project lead, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is based at California Digital Library, where she leads the University of California Curation Center (UC3)'s portfolio of persistent identifier services, including ROR. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS.
 
-### Alumni and affiliates
+#### Alumni and affiliates
 
 ROR has benefited and continues to benefit from the involvement of many individuals in its early years.
 

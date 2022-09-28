@@ -9,34 +9,42 @@ ROR is community-supported, community-driven, community-funded open infrastructu
 
 The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers.
 
-ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org)--three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share collective responsibility for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
+ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org) -- three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share [collective responsibility](/about#governance-model) for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
 
-The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries (libraries, platform providers, research offices, CRIS systems, vendors, funders, and more).
+The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries, including:
+- Libraries
+- Research offices
+- publishers
+- Data repositories
+- Platform providers
+- CRIS systems
+- Government agencies
+- Funders
 
 Community involvement in ROR takes many forms:
 
-- **Community advisors** help shape ROR’s priorities and future directions through the Steering Group and Community Advisory Group
-- **Adopters** integrate ROR in their systems and champion best practices with ROR IDs
-- **Supporters** contribute financially to the sustainability of ROR’s open infrastructure
+- **[Community advisors](#community-advisors)** help shape ROR’s priorities and future directions through the Steering Group and Community Advisory Group
+- **[Adopters](#adopters)** integrate ROR in their systems and champion best practices with ROR IDs
+- **[Supporters](#supporters)** contribute financially to the sustainability of ROR’s open infrastructure
 
-## Steering Group
+## Community advisors
 
-The ROR Steering Group is an advisory body composed of the ROR Operations Team plus external members that provides input on ROR priorities and strategy. The ROR Steering Group was initiated in November 2019.
+### Steering Group
 
-Members of the ROR Steering Group are selected by the ROR Operations Team and serve time-limited terms. Steering Group activities are guided by a terms of reference document.
+The ROR Steering Group is an advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) and provides input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2022-06.pdf).
 
-### Current steering group representatives
-- Matt Buys, DataCite (permanent member)
-- John Chodacki, California Digital Library (permanent member)
-- Daniel Hook, Digital Science
-- Clifford Lynch, Coalition for Networked Information
-- Ritsuko Nakajima, Japan Science and Technology Agency
-- Lautaro Matas, LA Referencia
-- Ed Pentz, Crossref (permanent member)
-- Judy Ruttenberg, Association of Research Libraries
-- Chris Shillum, ORCID
+#### Current steering group representatives
+- Matt Buys, [DataCite](https://datacite.org) (permanent member)
+- John Chodacki, [California Digital Library](https://cdlib.org) (permanent member)
+- Daniel Hook, [Digital Science](https://www.digital-science.com/)
+- Clifford Lynch, [Coalition for Networked Information](https://www.cni.org/)
+- Ritsuko Nakajima, [Japan Science and Technology Agency](https://www.jst.go.jp/)
+- Lautaro Matas, [LA Referencia](https://www.lareferencia.info/)
+- Ed Pentz, [Crossref](https://crossref.org) (permanent member)
+- Judy Ruttenberg, [Association of Research Libraries](https://www.arl.org/)
+- Chris Shillum, [ORCID](https://orcid.org)
 
-## Community Advisory Group
+### Community Advisory Group
 The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on future directions. The group meets on a bimonthly basis and is open to anyone who is working on ROR implementations or just generally interested in ROR. Read more about the group on the ROR Blog. To join the group, email [info@ror.org](mailto:info@ror.org).
 
 ## Adopters
