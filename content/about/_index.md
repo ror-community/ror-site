@@ -18,7 +18,7 @@ ROR is used in journal publishing systems, data repositories, funder and grant m
 
 {{% callout %}}
 
-Looking for basic information about ROR? Check out the [[frequently asked questions](/about/faqs). 
+Looking for basic information about ROR? Check out the [frequently asked questions](/about/faqs). 
 
 {{% /callout %}}
 
