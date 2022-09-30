@@ -3,6 +3,10 @@ title = "Community"
 draft = false
 date = "2022-01-21"
 banner = "/img/banners/ROR_Banner-pink.jpg"
+aliases = [
+    "/integrations",
+    "/supporters"
+]
 +++
 
 ROR is community-supported, community-driven, community-funded open infrastructure.
@@ -45,18 +49,42 @@ The ROR Steering Group is an advisory body composed of the [ROR Operations Team]
 - Chris Shillum, [ORCID](https://orcid.org)
 
 ### Community Advisory Group
-The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on future directions. The group meets on a bimonthly basis and is open to anyone who is working on ROR implementations or just generally interested in ROR. Read more about the group on the ROR Blog. To join the group, email [info@ror.org](mailto:info@ror.org).
+The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on future directions. The group meets on a bimonthly basis and is open to anyone who is working on ROR implementations or just generally interested in ROR. Read more about the group on the [ROR Blog](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email [info@ror.org](mailto:info@ror.org).
 
 ## Adopters
-A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data.
+A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data. Current self-reported integrations are listed in the gallery below. If you are working something and it does not appear on the list, let us know via [this form](https://airtable.com/shrQlmqDpXie13ufz).
 
+For integration support, join the ROR Tech Support Google Group and check out the [developer documentation](https://ror.readme.io).
+
+### Current integrations
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-ROR has open data and infrastructure to facilitate integrations. For integration support, join the ROR Tech Support Google Group and check out the [developer documentation](https://ror.readme.io).
-
-Working on a ROR integration? Let us know via [this form](https://airtable.com/shrQlmqDpXie13ufz).
-
 ## Supporters
-ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
+ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. If your organization wishes to become a ROR supporter, sign up via [this form](/sustain).
 
+### Current supporters
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Resources for community members
+### Tech questions & support
+
+Use the following open communication channels to ask questions and get support:
+
+-   [ROR Support Site](https://ror.readme.io/): API documentation, implementation guides & other resources
+-   [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users): Tech questions & discussion
+-   [ROR PIDForum chat room](https://www.pidforum.org/c/ror-chat-room/16): General questions & discussion
+-   [ROR Community Slack](https://tinyurl.com/ror-slack) General questions & discussion
+
+### Suggest changes or additions to ROR
+
+Anyone can suggest changes or additions to the registry via the [ROR request form](https://curation-request.ror.org/).
+
+### Bug reports & feature requests
+
+To report a bug or submit a feature request, create an issue on [Github](https://github.com/ror-community/ror-roadmap/issues).
+
+### ROR mailing list
+
+To stay up-to-date on the latest ROR news and opportunities for feedback and involvement, [sign up for the general ROR mailing list](http://eepurl.com/gjkT9H).
+
+*For other questions that you are not able to address via the above channels, please contact <info@ror.org>.*

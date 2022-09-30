@@ -3,6 +3,9 @@ title = "About"
 draft = false
 date = "2017-08-16"
 banner = "/img/banners/ROR_Banner-orange.jpg"
+aliases = [
+    "/governance"
+]
 +++
 
 The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. ROR makes it easy for anyone or any system to disambiguate institution names and connect research organizations to researchers and research outputs.
@@ -63,11 +66,11 @@ The ROR operations team is responsible for strategic decision-making about regis
 
 ROR's core team is responsible for all activities related to day-to-day operations and development. 
 
-##### Adam Buttrick, Metadata Curation Lead
+#### Adam Buttrick, Metadata Curation Lead
 
 Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). As metadata curation lead, Adam coordinates ongoing updates and improvements to the registry and works closely with ROR's community curation advisory board. A librarian and developer based in Los Angeles, USA, Adam previously worked as a data developer for the Getty Conservation Institute, as an implementation manager for OCLC's Metadata Services, and for the University of Michigan's Art, Architecture, and Engineering Library.
 
-##### Amanda French, Technical Community Manager
+#### Amanda French, Technical Community Manager
 
 Amanda [joined ROR in June 2022](blog/2022-06-13-welcome-amanda-french/). Amanda works with ROR's three operating organizations and the broader ROR community to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.
 
@@ -131,7 +134,7 @@ In the discussions and planning process that followed the Girona meeting, it bec
 
 A [new steering group consisting of California Digital Library, Crossref, DataCite, and Digital Science](https://ror.org/blog/2018-12-02-the-ror-of-the-crowd/) stepped up to implement the pilot, with a donation of seed data from Digital Science's GRID database. The pilot was called the Research Organization Registry and thus ROR was born! 
 
-### Launch of ROR MVR
+### Launch of the ROR MVR
 
 The first iteration of the registry, known as the Minimum Viable Registry (MVR) was [launched in January 2019](https://ror.org/blog/2019-02-10-announcing-first-ror-prototype/) at an open community meeting at PIDapalooza in Dublin, Ireland.
 
