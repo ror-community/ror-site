@@ -14,9 +14,9 @@ Since its launch in 2019, ROR has been charting a unique path toward sustainabil
 
 ## Journey to sustainability
 
-In response to ROR's growing needs and in anticipation of future ones, we have devoted time over the past few years to developing a stronger sustainability model that can support ROR over the long term while also allowing ROR to remain a small-scale, community-based, low-overhead operation focused  on providing infrastructure that is freely and openly available to all.
+In response to ROR's growing needs and in anticipation of future ones, we have devoted time over the past few years to developing a stronger sustainability model that can support ROR over the long term while also allowing ROR to remain a community-based, low-overhead operation focused  on providing infrastructure that is freely and openly available to all.
 
-Today, we are excited to announce that ROR is continuing on its path toward sustainability by formalizing a **resourcing model based exclusively on long-term support from its three operating organizations**, as opposed to relying on outside revenue sources as well.
+Today, we are excited to announce that ROR is continuing on its path toward sustainability by formalizing a **resourcing model based on long-term support from its three operating organizations**, as opposed to relying on outside revenue sources.
 
 This is not a major change from the status quo, but it is a significant development in that it clarifies our strategy going forward and addresses some questions and uncertainties about the future.
 
@@ -37,7 +37,7 @@ Second, we acknowledged that such paid services would take time and resources to
 
 Lastly, while [community fundraising has been successful](/supporters), it has not proven to be sufficient for covering all expenses. Fundraising also requires a lot of overhead to administer. We have also experienced challenges in explaining the need to obtain contributions for something that is ostensibly “free”.
 
-Other potential revenue-generation options that might be relevant in other situations were never on the table for ROR--i.e., ROR is not set up to become a separate membership organization and thus does not offer memberships for sale.
+Other potential revenue-generation options that might be relevant in other situations were never on the table for ROR--i.e., ROR is not set up to become a separate membership organization and thus does not provide organizational memberships.
 
 This experience led to a realization of how ROR is inextricably tied to our three organizations’ strategic goals, and vice versa. For instance:
 
