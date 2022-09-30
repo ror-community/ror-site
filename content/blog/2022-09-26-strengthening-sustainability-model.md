@@ -49,7 +49,7 @@ Therefore, we realized that the **optimal way to position ROR for success and su
 ## Looking ahead: What’s next?
 While the mechanics of ROR’s sustainability model have evolved, ROR’s core activities have not. The ROR team will continue with its activities already underway and in consultation with the community.
 
-To formalize our organizations’ commitment to ROR, we have updated the memorandum of agreement that guides our collaboration, and we have [published this document on the ROR website].
+To formalize our organizations’ commitment to ROR, we have updated the memorandum of agreement that guides our collaboration, and we have [published this document on the ROR website](/documents/ROR-Memorandum-of-Agreement-2022.pdf).
 
 ROR will also continue to be a community-driven and community-supported initiative. A wide network of stakeholders around the world have helped to support ROR over the past years by building integrations, raising awareness, providing feedback on future directions, and contributing funds to help ROR grow. Investments from community stakeholders are a key part of signaling the value and importance of ROR as shared open infrastructure, and many organizations are motivated to support open initiatives such as ROR. While ROR’s operating organizations are committing to fund the registry’s core expenses, community stakeholders are welcome to continue [contributing to ROR](/sustain) if they wish to do so, and these investments will be used to offset operating costs and support special projects and initiatives. ROR may still pursue grant funding in the future, and such funds would only be used for the same purpose.  
 
