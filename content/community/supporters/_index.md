@@ -22,7 +22,7 @@ Community support for ROR takes many forms, primarily through the following area
 ## Financial supporters
 ROR is supported by the organizations listed below. Organizations that sign up to support ROR through the end of 2022 are recognized as Founding Supporters. Organizations that commit to supporting ROR on a recurring annual basis are indicated as sustaining supporters.
 
-Join us in helping to fund open, community-led infrastructure! 
+Join us in helping to fund open, community-led infrastructure!
 
 **[Contribute now](/sustain)!**
 
