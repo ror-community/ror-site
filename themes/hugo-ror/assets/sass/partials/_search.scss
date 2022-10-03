@@ -23,8 +23,6 @@
         
         }
         
-        
-        
         .search-icon {
             position: absolute;
             right:0;
@@ -33,5 +31,11 @@
             padding-top: 3px;
             color: $light-grey;
         }
+    }
+    
+    .more-search {
+        font-size: 1rem;
+        font-style: italic;
+        padding-top: 1rem;
     }
 }

@@ -1,4 +1,17 @@
 /*** Callout boxes ***/
+.callout {
+  
+  .fa {
+    font-size: 3rem;
+  }
+  
+  .row {
+    align-items: center;
+  }
+  
+}
+
+
 .callout,
 .callout.grey {
   border-radius: .25rem!important;
@@ -6,16 +19,14 @@
   background-color: $light-grey;
   margin-bottom: 1.5rem;
 }
-.callout .fa {
-  font-size: 4rem;
-}
 .callout.green {
   background-color: $green;
 }
 .callout.dark-grey {
   background-color: $dark-grey;
 }
-.callout.mustard {
+.callout.mustard,
+.callout.orange {
   background-color: $mustard;
 }
 .callout.black {
@@ -28,6 +39,10 @@
 /*** CTA buttons ***/
 
 .btn.green {
+  color: #000!important;
+  background-color: $green;
+}
+.btn.mustard {
   color: #000!important;
   background-color: $mustard;
 }
