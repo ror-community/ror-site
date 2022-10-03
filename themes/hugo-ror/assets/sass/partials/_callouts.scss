@@ -9,6 +9,15 @@
     align-items: center;
   }
   
+  a {
+    color: #2c2c2c;
+    font-weight: bold;
+    
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+  
 }
 
 
@@ -34,6 +43,11 @@
 }
 .callout.dark-grey, .callout.black {
   color: #fff;
+  
+  a {
+    color: #fff;
+  }
+  
 }
 
 /*** CTA buttons ***/
