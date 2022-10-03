@@ -1929,7 +1929,8 @@ p a {
     font-size: 1rem;
 }
 .h4, h4 {
-    font-size: 1.5em;
+    font-size: 1.5rem;
+    font-style: italic;
 }
 .h4+.category, .h4.title+.category, h4+.category, h4.title+.category {
     margin-top: -5px;
@@ -5384,7 +5385,7 @@ img {
     align-items: center;
 }
 .section {
-    padding: 50px 0;
+    padding: 40px 0;
     position: relative;
     background: #FFF;
 }
