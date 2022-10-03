@@ -16,7 +16,7 @@
 
                 <!-- *** BLOG HOMEPAGE *** -->
                 <div class="row">
-
+                    
                     {{ $posts := .Paginate (where .Site.RegularPages "Section" "blog") }}
                     {{ range first 3 $posts.Pages }}
                     <div class="col-md-4 col-sm-6 news-item">
