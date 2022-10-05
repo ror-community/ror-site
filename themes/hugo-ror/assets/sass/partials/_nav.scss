@@ -6,7 +6,9 @@
 .nav-link.external {
     background-color: $green;
     color:#fff !important;
-    &:hover {
+    &:hover,
+    &:active,
+    &:focus {
         color:$green !important;
         transition: all .3s ease 0s;
     }
