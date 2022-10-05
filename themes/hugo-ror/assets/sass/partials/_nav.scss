@@ -4,11 +4,18 @@
 */
 
 .nav-link.external {
-    background-color: $green;
-    color:#fff !important;
-    &:hover,
+    
+    &:link,
+    &:visited,
     &:active,
-    &:focus {
+    &:focus,
+    &:target {
+        background-color: $green !important;
+        color:#fff !important;
+    }
+    
+    &:hover {
+        background-color: $light-grey !important;
         color:$green !important;
         transition: all .3s ease 0s;
     }
