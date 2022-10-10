@@ -1,6 +1,6 @@
 +++
 title = "Strengthening ROR’s sustainability model"
-date = "2022-09-26"
+date = "2022-10-10"
 draft = false
 tags = ["Sustainability", "Governance", "Community"]
 categories = ["updates"]
