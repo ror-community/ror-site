@@ -10,7 +10,7 @@ The Research Organization Registry is a cross-organizational and multi-stakehold
 
 CDL, Crossref, and DataCite are the governing organizations that share the overall responsibility for coordinating the activities of the Research Organization Registry. All three organizations provide input on decisions and overall strategy that support the growth and sustainability of ROR by engaging in outreach to funders, potential adopters, and stakeholders in their respective networks.
 
-A shared memorandum of agreement signed by the governing organizations outlines the scope and nature of their involvement and responsibilities. The agreement also includes provisions for one or more governing organizations to exit the agreement and how ROR would be responsibly dissolved if there are no organizations available to take over its coordination.
+A shared [memorandum of agreement](/documents/ROR-Memorandum-of-Agreement-2022.pdf) signed by the governing organizations outlines the scope and nature of their involvement and responsibilities. The agreement also includes provisions for one or more governing organizations to exit the agreement and how ROR would be responsibly dissolved if there are no organizations available to take over its coordination.
 
 ## ROR Structure
 The following groups organize, implement, and participate in ROR activities. The project lead and main point of contact is [Maria Gould](mailto:info@ror.org), product manager at California Digital Library.
