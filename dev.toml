@@ -29,7 +29,7 @@ CSSVersion = 3
 
 [params.landingbanner]
   enable = true
-    image = "/img/banners/ROR_BeeKeeper.jpg"
+    image = "/img/banners/ROR_Lions_Banner.jpg"
     text = ""
     textcolor = '#fff'
 
