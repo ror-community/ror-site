@@ -11,7 +11,7 @@ disqusShortname = "ror-community"
 
 [params]
 date_format = "January 2, 2006"
-image = "/img/banners/ROR_BeeKeeper.jpg"
+image = "/img/banners/ROR_Lions_Banner.jpg"
 CSSVersion = 3
 
 [markup]
@@ -51,11 +51,11 @@ CSSVersion = 3
 
 [params.socials]
     enable = true
-    
+
 [params.recent_posts]
-    enable = true    
+    enable = true
     title = "News and Updates"
 
 [params.twitter_feed]
-    enable = false    
+    enable = false
     title = "Twitter Feed"
