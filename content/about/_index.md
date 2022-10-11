@@ -170,4 +170,4 @@ ORCID [announced its integration with ROR](https://info.orcid.org/add-research-i
 
 ROR published its [first independent registry update](/blog/2022-03-17-first-independent-release/) in March 2022.
 
-ROR [formalized its sustainability model](/blog/2022-09-26-strengthening-sustainability-model) in September 2022.
+ROR [formalized its sustainability model](/blog/2022-10-10-strengthening-sustainability) in September 2022.
