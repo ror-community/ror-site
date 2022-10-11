@@ -16,7 +16,7 @@ ROR is the first and only organization identifier that is openly available (CC0 
 
 ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. [Read more about current ROR integrations](community#adopters).
 
-{{% callout %}}
+{{% callout icon="no-icon"%}}
 
 Looking for basic information about ROR? Check out the [frequently asked questions](/about/faqs). 
 

@@ -14,7 +14,7 @@ There are three ways to look up organizations and organization records in ROR:
 - ROR API
 - Data dump
 
-{{% callout %}}
+{{% callout icon="no-icon" %}}
 **How often is ROR updated?**
 
 Registry data is updated on a rolling basis and made available in the search interface, API, and data dump. New releases are available approximately every month.
@@ -58,7 +58,7 @@ The process of registering ROR IDs and maintaining ROR records is different from
 
 Anyone can suggest additions or updates to the registry via the [public request form](https://curation-request.ror.org). You do not need to be affiliated with an organization to suggest changes to the organization's record in ROR.
 
-{{% callout %}}
+{{% callout icon="no-icon"%}}
 
 **Why did ROR develop this curation model?**
 
@@ -91,3 +91,5 @@ Current advisory board members:
 - Niklas Zimmer, University of Cape Town
 
 Read more about the board's activities on [Github](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) and [send us an email](mailto:registry@ror.org) if you are interested in getting involved.
+
+***

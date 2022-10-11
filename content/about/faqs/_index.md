@@ -8,13 +8,13 @@ aliases = [
 ]
 +++
 
-{{% callout %}}
+{{% callout icon="no-icon %}}
 **Categories**
-- General questions
-- Scope
-- ROR and other identifiers
-- Using and integrating ROR
-- Curation
+- [General questions](#general-questions)
+- [Scope](#scope)
+- [ROR and other identifiers](#ror-and-other-identifiers)
+- [Using and integrating ROR](#using-and-integrating-ror)
+- [Curation](#curation)
 
 {{% /callout %}}
 
@@ -28,7 +28,7 @@ ROR is operated as a collaborative initiative by [California Digital Library](ht
 
 ### **How is ROR funded?**
 
-During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is transitioning to a resourcing model where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about).
+During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about).
 
 ***
 
@@ -134,7 +134,7 @@ ROR has a REST API that supports retrieving, searching and filtering organizatio
 
 ### **How can I download all of the ROR records?**
 
-ROR records can be downloaded via the [public data dump](https://ror.readme.io/docs/data-dump), which is available on Zenodo.
+ROR records can be downloaded via the [public data dump](https://ror.readme.io/docs/data-dump), which is available on [Zenodo](https://doi.org/10.5281/zenodo.6347574).
 
 ***
 
@@ -184,13 +184,15 @@ To request a change to an organization’s ROR record, submit feedback via the [
 
 ### **Who is the contact person at my organization responsible for our ROR ID?**
 
-The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record.
+The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org).
 
 ***
 
 ### **How quickly can I get a new ROR ID?**
 
-ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog. Currently, releases are published approximately every month. You can track your request through the curation process by following it on [Github](https://github.com/ror-community/ror-updates/issues).
+ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog.
+
+Currently, releases are published approximately every month. You can track your request through the curation process by following it on [Github](https://github.com/ror-community/ror-updates/issues).
 
 ***
 
@@ -208,4 +210,4 @@ After a request is submitted via the feedback form, an issue will be created in 
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on Github and new data dumps are published on Zenodo approximately once a month. Following the [Github repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), [technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
+ROR is updated on a rolling basis. New registry releases are published on [Github](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [Github repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [Github](https://github.com/ror-community/ror-roadmap/discussions), in the [ROR Slack](https://tinyurl.com/ror-slack), [technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
