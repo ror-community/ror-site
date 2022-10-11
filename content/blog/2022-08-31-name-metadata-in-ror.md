@@ -6,7 +6,7 @@ tags = ["Curation", "Registry", "Metadata", "Community"]
 categories = ["explainers"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpeg"
-thumb = "/img/lion-statue-sq.jpg"
+thumb = "/img/lion-statue-sq.jpeg"
 author = "Adam Buttrick and Maria Gould"
 +++
 
