@@ -8,7 +8,7 @@ aliases = [
 ]
 +++
 
-{{% callout icon="no-icon %}}
+{{% callout icon="no-icon"%}}
 **Categories**
 - [General questions](#general-questions)
 - [Scope](#scope)
