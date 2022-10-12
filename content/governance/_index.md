@@ -60,7 +60,7 @@ Current advisory board members:
 -  **Carly Robinson**, OSTI/DOE
 -  **Arthur Smith**, American Physical Society
 -  **Martin Spenger**, LMU Munich
--  **Kelly Stathis**, Digital Research Alliance of Canada
+-  **Kelly Stathis**, DataCite
 -  **Niklas Zimmer**, University of Cape Town
 
 Read more about ROR's [community-based curation process](https://github.com/ror-community/ror-updates#readme).
