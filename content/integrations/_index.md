@@ -8,7 +8,7 @@ style = "card-plain"
 
 See ROR IDs in the wild! A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data.
 
-ROR has open data and infrastructure to facilitate integrations. For integration support, join the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users) and check out the [developer documentation](https://ror.readme.io/).
+ROR has open data and infrastructure to facilitate integrations. For integration support, join the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-tech) and check out the [developer documentation](https://ror.readme.io/).
 
 Working on a ROR integration? Let us know via [this form](https://airtable.com/shrQlmqDpXie13ufz).
 
