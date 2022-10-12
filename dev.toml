@@ -11,7 +11,6 @@ disqusShortname = "ror-community"
 
 [params]
 date_format = "January 2, 2006"
-image = "/img/banners/ROR_Lions_Banner.jpg"
 CSSVersion = 3
 
 [markup]
@@ -29,7 +28,7 @@ CSSVersion = 3
 
 [params.landingbanner]
   enable = true
-    image = "/img/banners/ROR_Lions_Banner.jpg"
+    image = "/img/ROR_Lions_Banner.jpg"
     text = ""
     textcolor = '#fff'
 
