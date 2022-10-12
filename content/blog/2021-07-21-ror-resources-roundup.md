@@ -22,7 +22,7 @@ On this site you’ll find:
 - [Implementation guides](https://ror.readme.io/docs/map-other-organization-id-types-to-ror) with tips for using these tools/services to address specific use cases
 - Links to relevant code examples in the new [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) and out in the world
 
-If you can’t find what you need or get stuck along the way, please post on the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users) (formerly ROR API Users - we recently changed the name to make it clear that we welcome all sorts of tech questions/discussion).
+If you can’t find what you need or get stuck along the way, please post on the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-tech) (formerly ROR API Users - we recently changed the name to make it clear that we welcome all sorts of tech questions/discussion).
 
 This site is a work in progress, and we’ll be adding to it in the coming months. We welcome your feedback! If you notice an issue on a specific page, please use the Suggest Edits button to let us know. If you have more general suggestions, contact us at [info@ror.org](mailto:info@ror.org)
 
