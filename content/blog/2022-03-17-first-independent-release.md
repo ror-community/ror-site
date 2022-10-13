@@ -8,6 +8,7 @@ style = "card-plain"
 banner = "/img/banners/city-ban.jpg"
 thumb = "/img/fireworks-sq.jpg"
 author = "Maria Gould"
+weight= 2
 +++
 ## **The ROR registry has grown**
 We are excited to announce a new ROR registry release. <!--more-->With this update, the registry has grown to 102,559 records.

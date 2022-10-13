@@ -61,7 +61,11 @@ For integration support, join the [ROR Tech Support Google Group](https://groups
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Supporters
-ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. If your organization wishes to become a ROR supporter, sign up via [this form](/sustain).
+ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
+
+Does your organization want to become a ROR financial supporter?
+
+{{% button color="green" link="/sustain" style="center" %}} Sign up {{% /button %}}
 
 ### Current supporters
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>

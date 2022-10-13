@@ -9,22 +9,23 @@ aliases = [
 +++
 
 ## Accessing the registry
+
 The ROR registry is freely and openly available. There are no fees or access requirements for using ROR.
 
 There are three ways to look up organizations and organization records in ROR:
 
-- ROR search
-- ROR API
-- Data dump
+- [ROR search](https://ror.org/search)
+- [ROR API](https://api.ror.org/organizations)
+- [Data dump](https://doi.org/10.5281/zenodo.6347574)
 
 {{% callout icon="no-icon" %}}
 **How often is ROR updated?**
 
 Registry data is updated on a rolling basis and made available in the search interface, API, and data dump. New releases are available approximately every month.
 
-Registry updates are coordinated by ROR’s curation advisory board. Read more about registry curation.
+Registry updates are coordinated by ROR’s curation advisory board. [Read more about registry curation](https://github.com/ror-community/ror-updates#ror-updates).
 
-Want to suggest a new organization in ROR or make changes to an existing record? Submit a curation request.
+Want to suggest a new organization in ROR or make changes to an existing record? [Submit a curation request](https://curation-request.ror.org).
 
 {{% /callout %}}
 
@@ -33,7 +34,7 @@ ROR registry records include a unique ID for each organization along with additi
 
 All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 
-More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the ROR support site. 
+More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR support site](https://ror.readme.io). 
 
 ## Scope and criteria for inclusion
 ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
@@ -61,6 +62,12 @@ The process of registering ROR IDs and maintaining ROR records is different from
 
 Anyone can suggest additions or updates to the registry via the [public request form](https://curation-request.ror.org). You do not need to be affiliated with an organization to suggest changes to the organization's record in ROR.
 
+After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies.
+
+Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump.
+
+The curation process is openly available on [Github](https://github.com/ror-community/ror-updates#ror-updates). Anyone can follow along with the curation process by watching individual [issues](https://github.com/ror-community/ror-updates/issues) and following their progress on the [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
+
 {{% callout icon="no-icon"%}}
 
 **Why did ROR develop this curation model?**
@@ -68,6 +75,7 @@ Anyone can suggest additions or updates to the registry via the [public request 
 ROR developed its curation model following discussions and consultations with community stakeholders about how to approach curation. A number of factors influenced the ultimate model that ROR employs today.
 
 - Community stakeholders were not in agreement that organizations should control their own records
+- ROR metadata is based on public information about organizations that can be easily verified
 - Centralizing curation is a more scalable approach
 - Allowing for broad community feedback leverages knowledge and expertise from across the community
 - Allowing for community feedback helps to reinforce community ownership of ROR's infrastructure
@@ -75,16 +83,10 @@ ROR developed its curation model following discussions and consultations with co
 
 {{% /callout %}}
 
-After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies.
-
-Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump.
-
-The curation process is openly available on [Github](https://github.com/ror-community/ror-updates#ror-updates). Anyone can follow along with the curation process by watching individual [issues](https://github.com/ror-community/ror-updates/issues) and following their progress on the [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
-
 ## Curation advisory board
 In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
 
-Current advisory board members:
+**Current advisory board members**
 
 - Nick Lundvick, Argonne National Laboratory
 - Carly Robinson, OSTI/DOE
