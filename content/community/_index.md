@@ -55,7 +55,7 @@ The Community Advisory Group is the primary way to get involved in ROR, engage w
 ## Adopters
 A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data. Current self-reported integrations are listed in the gallery below. If you are working something and it does not appear on the list, let us know via [this form](https://airtable.com/shrQlmqDpXie13ufz).
 
-For integration support, join the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users) and check out the [developer documentation](https://ror.readme.io).
+For integration support, join the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-tech) and check out the [developer documentation](https://ror.readme.io).
 
 ### Current integrations
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -65,7 +65,7 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 Does your organization want to become a ROR financial supporter?
 
-{{% button color="green" link="/sustain" style="centered" %}} Sign up {{% /button %}}
+{{% button color="green" link="/sustain" style="center" %}} Sign up {{% /button %}}
 
 ### Current supporters
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
@@ -76,7 +76,7 @@ Does your organization want to become a ROR financial supporter?
 Use the following open communication channels to ask questions and get support:
 
 -   [ROR Support Site](https://ror.readme.io/): API documentation, implementation guides & other resources
--   [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users): Tech questions & discussion
+-   [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-tech): Tech questions & discussion
 -   [ROR PIDForum chat room](https://www.pidforum.org/c/ror-chat-room/16): General questions & discussion
 -   [ROR Community Slack](https://tinyurl.com/ror-slack) General questions & discussion
 

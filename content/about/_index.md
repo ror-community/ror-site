@@ -55,7 +55,7 @@ During its startup years (2019--2022) ROR has been operated on a mixed funding m
 - Contributions from [supporting organizations](/community#supporters)
 - Grants ([Institute for Museum and Library Services](https://www.imls.gov/grants/awarded/lg-246305-ols-20) and the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031172))
 
-ROR's three governing organizations share collective responsibility for operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses. Beginning in 2023, these expenses will be [supported entirely by the three ROR governing organizations](/blog/2022-09-26-strengthening-sustainability-model) per the terms of their Memorandum of Agreement.
+ROR's three governing organizations [share collective responsibility](/blog/2022-10-10-strengthening-sustainability) for operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement-2022.pdf).
 
 ROR continues to receive additional investments from [community supporters](/community#supporters). These funds offset operating costs and support time-limited projects.
 
