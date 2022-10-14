@@ -28,9 +28,9 @@ The wider ROR community includes users and stakeholders from around the world an
 
 Community involvement in ROR takes many forms:
 
-- **[Community advisors](#community-advisors)** help shape ROR’s priorities and future directions through the Steering Group and Community Advisory Group
-- **[Adopters](#adopters)** integrate ROR in their systems and champion best practices with ROR IDs
-- **[Supporters](#supporters)** contribute financially to the sustainability of ROR’s open infrastructure
+- [Community advisors](#community-advisors) help shape ROR’s priorities and future directions through the Steering Group and Community Advisory Group
+- [Adopters](#adopters) integrate ROR in their systems and champion best practices with ROR IDs
+- [Supporters](#supporters) contribute financially to the sustainability of ROR’s open infrastructure
 
 ## Community advisors
 

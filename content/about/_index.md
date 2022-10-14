@@ -8,11 +8,11 @@ aliases = [
 ]
 +++
 {{% callout icon="no-icon"%}}
-- [What is ROR](#what-is-ror?)
-- [Governance model](#governance-model)
-- [Business model](#business-model)
-- [Team](#team)
-- [History](#history)
+[What is ROR](#what-is-ror?)
+[Governance model](#governance-model)
+[Business model](#business-model)
+[Team](#team)
+[History](#history)
 
 {{% /callout %}}
 
