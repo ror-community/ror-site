@@ -1909,7 +1909,8 @@ small {
 a, a:focus, a:hover {
     color: #1F7F67;
 }
-p a {
+p a,
+li a {
   font-weight: 700;
 }
 .h1, h1 {
