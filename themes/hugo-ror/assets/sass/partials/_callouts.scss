@@ -41,13 +41,28 @@
 .callout.black {
   background-color: $black;
 }
-.callout.dark-grey, .callout.black {
+.callout.dark-grey, 
+.callout.black {
   color: #fff;
   
   a {
-    color: #fff;
+    color: $green;
   }
   
+}
+.callout,
+.callout.grey {
+  a {
+    color: $green;
+  }
+}
+.callout.green,
+.callout.mustard,
+.callout.orange {
+
+  a {
+    color: #fff;  
+  }
 }
 
 /*** CTA buttons ***/
