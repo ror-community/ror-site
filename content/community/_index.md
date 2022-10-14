@@ -65,7 +65,9 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 Does your organization want to become a ROR financial supporter?
 
-{{% button color="green" link="/sustain" style="center" %}} Sign up {{% /button %}}
+{{% centered %}}
+{{% button color="green" link="/sustain" %}} Sign up {{% /button %}}
+{{% /centered %}}
 
 ### Current supporters
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
