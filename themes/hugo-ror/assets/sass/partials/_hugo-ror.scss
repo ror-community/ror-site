@@ -3410,6 +3410,8 @@ textarea.form-control:active, textarea.form-control:focus {
     padding-top: .5rem;
     padding-bottom: .5rem;
     line-height: 1.625rem;
+    max-width: 150px;
+    width: 100%;
 }
 .navbar .navbar-toggler {
     width: 37px;
