@@ -8,7 +8,12 @@ aliases = [
 ]
 +++
 {{% callout icon="no-icon"%}}
-[What is ROR](#what-is-ror?) | [Governance model](#governance-model) | [Business model](#business-model) | [Team](#team) | [History](#history)
+**About ROR**  
+[What is ROR](#what-is-ror?)  
+[Governance model](#governance-model)  
+[Business model](#business-model)  
+[Team](#team)  
+[History](#history)
 
 {{% /callout %}}
 
@@ -24,7 +29,7 @@ ROR is used in journal publishing systems, data repositories, funder and grant m
 
 {{% callout icon="no-icon"%}}
 
-Looking for basic information about ROR? Check out the [frequently asked questions](/about/faqs). 
+**Looking for basic information about ROR?** Check out the [frequently asked questions](/about/faqs). 
 
 {{% /callout %}}
 

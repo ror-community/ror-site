@@ -9,7 +9,7 @@ aliases = [
 +++
 
 {{% callout icon="no-icon"%}}
-**Categories**
+**Categories**  
 [General questions](#general-questions)  
 [Scope](#scope)  
 [ROR and other identifiers](#ror-and-other-identifiers)  
