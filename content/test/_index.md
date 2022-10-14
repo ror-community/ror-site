@@ -51,7 +51,7 @@ You can center any block of content, including just a single button, usign the `
 
 {{% centered %}}
 
-{{% button link="/blog" style="center" %}} this is a button {{% /button %}}
+{{% button link="/blog" %}} this is a button {{% /button %}}
 
 ### Here is a title
 
