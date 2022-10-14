@@ -9,15 +9,15 @@ aliases = [
 +++
 {{% callout icon="no-icon"%}}
 **About ROR**  
-[What is ROR](#what-is-ror?)  
-[Governance model](#governance-model)  
-[Business model](#business-model)  
-[Team](#team)  
-[History](#history)
+- [What is ROR](#what-is-ror)  
+- [Governance model](#governance-model)  
+- [Business model](#business-model)  
+- [Team](#team)  
+- [History](#history)
 
 {{% /callout %}}
 
-## What is ROR?
+## What is ROR
 
 The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. ROR makes it easy for anyone or any system to disambiguate institution names and connect research organizations to researchers and research outputs.
 

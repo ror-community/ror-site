@@ -10,11 +10,11 @@ aliases = [
 
 {{% callout icon="no-icon"%}}
 **Categories**  
-[General questions](#general-questions)  
-[Scope](#scope)  
-[ROR and other identifiers](#ror-and-other-identifiers)  
-[Using and integrating ROR](#using-and-integrating-ror)  
-[Curation](#curation)  
+- [General questions](#general-questions)  
+- [Scope](#scope)  
+- [ROR and other identifiers](#ror-and-other-identifiers)  
+- [Using and integrating ROR](#using-and-integrating-ror)  
+- [Curation](#curation)  
 
 {{% /callout %}}
 
