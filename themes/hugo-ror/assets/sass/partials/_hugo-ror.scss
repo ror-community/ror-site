@@ -821,7 +821,6 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
     background-color: transparent;
 }
 .bootstrap-tagsinput .tag [data-role=remove]:after {
-    font-family: "Nucleo Outline";
     content: "";
     padding: 0 2px;
 }
@@ -1314,16 +1313,9 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget {
 input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[data-action], input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget table td.active:hover>div, input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget table td.active>div, input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget.dropdown-menu.bottom:before, input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget.dropdown-menu.top:after {
     color: #FFB236;
 }
-@font-face {
-    font-family: "Nucleo Outline";
-    src: url(../fonts/nucleo-outline.eot);
-    src: url(../fonts/nucleo-outline.eot) format("embedded-opentype"), url(../fonts/nucleo-outline.woff2) format("woff2"), url(../fonts/nucleo-outline.woff) format("woff"), url(../fonts/nucleo-outline.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
-}
 .now-ui-icons {
     display: inline-block;
-    font: normal normal normal 14px/1 "Nucleo Outline";
+    font: normal normal normal 14px/1 "Atkinson Hyperlegible";
     font-size: inherit;
     speak: none;
     text-transform: none;
@@ -1944,6 +1936,7 @@ body {
     color: #2c2c2c;
     font-size: 1.3rem;
     overflow-x: hidden;
+    font-family: "Atkinson Hyperlegible", sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 .nav-item .nav-link, .nav-pills .nav-link, .nav-tabs .nav-link, .navbar, .tag, .tag [data-role=remove] {
@@ -2728,7 +2721,6 @@ body {
 }
 
 .has-danger:after, .has-success:after {
-    font-family: "Nucleo Outline";
     content: "";
     display: inline-block;
     position: absolute;
