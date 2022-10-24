@@ -1936,7 +1936,6 @@ body {
     color: #2c2c2c;
     font-size: 1.3rem;
     overflow-x: hidden;
-    font-family: "Atkinson Hyperlegible", sans-serif;
     -webkit-font-smoothing: antialiased;
 }
 .nav-item .nav-link, .nav-pills .nav-link, .nav-tabs .nav-link, .navbar, .tag, .tag [data-role=remove] {
@@ -6911,4 +6910,8 @@ table#donations-table td ul li {
 
 .section.container {
   padding-top: 0;
+}
+
+.media .media-heading small, body, button, input, optgroup, select, textarea {
+  font-family: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif;
 }
