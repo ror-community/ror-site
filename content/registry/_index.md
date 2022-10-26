@@ -77,9 +77,8 @@ ROR developed its curation model following discussions and consultations with co
 - Community stakeholders were not in agreement that organizations should control their own records
 - ROR metadata is based on public information about organizations that can be easily verified
 - Centralizing curation is a more scalable approach
-- Allowing for broad community feedback leverages knowledge and expertise from across the community
-- Allowing for community feedback helps to reinforce community ownership of ROR's infrastructure
-- Centralizing curation decisions ensures consistency and integrity of metadata across the entire registry
+- Allowing for broad community feedback leverages knowledge and expertise from across the community and helps to reinforce community ownership of ROR's infrastructure
+- Centralizing the review and decision-making process ensures consistency and integrity of metadata across the entire registry
 
 {{% /callout %}}
 
