@@ -7,19 +7,22 @@
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
 
   <!--     Fonts and icons     -->
-  <link href="https://fonts.googleapis.com/css?family=Poppins:400,700,200" rel="stylesheet" />
+  <link rel="preconnect" href="https://fonts.googleapis.com"> 
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin> 
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/latest/css/font-awesome.min.css" />
   <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
-  <!-- Css animations  -->
-  <link href="{{ .Site.BaseURL }}css/animate.css" rel="stylesheet">
-
+ 
   <!-- mailchimp stylings -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 
-  <!-- CSS Files -->
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/hugo-ror.css?v={{ $.Site.Params.CSSVersion }}" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}css/shortcodes.css?v={{ $.Site.Params.CSSVersion }}" />
-  
+  <!-- sass built file -->
+  {{ $sass := resources.Get "sass/main.scss" }}
+	{{ $style := $sass | resources.ToCSS (dict "targetPath" "/css/hugo-ror.css") }}
+	<link rel="stylesheet" href="{{ $style.Permalink }}">
+
+  <!-- google material font -->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
+ 
   <!-- Favicon and apple touch icons-->
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />

@@ -3,7 +3,6 @@ title = "Contact Us"
 draft = false
 date = "2021-07-26"
 banner = "/img/banners/ROR_Banner-grey.jpg"
-style = "card-plain"
 +++
 
 ### Tech questions & support
@@ -20,7 +19,7 @@ Anyone can suggest changes or additions to the registry via the [ROR request for
 
 ### Bug reports & feature requests
 
-To report a bug or submit a feature request, create an issue on [Github](https://github.com/ror-community/ror-api/issues).
+To report a bug or submit a feature request, create an issue on [Github](https://github.com/ror-community/ror-roadmap/issues).
 
 ### ROR mailing list
 

@@ -1,35 +1,44 @@
-<div class="container">
-	<div class="row">
-		<div class="breadcrumb-wrap" role="navigation" aria-label="breadcrumbs navigation">
-		    {{ $url := replace .Permalink ( printf "%s" .Site.BaseURL) "" }}
-		    {{ $.Scratch.Set "path" .Site.BaseURL }}
-		    {{ $pageNotFound := (eq (replace $.Site.BaseURL .Site.BaseURL "404.html") .URL) }}
-		    <ul class="wy-breadcrumbs">
-		        <li><a href="{{ .Site.BaseURL }}">Home</a>{{ if not (eq .URL "/")  }}<span>\</span>{{ end }}</li>
-		        {{ range $index, $element := split $url "/" }}
+<section class="breadcrumbs-wrap">
+	<div class="container breadcrumbs-wrap">
+		<div class="row">
+			<div class="col-md-9 mr-auto">
+				<div role="navigation" aria-label="breadcrumbs navigation">
+					{{ $.Scratch.Set "path" "" }}
+					{{ $.Scratch.Set "pagetype" .Params.type }}
+					<ul class="breadcrumbs">
+						<li><a href="{{ .Site.BaseURL }}">Home</a>{{ if not (eq .Permalink "/")  }}<span>&gt;</span>{{ end }}</li>
+						
+							{{ if eq ($.Scratch.Get "pagetype") "404" }}
+								<li>{{ $.Title }}</li>
+							{{ else }}
 
-		            {{ $.Scratch.Add "path" $element }}
-
-		            {{ $.Scratch.Set "relURL" (replace ($.Scratch.Get "path") ( printf "%s/" $.Site.BaseURL) "" )}}
-
-		            {{ $.Scratch.Add "path" "/" }}
-
-		            
-		            <!-- Check if the current list item is the last one -->
-		            {{ $isLast := eq ($.Scratch.Get "path") $.Permalink }}
-		            {{ if ne $element "" }}
-		                {{ if and (not $isLast) (not $pageNotFound) }}                    
-							<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" $element }}{{ .Title }}{{ end }}</a><span>></span></li>
-		                {{ else if $pageNotFound }}
-		                    <li>404</li>
-		                {{ else }}
-		                    <li>{{ $.Title }}</li>
-		                {{ end }}
-		            {{ end }}
-		        {{ end }}
-		    </ul>
-			
+								{{ range $index, $element := split .RelPermalink "/" }}
+						
+									{{ $.Scratch.Add "path" $element }}
+						
+									{{ $.Scratch.Set "relURL" (replace ($.Scratch.Get "path") ( printf "%s/" $.Site.BaseURL) "" )}}
+						
+									{{ $.Scratch.Add "path" "/" }}
+						
+									<!-- Check if the current list item is the last one -->
+									{{ $isLast := eq ($.Scratch.Get "path") $.RelPermalink }}
+									{{ if ne $element "" }}
+										{{ if not $isLast }}
+											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) }}
+												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>
+											{{ else }}
+												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title }}{{ end }}</a><span>&gt;</span></li>
+											{{ end }}
+										{{ else }}
+											<li>{{ $.Title }}</li>
+										{{ end }}
+									{{ end }}
+								{{ end }}
+							{{ end }}
+					</ul>
+				
+				</div>
+			</div>
 		</div>
 	</div>
-</div>
-
+</section>

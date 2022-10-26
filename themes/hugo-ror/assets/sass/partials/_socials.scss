@@ -1,0 +1,25 @@
+.section.section-socials {
+  padding: 50px 0;
+
+  .row > div {
+    padding: 20px 0;
+  }
+
+  i.fa {
+    display: block;
+    font-size: 2em;
+    color: $dark-grey;
+  }
+
+  p, a, a:focus, a:hover {
+    color:$dark-grey;
+  }
+
+  a, a:focus, a:hover {
+    text-decoration: none;
+  }
+
+  a:hover span {
+    text-decoration: underline;
+  }
+}
