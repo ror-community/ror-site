@@ -9,7 +9,8 @@ banner = "/img/banners/city-ban.jpg"
 thumb = "/img/fireworks-sq.jpg"
 author = "Maria Gould"
 +++
-## **The ROR registry has grown**
+
+## **The ROR registry has grown!**
 We are excited to announce a new ROR registry release. With this update, the registry has grown to 102,559 records.
 
 This update is really exciting for many reasons. But we know some of you may be eager to skip ahead and check out the update right away. If that's you, here are the quick links:

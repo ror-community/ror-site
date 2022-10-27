@@ -1,0 +1,27 @@
+<section id="search" class="section section-search" data-background-color="green">
+    <div class="container">
+        <div class="row justify-content-center">            
+            <div class="col-md-11">
+                <div class="row">
+                    <div class="col-md-4 text-right">
+                        <h2>Search the registry</h2>
+                    </div>
+                    <div class="col-md-7">                    
+                        <form class="form-inline" action="{{ .Site.BaseURL }}search" method="get" role="search">
+                            <span class="material-icons-outlined search-icon"> search </span>
+                            <input id="query" name="query" class="form-control" placeholder='Enter a ROR ID or organization name'>
+                        </form>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md-4 text-left">
+                        &nbsp;
+                    </div>
+                    <div class="col-md-7 more-search">
+                        Or go to the main <a href="/search">search page</a> to browse all ROR records.
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

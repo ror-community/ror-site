@@ -3,16 +3,18 @@
 
   {{ partial "head.html" . }}
 
-  <body {{ if .Params.style }} class='{{ .Params.style }}' {{ end }}>
+  <body class='{{ with .File }}{{ path.Dir (.File.Path) }}{{ end }}'>
     <div class="wrapper" id="all">
       <header>
         {{ partial "nav.html" . }}
       </header>
-      <div class="section section-blog" id="content">
+      <section class="section section-banner" id="content">
 
        {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
 
-        <div class="container">
+        <div class="section container">
           <div class="row">
             <div class="col-md-9" id="blog-post">
               <p class="author">{{ if .Params.author }}By {{ .Params.author }} | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
@@ -38,12 +40,12 @@
             </div>
           </div>
         </div>
-      </div>
+      </section>
     </div>
 
     {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
     {{ partial "footer.html" . }}
     {{ partial "scripts.html" . }}
-
   </body>
 </html>

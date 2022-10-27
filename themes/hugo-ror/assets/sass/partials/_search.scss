@@ -1,0 +1,41 @@
+#search {
+  
+    h2 {
+        font-size: 1.5rem;        
+        @media screen and (max-width:$tablet-width) {
+            text-align:center;
+        }
+    }
+    
+    .form-inline {
+        display:block;
+        #query {
+            width:100%;
+        }
+        .form-control {
+            border-radius:30px;
+            background-color: #fff;
+            color: $black;
+        
+            &::placeholder {
+                color: $dark-grey;    
+            }
+        
+        }
+        
+        .search-icon {
+            position: absolute;
+            right:0;
+            font-size: 2rem;
+            padding-right: calc(0.75rem + 8px);
+            padding-top: 3px;
+            color: $light-grey;
+        }
+    }
+    
+    .more-search {
+        font-size: 1rem;
+        font-style: italic;
+        padding-top: 1rem;
+    }
+}

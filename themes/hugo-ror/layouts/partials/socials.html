@@ -1,0 +1,20 @@
+{{ if isset .Site.Params "socials" }}
+{{ if .Site.Params.socials.enable }}
+{{ if gt (len .Site.Data.socials) 0 }}
+<section class="section section-socials" data-background-color="light-grey">
+  <div class="container">
+	<div class="row justify-content-between no-gutters ml-auto mr-auto text-center">
+		{{ range sort .Site.Data.socials }}
+		<div class=" col-sm-6 col-md-1 ">
+			<a href="{{ .link }}">
+				<i class="fa {{ .icon }}"></i>
+				<span>{{ .title }}</span>
+			</a>
+		</div>
+		{{ end }}
+	</div>
+  </div>
+</section>
+{{ end }}
+{{ end }}
+{{ end }}

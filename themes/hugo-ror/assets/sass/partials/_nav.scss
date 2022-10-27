@@ -1,0 +1,26 @@
+/*!
+* Just overrides and specials for now
+* the main nav stuff is still in hugo-ror.scss
+*/
+
+.nav-link.external {
+    
+    &:link,
+    &:visited,
+    &:active,
+    &:focus,
+    &:target {
+        background-color: $green !important;
+        color:#fff !important;
+    }
+    
+    &:hover {
+        background-color: $light-grey !important;
+        color:$green !important;
+        transition: all .3s ease 0s;
+    }
+}
+
+li.nav-item {
+    margin-bottom: 0;
+}
