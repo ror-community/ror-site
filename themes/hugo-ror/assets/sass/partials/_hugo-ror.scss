@@ -821,7 +821,6 @@ html:not([dir=rtl]) .noUi-horizontal .noUi-handle {
     background-color: transparent;
 }
 .bootstrap-tagsinput .tag [data-role=remove]:after {
-    font-family: "Nucleo Outline";
     content: "";
     padding: 0 2px;
 }
@@ -1313,13 +1312,6 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget {
 }
 input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[data-action], input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget table td.active:hover>div, input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget table td.active>div, input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget.dropdown-menu.bottom:before, input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget.dropdown-menu.top:after {
     color: #FFB236;
-}
-@font-face {
-    font-family: "Nucleo Outline";
-    src: url(../fonts/nucleo-outline.eot);
-    src: url(../fonts/nucleo-outline.eot) format("embedded-opentype"), url(../fonts/nucleo-outline.woff2) format("woff2"), url(../fonts/nucleo-outline.woff) format("woff"), url(../fonts/nucleo-outline.ttf) format("truetype");
-    font-weight: 400;
-    font-style: normal;
 }
 .now-ui-icons {
     display: inline-block;
@@ -2728,7 +2720,6 @@ body {
 }
 
 .has-danger:after, .has-success:after {
-    font-family: "Nucleo Outline";
     content: "";
     display: inline-block;
     position: absolute;

@@ -9,17 +9,17 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 Use the following open communication channels to ask questions and get support:
 
 - [ROR Support Site](https://ror.readme.io): API documentation, implementation guides & other resources
-- [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users): Tech questions & discussion
+- [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Tech questions & discussion
 - [ROR PIDForum chat room](https://www.pidforum.org/c/ror-chat-room/16): General questions & discussion
 - [ROR Community Slack](https://tinyurl.com/ror-slack) General questions & discussion
 
 ### Suggest changes or additions to ROR
 
-Anyone can suggest changes or additions to the registry via the [ROR request form](https://docs.google.com/forms/d/e/1FAIpQLSdJYaMTCwS7muuTa-B_CnAtCSkKzt19lkirAKG4u7umH9Nosg/viewform).
+Anyone can suggest changes or additions to the registry via the [ROR request form](https://curation-request.ror.org).
 
 ### Bug reports & feature requests
 
-To report a bug or submit a feature request, create an issue on [Github](https://github.com/ror-community/ror-api/issues).
+To report a bug or submit a feature request, create an issue on [Github](https://github.com/ror-community/ror-roadmap/issues).
 
 ### ROR mailing list
 

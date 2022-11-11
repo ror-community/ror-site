@@ -8,7 +8,6 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-crew-sq.jpg"
 author = "Maria Gould"
-excerpt = "ROR is excited to welcome three new Steering Group members!"
 +++
 
 ROR is excited to welcome three new Steering Group members: Lautaro Matas, Kathleen Shearer, and Chris Shillum.
