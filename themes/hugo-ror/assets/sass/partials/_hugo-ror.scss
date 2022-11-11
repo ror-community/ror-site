@@ -6915,3 +6915,19 @@ table#donations-table td ul li {
 .media .media-heading small, body, button, input, optgroup, select, textarea {
   font-family: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif;
 }
+
+/* blog styles */
+
+.round-figure {
+display:inline;
+margin-right:2px;
+}
+
+.round-figure img {
+border-radius:50%;
+height:35px;
+}
+
+.blog-figure img {
+padding:0 5em 0 4em;
+}
