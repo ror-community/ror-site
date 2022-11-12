@@ -14,7 +14,7 @@ This interview with Eric Olson of the Center for Open Science is the first in a 
 
 {{% callout color="green" icon="no-icon" %}} 
 ### Key quotations
-"And these things [persistent identifiers] are _going_ to be used. If they’re not in use yet, they’re _going_ to be adopted by the other stakeholder groups that researchers are working with and rely on, like publishers and like funders. These things are coming."
+"[W]hen we mint DOIs for all the content types that we have DOIs for – which right now are preprints, preregistration documents, and project spaces – we send the ROR IDs from the affiliation data that’s associated with the user profile with the metadata for each contributor."
 
 "The really cool stuff that we have just done with the ROR integration will allow us to continue to build in the direction of describing relationships." 
 
@@ -152,7 +152,7 @@ And then publicly those will all aggregate on the OSF side on a discovery page a
 
 The user and the content can have multiple affiliations. If you and I are both creators of the same piece of content, we can each have a different affiliation, and we can each have multiple affiliations. But I can't make that claim on your behalf; you'd be adding it yourself. And so that's how we deal with it within the OSF'S ecosystem. We verify based on that single sign-on that a user is associated with an institution.
 
-And then when we mint DOIs for all the content types that we have DOIs for -- which right now are preprints, preregistration documents, and project spaces -- we send the ROR IDs from the affiliation data that's associated with the user profile with the metadata for each contributor. 
+**And then when we mint DOIs for all the content types that we have DOIs for -- which right now are preprints, preregistration documents, and project spaces -- we send the ROR IDs from the affiliation data that's associated with the user profile with the metadata for each contributor.** 
 
 So you'll see for each contributor what their affiliations are rather than getting them all blended together in the metadata that we send to Crossref and to DataCite. 
 
@@ -162,7 +162,7 @@ So you'll see for each contributor what their affiliations are rather than getti
 
 So that's where we've started, because we know that those individuals are part of those institutions, so we have very high confidence that those affiliations belong with those individuals and their content. 
 
-And we are looking at ways to implement ROR beyond that so that you can self-identify your institution. There are a number of technical things we have to work through to do that, so that we're enabling them in ways that for one takes advantage of the [ROR API](https://ror.readme.io/docs/rest-api) so that users choose based on a ROR query rather than a free-text field, which certainly would not help us verify anything, because it could be wrong, or just different than the way the institution includes their information. So that's something we're still working on. Currently, we associate a ROR ID with each of those, our institutional current institutional partners, and each new one that comes aboard. And, yeah, that's it.
+And we are looking at ways to implement ROR beyond that so that you can self-identify your institution. There are a number of technical things we have to work through to do that, so that we're enabling them in ways that for one takes advantage of the [ROR API](https://ror.readme.io/docs/rest-api) so that [users choose based on a ROR query rather than a free-text field](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets), which certainly would not help us verify anything, because it could be wrong, or just different than the way the institution includes their information. So that's something we're still working on. Currently, we associate a ROR ID with each of our current institutional partners and with each new one that comes aboard. And, yeah, that's it.
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -174,13 +174,11 @@ Part of the challenge was that we were adding ROR to the metadata that we send t
 
 {{% callout color="green" icon="no-icon" %}} 
 
-### DOIs with ROR IDs as of 11/11/2022
+### COS DOIs with ROR IDs as of 11/11/2022
 
 * [COS DataCite DOIs with ROR IDs ](https://api.datacite.org/dois?affiliation=true&query=(creators.affiliation.affiliationIdentifier:*%20AND%20NOT%20creators.affiliation.affiliationIdentifier:%22%22)%20OR%20(contributors.affiliation.affiliationIdentifier:*%20AND%20NOT%20contributors.affiliation.affiliationIdentifier:%22%22)&client-id=cos.osf ): 11545 
 * [COS Crossref DOIs with ROR IDs](https://api.crossref.org/works?query.publisher-name=Center+for+Open+Science&filter=has-ror-id:t&rows=0): 1634
 {{% /callout %}}
-
-
 
 I guess the key challenge is that we did more than ROR all at once, so we had to really get it lined up properly in order for it to work.
 
@@ -192,7 +190,7 @@ What benefits to you and your users is this ROR integration currently providing?
  
 A big part of it for us is that this is something that we get to tell our partners and other institutions beyond us. Implementing the PID graph, as we talked about before, creates a lot of opportunities. If you have the ORCID IDs and you're minting DOIs, or if you're using some other identifier for a specific use case, and you can use ROR IDs, then you have a lot of information that's unlocked that way. 
 
-**And these things are _going_ to be used. If they're not in use yet, they're _going_ to be adopted by the other stakeholder groups that researchers are working with and rely on, like publishers and like funders.** These things are coming. So we want to -- not just be out ahead, that's not the goal, but we want to say that we are advocates of this adoption, and that we're so confident in the reliability of this great infrastructure that we're going to do it. And we're going to do it now: we're not going to wait for it to get to the tipping point. Even though we're on the precipice of that, I'm sure. But we want to get there and help that happen. 
+And these things are _going_ to be used. If they're not in use yet, they're _going_ to be adopted by the other stakeholder groups that researchers are working with and rely on, like publishers and like funders. These things are coming. So we want to -- not just be out ahead, that's not the goal, but we want to say that we are advocates of this adoption, and that we're so confident in the reliability of this great infrastructure that we're going to do it. And we're going to do it now: we're not going to wait for it to get to the tipping point. Even though we're on the precipice of that, I'm sure. But we want to get there and help that happen. 
 
 For some of our partners, this is not really something that's on their radar yet. Or it might be, but it's under the surface a little bit. And that's okay. We're still going to talk about it, that this is something that's really advantageous. And they'll be seeing more of it one way or another, so we want to enable those things in our workflows, enable ROR, enable more relationships between DOIs and other DOIs, and with person and place IDs and grant and funder IDs, those are all either there already, or coming. 
 
