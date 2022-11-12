@@ -9225,7 +9225,6 @@ select.bs-select-hidden, select.selectpicker {
   background-color: transparent; }
 
 .bootstrap-tagsinput .tag [data-role=remove]:after {
-  font-family: "Nucleo Outline";
   content: "";
   padding: 0 2px; }
 
@@ -9732,16 +9731,9 @@ input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget {
 input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget button[data-action], input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget table td.active:hover > div, input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget table td.active > div, input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget.dropdown-menu.bottom:before, input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
   color: #FFB236; }
 
-@font-face {
-  font-family: "Nucleo Outline";
-  src: url(../fonts/nucleo-outline.eot);
-  src: url(../fonts/nucleo-outline.eot) format("embedded-opentype"), url(../fonts/nucleo-outline.woff2) format("woff2"), url(../fonts/nucleo-outline.woff) format("woff"), url(../fonts/nucleo-outline.ttf) format("truetype");
-  font-weight: 400;
-  font-style: normal; }
-
 .now-ui-icons {
   display: inline-block;
-  font: normal normal normal 14px/1 "Nucleo Outline";
+  font: normal normal normal 14px/1 "Atkinson Hyperlegible";
   font-size: inherit;
   speak: none;
   text-transform: none;
@@ -10172,109 +10164,6 @@ input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget butto
   display: inline-block;
   cursor: pointer; }
 
-.form-check {
-  margin-top: .65rem;
-  padding-left: 0; }
-
-.form-check .form-check-label {
-  display: inline-block;
-  position: relative;
-  cursor: pointer;
-  padding-left: 35px;
-  line-height: 26px;
-  margin-bottom: 0;
-  -webkit-transition: color .3s linear;
-  -moz-transition: color .3s linear;
-  -o-transition: color .3s linear;
-  -ms-transition: color .3s linear;
-  transition: color .3s linear; }
-
-.radio .form-check-sign {
-  padding-left: 28px; }
-
-.form-check .form-check-sign::after, .form-check .form-check-sign::before {
-  content: " ";
-  display: inline-block;
-  position: absolute;
-  width: 26px;
-  height: 26px;
-  left: 0;
-  cursor: pointer;
-  border-radius: 3px;
-  top: 0;
-  background-color: transparent;
-  border: 1px solid #E3E3E3;
-  -webkit-transition: opacity .3s linear;
-  -moz-transition: opacity .3s linear;
-  -o-transition: opacity .3s linear;
-  -ms-transition: opacity .3s linear;
-  transition: opacity .3s linear; }
-
-.form-check .form-check-sign::after {
-  font-family: "Nucleo Outline";
-  content: "";
-  top: 0;
-  text-align: center;
-  font-size: 14px;
-  opacity: 0;
-  color: #555;
-  border: 0;
-  background-color: inherit; }
-
-.media .media-heading small, body, button, input, optgroup, select, textarea {
-  font-family: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif; }
-
-.form-check.disabled .form-check-label {
-  color: #9A9A9A;
-  opacity: .5;
-  cursor: not-allowed; }
-
-.form-check input[type=checkbox], .radio input[type=radio] {
-  opacity: 0;
-  position: absolute;
-  visibility: hidden; }
-
-.form-check input[type=checkbox]:checked + .form-check-sign::after {
-  opacity: 1; }
-
-.checkbox input[type=checkbox]:disabled + .form-check-sign::after, .form-control input[type=checkbox]:disabled + .form-check-sign::before {
-  cursor: not-allowed; }
-
-.form-check input[type=checkbox]:disabled + .form-check-sign, .form-check input[type=radio]:disabled + .form-check-sign {
-  pointer-events: none; }
-
-.form-check-radio .form-check-sign::after, .form-check-radio .form-check-sign::before {
-  content: " ";
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  border: 1px solid #E3E3E3;
-  display: inline-block;
-  position: absolute;
-  left: 3px;
-  top: 3px;
-  padding: 1px;
-  -webkit-transition: opacity .3s linear;
-  -moz-transition: opacity .3s linear;
-  -o-transition: opacity .3s linear;
-  -ms-transition: opacity .3s linear;
-  transition: opacity .3s linear; }
-
-.form-check-radio input[type=radio], .form-check-radio input[type=radio] + .form-check-sign:after {
-  opacity: 0; }
-
-.form-check-radio input[type=radio]:checked + .form-check-sign::after {
-  width: 4px;
-  height: 4px;
-  background-color: #555;
-  border-color: #555;
-  top: 11px;
-  left: 11px;
-  opacity: 1; }
-
-.form-check-radio input[type=radio]:disabled + .form-check-sign, .form-check-radio input[type=radio]:disabled + .form-check-sign::after, .form-check-radio input[type=radio]:disabled + .form-check-sign::before {
-  color: #9A9A9A; }
-
 .badge {
   padding: 4px 8px;
   font-size: .7142em;
@@ -10426,7 +10315,8 @@ small {
 a, a:focus, a:hover {
   color: #1F7F67; }
 
-p a {
+p a,
+li a {
   font-weight: 700; }
 
 .h1, h1 {
@@ -10446,7 +10336,8 @@ p a {
   font-size: 1rem; }
 
 .h4, h4 {
-  font-size: 1.5em; }
+  font-size: 1.5rem;
+  font-style: italic; }
 
 .h4 + .category, .h4.title + .category, h4 + .category, h4.title + .category {
   margin-top: -5px; }
@@ -11344,89 +11235,7 @@ body {
   color: #367dff;
   background-color: #FFF; }
 
-.form-control::-moz-placeholder {
-  color: #888;
-  opacity: .8;
-  filter: alpha(opacity=80); }
-
-.form-control:-moz-placeholder {
-  color: #888;
-  opacity: .8;
-  filter: alpha(opacity=80); }
-
-.form-control::-webkit-input-placeholder {
-  color: #888;
-  opacity: .8;
-  filter: alpha(opacity=80); }
-
-.form-control:-ms-input-placeholder {
-  color: #888;
-  opacity: .8;
-  filter: alpha(opacity=80); }
-
-.form-control, .form-control:focus {
-  -webkit-box-shadow: none;
-  color: #2c2c2c; }
-
-.form-control {
-  background-color: transparent;
-  border: 1px solid #E3E3E3;
-  border-radius: 30px;
-  line-height: normal;
-  font-size: .8571em;
-  -webkit-transition: color .3s ease-in-out, border-color .3s ease-in-out, background-color .3s ease-in-out;
-  -moz-transition: color .3s ease-in-out, border-color .3s ease-in-out, background-color .3s ease-in-out;
-  -o-transition: color .3s ease-in-out, border-color .3s ease-in-out, background-color .3s ease-in-out;
-  -ms-transition: color .3s ease-in-out, border-color .3s ease-in-out, background-color .3s ease-in-out;
-  transition: color .3s ease-in-out, border-color .3s ease-in-out, background-color .3s ease-in-out;
-  box-shadow: none; }
-
-.has-success .form-control {
-  border-color: #E3E3E3; }
-
-.form-control:focus {
-  border: 1px solid #53BAA1;
-  box-shadow: none;
-  outline: 0 !important; }
-
-.form-control:focus + .input-group-text, .form-control:focus ~ .input-group-text {
-  border: 1px solid #53BAA1;
-  border-left: none;
-  background-color: transparent; }
-
-.has-error .form-control, .has-error .form-control:focus, .has-success .form-control, .has-success .form-control:focus {
-  -webkit-box-shadow: none;
-  box-shadow: none; }
-
-.has-success .form-control:focus {
-  border-color: #1be611; }
-
-.has-danger .form-control.form-control-danger, .has-danger .form-control.form-control-success, .has-success .form-control.form-control-danger, .has-success .form-control.form-control-success {
-  background-image: none; }
-
-.has-danger .form-control {
-  border-color: #ffcfcf;
-  color: #FF3636;
-  background-color: rgba(222, 222, 222, 0.1); }
-
-.has-danger .form-control:focus {
-  background-color: #FFF; }
-
-.form-control + .form-control-feedback {
-  border-radius: .25rem;
-  font-size: 1rem;
-  margin-top: -7px;
-  position: absolute;
-  right: 10px;
-  top: 50%;
-  vertical-align: middle; }
-
-.open .form-control {
-  border-radius: .25rem .25rem 0 0;
-  border-bottom-color: transparent; }
-
 .has-danger:after, .has-success:after {
-  font-family: "Nucleo Outline";
   content: "";
   display: inline-block;
   position: absolute;
@@ -11926,7 +11735,9 @@ textarea.form-control:active, textarea.form-control:focus {
   font-size: .8571em;
   padding-top: .5rem;
   padding-bottom: .5rem;
-  line-height: 1.625rem; }
+  line-height: 1.625rem;
+  max-width: 150px;
+  width: 100%; }
 
 .navbar .navbar-toggler {
   width: 37px;
@@ -13909,7 +13720,7 @@ img {
   align-items: center; }
 
 .section {
-  padding: 70px 0;
+  padding: 40px 0;
   position: relative;
   background: #FFF; }
 
@@ -15486,7 +15297,7 @@ img.ror-id {
   margin-bottom: 0; }
 
 .page-banner {
-  margin-top: -70px; }
+  /*margin-top: -70px;*/ }
 
 .page-banner h1 {
   color: #fff !important;
@@ -15506,6 +15317,24 @@ table#donations-table td ul {
 
 table#donations-table td ul li {
   font-size: 1rem; }
+
+.section.container {
+  padding-top: 0; }
+
+.media .media-heading small, body, button, input, optgroup, select, textarea {
+  font-family: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif; }
+
+/* blog styles */
+.round-figure {
+  display: inline;
+  margin-right: 2px; }
+
+.round-figure img {
+  border-radius: 50%;
+  height: 35px; }
+
+.blog-figure img {
+  padding: 0 5em 0 4em; }
 
 /* BREADCRUMBS */
 .breadcrumbs-wrap {
@@ -15554,6 +15383,18 @@ ul.breadcrumbs li a:hover {
     text-decoration: underline; }
 
 /*** Callout boxes ***/
+.callout .fa {
+  font-size: 3rem; }
+
+.callout .row {
+  align-items: center; }
+
+.callout a {
+  color: #2c2c2c;
+  font-weight: bold; }
+  .callout a:hover {
+    text-decoration: underline; }
+
 .callout,
 .callout.grey {
   border-radius: 0.25rem !important;
@@ -15561,26 +15402,41 @@ ul.breadcrumbs li a:hover {
   background-color: #efefef;
   margin-bottom: 1.5rem; }
 
-.callout .fa {
-  font-size: 4rem; }
-
 .callout.green {
   background-color: #53baa1; }
 
 .callout.dark-grey {
   background-color: #505759; }
 
-.callout.mustard {
+.callout.mustard,
+.callout.orange {
   background-color: #e89005; }
 
 .callout.black {
   background-color: #293030; }
 
-.callout.dark-grey, .callout.black {
+.callout.dark-grey,
+.callout.black {
+  color: #fff; }
+  .callout.dark-grey a,
+  .callout.black a {
+    color: #53baa1; }
+
+.callout a,
+.callout.grey a {
+  color: #53baa1; }
+
+.callout.green a,
+.callout.mustard a,
+.callout.orange a {
   color: #fff; }
 
 /*** CTA buttons ***/
 .btn.green {
+  color: #000 !important;
+  background-color: #53baa1; }
+
+.btn.mustard {
   color: #000 !important;
   background-color: #e89005; }
 
@@ -15600,6 +15456,8 @@ ul.breadcrumbs li a:hover {
     line-height: 2rem; }
   #recent-posts .news-item .content {
     padding-top: 20px; }
+  #recent-posts .news-item .no-top-pad {
+    padding-top: 0; }
   #recent-posts .news-item .top {
     position: relative;
     height: 300px; }
@@ -15629,7 +15487,6 @@ ul.breadcrumbs li a:hover {
             border-color: #fff; }
 
 .section-banner {
-  height: 15em;
   padding: 0;
   margin: 0;
   width: 100%;
@@ -15652,6 +15509,9 @@ ul.breadcrumbs li a:hover {
     @media screen and (max-width: 420px) {
       .section-banner .content {
         font-size: 32px; } }
+.section-landing-banner {
+  height: 15em; }
+
 #search h2 {
   font-size: 1.5rem; }
   @media screen and (max-width: 768px) {
@@ -15674,6 +15534,11 @@ ul.breadcrumbs li a:hover {
     padding-right: calc(0.75rem + 8px);
     padding-top: 3px;
     color: #efefef; }
+
+#search .more-search {
+  font-size: 1rem;
+  font-style: italic;
+  padding-top: 1rem; }
 
 /* Multi column layouts */
 .shortcode-row:before,
@@ -15747,3 +15612,19 @@ ul.breadcrumbs li a:hover {
 .required {
   color: #999;
   text-transform: none; }
+
+/*!
+* Just overrides and specials for now
+* the main nav stuff is still in hugo-ror.scss
+*/
+.nav-link.external:link, .nav-link.external:visited, .nav-link.external:active, .nav-link.external:focus, .nav-link.external:target {
+  background-color: #53baa1 !important;
+  color: #fff !important; }
+
+.nav-link.external:hover {
+  background-color: #efefef !important;
+  color: #53baa1 !important;
+  transition: all .3s ease 0s; }
+
+li.nav-item {
+  margin-bottom: 0; }
