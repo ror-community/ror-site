@@ -6918,16 +6918,16 @@ table#donations-table td ul li {
 
 /* blog styles */
 
+.blog-figure img {
+padding:0 5em 0 4em;
+}
+
 .round-figure {
 display:inline;
-margin-right:3px;
+margin-right:.25em;
 }
 
 .round-figure img {
 border-radius:50%;
 height:35px;
-}
-
-.blog-figure img {
-padding:0 5em 0 4em;
 }

@@ -15325,16 +15325,16 @@ table#donations-table td ul li {
   font-family: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif; }
 
 /* blog styles */
+.blog-figure img {
+  padding: 0 5em 0 4em; }
+
 .round-figure {
   display: inline;
-  margin-right: 2px; }
+  margin-right: .25em; }
 
 .round-figure img {
   border-radius: 50%;
   height: 35px; }
-
-.blog-figure img {
-  padding: 0 5em 0 4em; }
 
 /* BREADCRUMBS */
 .breadcrumbs-wrap {
