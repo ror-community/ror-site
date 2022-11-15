@@ -47,6 +47,7 @@ The ROR Steering Group is an advisory body composed of the [ROR Operations Team]
 - Lautaro Matas, [LA Referencia](https://www.lareferencia.info/)
 - Ed Pentz, [Crossref](https://crossref.org) (permanent member)
 - Judy Ruttenberg, [Association of Research Libraries](https://www.arl.org/)
+- Kathleen Shearer, [Confederation of Open Access Repositories](https://www.coar-repositories.org/)
 - Chris Shillum, [ORCID](https://orcid.org)
 
 ### Community Advisory Group
