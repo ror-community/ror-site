@@ -68,7 +68,7 @@ Great. So since we are talking specifically about the ROR integration into OSF, 
  
 The OSF is a research, management, and planning platform that, as I mentioned before, has a lot of tools, because it wants to provide tools at each stage of the research lifecycle -- elements that the researchers can rely on so that they can bundle lots of stuff: their planning, their files, their data that's an outcome or an input into their research, their collaborators, their protocols. All those things might have previously been scattered in lots of different places, so if someone asked them, "Can you put all this together for me along with your paper so that I can try to reproduce your study?", the amount of effort involved, if it were even possible at all, would be pretty significant. Whereas on the OSF, you can have your data stored on the OSF or linked to another storage provider, you can write out your protocols, you can do what we call "pre-register", plan out your studies even before you go and gather your data and document them with a timestamp. And have all of those be discoverable and do all that in one location. And we don't want to duplicate what other tools do, so we integrate with storage providers, with citation managers, and with persistent identifier infrastructure to take advantage of the really cool stuff they already do that our users already use. And so those just become part of those available workflows in the OSF.
 
-{{< figure src="/img/blog/osf/osf-screenshot.png" class="blog-figure" alt="Screenshot of Open Science Framework with text There's a better way to manage your research - OSF is a free, open platform to support your research and enable collaboration" caption="https://www.osf.io" caption="Graphic provided by the Center for Open Science">}}
+{{< figure src="/img/blog/osf/osf-screenshot.png" class="blog-figure" alt="Screenshot of Open Science Framework with text There's a better way to manage your research - OSF is a free, open platform to support your research and enable collaboration" caption="https://www.osf.io" >}}
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -196,7 +196,7 @@ For some of our partners, this is not really something that's on their radar yet
 
 And then it's about all those lifecycle pieces in the OSF. Getting to a consistency with these cool features, so that they're not just in one part of OSF but in all the tools in the platform. 
 
-{{< figure src="/img/blog/osf/osf-research-lifecycle.png" class="blog-figure" alt="OSF research lifecycle circular graphic showing ten steps in the research lifecycle from Search and Discover to Publish Report" >}} 
+{{< figure src="/img/blog/osf/osf-research-lifecycle.png" class="blog-figure" alt="OSF research lifecycle circular graphic showing ten steps in the research lifecycle from Search and Discover to Publish Report" caption="Graphic provided by the Center for Open Science">}} 
 
 We're still catching up with updating some parts of the OSF to take advantage all this cool stuff. But that really is the goal, is to be able to demonstrate the things that we articulate as very valuable. We want to take part in those practices not just because they benefit our tech, although we thoroughly believe that they do, but because we want to lead by example. It's part of our theory of change to help not just the early adopters, but everyone -- to make it easier for researchers to find the change they need, to see that these things are possible. 
 
