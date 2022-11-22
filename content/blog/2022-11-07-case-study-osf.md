@@ -1,7 +1,7 @@
 +++
 title = "Case Study: ROR in the COS Open Science Framework"
 date = "2022-11-11"
-draft = false
+draft = true
 tags = ["Adoption", "Integrations", "Community"]
 categories = ["case-studies"]
 style = "card-plain"
@@ -10,7 +10,7 @@ thumb = "/img/blog/osf/cos-logo.jpg"
 author = "Amanda French"
 +++
 
-This interview with Eric Olson of the Center for Open Science is the first in a series of interviews with ROR adopters, "Case Studies in ROR Integration." We hope the posts in this series will provide in-depth detail on why and how people are choosing to integrate ROR IDs into their systems.
+This interview with Eric Olson of the Center for Open Science is the first in a new series of interviews, "Case Studies in ROR Integration," a series designed to provide in-depth detail on why and how people are choosing to integrate ROR IDs into their systems.
 
 {{% callout color="green" icon="no-icon" %}} 
 ### Key quotations
@@ -104,7 +104,7 @@ Yep, [yes indeed](/about/faqs/#is-my-organization-in-scope-for-ror). So who were
  
 [The OSF has supported PIDs for years](https://www.cos.io/blog/how-osf-meets-desirable-characteristics-for-data-repositories) -- DOIs and even Ark IDs have been in the OSF for years, though not always implemented in the way that they are now. We always knew that this was the direction that the community was headed, and we're carving out the space for it. And ORCID IDs were also added prior to my arrival. And when I got here, ROR just seemed like a really great opportunity, because we were working with these institutional partners to give them insights into what their communities are already doing on the OSF. And because we have high confidence that those users are part of those member institutions, that we know who they are, it just made sense to also send ROR IDs for all these DOIs we're minting on behalf of the users that come from those institutions. And so for those institutions, it instantly adds some additional value for them. 
 
-And it starts to complete the loop, you know, for PIDs. We have PIDS now for people, places, and things to go along with globally unique identifiers that we use within the platform. There's still room for us to grow there and make it more nuanced and add more identifiers, and those are coming. But for the product team, ROR was definitely on our radar very early on when we were aligning with our institutional partners a couple of years ago.
+And it starts to complete the loop, you know, for PIDs. [We have PIDs now for people, places, and things](https://doi.org/10.5860/crln.83.9.398) to go along with globally unique identifiers that we use within the platform. There's still room for us to grow there and make it more nuanced and add more identifiers, and those are coming. But for the product team, ROR was definitely on our radar very early on when we were aligning with our institutional partners a couple of years ago.
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -120,7 +120,7 @@ So really, the timing lined up, because we have a lot of PID and metadata projec
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-I really like your image of PID dominoes, because you hear all these metaphors about networks and ecosystems and landscapes that try to capture how PIDs interact: a DOI for the output and a ROR for the institution and an ORCID for the researcher. But there is a sense in which everyone needs to adopt all the PIDS at once in order to create the full picture.
+I really like your image of PID dominoes, because you hear all these metaphors about networks and ecosystems and landscapes that try to capture how PIDs interact: a DOI for the output and a ROR for the institution and an ORCID for the researcher. But there is a sense in which everyone needs to adopt all the PIDs at once in order to create the full picture.
 
 {{< figure src="/img/blog/osf/domino_effect_003.gif" class="blog-figure" alt="Domino effect" caption="https://commons.wikimedia.org/wiki/File:Domino_effect_003.gif">}}
 
@@ -170,7 +170,7 @@ Gotcha. What challenges did you run into as you were integrating ROR into your s
 
 ### {{< figure src="/img/blog/osf/eric-olson-100.png" class="round-figure" alt="Eric Olson" >}} Eric Olson
  
-Part of the challenge was that we were adding ROR to the metadata that we send to DataCite and Crossref at the same time as we were adding other additional information to send and preparing for even more information that's coming. Well, actually, some of that we've added since we did the ROR work, and there's more coming soon. So we made a lot of changes and prepared for even more changes all at the same time. And so each time we would, you know, try to make the change, as soon as we hit one error, the whole thing would fail -- which was good, because we didn't want to upload a bunch of data that was wrong. So it took us three attempts to get it all lined up and ready to be sent properly and update it so that the ROR IDs are available for all content going forward as well as backfilling content that is eligible for ROR IDs to be added to that metadata. So we updated a lot of DOIs with that rollout. 
+Part of the challenge was that [we were adding ROR to the metadata that we send to DataCite and Crossref](https://github.com/CenterForOpenScience/osf.io/pull/9810) at the same time as we were adding other additional information to send and preparing for even more information that's coming. Well, actually, some of that we've added since we did the ROR work, and there's more coming soon. So we made a lot of changes and prepared for even more changes all at the same time. And so each time we would, you know, try to make the change, as soon as we hit one error, the whole thing would fail -- which was good, because we didn't want to upload a bunch of data that was wrong. So it took us three attempts to get it all lined up and ready to be sent properly and update it so that the ROR IDs are available for all content going forward as well as backfilling content that is eligible for ROR IDs to be added to that metadata. So we updated a lot of DOIs with that rollout. 
 
 {{% callout color="green" icon="no-icon" %}} 
 
@@ -198,7 +198,7 @@ And then it's about all those lifecycle pieces in the OSF. Getting to a consiste
 
 {{< figure src="/img/blog/osf/osf-research-lifecycle.png" class="blog-figure" alt="OSF research lifecycle circular graphic showing ten steps in the research lifecycle from Search and Discover to Publish Report" caption="Graphic provided by the Center for Open Science">}} 
 
-We're still catching up with updating some parts of the OSF to take advantage all this cool stuff. But that really is the goal, is to be able to demonstrate the things that we articulate as very valuable. We want to take part in those practices not just because they benefit our tech, although we thoroughly believe that they do, but because we want to lead by example. It's part of our theory of change to help not just the early adopters, but everyone -- to make it easier for researchers to find the change they need, to see that these things are possible. 
+We're still catching up with updating some parts of the OSF to take advantage of all this cool stuff. But that really is the goal, is to be able to demonstrate the things that we articulate as very valuable. We want to take part in those practices not just because they benefit our tech, although we thoroughly believe that they do, but because we want to lead by example. It's part of our theory of change to help not just the early adopters, but everyone -- to make it easier for researchers to find the change they need, to see that these things are possible. 
 
 And if the OSF can provide that, that's great. But if someone just reads about all this cool stuff that we're talking about and realizes that another tool is actually better because it does these things in a different way, that's okay too. That's still pushing toward our mission, in our theory of change, when people work with other tools, tools that a lot of times we work with ourselves. So I think that's the key, is that it's not just a benefit to the OSF but really to our entire mission. And this is really a critical opportunity to describe the change we want to see in open infrastructure.
 
