@@ -1,5 +1,5 @@
 +++
-title = "Supporting ROR through SCOSS"
+title = "SCOSS selects ROR as essential open infrastructure"
 date = "2022-11-22"
 draft = false
 tags = ["Sustainability", "Community"]
@@ -10,16 +10,19 @@ thumb = "/img/lion-crew-sq.jpg"
 author = "Maria Gould"
 +++
 
-Last month, we [announced an exciting step in ROR's journey to sustainability](/blog/2022-10-10-strengthening-sustainability/) by sharing the news that ROR's three governing organizations have made a formal commitment to supporting ROR's core operating expenses as part of their overall responsibilities for ROR. Our three organizations have always supported ROR in some fashion and always intended to do so, but this development strengthens the core foundation of support that we have deemed necessary for ROR to continue its operations. It also eliminates dependencies on unpredictable and time-limited sources of revenue (per our commitment to following the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org)), and helps ensure that we can stay focused on continuing to develop and support ROR as it continues to grow and be widely adopted.
+We are thrilled to announce that ROR has been selected by [SCOSS](https://scoss.org) as essential open infrastructure and will be highlighted in SCOSS's latest campaign, kicking off this week.
 
-As the blog post notes, ROR remains open to additional external resourcing that can strengthen our foundation, offset operating expenses, and fund time-limited projects. We are therefore excited to announce that ROR has been selected for the next cycle of [SCOSS](https://scoss.org) funding, having been deemed essential open infrastructure deserving of community support.
+SCOSS--the Global Sustainability Coalition for Open Science Services--is an initiative that focuses on identifying non-commercial infrastructures that are key for open science and worthy of community investment. In order to be selected, applicants must go through a competitive and rigorous evaluation process, and only a few infrastructures are approved every cycle.
 
-We began the process of applying for SCOSS at the same time that we were firming up the sustainability model announced in October. We knew that we would need to have a working sustainability framework in place regardless of whether our SCOSS application was successful, and we determined that if the SCOSS application was successful, it would be an opportunity to highlight how our three organizations' shared commitment to ROR can be supplemented by outside investment by community stakeholders.
+It is an honor for ROR to receive this selection, and we are excited that ROR is continuing to be recognized as essential open scholarly infrastructure.
 
-Our model for our organizations' baseline support for ROR is premised on what it would mean to continue operating ROR as it exists right now. The SCOSS funding campaign seeks to double this resourcing to help ROR grow and scale, which is an especially urgent need as we see increased adoption of ROR across scholarly infrastructure.
+_Image credit: [@scossfunding](https://twitter.com/scossfunding) on Twitter_
+{{< figure src="/img/scoss-card-jpeg" width="75%" >}}
+
+With this selection, ROR joins the esteemed company of other community-based open infrastructure initiatives such as [LA Referencia](lareferencia.info) and [Dryad](https://datadryad.org))(both selected for the current cycle), along with past awardees DOAJ, Sherpa/Romeo, DOAB/OAPEN, PKP, OpenCitations, arXiv, Redalyc/AmeliCA, and DSpace. ROR also carries the distinction of being the first persistent identifier (PID) to receive SCOSS recognition!
+
+As an early signatory to the [Principles of Open Scholarly Infrastructure](/blog/2020-12-16-aligning-ror-with-posi), ROR has been committed to carrying out a careful and responsible approach to managing the initiative. We began the process of applying for SCOSS at the same time that we were firming up an overarching sustainability model for ROR that we [announced in October](/blog/2022-10-10-strengthening-sustainability/) and that is based on a shared resourcing commitment by  ROR's three operating organizations [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org). We knew that we would need to have a working sustainability framework in place regardless of whether our SCOSS application was successful, and we determined that if the SCOSS application was successful, it would be an opportunity to highlight how our three organizations' shared commitment can be supplemented by outside investment by community stakeholders.
 
 ROR has always and will always continue to be community-led open infrastructure. Broadening the base of community investment in ROR is one way to ensure that our infrastructure is sustained and secured as a common good for us all.
 
-If your organization is in a position to pledge support for ROR (or the other selected infrastructures, [LA Referencia](lareferencia.info) and [Dryad](https://datadryad.org)) in the new SCOSS funding cycle, you can learn more on the [campaign website](https://scoss.org/).
-
-Thank you for your support!
+We are grateful to SCOSS for recognizing ROR as essential open infrastructure, and we look forward to continuing our work to support broad adoption of open persistent identifiers and rich metadata across the research ecosystem. 
