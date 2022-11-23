@@ -6,7 +6,7 @@ tags = ["Sustainability", "Community"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-crew-sq.jpg"
+thumb = "/img/scoss-thumb.png"
 author = "Maria Gould"
 +++
 
@@ -19,10 +19,10 @@ It is an honor for ROR to receive this selection, and we are excited that ROR is
 _Image credit: [@scossfunding](https://twitter.com/scossfunding) on Twitter_
 {{< figure src="/img/scoss-card-jpeg" width="75%" >}}
 
-With this selection, ROR joins the esteemed company of other community-based open infrastructure initiatives such as [LA Referencia](lareferencia.info) and [Dryad](https://datadryad.org))(both selected for the current cycle), along with past awardees DOAJ, Sherpa/Romeo, DOAB/OAPEN, PKP, OpenCitations, arXiv, Redalyc/AmeliCA, and DSpace. ROR also carries the distinction of being the first persistent identifier (PID) to receive SCOSS recognition!
+With this selection, ROR joins the esteemed company of other community-based open infrastructure initiatives such as [LA Referencia](lareferencia.info) and [Dryad](https://datadryad.org))(both selected for the current cycle), along with past awardees [DOAJ](https://doaj.org/), [Sherpa Romeo](https://v2.sherpa.ac.uk/romeo/), [DOAB](https://www.doabooks.org/), [PKP](https://pkp.sfu.ca/), [OpenCitations](https://opencitations.net/), [arXiv](https://arxiv.org/), [Redalyc](https://www.redalyc.org/)/[AmeliCA](http://amelica.org/), and [DSpace](https://dspace.lyrasis.org/). ROR also carries the distinction of being the first persistent identifier (PID) to receive SCOSS recognition!
 
 As an early signatory to the [Principles of Open Scholarly Infrastructure](/blog/2020-12-16-aligning-ror-with-posi), ROR has been committed to carrying out a careful and responsible approach to managing the initiative. We began the process of applying for SCOSS at the same time that we were firming up an overarching sustainability model for ROR that we [announced in October](/blog/2022-10-10-strengthening-sustainability/) and that is based on a shared resourcing commitment by  ROR's three operating organizations [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org). We knew that we would need to have a working sustainability framework in place regardless of whether our SCOSS application was successful, and we determined that if the SCOSS application was successful, it would be an opportunity to highlight how our three organizations' shared commitment can be supplemented by outside investment by community stakeholders.
 
 ROR has always and will always continue to be community-led open infrastructure. Broadening the base of community investment in ROR is one way to ensure that our infrastructure is sustained and secured as a common good for us all.
 
-We are grateful to SCOSS for recognizing ROR as essential open infrastructure, and we look forward to continuing our work to support broad adoption of open persistent identifiers and rich metadata across the research ecosystem. 
+We are grateful to SCOSS for recognizing ROR as essential open infrastructure, and we look forward to continuing our work to support broad adoption of open persistent identifiers and rich metadata across the research ecosystem.
