@@ -1,7 +1,7 @@
 +++
 title = "Case Study: ROR in the COS Open Science Framework"
-date = "2022-11-11"
-draft = true
+date = "2022-11-28"
+draft = false
 tags = ["Adoption", "Integrations", "Community"]
 categories = ["case-studies"]
 style = "card-plain"
@@ -136,19 +136,23 @@ I'm going to ask you now to describe how you've implemented ROR in your system. 
  
 Currently, the way we have this implemented is that we have a service within the OSF where institutions can choose to have public content from their affiliated researchers be visually identified with that institution.
 
-{{< figure src="/img/blog/osf/osf-institutions-browse.png" class="blog-figure" alt="OSF Institutions screenshot listing Arizona State University, Brown University, and others with the tagline 'OSF Institutions enhances transparency and increases the visibility of research outputs, accelerating discovery and reuse. Institutional members focus on generating and sharing research, and let OSF Institutions handle the infrastructure' " caption="https://osf.io/institutions" >}} 
+{{< figure src="/img/blog/osf/osf-institutions.png" class="blog-figure" alt="OSF Institutions graphic with the tagline 'OSF Institutions increases rigor and transparency across the research lifecycle by revealing researcher activity, institutional affiliations, and trends to enable more effective compliance and reporting' " caption="Graphic provided by the Center for Open Science" >}} 
 
 And the way we do that is that an institution [becomes a Service Partner with us](https://www.cos.io/products/osf-institutions), and we set up single sign-on (SSO) into the OSF using their credentials, using their systems, which for a number of institutions is a critical part of identity management. I won't speak for all institutions here, but for some of them, they don't want users to be using a lot of tools without something that gives the institution the ability to give the "go or no go." And so that's what we provide, is a single sign-on access for each institutional service partner. And if the user attempts to sign in as a member of an institution that they don't belong to, then they will not get access to the OSF that way, although they can access it in a different way. 
 
 {{< figure src="/img/blog/osf/osf-institutions-login.png" class="blog-figure" alt="OSF Institutions login screen with the tagline 'If your institution has partnered with OSF, please select its name below and sign in with your institutional credentials. If you do not currently have an OSF account, this will create one for you.' " caption="https://accounts.osf.io/login?campaign=institution&institutionId=&service=" >}} 
 
-If they do sign in as a member of an institution, then they now have that institution associated with their profile. And they can be part of multiple institutions; I myself am part of two. And when they are working on content, they can add a visual brand based on their affiliations, and they can add that branding to their content. 
+If they do sign in as a member of an institution, then they now have that institution associated with their profile. And they can be part of multiple institutions; I myself am part of two. 
 
-{{< figure src="/img/blog/osf/osf-registration-nosek.png" class="blog-figure" alt="Screenshot of the OSF pre-registration 'Investigating variation in replicability: A “Many Labs” Replication Project' " caption="https://osf.io/scayl/resources" >}} 
+{{< figure src="/img/blog/osf/osf-institutions-admin.png" class="blog-figure" alt="OSF Institutions administrative dashboard page showing the page for the Center for Open Science with users, user handles, departments, and projects listed" caption="Graphic provided by the Center for Open Science" >}} 
+
+And when they are working on content, they can add a visual brand based on their affiliations, and they can add that branding to their content. 
+
+{{< figure src="/img/blog/osf/osf-registration-nosek.jpg" class="blog-figure" alt="Screenshot of the OSF pre-registration 'Investigating variation in replicability: A “Many Labs” Replication Project' " caption="https://osf.io/scayl/resources" >}} 
 
 And then publicly those will all aggregate on the OSF side on a discovery page associated with that institution. 
 
-{{< figure src="/img/blog/osf/osf-uva-projects.png" class="blog-figure" alt="OSF Institutions browse page for the University of Virginia" caption="https://osf.io/institutions/uva/" >}} 
+{{< figure src="/img/blog/osf/osf-cos-projects.png" class="blog-figure" alt="OSF Institutions browse page for the Center for Open Science" caption="https://osf.io/institutions/cos" >}} 
 
 The user and the content can have multiple affiliations. If you and I are both creators of the same piece of content, we can each have a different affiliation, and we can each have multiple affiliations. But I can't make that claim on your behalf; you'd be adding it yourself. And so that's how we deal with it within the OSF'S ecosystem. We verify based on that single sign-on that a user is associated with an institution.
 
