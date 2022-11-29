@@ -3,14 +3,14 @@ title = "Case Study: ROR in the COS Open Science Framework"
 date = "2022-11-28"
 draft = false
 tags = ["Adoption", "Integrations", "Community"]
-categories = ["case-studies"]
+categories = ["conversations"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/blog/osf/cos-logo.jpg"
 author = "Amanda French"
 +++
 
-This interview with Eric Olson of the Center for Open Science is the first in a new series of interviews, "Case Studies in ROR Integration," a series designed to provide in-depth detail on why and how people are choosing to integrate ROR IDs into their systems.
+This conversation with Eric Olson of the Center for Open Science is the first in a new series of interviews, "Case Studies in ROR Integration," a series designed to provide in-depth detail on why and how people are choosing to integrate ROR IDs into their systems.
 
 {{% callout color="green" icon="no-icon" %}} 
 ### Key quotations
