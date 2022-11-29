@@ -2,7 +2,7 @@
 title = "Case Study: ROR in the COS Open Science Framework"
 date = "2022-11-28"
 draft = false
-tags = ["Adoption", "Integrations", "Community"]
+tags = ["Adoption", "Integrations", "Community", "Case Studies"]
 categories = ["conversations"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
