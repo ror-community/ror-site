@@ -87,6 +87,8 @@ Amanda [joined ROR in June 2022](blog/2022-06-13-welcome-amanda-french/). Amanda
 
 A well-known community manager and project director in the digital humanities and scholarly communication sphere, Amanda was most recently Community Lead at The COVID Tracking Project at The Atlantic. Previously, she directed the Mellon-funded project "Resilient Networks for Inclusive Digital Humanities" at the George Washington University Libraries and the Digital Research Services unit at Virginia Tech University Libraries, led the THATCamp unconference initiative at George Mason University's Roy Rosenzweig Center for History and New Media, and was a member of the first cohort of Council on Library and Information Resources (CLIR) Postdoctoral Fellows. 
 
+Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
+
 #### Liz Krznarich, Technical Lead
 
 Liz [joined the ROR team in late 2020](blog.datacite.org/working-at-the-intersection-of-people-and-technology/) as our first Adoption Manager and has developed extensive guidance to support ROR users and integrators, before [stepping into the role of ROR Technical Lead in February 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). Previously, Liz was based at ORCID for 6 years, where she held roles ranging from member support to technical lead. A librarian by training and a software developer by necessity, Liz thrives at the intersection of people, processes and technology. She loves understanding the human and technological aspects of systems and developing solutions that suit both the people and the machines.
