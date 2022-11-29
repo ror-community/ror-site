@@ -25,7 +25,7 @@ Organizations are not static entities. They change their names, merge, split, sh
 
 ROR is the first and only organization identifier that is openly available (CC0 data available via an open REST API and public data dump), specifically focused on identifying affiliations in scholarly metadata, developed as a community initiative to meet community use cases, and designed to be integrated into open scholarly infrastructure. It is the default identifier supported in Crossref DOI metadata, DataCite DOI metadata, and ORCID.
 
-ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. [Read more about current ROR integrations](community#adopters).
+ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. [Read more about current ROR integrations](/community#adopters).
 
 {{% callout icon="no-icon"%}}
 
