@@ -87,9 +87,11 @@ In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board re
 
 **Current advisory board members**
 
+- Matthias Liffers, Australian Research Data Commons
 - Nick Lundvick, Argonne National Laboratory
 - Carly Robinson, OSTI/DOE
 - Arthur Smith, American Physical Society
+- Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
 - Kelly Stathis, DataCite
 - Niklas Zimmer, University of Cape Town
