@@ -1,10 +1,12 @@
 languageCode = "en-us"
 title = "ROR"
-baseurl = "http://localhost:1313/"
-style = "violet"
+baseurl = "http://localhost:1313"
+style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
 summaryLength = 20
+
+disqusShortname = "ror-community"
 
 
 [params]
@@ -25,7 +27,7 @@ CSSVersion = 3
     enable = false
 
 [params.landingbanner]
-	enable = true
+  enable = true
     image = "/img/ROR_Lions_Banner.jpg"
     text = ""
     textcolor = '#fff'
@@ -48,11 +50,11 @@ CSSVersion = 3
 
 [params.socials]
     enable = true
-    
+
 [params.recent_posts]
-    enable = true    
-    title = "News and Updates"    
-    
+    enable = true
+    title = "News and Updates"
+
 [params.twitter_feed]
-    enable = false    
+    enable = false
     title = "Twitter Feed"
