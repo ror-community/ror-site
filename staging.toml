@@ -6,9 +6,6 @@ theme = "hugo-ror"
 pluralizelisttitles = "false"
 summaryLength = 20
 
-disqusShortname = "ror-community"
-
-
 [params]
 date_format = "January 2, 2006"
 CSSVersion = 3
