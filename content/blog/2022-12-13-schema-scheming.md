@@ -1,5 +1,5 @@
 +++
-title = "Schema Scheming: Updating the ROR Data Model"
+title = "Schema Scheming: Evolving the ROR Data Model"
 date = "2022-12-13"
 draft = false
 tags = ["Metadata", "Community", "API", "Data", "Schema"]
