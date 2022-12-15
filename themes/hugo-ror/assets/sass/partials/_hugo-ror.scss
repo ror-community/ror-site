@@ -6931,3 +6931,15 @@ margin-right:.25em;
 border-radius:50%;
 height:35px;
 }
+
+/* adds Mastodon icon */
+
+
+.mastodon {
+content:url("/img/mastodon.png");
+display:inline-block;
+margin-left:auto;
+margin-right:auto;
+}
+
+
