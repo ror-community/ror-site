@@ -45,13 +45,13 @@ Another way to understand ROR's growth in 2022 is looking at our activities in n
 
 -   ROR API usage grew to 13+ million requests per month in 2022, up from ~6 million per month at the end of 2021 and ~3 million per month at the end of 2020. 
 
+-   We published eighteen [registry data releases](https://github.com/ror-community/ror-updates/releases), which comprise the addition of 2,010 new organization records and the application of 11,135 updates to 10,073 existing records (about 10% of the total registry).
+
 -   The [ROR data dump](https://doi.org/10.5281/zenodo.6347574) had approximately 2,900 unique downloads
 
 -   Community participation remained strong, with 50+ attendees at ROR's bi-monthly community advisory meetings, 3,000+ email newsletter recipients, and 2,100+ Twitter followers. 
 
 -   ROR team members presented at 16 conferences and community events. 
-
--   We published eighteen [registry data releases](https://github.com/ror-community/ror-updates/releases), which comprise the addition of 2,010 new organization records and the application of 11,135 updates to 10,073 existing records (about 10% of the total registry).
 
 ## Looking ahead
 
