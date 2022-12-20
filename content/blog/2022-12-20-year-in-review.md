@@ -1,6 +1,6 @@
 +++
 title = "ROR's Year in Review: 2022"
-date = "2022-12-19"
+date = "2022-12-20"
 draft = false
 tags = ["Updates", "Community"]
 categories = ["updates"]
@@ -10,9 +10,8 @@ thumb = "/img/lion-silhouette-sq.jpg"
 author = "Maria Gould"
 +++
 
-As 2022 comes to a close, we're taking a moment to reflect on our activities this year and give thanks to our community for supporting us along the way.
+2022 has been a momentous year for ROR! We experienced significant growth, reached critical milestones, and established a foundation for long-term sustainability. As the year comes to a close, we're taking a moment to reflect on our activities and give thanks to our community for supporting us along the way.
 
-This year has been a momentous one for ROR. We experienced significant growth, reached critical milestones, and established a foundation for long-term sustainability. 
 
 ## 2022 highlights
 
