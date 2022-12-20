@@ -7,13 +7,14 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 
 ## Annual ROR Community Meeting
 
-{{< figure src="/img/ror-ing-on-zoom-cropped.png" alt="Screenshot of Zoom screens from participants at 2021 ROR community meeting" caption="A ROR-able moment from the 2021 community meeting">}}
+{{< figure src="/img/roring-on-zoom-cropped.png" alt="Screenshot of Zoom screens from participants at 2021 ROR community meeting" caption="A ROR-able moment from the 2021 community meeting">}}
 
 Join us for the annual ROR community meeting! This is a multi-session online event to celebrate ROR's anniversary, share the latest news and updates, hear about community implementations, and learn how to work with ROR data and tools. All are welcome to join.
 
 You may choose which session(s) to attend based on your interest. Note that you must register separately on Zoom for each session you would like to attend. Please only register if you actually plan to join, so that we can estimate approximately how many people to expect.
 
 ### Session descriptions
+ 
 
 **Session 1: ROR Community Update**
 
