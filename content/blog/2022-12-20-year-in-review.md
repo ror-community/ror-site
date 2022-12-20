@@ -30,13 +30,13 @@ Activities and milestones we're proud of in 2022 include:
 
 -   **Planning for future changes to the ROR schema/API**: we finalized a [plan for schema and API versioning](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit) based on community input, and drafted a [proposal for the first set of changes](https://ror.org/blog/2022-12-14-schema-scheming/) to come in late 2023.
 
--   **Updating [ROR's website](https://ror.org) and [search interface]**(https://ror.org/search) to meet optimize accessibility and improve functionality, including adding more details to the ROR record display.
+-   **Updating [ROR's website](https://ror.org) and [search interface](https://ror.org/search)** to meet optimize accessibility and improve functionality, including adding more details to the ROR record display.
 
 -   **Growing the ROR Steering Group** by welcoming [three new members ](https://ror.org/blog/2022-04-11-new-steering-group-members/)(**Lautaro Matas** from [LA Referencia](https://www.lareferencia.info/), **Kathleen Shearer** from [COAR](https://www.coar-repositories.org/), and **Chris Shillum** from [ORCID](https://orcid.org)). 
 
 -   **Formalizing a revised resourcing model for ROR** based on long-term [support from our three operating organizations](https://ror.org/blog/2022-10-10-strengthening-sustainability).
 
--   **Being [recognized by SCOSS]**(https://ror.org/blog/2022-11-22-scoss-selects-ror/) as essential open infrastructure.
+-   **Being [recognized by SCOSS](https://ror.org/blog/2022-11-22-scoss-selects-ror/)** as essential open infrastructure.
 
 ## 2022 by the numbers
 
