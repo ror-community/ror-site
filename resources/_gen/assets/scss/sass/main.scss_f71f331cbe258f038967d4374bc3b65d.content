@@ -15336,6 +15336,13 @@ table#donations-table td ul li {
   border-radius: 50%;
   height: 35px; }
 
+/* adds Mastodon icon */
+.mastodon {
+  content: url("/img/mastodon.png");
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto; }
+
 /* BREADCRUMBS */
 .breadcrumbs-wrap {
   background-color: #efefef;
