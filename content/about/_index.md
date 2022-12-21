@@ -25,7 +25,7 @@ Organizations are not static entities. They change their names, merge, split, sh
 
 ROR is the first and only organization identifier that is openly available (CC0 data available via an open REST API and public data dump), specifically focused on identifying affiliations in scholarly metadata, developed as a community initiative to meet community use cases, and designed to be integrated into open scholarly infrastructure. It is the default identifier supported in Crossref DOI metadata, DataCite DOI metadata, and ORCID.
 
-ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. [Read more about current ROR integrations](community#adopters).
+ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. [Read more about current ROR integrations](/community#adopters).
 
 {{% callout icon="no-icon"%}}
 
@@ -86,6 +86,8 @@ Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-t
 Amanda [joined ROR in June 2022](blog/2022-06-13-welcome-amanda-french/). Amanda works with ROR's three operating organizations and the broader ROR community to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.
 
 A well-known community manager and project director in the digital humanities and scholarly communication sphere, Amanda was most recently Community Lead at The COVID Tracking Project at The Atlantic. Previously, she directed the Mellon-funded project "Resilient Networks for Inclusive Digital Humanities" at the George Washington University Libraries and the Digital Research Services unit at Virginia Tech University Libraries, led the THATCamp unconference initiative at George Mason University's Roy Rosenzweig Center for History and New Media, and was a member of the first cohort of Council on Library and Information Resources (CLIR) Postdoctoral Fellows. 
+
+Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
 
 #### Liz Krznarich, Technical Lead
 
@@ -182,3 +184,5 @@ ORCID [announced its integration with ROR](https://info.orcid.org/add-research-i
 ROR published its [first independent registry update](/blog/2022-03-17-first-independent-release/) in March 2022.
 
 ROR [formalized its sustainability model](/blog/2022-10-10-strengthening-sustainability) in September 2022.
+
+ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/2022-11-22-scoss-selects-ror) in November 2022.

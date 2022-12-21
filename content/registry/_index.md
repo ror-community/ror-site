@@ -21,9 +21,9 @@ There are three ways to look up organizations and organization records in ROR:
 {{% callout icon="no-icon" %}}
 **How often is ROR updated?**
 
-Registry data is updated on a rolling basis and made available in the search interface, API, and data dump. New releases are available approximately every month.
+Registry data is updated on a rolling basis and made available in the search interface, API, and data dump. New releases are available approximately every month. [Read the release notes](https://github.com/ror-community/ror-updates/releases) for a summary of what's in each release.
 
-Registry updates are coordinated by ROR’s curation advisory board. [Read more about registry curation](https://github.com/ror-community/ror-updates#ror-updates).
+Registry updates are coordinated by ROR’s curation advisory board through an [open, community-based process](https://github.com/ror-community/ror-updates#ror-updates).
 
 Want to suggest a new organization in ROR or make changes to an existing record? [Submit a curation request](https://curation-request.ror.org).
 
@@ -87,9 +87,11 @@ In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board re
 
 **Current advisory board members**
 
+- Matthias Liffers, Australian Research Data Commons
 - Nick Lundvick, Argonne National Laboratory
 - Carly Robinson, OSTI/DOE
 - Arthur Smith, American Physical Society
+- Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
 - Kelly Stathis, DataCite
 - Niklas Zimmer, University of Cape Town
