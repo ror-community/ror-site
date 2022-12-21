@@ -7,7 +7,7 @@
 		{{ range sort .Site.Data.socials }}
 		<div class=" col-sm-7 col-md-1 ">
 			<a href="{{ .link }}">
- 			<a {{ if .rel }}rel='{{.rel}}'{{ end }} href='{{ .url }}'>
+ 			<a {{ if .rel }}rel='{{.rel}}'{{ end }} href='{{ .link }}'>
  				<i class="fa {{ .icon }}"></i>
 				<span>{{ .title }}</span>
 			</a>
