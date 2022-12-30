@@ -15336,6 +15336,18 @@ table#donations-table td ul li {
   border-radius: 50%;
   height: 35px; }
 
+/* Header anchor links */
+.ha {
+  display: inline-block;
+  opacity: .4; }
+
+.ha-link {
+  width: 1.2rem;
+  height: 1.2rem; }
+
+svg.ha-link:hover {
+  opacity: .6; }
+
 /* BREADCRUMBS */
 .breadcrumbs-wrap {
   background-color: #efefef;
@@ -15371,7 +15383,7 @@ ul.breadcrumbs li a:hover {
   padding: 50px 0; }
   .section.section-socials .row > div {
     padding: 20px 0; }
-  .section.section-socials i.fa {
+  .section.section-socials i.fa, .section.section-socials i.fa-brands, .section.section-socials i.fa-solid {
     display: block;
     font-size: 2em;
     color: #505759; }
