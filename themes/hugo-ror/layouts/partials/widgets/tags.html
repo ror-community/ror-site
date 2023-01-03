@@ -8,7 +8,7 @@
     <ul class="list-unstyled">
       {{ range $name, $items := .Site.Taxonomies.tags }}
         {{ if eq ( $.Title | lower ) ( $name | lower ) }}
-          <li><i class="fa fa-tags"></i> <span>{{ $name }}</span></li>
+          <li><i class="fa-solid fa-tags"></i> <span>{{ $name }}</span></li>
         {{ else }}
           <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> <span>{{ $name }}</span></a></li>
         {{ end }}

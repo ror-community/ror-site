@@ -28,10 +28,10 @@
 
                             <div class="content">                                
                                 <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-                                <p class="intro">{{ if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Summary | plainify }}{{ end }}</p>
+                                <p class="intro">{{ if .Params.excerpt }}{{ .Params.excerpt }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}</p>
                                 <p class="author-category">
                                     {{ with .Params.author }}
-                                    By <a href="#">{{ . }}</a>
+                                    By <strong>{{ . }}</strong>
                                     {{ end }}
                                     on {{ .Date.Format .Site.Params.date_format }}
                                 </p>
