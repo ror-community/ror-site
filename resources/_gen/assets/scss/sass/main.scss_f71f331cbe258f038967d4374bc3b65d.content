@@ -1,5 +1,33 @@
 @charset "UTF-8";
-@import url("https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+/* Atkinson Hyperlegible for trial 9 Nov 2022 */
+@font-face {
+  font-family: "AH-Bold";
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Bold-102a.woff2") format("woff2"); }
+
+@font-face {
+  font-family: "AH-BoldItalic";
+  font-weight: 700;
+  font-style: italic;
+  font-display: swap;
+  src: url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-BoldItalic-102a.woff2") format("woff2"); }
+
+@font-face {
+  font-family: "AH-RegularItalic";
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+  src: url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Italic-102a.woff2") format("woff2"); }
+
+@font-face {
+  font-family: "AH-Regular";
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+  src: url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Regular-102a.woff2") format("woff2"); }
+
 .material-icons-outlined {
   font-family: 'Material Icons Outlined';
   font-weight: normal;
@@ -15,6 +43,7 @@
   -webkit-font-feature-settings: 'liga';
   -webkit-font-smoothing: antialiased; }
 
+/** Fonts **/
 /** Original theme colours **/
 /* ROR brand colours from https://coolors.co/53baa1-505759-da3200-e89005-d3bdb0 plus a very dark grey for use as black */
 /*!
@@ -9733,7 +9762,7 @@ input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget butto
 
 .now-ui-icons {
   display: inline-block;
-  font: normal normal normal 14px/1 "Atkinson Hyperlegible";
+  font: normal normal normal 14px/1 "AH-Regular", "AH-Regular", Helvetica, Arial, sans-serif;
   font-size: inherit;
   speak: none;
   text-transform: none;
@@ -10305,7 +10334,7 @@ input.datetimepicker[data-color=yellow] + .bootstrap-datetimepicker-widget butto
   align-items: center; }
 
 h1, h2, h3, h4, h5, h6 {
-  font-weight: 700;
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif;
   margin: 2rem 0 0 0;
   line-height: 2.5rem; }
 
@@ -10317,13 +10346,12 @@ a, a:focus, a:hover {
 
 p a,
 li a {
-  font-weight: 700; }
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif; }
 
 .h1, h1 {
   font-size: 3.5em; }
 
 .h1 small, h1 small {
-  font-weight: 700;
   opacity: .8; }
 
 .h2, h2 {
@@ -10351,7 +10379,7 @@ li a {
 
 .h6, h6 {
   font-size: .9em;
-  font-weight: 700; }
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif; }
 
 h2:first-child, h3:first-child {
   margin-top: 0; }
@@ -10379,7 +10407,7 @@ li {
   margin-bottom: 1rem; }
 
 .title {
-  font-weight: 700;
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif;
   padding-top: 30px; }
 
 .title.title-up a {
@@ -10395,7 +10423,7 @@ li {
 
 .category {
   text-transform: capitalize;
-  font-weight: 700;
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif;
   color: #9A9A9A; }
 
 .text-primary {
@@ -10516,7 +10544,7 @@ body {
   text-transform: uppercase; }
 
 .btn, .navbar .navbar-nav > a.btn {
-  font-weight: 700;
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif;
   line-height: 1em;
   margin: .5em 0;
   border: none;
@@ -11668,7 +11696,7 @@ textarea.form-control:active, textarea.form-control:focus {
 
 .navbar p {
   line-height: 1.8em;
-  font-weight: 400;
+  font-family: "AH-Regular", "AH-Regular", Helvetica, Arial, sans-serif;
   display: inline-block;
   margin: 0;
   font-size: 1.1rem; }
@@ -11877,7 +11905,7 @@ textarea.form-control:active, textarea.form-control:focus {
   color: rgba(182, 182, 182, 0.6);
   font-size: .7142em;
   text-transform: uppercase;
-  font-weight: 700; }
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif; }
 
 .dropdown-menu.dropdown-primary {
   background-color: #49b59b; }
@@ -12255,7 +12283,7 @@ img {
   text-align: right; }
 
 .table .td-total {
-  font-weight: 700;
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif;
   font-size: 1.3em;
   padding-top: 20px;
   text-align: right; }
@@ -15301,7 +15329,7 @@ img.ror-id {
 
 .page-banner h1 {
   color: #fff !important;
-  font-weight: 700;
+  font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif;
   margin: 0; }
 
 .blog h1 {
@@ -15322,31 +15350,7 @@ table#donations-table td ul li {
   padding-top: 0; }
 
 .media .media-heading small, body, button, input, optgroup, select, textarea {
-  font-family: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif; }
-
-/* blog styles */
-.blog-figure img {
-  padding: 0 5em 0 4em; }
-
-.round-figure {
-  display: inline;
-  margin-right: .25em; }
-
-.round-figure img {
-  border-radius: 50%;
-  height: 35px; }
-
-/* Header anchor links */
-.ha {
-  display: inline-block;
-  opacity: .4; }
-
-.ha-link {
-  width: 1.2rem;
-  height: 1.2rem; }
-
-svg.ha-link:hover {
-  opacity: .6; }
+  font-family: "AH-Regular", "AH-Regular", Helvetica, Arial, sans-serif; }
 
 /* BREADCRUMBS */
 .breadcrumbs-wrap {
