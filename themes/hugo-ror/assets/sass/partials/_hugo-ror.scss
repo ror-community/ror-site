@@ -6931,3 +6931,22 @@ margin-right:.25em;
 border-radius:50%;
 height:35px;
 }
+
+/* Header anchor links */
+
+.ha {
+  display:inline-block;
+  opacity:.4;
+}
+
+.ha-link {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+svg.ha-link:hover {
+	opacity:.6;
+}
+
+
+
