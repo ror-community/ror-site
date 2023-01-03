@@ -1,4 +1,32 @@
-@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+/* Atkinson Hyperlegible for trial 9 Nov 2022 */
+@font-face{
+    font-family:"AH-Bold";
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+    src:url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Bold-102a.woff2") format("woff2");
+}
+@font-face{
+    font-family:"AH-BoldItalic";
+    font-weight: 700;
+    font-style: italic;
+    font-display: swap;
+    src:url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-BoldItalic-102a.woff2") format("woff2");
+}
+@font-face{
+    font-family:"AH-RegularItalic";
+    font-weight: 400;
+    font-style: italic;
+    font-display: swap;
+    src:url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Italic-102a.woff2") format("woff2");
+}
+@font-face{
+    font-family:"AH-Regular";
+    font-weight: 400;
+    font-style: normal;
+    font-display: swap;
+    src:url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Regular-102a.woff2") format("woff2");
+}
 
 .material-icons-outlined {
     font-family: 'Material Icons Outlined';

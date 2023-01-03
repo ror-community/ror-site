@@ -4,7 +4,16 @@ $desktop-width: 1024px;
 
 $section-background: #eeeeee;
 
-
+/** Fonts **/
+$alt-font-stack: "AH-Regular", Helvetica, Arial, sans-serif;
+$font-light: "AH-Regular", $alt-font-stack;
+$font-light-italic: "AH-RegularItalic", $alt-font-stack;
+$font-regular: "AH-Regular", $alt-font-stack;
+$font-regular-italic: "AH-RegularItalic", $alt-font-stack;
+$font-medium: "AH-Bold", $alt-font-stack;
+$font-medium-italic: "AH-BoldItalic", $alt-font-stack;
+$font-bold: "AH-Bold", $alt-font-stack;
+$font-bold-italic: "AH-BoldItalic", $alt-font-stack;
 
 
 /** Original theme colours **/
