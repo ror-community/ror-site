@@ -6915,3 +6915,39 @@ table#donations-table td ul li {
 .media .media-heading small, body, button, input, optgroup, select, textarea {
   font-family: $font-regular;
 }
+
+/* blog styles */
+
+.blog-figure img {
+    padding:0 5em 0 4em;
+}
+
+.round-figure {
+    display:inline;
+    margin-right:.25em;
+}
+
+.round-figure img {
+    border-radius:50%;
+    height:35px;
+}
+
+/* header anchor links */
+
+.ha {
+  display:inline-block;
+  opacity:.4;
+}
+
+.ha-link {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+svg.ha-link:hover {
+	opacity:.6;
+}
+
+.blog .ha, .blog .ha-link, .blog .ha-link:hover {
+display:none;
+}
