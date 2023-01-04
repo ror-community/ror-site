@@ -1315,7 +1315,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
 }
 .now-ui-icons {
     display: inline-block;
-    font: normal normal normal 14px/1 "Atkinson Hyperlegible";
+    font: normal normal normal 14px/1 $font-regular;
     font-size: inherit;
     speak: none;
     text-transform: none;
@@ -1790,24 +1790,24 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
     align-items: center;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 700;
+    font-family: $font-bold;
     margin: 2rem 0 0 0;
     line-height: 2.5rem;
 }
 small {
-    font-size: 60%}
+    font-size: 60%
+}
 a, a:focus, a:hover {
     color: #1F7F67;
 }
 p a,
 li a {
-  font-weight: 700;
-}
+  font-family: $font-bold;
+  }
 .h1, h1 {
     font-size: 3.5em;
 }
 .h1 small, h1 small {
-    font-weight: 700;
     opacity: .8;
 }
 .h2, h2 {
@@ -1835,7 +1835,7 @@ li a {
 }
 .h6, h6 {
     font-size: .9em;
-    font-weight: 700;
+    font-family: $font-bold;
 }
 h2:first-child, h3:first-child {
   margin-top: 0;
@@ -1863,7 +1863,7 @@ li {
   margin-bottom: 1rem;
 }
 .title {
-    font-weight: 700;
+    font-family: $font-bold;
     padding-top: 30px;
 }
 .title.title-up a {
@@ -1879,7 +1879,7 @@ li {
 }
 .category {
     text-transform: capitalize;
-    font-weight: 700;
+    font-family: $font-bold;
     color: #9A9A9A;
 }
 .text-primary {
@@ -2000,7 +2000,7 @@ body {
     text-transform: uppercase;
 }
 .btn, .navbar .navbar-nav>a.btn {
-    font-weight: 700;
+    font-family: $font-bold;
     line-height: 1em;
     margin: .5em 0;
     border: none;
@@ -3152,7 +3152,7 @@ textarea.form-control:active, textarea.form-control:focus {
 }
 .navbar p {
     line-height: 1.8em;
-    font-weight: 400;
+    font-family: $font-regular;
     display: inline-block;
     margin: 0;
     font-size: 1.1rem;
@@ -3361,7 +3361,7 @@ textarea.form-control:active, textarea.form-control:focus {
     color: rgba(182, 182, 182, .6);
     font-size: .7142em;
     text-transform: uppercase;
-    font-weight: 700;
+    font-family: $font-bold;
 }
 .dropdown-menu.dropdown-primary {
     background-color: #49b59b;
@@ -3738,7 +3738,7 @@ img {
     text-align: right;
 }
 .table .td-total {
-    font-weight: 700;
+    font-family: $font-bold;
     font-size: 1.3em;
     padding-top: 20px;
     text-align: right;
@@ -6886,8 +6886,8 @@ img.ror-id {
  }
 .page-banner h1 {
 	color: #fff !important;
-	font-weight: 700;
-	margin: 0;
+  font-family: $font-bold;
+		margin: 0;
 }
 .blog h1 {
   font-size: 2rem;
@@ -6913,21 +6913,41 @@ table#donations-table td ul li {
 }
 
 .media .media-heading small, body, button, input, optgroup, select, textarea {
-  font-family: 'Atkinson Hyperlegible', 'Helvetica Neue', Arial, sans-serif;
+  font-family: $font-regular;
 }
 
 /* blog styles */
 
 .blog-figure img {
-padding:0 5em 0 4em;
+    padding:0 5em 0 4em;
 }
 
 .round-figure {
-display:inline;
-margin-right:.25em;
+    display:inline;
+    margin-right:.25em;
 }
 
 .round-figure img {
-border-radius:50%;
-height:35px;
+    border-radius:50%;
+    height:35px;
+}
+
+/* header anchor links */
+
+.ha {
+  display:inline-block;
+  opacity:.4;
+}
+
+.ha-link {
+  width: 1.2rem;
+  height: 1.2rem;
+}
+
+svg.ha-link:hover {
+	opacity:.6;
+}
+
+h3 .ha, h4 .ha, h5 .ha, h6 .ha, .blog .ha {
+display:none;
 }
