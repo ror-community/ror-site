@@ -146,7 +146,7 @@ ROR is more than just an identifier: each record associated with a ROR ID contai
 
 ### **What is the structure of the ROR identifier?**
 
-ROR identifiers have a [predictable pattern](https://ror.readme.io/docs/ror-identifier-pattern) and can be validated with the regular expression ﻿﻿`^https://ror.org/^0[a-z|0-9]{6}[0-9]{2}$`. The canonical form of a ROR identifier value is the entire URL.
+ROR identifiers have a [predictable pattern](https://ror.readme.io/docs/ror-identifier-pattern) and can be validated with the regular expression ﻿﻿`^https://ror.org/0[a-z|0-9]{6}[0-9]{2}$`. The canonical form of a ROR identifier value is the entire URL.
 
 ***
 
