@@ -146,8 +146,8 @@ ROR is more than just an identifier: each record associated with a ROR ID contai
 
 ### **What is the structure of the ROR identifier?**
 
-ROR identifiers have a [predictable pattern](https://ror.readme.io/docs/ror-identifier-pattern) and can be validated with the regular expression ﻿﻿`^https://ror.org/^0[a-z|0-9]{6}[0-9]{2}$`. The canonical form of a ROR identifier value is the entire URL.
-
+A ROR ID consists of a unique 9-character string appended to the ROR domain. The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. The unique strings in ROR identifiers have a [predictable pattern](https://ror.readme.io/docs/ror-identifier-pattern) and can be validated with regular expressions.
+ 
 ***
 
 ### **How should ROR IDs be displayed?**
