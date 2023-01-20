@@ -1,6 +1,6 @@
 +++
 title = "Test page"
-draft = false
+draft = true
 date = "2023-01-20"
 banner = "/img/banners/ROR_Banner-grey.jpg"
 +++

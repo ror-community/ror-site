@@ -36,19 +36,19 @@ Community involvement in ROR takes many forms:
 
 ### Steering Group
 
-The ROR Steering Group is an advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) and provides input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2022-06.pdf).
+The ROR Steering Group is an advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) and provides input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
 
 #### Current steering group representatives
-- Matt Buys, [DataCite](https://datacite.org) (permanent member)
-- John Chodacki, [California Digital Library](https://cdlib.org) (permanent member)
-- Daniel Hook, [Digital Science](https://www.digital-science.com/)
-- Clifford Lynch, [Coalition for Networked Information](https://www.cni.org/)
-- Ritsuko Nakajima, [Japan Science and Technology Agency](https://www.jst.go.jp/)
+- Matt Buys, [DataCite](https://datacite.org/) (permanent member)
+- John Chodacki, [California Digital Library](https://cdlib.org/) (CDL) (permanent member)
 - Lautaro Matas, [LA Referencia](https://www.lareferencia.info/)
+- Ritsuko Nakajima, [Japan Science and Technology Agency](https://www.jst.go.jp/) (JST)
+- Joy Owango, [Training Centre in Communication](https://www.tcc-africa.org/) (TCC Africa)
 - Ed Pentz, [Crossref](https://crossref.org) (permanent member)
-- Judy Ruttenberg, [Association of Research Libraries](https://www.arl.org/)
-- Kathleen Shearer, [Confederation of Open Access Repositories](https://www.coar-repositories.org/)
-- Chris Shillum, [ORCID](https://orcid.org)
+- Judy Ruttenberg, [Association of Research Libraries](https://www.arl.org/) (ARL)
+- Kathleen Shearer, [Confederation of Open Access Repositories](https://www.coar-repositories.org/) (COAR)
+- Chris Shillum, [ORCID](https://orcid.org/)
+- Natasha Simons, [Australian Research Data Commons](https://ardc.edu.au/) (ARDC)
 
 ### Community Advisory Group
 The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on future directions. The group meets on a bimonthly basis and is open to anyone who is working on ROR implementations or just generally interested in ROR. Read more about the group on the [ROR Blog](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email [info@ror.org](mailto:info@ror.org).
