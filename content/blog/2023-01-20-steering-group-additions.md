@@ -2,7 +2,7 @@
 title = "Joy Owango and Natasha Simons Join ROR Steering Group"
 date = "2023-01-20"
 draft = false
-tags = ["Updates", "Community", "Steering Group" "Governance"]
+tags = ["Updates", "Community", "Steering Group", "Governance"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
