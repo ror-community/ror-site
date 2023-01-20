@@ -23,7 +23,8 @@ Joy has successfully created  Global North–South collaborations, where the Cen
 Natasha Simons is Associate Director, Data & Services, for the [Australian Research Data Commons](https://ardc.edu.au/) (ARDC). Based in Brisbane, she leads a team who are passionate about building infrastructure to enable FAIR data and delivering ARDC's suite of national information infrastructure services (persistent identifiers, vocabularies, metadata, and discovery portals). Natasha collaborates internationally to solve challenges that improve FAIR data infrastructure, policies, skills, and practices. 
 
 **About the ROR Steering Group**
-Established in late 2019, the ROR Steering Group is an advisory body that supports the registry’s strategic planning and decision-making activities and that reflects ROR's global community of stakeholders. Group members provide feedback on ROR strategy and help drive awareness and adoption of ROR IDs through their respective networks and communities. The Steering Group comprises ROR’s operating organizations (California Digital Library, Crossref, and DataCite), who serve in a permanent capacity, as well as members representing external organizations, who serve rotating terms of 2-4 years. 
+
+[Established in late 2019](/blog/2019-11-22-meet-the-ror-steering-group/), the ROR Steering Group is an advisory body that supports the registry’s strategic planning and decision-making activities and reflects ROR's global community of stakeholders. Group members provide feedback on ROR strategy and help drive awareness and adoption of ROR IDs through their respective networks and communities. The Steering Group comprises ROR’s [operating organizations](about#governance-model) (California Digital Library, Crossref, and DataCite), who serve in a permanent capacity, as well as members representing external organizations, who serve rotating terms of 2-4 years. 
 
 As Joy and Natasha join the 2023 cohort, two members of the group’s original cohort—Daniel Hook from Digital Science, and Clifford Lynch from the Coalition for Networked Information—will be cycling off. We are grateful to Daniel and Cliff for their guidance and support since ROR’s early days! 
 
@@ -40,4 +41,4 @@ The complete current ROR Steering Group cohort for 2023 is:
 - Chris Shillum, [ORCID](https://orcid.org/)
 - Natasha Simons, [Australian Research Data Commons](https://ardc.edu.au/) (ARDC)
 
-In addition to the Steering Group, ROR engages community input and participation through a larger community advisory group. This group, which is open to anyone, meets regularly (currently bimonthly) to discuss ROR activities, share about implementations, and give feedback on upcoming work. Those who are interested in participating in the group can email info@ror.org to join. 
+In addition to the Steering Group, ROR engages community input and participation through a larger community advisory group. This group, which is open to anyone, meets regularly (currently bimonthly) to discuss ROR activities, share about implementations, and give feedback on upcoming work. Those who are interested in participating in the group should email info@ror.org to join. 
