@@ -6,18 +6,20 @@ tags = ["Updates", "Community", "Steering Group", "Governance"]
 categories = ["updates"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
-thumb = "/img/lion-silhouette-sq.jpg"
+thumb = "/img/lion-couple-sq.jpg"
 author = "Maria Gould"
 +++
 
 ROR is excited to welcome two new members to its Steering Group this year: **Joy Owango** from the Training Centre in Communication (TCC Africa) and **Natasha Simons** from the Australian Research Data Commons (ARDC). 
 
-**About Joy Owango** bio & headshot**
+**About Joy Owango** 
+
 Joy Owango is Founding Director of the [Training Centre in Communication](https://www.tcc-africa.org/) (TCC Africa), the first African-based training centre to teach effective communication skills to scientists. TCC Africa is in partnership and housed at the University of Nairobi, Kenya, and provides capacity support in improving African researchers output and visibility through in scholarly and science communication.
 
-Joy has successfully created  Global North–South collaborations, where the Centre promotes Open Science dialogue and provides equitable access to open-source research discovery solutions to African governments and their respective academic communities. Through these partnerships, TCC Africa actively creates awareness through  advocacy on Open Science in Africa. Joy also currently sits on the Steering Committee of the International Science Council’s project on the future of scientific publishing.
+Joy has successfully created  Global North–South collaborations, where the Centre promotes Open Science dialogue and provides equitable access to open-source research discovery solutions to African governments and their respective academic communities. Through these partnerships, TCC Africa actively creates awareness through advocacy on Open Science in Africa. Joy also currently sits on the Steering Committee of the International Science Council’s project on the future of scientific publishing.
 
 **About Natasha Simons**
+
 Natasha Simons is Associate Director, Data & Services, for the [Australian Research Data Commons](https://ardc.edu.au/) (ARDC). Based in Brisbane, she leads a team who are passionate about building infrastructure to enable FAIR data and delivering ARDC's suite of national information infrastructure services (persistent identifiers, vocabularies, metadata, and discovery portals). Natasha collaborates internationally to solve challenges that improve FAIR data infrastructure, policies, skills, and practices. 
 
 **About the ROR Steering Group**
@@ -25,7 +27,7 @@ Established in late 2019, the ROR Steering Group is an advisory body that suppor
 
 As Joy and Natasha join the 2023 cohort, two members of the group’s original cohort—Daniel Hook from Digital Science, and Clifford Lynch from the Coalition for Networked Information—will be cycling off. We are grateful to Daniel and Cliff for their guidance and support since ROR’s early days! 
 
-The current ROR Steering Group cohort for 2023 will be as follows:
+The complete current ROR Steering Group cohort for 2023 is:
 
 - Matt Buys, [DataCite](https://datacite.org/) (permanent member)
 - John Chodacki, [California Digital Library](https://cdlib.org/) (CDL) (permanent member)
