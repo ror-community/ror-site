@@ -94,6 +94,5 @@ In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board re
 - Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
 - Kelly Stathis, DataCite
-- Niklas Zimmer, University of Cape Town
 
 Read more about the board's activities on [Github](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) and [send us an email](mailto:registry@ror.org) if you are interested in getting involved.
