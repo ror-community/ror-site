@@ -93,6 +93,5 @@ In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board re
 - Arthur Smith, American Physical Society
 - Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
-- Kelly Stathis, DataCite
 
 Read more about the board's activities on [Github](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) and [send us an email](mailto:registry@ror.org) if you are interested in getting involved.
