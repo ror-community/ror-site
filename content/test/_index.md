@@ -1,9 +1,12 @@
 +++
 title = "Test page"
 draft = true
-date = "2017-08-15"
+date = "2023-01-20"
 banner = "/img/banners/ROR_Banner-grey.jpg"
 +++
+## This is a test page
+Hello, world
+
 ## Multi column layouts
 Refer to [the Crossref site's _editors info](https://testweb.crossref.org/_editors/shortcodes-reference/#custom-shortcodes) for instructions on how to implement.
 
