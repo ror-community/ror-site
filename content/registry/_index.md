@@ -83,7 +83,7 @@ ROR developed its curation model following discussions and consultations with co
 {{% /callout %}}
 
 ## Curation advisory board
-In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
+In conjunction with the metadata curation lead, ROR's Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
 
 **Current advisory board members**
 
