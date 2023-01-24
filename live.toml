@@ -15,6 +15,11 @@ CSSVersion = 3
     [markup.goldmark.renderer]
       unsafe = true
 
+  [markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2 
+    
 [params.widgets]
     search = true
     categories = true

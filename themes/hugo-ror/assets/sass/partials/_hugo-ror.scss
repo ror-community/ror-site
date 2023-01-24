@@ -6919,17 +6919,23 @@ table#donations-table td ul li {
 /* blog styles */
 
 .blog-figure img {
-    padding:0 5em 0 4em;
-}
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 70%;}
 
 .round-figure {
-    display:inline;
+	display:inline;
     margin-right:.25em;
 }
 
 .round-figure img {
     border-radius:50%;
     height:35px;
+}
+
+.author {
+	font-weight: bold;	
 }
 
 /* header anchor links */
@@ -6940,8 +6946,8 @@ table#donations-table td ul li {
 }
 
 .ha-link {
-  width: 1.2rem;
-  height: 1.2rem;
+	width: 1.2rem;
+	height: 1.2rem;
 }
 
 svg.ha-link:hover {
@@ -6949,5 +6955,27 @@ svg.ha-link:hover {
 }
 
 h3 .ha, h4 .ha, h5 .ha, h6 .ha, .blog .ha {
-display:none;
+	display:none;
+}
+
+/* tables of contents */
+
+.ror-toc ul {
+	list-style-type: none;
+	font-size: .9rem;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.ror-toc ul li {
+	display:inline-block;
+	line-height: 1em;
+	float:left;
+	text-align:center;
+	margin:0 1.5rem 1rem .75rem;
+}
+
+.ror-toc ul ul li {
+margin: .5em;
 }
