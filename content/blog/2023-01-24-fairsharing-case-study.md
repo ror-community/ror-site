@@ -372,3 +372,7 @@ Oh, I should mention that part of the reason we're able to work so effectively w
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
 Well, thank you so much for speaking to me. It was lovely to talk to you.
+
+{{% callout color="dark-grey" icon="no-icon" %}}
+Do you have a comment on or question about this post? Email [amanda@ror.org](mailto:amanda@ror.org) or [get involved](https://ror.readme.io/docs/get-involved) with the ROR community. 
+{{% /callout %}}
