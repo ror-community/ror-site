@@ -8,6 +8,9 @@ aliases = [
 ]
 +++
 
+{{% toc %}}
+
+
 ## Accessing the registry
 
 The ROR registry is freely and openly available. There are no fees or access requirements for using ROR.
@@ -83,7 +86,7 @@ ROR developed its curation model following discussions and consultations with co
 {{% /callout %}}
 
 ## Curation advisory board
-In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
+In conjunction with the metadata curation lead, ROR's Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
 
 **Current advisory board members**
 
@@ -93,7 +96,5 @@ In conjunction with the Metadata Curation Lead, ROR's Curation Advisory Board re
 - Arthur Smith, American Physical Society
 - Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
-- Kelly Stathis, DataCite
-- Niklas Zimmer, University of Cape Town
 
 Read more about the board's activities on [Github](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) and [send us an email](mailto:registry@ror.org) if you are interested in getting involved.

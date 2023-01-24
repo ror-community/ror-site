@@ -7,15 +7,8 @@ aliases = [
     "/governance"
 ]
 +++
-{{% callout icon="no-icon"%}}
-**About ROR**  
-- [What is ROR](#what-is-ror)  
-- [Governance model](#governance-model)  
-- [Business model](#business-model)  
-- [Team](#team)  
-- [History](#history)
 
-{{% /callout %}}
+{{% toc %}}
 
 ## What is ROR
 

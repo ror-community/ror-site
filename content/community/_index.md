@@ -10,6 +10,10 @@ aliases = [
 ]
 +++
 
+{{% toc %}}
+
+## Community values
+
 ROR is community-supported, community-driven, community-funded open infrastructure.
 
 The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers.
