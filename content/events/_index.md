@@ -5,6 +5,8 @@ date = "2022-12-20"
 banner = "/img/banners/ROR_Banner-grey.jpg"
 +++
 
+{{% toc %}}
+
 ## Annual ROR Community Meeting
 
 {{< figure src="/img/roring-on-zoom-cropped.png" alt="Screenshot of Zoom screens from participants at 2021 ROR community meeting" caption="A ROR-able moment from the 2021 community meeting">}}

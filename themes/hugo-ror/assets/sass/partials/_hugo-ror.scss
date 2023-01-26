@@ -6956,4 +6956,25 @@ svg.ha-link:hover {
 
 h3 .ha, h4 .ha, h5 .ha, h6 .ha, .blog .ha {
 	display:none;
+
+/* tables of contents */
+
+.ror-toc ul {
+	list-style-type: none;
+	font-size: .9rem;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+}
+
+.ror-toc ul li {
+	display:inline-block;
+	line-height: 1em;
+	float:left;
+	text-align:center;
+	margin:0 1.5rem 1rem .75rem;
+}
+
+.ror-toc ul ul li {
+margin: .5em;
 }

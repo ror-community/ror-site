@@ -8,6 +8,9 @@ aliases = [
 ]
 +++
 
+{{% toc %}}
+
+
 ## Accessing the registry
 
 The ROR registry is freely and openly available. There are no fees or access requirements for using ROR.
