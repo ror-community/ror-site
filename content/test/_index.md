@@ -7,6 +7,12 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 ## This is a test page
 Hello, world
 
+### Tables of contents
+
+{{% toc %}}
+
+**This shortcode adds a horizontal Table of Contents to the page.** 
+
 ## Multi column layouts
 Refer to [the Crossref site's _editors info](https://testweb.crossref.org/_editors/shortcodes-reference/#custom-shortcodes) for instructions on how to implement.
 
