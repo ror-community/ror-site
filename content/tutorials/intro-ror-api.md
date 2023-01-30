@@ -123,8 +123,6 @@ There are currently **[16 top-level elements](https://ror.readme.io/docs/ror-dat
 	- `external_ids`
 - Deprecated fields
 	- `email_address`, `ip_addresses`
-
-
 {{% centered %}}
 {{% figure src="/img/tutorials/ror-metadata-elements.png" width="85%" %}}
 
@@ -136,19 +134,20 @@ There are currently **[16 top-level elements](https://ror.readme.io/docs/ror-dat
 There are three endpoints of the ROR API: `?query`, `?query.advanced`, and `?affiliation`. 
 
 - `?query` - Designed for **quick searches of an organization's name** ("World Wildlife Fund") or a commonly used external identifier for that organization (GRID, ISNI, Wikidata, or Funder ID). 
-- `?query.advanced` - Designed for **complex searches** for an organization that may include a combination of search terms, including secondary pieces of information such as the organization's location or website.
+- `?query.advanced` - Designed for **complex or highly precise searches** for secondary organizational information such as the organization's location or website.
 - `?affiliation` - Designed to **suggest and rank possible matches** in the ROR registry for long, messy text strings ("Anesthesiologie, Albert Schweitzer Ziekenhus, Postbus 444 3300 AK Dordrecht") using several different matching algorithms and to return results that generally need human review. 
 
-**This tutorial covers only the `?query` endpoint**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean and correct. See the [ROR REST API documentation](https://ror.readme.io/docs/rest-api) for more information on all three endpoints. 
+**This tutorial covers only the `?query` endpoint**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean. See the [ROR REST API documentation](https://ror.readme.io/docs/rest-api) for more information on all three endpoints. 
 
 The code for the ROR REST API is also openly available at https://github.com/ror-community/ror-api.  
 
 ### General API usage tips
-- All search strings must be **[URL-encoded](https://www.w3schools.com/tags/ref_urlencode.asp)**, especially if they contain Latin extended characters or non-Latin characters. One useful tool to do this is https://urlencoder.org. 
+- All search strings, especially those that contain Latin extended or non-Latin characters, must be **[URL-encoded](https://www.w3schools.com/tags/ref_urlencode.asp)**. One useful tool to do this is https://urlencoder.org. 
 - **Special characters** that are [reserved in Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#_reserved_characters) should be escaped with a URL-encoded backslash character (`%5C`) for best results. 
 - Search strings with **spaces** and/or multi-word search strings may need to be surrounded by URL-encoded quotation marks (`%22`), since Elasticsearch treats strings separated by a space as separate parts of a query instead of a single query. 
 - ROR API queries are **paginated**, and searches return only the first 20 results by default. Additional results can be retrieved by paging through them with `page=[page number]`.
 - ROR API queries can be **filtered** by country, by organization type, and by status. 
+- ROR API queries use [Elasticsearch query syntax](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#query-string-syntax) and therefore support wildcards, Boolean operators, and fuzzy matches. However, you may wish to use the `?query.advanced` endpoint for this kind of searching instead. 
 - By default, ROR API searches return only records where `status` has a value of `active`, but records whose `status` is `inactive` or `withdrawn` can also be retrieved with filters or by adding the parameter `?all_status` to any query. 
 
 ## Using the ?query endpoint
