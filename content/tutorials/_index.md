@@ -48,7 +48,7 @@ Watch tutorials, demos, and webinars, and panel presentations on ROR at the [ROR
 
 ###  How to clean up affiliation data with the ROR Reconciler
 
-Geoffrey Bilder of Crossref explains how to use the [ROR Reconciler](https://github.com/ror-community/ror-reconciler) to clean text strings of organization names for author affiliations and match organization names to ROR IDs. 
+Geoffrey Bilder of Crossref explains how to use the Open Refine [ROR Reconciler](https://github.com/ror-community/ror-reconciler) to clean text strings of organization names for author affiliations and match organization names to ROR IDs. 
 #### [https://youtu.be/woJiFHBmRCE](https://youtu.be/woJiFHBmRCE)
 {{% /column-60 %}}
 {{% /row %}}
