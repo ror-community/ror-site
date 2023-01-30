@@ -239,6 +239,16 @@ Remember too that **searches by default show only records whose status is active
 
 - Look at and try out some Python scripts that search the ROR API available in the [ror-utilities GitHUb repository](https://github.com/ror-community/ror-utilities) -- or contribute your own!
 
+{{% callout color="grey" icon="no-icon" %}}
+
+### Demonstration: The ROR API query used in a Python script
+
+The script at https://github.com/ror-community/ror-utilities/blob/main/general-scripts/match-other-ids-to-ror.py takes a CSV file of organizational identifiers, queries the ROR API, and returns a CSV file of matched ROR IDs. Note for instance line 25, which surrounds the input identifier with quotation marks: 
+
+```search_term = '"' + input_id + '"'```
+
+{{% /callout %}}
+
 - You can also explore this [list of codebases on GitHub](https://github.com/stars/amandafrench/lists/github-list-of-ror-users) that use ROR.
 
 ## Get help 
