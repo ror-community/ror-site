@@ -73,10 +73,11 @@ See https://ror.readme.io/docs/rest-api for full documentation of the ROR API.
 - There are **no authentication tokens** or credentials needed to use the ROR API. 
 - The rate limit on the ROR API is a **maximum of 2000 requests in a 5-minute period**.
 - The ROR API is powered by [Django](https://www.djangoproject.com/) and [Elasticsearch](https://www.elastic.co/elasticsearch/).
-- The ROR API is best for use cases that involve querying or retrieving individual records. If you need to retrieve a large number of records, use the [ROR data dump](https://ror.readme.io/docs/data-dump) instead, either locally or by using Zenodo's API. 
 - Check to see if the ROR API is up by sending a request to https://api.ror.org/heartbeat.
+- The ROR API is best for use cases that involve querying or retrieving individual records. If you need to retrieve a large number of records, use the [ROR data dump](https://ror.readme.io/docs/data-dump) instead, either locally or by using Zenodo's API. 
 - You can install and run the ROR API locally in Docker. See the README at https://github.com/ror-community/ror-api for instructions. 
 - We strongly encourage ROR API users to sign up for the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) in order to receive infrequent (two or three times a month) updates by email about changes to the ROR registry and API. 
+- The ROR API received about **14 million requests per month in 2022**, up from about 6 million per month in 2021 and 3 million per month in 2020.
 
 ## ROR IDs and the ROR data structure
 
