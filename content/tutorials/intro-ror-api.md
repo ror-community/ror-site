@@ -68,16 +68,22 @@ When organization data is consistent, organizations such as the Cracow (or Krak√
 
 See https://ror.readme.io/docs/rest-api for full documentation of the ROR API. 
 
-- The ROR API is a **REST API** that retrieves JSON data. 
+- The ROR API is a **REST API** that returns JSON data. 
 - The ROR API is **entirely free** to use. There are no tiered plans.
 - There are **no authentication tokens** or credentials needed to use the ROR API. 
 - The rate limit on the ROR API is a **maximum of 2000 requests in a 5-minute period**.
 - The ROR API is powered by [Django](https://www.djangoproject.com/) and [Elasticsearch](https://www.elastic.co/elasticsearch/).
 - Check to see if the ROR API is up by sending a request to https://api.ror.org/heartbeat.
-- The ROR API is best for use cases that involve querying or retrieving individual records. If you need to retrieve a large number of records, use the [ROR data dump](https://ror.readme.io/docs/data-dump) instead, either locally or by using Zenodo's API. 
-- You can install and run the ROR API locally in Docker. See the README at https://github.com/ror-community/ror-api for instructions. 
-- We strongly encourage ROR API users to sign up for the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) in order to receive infrequent (two or three times a month) updates by email about changes to the ROR registry and API. 
-- The ROR API received about **14 million requests per month in 2022**, up from about 6 million per month in 2021 and 3 million per month in 2020.
+- The ROR API is best for use cases that involve querying or retrieving individual records. **If you need to retrieve a large number of records, use the ROR data dump** instead. Data dumps can be retrieved from the [ROR Data collection in Zenodo](https://zenodo.org/communities/ror-data) or the [ror-data Github repository](https://github.com/ror-community/ror-data).
+- You can **install and run the ROR API locally** in Docker. See the README at https://github.com/ror-community/ror-api for instructions. 
+- We strongly encourage ROR API users to sign up for the **[ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech)** in order to receive infrequent (two or three times a month) updates by email about changes to the ROR registry and API. 
+
+{{% callout color="orange" icon="no-icon" %}}
+### Consider whether you need to use the live ROR API
+The ROR API received about 14 million requests per month in 2022, up from about 6 million per month in 2021 and 3 million per month in 2020. While ROR has maintained 100% uptime throughout this period of growth, please be mindful that many others use this service and there is no service-level agreement (SLA). If your use case requires a large number of daily queries, guaranteed uptime, or a very fast response rate, we recommend that you run the ROR API locally or use the ROR data dump.
+{{% /callout  %}}
+
+
 
 ## ROR IDs and the ROR data structure
 
@@ -132,28 +138,28 @@ There are currently **[16 top-level elements](https://ror.readme.io/docs/ror-dat
 
 ## Using the ROR API
 
-There are three endpoints of the ROR API: `?query`, `?query.advanced`, and `?affiliation`. 
+There are three options for searching the ROR API, which are accessed using three different parameters: `?query`, `?query.advanced`, and `?affiliation`. 
 
 - `?query` - Designed for **quick searches of an organization's name** ("World Wildlife Fund") or a commonly used external identifier for that organization (GRID, ISNI, Wikidata, or Funder ID). 
 - `?query.advanced` - Designed for **complex or highly precise searches** for secondary organizational information such as the organization's location or website.
 - `?affiliation` - Designed to **suggest and rank possible matches** in the ROR registry for long, messy text strings ("Anesthesiologie, Albert Schweitzer Ziekenhus, Postbus 444 3300 AK Dordrecht") using several different matching algorithms and to return results that generally need human review. 
 
-**This tutorial covers only the `?query` endpoint**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean. See the [ROR REST API documentation](https://ror.readme.io/docs/rest-api) for more information on all three endpoints. 
+**This tutorial covers only the `?query` parameter**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean. See the [ROR REST API documentation](https://ror.readme.io/docs/rest-api) for more information on all three parameters. 
 
 The code for the ROR REST API is also openly available at https://github.com/ror-community/ror-api.  
 
 ### General API usage tips
 - All search strings, especially those that contain Latin extended or non-Latin characters, must be **[URL-encoded](https://www.w3schools.com/tags/ref_urlencode.asp)**. One useful tool to do this is https://urlencoder.org. 
-- **Special characters** that are [reserved in Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#_reserved_characters) should be escaped with a URL-encoded backslash character (`%5C`) for best results. 
+- **Special characters** that are [reserved in Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#_reserved_characters) must be escaped with a URL-encoded backslash character (`%5C`). Note that some reserved characters, like ( ), must occur in pairs, otherwise an error will be returned. 
 - Search strings with **spaces** and/or multi-word search strings may need to be surrounded by URL-encoded quotation marks (`%22`), since Elasticsearch treats strings separated by a space as separate parts of a query instead of a single query. 
 - ROR API queries are **paginated**, and searches return only the first 20 results by default. Additional results can be retrieved by paging through them with `page=[page number]`.
 - ROR API queries can be **filtered** by country, by organization type, and by status. 
-- ROR API queries use [Elasticsearch query syntax](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#query-string-syntax) and therefore support wildcards, Boolean operators, and fuzzy matches. However, you may wish to use the `?query.advanced` endpoint for this kind of searching instead. 
+- ROR API queries use [Elasticsearch query syntax](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#query-string-syntax) and therefore support wildcards, Boolean operators, and fuzzy matches. However, you may wish to use the `?query.advanced` parameter for this kind of searching instead. 
 - By default, ROR API searches return only records where `status` has a value of `active`, but records whose `status` is `inactive` or `withdrawn` can also be retrieved with filters or by adding the parameter `?all_status` to any query. 
 
-## Using the ?query endpoint
+## Using the ?query parameter
 
-The `?query` endpoint of the ROR API is the recommended endpoint for building basic searches as well as typeaheads in forms. The `?query` endpoint is **optimized for searching for organization names and organization identifiers**, and therefore `?query` searches only a limited number of fields in a ROR record: 
+The `?query` parameter of the ROR API is the recommended parameter for building basic searches as well as typeaheads in forms. The `?query` parameter is **optimized for searching for organization names and organization identifiers**, and therefore `?query` searches only a limited number of fields in a ROR record: 
 
 - `name` 
 - `aliases` 
@@ -161,7 +167,7 @@ The `?query` endpoint of the ROR API is the recommended endpoint for building ba
 - `acronyms`
 - `external_ids` 
 
-Note that the ROR [search interface](https://ror.org/search) uses the `?query` endpoint of the ROR API, as does the [organization search at DataCite Commons](https://commons.datacite.org/ror.org?query=*). These search tools, therefore, will return zero results for searches on values that are not stored in these fields, such as an organization's website: https://api.ror.org/organizations?query=www.oberlin.edu 
+Note that the ROR [search interface](https://ror.org/search) uses the `?query` parameter of the ROR API, as does the [organization search at DataCite Commons](https://commons.datacite.org/ror.org?query=*). These search tools, therefore, will return zero results for searches on values that are not stored in these fields, such as an organization's website: https://api.ror.org/organizations?query=www.oberlin.edu 
 
 {{% callout color="grey" icon="no-icon" %}}
 ### Demonstrations: Simple queries for organization names and identifiers
@@ -206,7 +212,7 @@ The syntax of a filter is `filter=[filter]:[value]`, and filters can be combined
 - `filter=country.country_code:fi`
 - `filter=types:Nonprofit,country.country_code:fi`
 
-Remember too that **searches by default show only records whose status is active**. You can use individual filters to show inactive organizations or withdrawn records, but you can also add the parameter `?all_status` to any query to include records of any status. 
+Remember too that **searches by default show only records whose status is active**. You can use individual filters to show inactive organizations or withdrawn records, but you can also add the parameter `?all_status` to any query to include records of any status. If a query includes both `filter=status:[value]` and `all_status parameters`, the `filter=status:[value]` will take precedent. 
 
 {{% callout color="grey" icon="no-icon" %}}
 ### Demonstrations: Filtering results by status, type, and country
