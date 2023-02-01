@@ -232,7 +232,7 @@ Remember too that **searches by default show only records whose status is active
 
 
 {{% callout color="green" icon="no-icon" %}}
-### Exercises: 
+### Exercises: Filtering search results
 
 - Filter a ROR API query by status. 
 - Filter a ROR API query by organization type. 
