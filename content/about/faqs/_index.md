@@ -63,6 +63,7 @@ ROR is focused on identifying “top-level” organization affiliations for rese
 - A standalone organization
 - Sufficiently independent from other organizations it might be related to
 - Not a subdivision within an organization
+- Not a single-person consultancy
 
 Common types of entities that are out of scope for ROR include:
 - Departments and subdivisions within organizations
