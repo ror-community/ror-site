@@ -1,6 +1,6 @@
 +++
 title = "ROR Turns Four: Highlights from the 2023 Annual Community Meeting"
-date = "2022-02-10"
+date = "2023-02-13"
 draft = false
 tags = ["Updates", "Community", "Events"]
 categories = ["updates"]
