@@ -12,7 +12,7 @@ author = "Maria Gould"
 
 Four years ago, ROR was first [introduced to the world](/blog/2019-02-10-announcing-first-ror-prototype) at an open community meeting the day before PIDapalooza. 
 
-Since then, we have continued to celebrate ROR's anniversary every year with a big public event to bring together the broad network of ROR users and supporters and reinforce ROR's commitment to developing open, sustainable, community-driven infrastructure. In previous blog posts, we've shared recaps of the [2020](/blog/2020-02-10-ror-ing-in-portugal), [2021](/blog/2021-02-03-ror-annual-meeting), and [2022](/blog/2022-02-14-new-year-at-ror) meetings).  
+Since then, we have continued to celebrate ROR's anniversary every year with a big public event to bring together the broad network of ROR users and supporters and reinforce ROR's commitment to developing open, sustainable, community-driven infrastructure. (In previous blog posts, we've shared recaps of the [2020](/blog/2020-02-10-ror-ing-in-portugal), [2021](/blog/2021-02-03-ror-annual-meeting), and [2022](/blog/2022-02-14-new-year-at-ror) meetings.)  
 
 For the 2023 annual meeting, we celebrated four years of ROR with four exciting virtual sessions attended by hundreds of participants from around the world. 
 
@@ -25,7 +25,7 @@ In the first sesssion - a general community update - the ROR team reviewed key h
 
 ### Session 2: Open Drop-In Hour
 
-In the second session, we held an open drop-in session to meet informally with anyone interested in chatting about ROR. This is a model for similar sessions we'd like to hold throughout the year, especially to be able to reach people located in different timezones or who are not always able to attend the bimonthly ROR community calls. Stay tuned for announcements about future drop-in times!
+In the second session, we held an open drop-in session (not recorded) to meet informally with anyone interested in chatting about ROR. This is a model for similar sessions we'd like to hold throughout the year, especially to be able to reach people located in different timezones or who are not always able to attend the bimonthly ROR community calls. Stay tuned for announcements about future drop-in times!
 
 
 ### Session 3: Introduction to the ROR API
