@@ -92,12 +92,12 @@ ROR is more than just an identifier: each record associated with a ROR ID contai
 
 ### **Does ROR support relationships and hierarchies?**
 
-[ROR metadata](https://ror.readme.io/docs/ror-data-structure) includes both parent-child hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities. 
+Yes: ROR metadata includes both [parent-child hierarchies and lateral relationships](https://ror.readme.io/docs/ror-hierarchies-and-relationships) between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities. 
 
 ***
 
 ### **Why doesn't ROR include university departments?**
-ROR is focused on being a top-level registry of organizations in order to address the fundamental affiliation use case and to increase interoperability with other systems. The top-level institutional data in ROR is also much more stable and persistent than sub-unit and departmental data, which tends to change frequently and may not be agreed-upon even by authorities within an institution. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+ROR is focused on being a top-level registry of organizations in order to address the fundamental affiliation use case and to increase interoperability with other systems. The top-level institutional data in ROR is also much more stable and persistent than sub-unit and departmental data, which tends to change frequently and may not be agreed upon by different representatives of a particular institution. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
 
 ***
 
@@ -106,10 +106,11 @@ ROR is focused on being a top-level registry of organizations in order to addres
 ### **What is the difference between ROR and other organization identifiers?**
 
 ROR is different from other organization identifiers in a few key ways:
-- ROR is completely open (CC0 data, open API) and noncommercial
-- ROR is focused specifically on identifying affiliations
-- ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID)
-- ROR is developed as a community initiative
+
+- ROR is completely open (CC0 data, open API) and noncommercial.
+- ROR is focused specifically on identifying affiliations.
+- ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID).
+- ROR is developed as a community initiative.
 
 ***
 
