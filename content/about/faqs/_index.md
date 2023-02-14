@@ -4,7 +4,9 @@ draft = false
 date = "2022-09-26"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 aliases = [
-    "/facts"
+    "/facts",
+	"/faq",
+	"/faqs"
 ]
 +++
 
@@ -131,8 +133,8 @@ ROR is [supported and integrated in ORCID in several ways](https://info.orcid.or
 
 ***
 
-##**Is ROR supported in DOIs?**
-Yes! Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. 
+### **Is ROR supported in DOIs?**
+Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-doi-metadata) and [how to include ROR IDs in JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml). 
 
 ***
 
@@ -140,7 +142,7 @@ Yes! Several DOI registrars, including Crossref, DataCite, and the Japan Link Ce
 
 ### **Who is integrating ROR?**
 
-ROR is currently being integrated by more than 80 publishers, repositories, funding platforms, and other services. See a list of current [integrations](/community/#adopters).
+ROR is currently being integrated by more than 50 publishers, repositories, funding platforms, and other services. See a list of known current [integrations](/community/#adopters).
 
 ***
 
