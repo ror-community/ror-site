@@ -21,20 +21,12 @@ ROR is governed, operated, and financially supported by [California Digital Libr
 
 The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries, including **publishers, libraries, platform providers, university research offices, data repositories, CRIS systems, government agencies, funders, and more.** 
 
-Community involvement in ROR takes many forms:
+## Steering Group
 
-- [Community advisors](#community-advisors) help shape ROR’s priorities and future directions through the Steering Group and Community Advisory Group
-- [Adopters](#adopters) integrate ROR in their systems and champion best practices with ROR IDs
-- [Supporters](#supporters) contribute financially to the sustainability of ROR’s open infrastructure
-- The [Curation Advisory Board](http://localhost:1313/registry/#curation-advisory-board) helps review suggested updates to the registry and advises on curation practices and standards
+The ROR Steering Group is a small advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members who are key stakeholders in the global scholarly communication ecosystem. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) to provide input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
 
-## Community advisors
+### Current steering group representatives
 
-### Steering Group
-
-The ROR Steering Group is an advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) and provides input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
-
-#### Current steering group representatives
 - Matt Buys, [DataCite](https://datacite.org/) (permanent member)
 - John Chodacki, [California Digital Library](https://cdlib.org/) (CDL) (permanent member)
 - Lautaro Matas, [LA Referencia](https://www.lareferencia.info/)
@@ -46,15 +38,18 @@ The ROR Steering Group is an advisory body composed of the [ROR Operations Team]
 - Chris Shillum, [ORCID](https://orcid.org/)
 - Natasha Simons, [Australian Research Data Commons](https://ardc.edu.au/) (ARDC)
 
-### Community Advisory Group
-The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on future directions. The group meets on a bimonthly basis and is open to anyone who is working on ROR implementations or just generally interested in ROR. Read more about the group on the [ROR Blog](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email [info@ror.org](mailto:info@ror.org).
+## Community Advisory Group
+The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on ROR's current projects and future direction. The group of more than 150 people is invited to attend bi-monthly videoconference calls and is open to anyone who is interested in ROR. You can read more about the group on the [ROR blog](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email [info@ror.org](mailto:info@ror.org).
+
+## Curation Advisory Board
+The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
 ## Adopters
 A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data. Current self-reported integrations are listed in the gallery below. If you are working something and it does not appear on the list, let us know via [this form](https://airtable.com/shrQlmqDpXie13ufz).
 
-For integration support, join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) and check out the [developer documentation](https://ror.readme.io).
+For support adopting ROR, join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) and check out the [developer documentation](https://ror.readme.io).
 
-### Current integrations
+### Current ROR integrations
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Supporters
@@ -66,7 +61,7 @@ Does your organization want to become a ROR financial supporter?
 {{% button color="green" link="/sustain" %}} Sign up {{% /button %}}
 {{% /centered %}}
 
-### Supporters
+### ROR supporters
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Events 
@@ -118,4 +113,8 @@ Stay up-to-date on the latest ROR news and opportunities for feedback and involv
 
 Anyone is welcome to join the [ROR Community Advisory Group](https://ror.org/supporters#ror-community-advisors). This group meets on a bimonthly basis to discuss ROR updates and give feedback. Please contact [info@ror.org](mailto:info@ror.org) if you're interested in joining the group.
 
- *For other questions that you are not able to address via the above channels, please contact <info@ror.org>.*
+{{% callout color="blue" icon="no" %}}
+
+For other questions, please contact <info@ror.org>.
+
+{{% /callout %}}

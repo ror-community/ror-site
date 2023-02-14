@@ -38,6 +38,24 @@ Learn the elements in a ROR record and practice searching the ROR API in a brows
 
 Watch tutorials, demos, and webinars, and panel presentations on ROR at the [ROR Community YouTube channel](https://www.youtube.com/@researchorgs). Here are some of the most useful and recent ROR video tutorials.
 
+{{% row %}}
+{{% column-40 %}}
+
+<iframe width="400" height="250" src="https://www.youtube.com/embed/Lf0z5ob_J9Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+{{% /column-40 %}}
+
+{{% column-60 %}}
+
+###  Intro to the ROR API - February 1, 2022
+
+ROR Technical Community Manager Amanda French leads a session with more than 40 participants explaining the basics of the ROR API and how to use the `?query` parameter to search the ROR registry as well as how to filter results by country and/or organization type.  
+
+#### [https://www.youtube.com/watch?v=Lf0z5ob_J9Y](https://www.youtube.com/watch?v=Lf0z5ob_J9Y)
+
+{{% /column-60 %}}
+{{% /row %}}
+
 
 {{% row %}}
 {{% column-40 %}}
@@ -50,6 +68,7 @@ Watch tutorials, demos, and webinars, and panel presentations on ROR at the [ROR
 
 Geoffrey Bilder of Crossref explains how to use the Open Refine [ROR Reconciler](https://github.com/ror-community/ror-reconciler) to clean text strings of organization names for author affiliations and match organization names to ROR IDs. 
 #### [https://youtu.be/woJiFHBmRCE](https://youtu.be/woJiFHBmRCE)
+
 {{% /column-60 %}}
 {{% /row %}}
 

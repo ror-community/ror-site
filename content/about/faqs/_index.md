@@ -16,13 +16,13 @@ aliases = [
 
 ### **Who runs ROR?**
 
-ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about), [steering group](/community), and [community advisors](/community).
+ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
 
 ***
 
 ### **How is ROR funded?**
 
-During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about).
+During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
 
 ***
 
@@ -40,7 +40,7 @@ ROR is freely and openly available to anyone. There is no cost to access and use
 
 ### **Can I sign up to join ROR?**
 
-ROR is not a membership organization. As a community-based initiative, ROR has open channels for community participation, such as joining the community advisory group or giving feedback on development work. [Learn more about how to get involved](/community).
+ROR is not a membership organization. As a community-based initiative, ROR has open channels for community participation, such as joining the community advisory group or giving feedback on development work. [Learn more about how to get involved](/community#get-involved).
 
 ***
 
@@ -181,13 +181,13 @@ You can check if an organization already has a ROR ID by looking up the organiza
 
 ### **How can I change the information in an organization’s ROR record?**
 
-To request a change to an organization’s ROR record, submit the [curation request form](https://curation-request.ror.org).
+To request a change to an organization’s ROR record, submit the [curation request form](https://curation-request.ror.org). Requests will be reviewed by the Curation Lead and if necessary escalated to the [Curation Advisory Board](/registry/#curation-advisory-board).
 
 ***
 
 ### **Who is the contact person at my organization responsible for our ROR ID?**
 
-The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org).
+The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org)
 
 ***
 
@@ -213,7 +213,7 @@ After a request is submitted via the feedback form, an issue will be created in 
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on [Github](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [Github repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [Github](https://github.com/ror-community/ror-roadmap/discussions), in the [ROR Slack](https://tinyurl.com/ror-slack), [technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
+ROR is updated on a rolling basis. New registry releases are published on [Github](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [Github repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [Github](https://github.com/ror-community/ror-roadmap/discussions), in the [ROR Slack](https://tinyurl.com/ror-slack), [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
 
 ***
 
