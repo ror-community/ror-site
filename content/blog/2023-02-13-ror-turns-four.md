@@ -20,7 +20,7 @@ For the 2023 annual meeting, we celebrated four years of ROR with four exciting 
 
 In the first sesssion - a general community update - the ROR team reviewed key highlights from the past year and discussed plans for the coming year. We also shared ways for community members to get more involved in ROR activities (if they are not already participating). 
 
-{{< youtube id="GIxqvBIx4r0" title="ROR Community Update | 2023 ROR Annual Community Meeting" width="50%" >}}
+{{< youtube id="GIxqvBIx4r0" title="ROR Community Update | 2023 ROR Annual Community Meeting" class="blog-video" >}}
 
 
 ### Session 2: Open Drop-In Hour
@@ -32,14 +32,14 @@ In the second session, we held an open drop-in session to meet informally with a
 
 This year's meeting also featured the introduction of a new session focused on how to work with the ROR API. Technical Community Manager Amanda French delivered an engaging tutorial on how to use the ROR API and get up and running with basic queries. If you weren't able to attend the session, watch the recording and check out the [workshop materials](/tutorials/intro-ror-api.md)!
 
-{{< youtube id="Lf0z5ob_J9Y" title="Introduction to the ROR API | 2023 ROR Annual Community Meeting" width="50%" >}}
+{{< youtube id="Lf0z5ob_J9Y" title="Introduction to the ROR API | 2023 ROR Annual Community Meeting" class="blog-video" >}}
 
 
 ### Session 4: Strategies for Matching Affiliation Strings to ROR IDs
 
 The last session, "Strategies for Matching Affiliation Strings to ROR IDs," featured a panel of users ([OpenAlex](https://openalex.org), [Allen Institute for AI](https://allenai.org/), [DOE/OSTI](https://www.osti.gov/), and [Crossref](https://crossref.org)) sharing their work to develop automated approaches to reconciling affiliation data with ROR. We are eager to bring people together to develop collaborative solutions to shared problems, and the panel was a great example of putting this into practice.
 
-{{< youtube id="Tx5y7lX030U" title="Strategies for Matching Affiliation Strings to ROR IDs | 2023 ROR Annual Community Meeting" width="50%" >}}
+{{< youtube id="Tx5y7lX030U" title="Strategies for Matching Affiliation Strings to ROR IDs | 2023 ROR Annual Community Meeting" class="blog-video" >}}
 
 
 ### Four more years - and then some more! 
