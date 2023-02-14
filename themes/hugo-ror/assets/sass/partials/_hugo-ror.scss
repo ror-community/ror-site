@@ -6937,6 +6937,15 @@ table#donations-table td ul li {
 	font-weight: bold;	
 }
 
+.blog-video iframe {
+	display:block;
+	aspect-ratio: 16 / 9;
+	height: 70%;
+	width: 70%;	
+	margin-left:auto;
+  	margin-right:auto;
+}
+
 /* header anchor links */
 
 .ha {
