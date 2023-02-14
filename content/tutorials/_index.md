@@ -26,7 +26,7 @@ Read through structured lessons and practice exercises that will help you to und
 {{% column-60 %}}
 
 ### Introduction to the ROR API 
-Learn the elements in a ROR record and practice searching the ROR API in a browser using the `?query` and `?query.advanced` endpoints of the ROR API. 
+Learn the elements in a ROR record and practice searching the ROR API in a browser using the `?query` parameter of the ROR API. 
 
 #### [https://ror.org/tutorials/intro-ror-api](/tutorials/intro-ror-api)
 
