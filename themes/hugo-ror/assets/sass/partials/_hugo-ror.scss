@@ -1820,8 +1820,7 @@ li a {
     font-size: 1rem;
 }
 .h4, h4 {
-    font-size: 1.5rem;
-    font-style: italic;
+    font-size: 1.3rem;
 }
 .h4+.category, .h4.title+.category, h4+.category, h4.title+.category {
     margin-top: -5px;
@@ -6963,9 +6962,13 @@ svg.ha-link:hover {
 }
 
 h3 .ha, h4 .ha, h5 .ha, h6 .ha, .blog .ha {
-	display:none;
-	
+	display:none;	
 }	
+
+.about\/faqs h3 .ha {
+	display:inline-block;
+	opacity:.5;
+}
 
 /* tables of contents */
 
