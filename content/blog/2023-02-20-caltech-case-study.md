@@ -20,7 +20,7 @@ In this case study we interview Tom Morrell, Research Data Specialist at Caltech
 
 "We had an initial version of the data repository [...] and in that one we didn't have any affiliation identifiers. There was an affiliation field, but no identifier, because we implemented this before ROR existed, and we didn't like any of the other identifiers that were available."
 
-["InvenioRDM has] been built so that the bones assume that ROR exists, and that's really nice, because we've got that open identifier baked into the software stack."
+"[InvenioRDM has] been built so that the bones assume that ROR exists, and that's really nice, because we've got that open identifier baked into the software stack."
 
 "At the moment we don't have to do a ton of reporting back to the funders to say what datasets were associated with a given grant, but we're anticipating that we're going to have to do that in the next few years, so having the ability to pull out exactly what records are associated with a given funder is going to be very important. We have it in the system now, so instead of just having people type in the text and the different variations of 'National Institutions of Health' or 'National Science Foundation,' instead, you have them type it in, it assigns the ROR to it, and then we'll be able to pull stuff out via the ROR."
 
