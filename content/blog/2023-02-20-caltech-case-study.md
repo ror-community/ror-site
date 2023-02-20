@@ -81,7 +81,7 @@ It's one single ROR ID!
 It's one single ROR ID. And for the DOI minting, we were not particularly happy with the built-in plugin. EPrints generally, we've used it for a very long time, and it's been a great system, but it is definitely showing its age. So we started doing some of our development work outside of EPrints, because that allows us to be much faster and more efficient than writing things in Perl. So the way we do our DOI minting for the theses, we basically have [an external script that pulls out the metadata, reformats it, and then mints the DOI](https://github.com/caltechlibrary/epxml_to_datacite). So we were able to pretty easily in that way do it for the theses. When we get a thesis in, we have the name, and then we put in the affiliation with the ROR ID. And then we went through and then bulk updated all of the DOIs with that correct metadata. That was our first implementation, and it was very straightforward because we knew what the ROR should be, we knew where it would go, and we had the tooling to basically automatically add that. 
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
-How about how many theses do you think that was, that you added the ROR to in the DOI? Do you know, roughly? 
+About how many theses do you think that was, that you added the ROR to in the DOI? Do you know, roughly? 
 
 ### {{< figure src="/img/blog/caltech/tom-morrell.jpg" class="round-figure" alt="Tom Morrell" >}} Tom Morrell
 I'm gonna give you an actual number ... it was approximately 10,000. 
