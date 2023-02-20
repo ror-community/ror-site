@@ -48,7 +48,7 @@ I don't remember off the top my head the original date. We were very early. We w
 Wonderful. So where and when did you personally first hear about ROR? 
 
 ### {{< figure src="/img/blog/caltech/tom-morrell.jpg" class="round-figure" alt="Tom Morrell" >}} Tom Morrell
-Oh, that's a good question. It was probably at one of the conferences very early on, when ROR was just beginning, and it was likely in the context of [DataCite](https://datacite.org) metadata. That's where I've spent a lot of my time, is figuring out how we can best describe things like our datasets and software in DataCite metadata. And one of the challenges always was, you know, How do we do affiliations? And before ROR there wasn't really an easy, open way of saying "This the affiliation that I mean." So when I heard of ROR, I was like, "This really just the perfect solution for how we handle affiliations and identifying where people are coming from."
+Oh, that's a good question. It was probably at one of the conferences very early on, when ROR was just beginning, and it was likely in the context of [DataCite](https://datacite.org) metadata. That's where I've spent a lot of my time, is figuring out how we can best describe things like our datasets and software in DataCite metadata. And one of the challenges always was, you know, How do we do affiliations? And before ROR there wasn't really an easy, open way of saying "This the affiliation that I mean." So when I heard of ROR, I was like, "This is really just the perfect solution for how we handle affiliations and identifying where people are coming from."
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 Were you the primary advocate of implementing ROR at your organization? 
