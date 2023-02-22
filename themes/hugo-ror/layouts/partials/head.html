@@ -16,6 +16,10 @@
 
   <!-- mailchimp stylings -->
   <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
+  
+  <!-- Twitter card -->
+  
+  {{ template "_internal/twitter_cards.html" . }}
 
   <!-- sass built file -->
   {{ $sass := resources.Get "sass/main.scss" }}

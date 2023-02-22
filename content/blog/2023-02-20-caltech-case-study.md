@@ -7,7 +7,9 @@ categories = ["case-studies"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/caltech/caltech-new-logo-sq.png" 
+images = ['/img/blog/caltech/caltech-new-logo-sq.png']
 author = "Amanda French" 
+description = "In this case study we interview Tom Morrell, Research Data Specialist at Caltech Library and key contributor to the open source research data management system InvenioRDM, about Caltech's early adoption of ROR IDs in their repository systems and why CERN's InvenioRDM is architected with ROR IDs for funders and author affiliations."
 +++ 
 
 In this case study we interview Tom Morrell, Research Data Specialist at Caltech Library and key contributor to the open source research data management system InvenioRDM, about Caltech's early adoption of ROR IDs in their repository systems and why CERN's InvenioRDM is architected with ROR IDs for funders and author affiliations. 
