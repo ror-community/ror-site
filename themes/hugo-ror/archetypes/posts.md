@@ -1,0 +1,13 @@
++++ 
+title = "" 
+date = "" 
+draft = false 
+tags = ["", ""] 
+categories = [""] 
+style = "card-plain" 
+banner = "/img/banners/ROR_Banner-green.png" 
+thumb = "/img/blog/" 
+images = ['/img/blog/']
+author = "" 
+description = ""
++++ 

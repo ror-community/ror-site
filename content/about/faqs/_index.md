@@ -17,7 +17,6 @@ aliases = [
 ### **Who runs ROR?**
 
 ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
-
 ***
 
 ### **How is ROR funded?**
@@ -97,6 +96,7 @@ Yes: ROR metadata includes both [parent-child hierarchies and lateral relationsh
 ***
 
 ### **Why doesn't ROR include university departments?**
+
 ROR is focused on being a top-level registry of organizations in order to address the fundamental affiliation use case and to increase interoperability with other systems. The top-level institutional data in ROR is also much more stable and persistent than sub-unit and departmental data, which tends to change frequently and may not be agreed upon by different representatives of a particular institution. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
 
 ***

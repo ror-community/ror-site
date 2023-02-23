@@ -7,15 +7,18 @@ pluralizelisttitles = "false"
 summaryLength = 20
 
 [params]
-date_format = "January 2, 2006"
-CSSVersion = 3
+	date_format = "January 2, 2006"
+	CSSVersion = 3
+	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations.'
+	title = 'Research Organization Registry (ROR)'
+  	images = ['/img/ror-logo-800.png']
 
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
 
-  [markup.tableOfContents]
+[markup.tableOfContents]
     endLevel = 2
     ordered = false
     startLevel = 2       
@@ -60,3 +63,6 @@ CSSVersion = 3
 [params.twitter_feed]
     enable = false
     title = "Twitter Feed"
+    
+[social]
+	twitter = 'ResearchOrgs'    
