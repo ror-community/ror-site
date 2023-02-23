@@ -1,6 +1,6 @@
 +++ 
 title = "Case Study: ROR in Caltech Repositories" 
-date = "2023-02-20" 
+date = "2023-02-23" 
 draft = false 
 tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
 categories = ["case-studies"] 
