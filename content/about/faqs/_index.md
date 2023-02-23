@@ -17,6 +17,7 @@ aliases = [
 ### **Who runs ROR?**
 
 ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
+
 ***
 
 ### **How is ROR funded?**
