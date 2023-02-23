@@ -16,13 +16,13 @@ aliases = [
 
 ### **Who runs ROR?**
 
-ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about), [steering group](/community), and [community advisors](/community).
+ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
 
 ***
 
 ### **How is ROR funded?**
 
-During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about).
+During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
 
 ***
 
@@ -40,7 +40,7 @@ ROR is freely and openly available to anyone. There is no cost to access and use
 
 ### **Can I sign up to join ROR?**
 
-ROR is not a membership organization. As a community-based initiative, ROR has open channels for community participation, such as joining the community advisory group or giving feedback on development work. [Learn more about how to get involved](/community).
+ROR is not a membership organization. As a community-based initiative, ROR has open channels for community participation, such as joining the community advisory group or giving feedback on development work. [Learn more about how to get involved](/community#get-involved).
 
 ***
 
@@ -92,12 +92,13 @@ ROR is more than just an identifier: each record associated with a ROR ID contai
 
 ### **Does ROR support relationships and hierarchies?**
 
-[ROR metadata](https://ror.readme.io/docs/ror-data-structure) includes both parent-child hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities. 
+Yes: ROR metadata includes both [parent-child hierarchies and lateral relationships](https://ror.readme.io/docs/ror-hierarchies-and-relationships) between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities. 
 
 ***
 
 ### **Why doesn't ROR include university departments?**
-ROR is focused on being a top-level registry of organizations in order to address the fundamental affiliation use case and to increase interoperability with other systems. The top-level institutional data in ROR is also much more stable and persistent than sub-unit and departmental data, which tends to change frequently and may not be agreed-upon even by authorities within an institution. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+
+ROR is focused on being a top-level registry of organizations in order to address the fundamental affiliation use case and to increase interoperability with other systems. The top-level institutional data in ROR is also much more stable and persistent than sub-unit and departmental data, which tends to change frequently and may not be agreed upon by different representatives of a particular institution. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
 
 ***
 
@@ -106,10 +107,11 @@ ROR is focused on being a top-level registry of organizations in order to addres
 ### **What is the difference between ROR and other organization identifiers?**
 
 ROR is different from other organization identifiers in a few key ways:
-- ROR is completely open (CC0 data, open API) and noncommercial
-- ROR is focused specifically on identifying affiliations
-- ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID)
-- ROR is developed as a community initiative
+
+- ROR is completely open (CC0 data, open API) and noncommercial.
+- ROR is focused specifically on identifying affiliations.
+- ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID).
+- ROR is developed as a community initiative.
 
 ***
 
@@ -180,13 +182,13 @@ You can check if an organization already has a ROR ID by looking up the organiza
 
 ### **How can I change the information in an organization’s ROR record?**
 
-To request a change to an organization’s ROR record, submit the [curation request form](https://curation-request.ror.org).
+To request a change to an organization’s ROR record, submit the [curation request form](https://curation-request.ror.org). Requests will be reviewed by the Curation Lead and if necessary escalated to the [Curation Advisory Board](/registry/#curation-advisory-board).
 
 ***
 
 ### **Who is the contact person at my organization responsible for our ROR ID?**
 
-The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org).
+The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org)
 
 ***
 
