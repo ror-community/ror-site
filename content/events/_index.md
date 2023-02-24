@@ -41,7 +41,7 @@ description = "Events by and about the Research Organization Registry (ROR)"
 - Date and time: Martes, 18 de Abril 2023, 11:00 - 17:00 ART
 - Location: Buenos Aires, Argentina
 - Description: Un evento enteramente dedicado a los identificadores persistentes y la ciencia abierta en América Latina, con DataCite, ORCID y ROR a [csv,conf,v7](https://csvconf.com/). 
-- Joining instructions: Seguir [a Eventbrite](https://www.eventbrite.com/e/identificadores-persistentes-pids-y-la-ciencia-abierta-en-america-latina-tickets-547874145317)
+- Joining instructions: Regístrese [en Eventbrite](https://www.eventbrite.com/e/identificadores-persistentes-pids-y-la-ciencia-abierta-en-america-latina-tickets-547874145317)
 
 ## Past events 
 
