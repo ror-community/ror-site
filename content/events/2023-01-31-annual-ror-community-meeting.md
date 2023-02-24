@@ -1,5 +1,5 @@
 +++
-title = "Events" 
+title = "Annual Meeting 2023" 
 date = "2022-12-20" 
 draft = false 
 style = "card-plain" 
@@ -7,10 +7,8 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-description = "Past events by the Research Organization Registry (ROR)"
+description = "Annual ROR Community Meeting 2023"
 +++
-
-{{% toc %}}
 
 ## Annual ROR Community Meeting
 
