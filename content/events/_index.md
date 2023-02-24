@@ -20,7 +20,7 @@ description = "Upcoming events by the Research Organization Registry (ROR)"
 - Joining instructions: TBA
 
 ### ROR Open Hours 
-- Date and time: Thursday, March 9th, [9pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230309T14&p1=1440&ah=1) (1 hour)
+- Date and time: Thursday, March 9th, [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230309T14&p1=1440&ah=1) (1 hour)
 - Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset.
 - Joining instructions: TBA
 
