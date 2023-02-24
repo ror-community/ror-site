@@ -16,6 +16,7 @@ description = "Events by and about the Research Organization Registry (ROR)"
 
 ### ROR Open Hours 
 - Date and time: Wednesday, March 1st, 2023 at [9pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230301T21&p1=%3A&ah=1) (1 hour)
+- Location: Online
 - Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
 - Joining instructions: TBA
 
