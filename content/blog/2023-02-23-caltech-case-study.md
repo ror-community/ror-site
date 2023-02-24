@@ -26,6 +26,8 @@ In this case study we interview Tom Morrell, Research Data Specialist at Caltech
 
 "At the moment we don't have to do a ton of reporting back to the funders to say what datasets were associated with a given grant, but we're anticipating that we're going to have to do that in the next few years, so having the ability to pull out exactly what records are associated with a given funder is going to be very important. We have it in the system now, so instead of just having people type in the text and the different variations of 'National Institutes of Health' or 'National Science Foundation,' instead, you have them type it in, it assigns the ROR to it, and then we'll be able to pull records out via the ROR."
 
+-- Tom Morrell, Research Data Specialist, Caltech Library
+
 {{% /callout %}} 
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
@@ -38,7 +40,7 @@ Hi, I'm Tom Morrell. I'm the Research Data Specialist at [Caltech Library](https
 Perfect. Can you tell us about Caltech Library and the unit that you're in? 
 
 ### {{< figure src="/img/blog/caltech/tom-morrell.jpg" class="round-figure" alt="Tom Morrell" >}} Tom Morrell
-Caltech Library serves all the information needs of Caltech as a campus. And Caltech is a kind of unique institution. We're small in terms of numbers. We have about 300 faculty, but we have a really big impact in a lot of research areas -- in Astronomy, Astrophysics, Biology, Neuroscience. We've got a really lot of high-impact work, just done with a very small staff. So what the library does is we serve everybody on campus. We serve traditional library information needs in terms of journals, for instance, but we also have a [very strong repository program](https://library.caltech.edu/search/repositories) in terms of making the research content of Caltech publicly available. That includes publications ([CaltechAUTHORS](https://authors.library.caltech.edu/)) and theses ([CaltechTHESIS](https://thesis.library.caltech.edu/))  as well as what I spend most of my time working on, which is datasets and research software ([CaltechDATA](https://data.caltech.edu)). 
+Caltech Library serves all the information needs of Caltech as a campus. And Caltech is a kind of unique institution. We're small in terms of numbers. We have about 300 faculty, but we have a really big impact in a lot of research areas -- in Astronomy, Astrophysics, Biology, Neuroscience. We've got a lot of high-impact work, just done with a very small staff. So what the library does is we serve everybody on campus. We serve traditional library information needs in terms of journals, for instance, but we also have a [very strong repository program](https://library.caltech.edu/search/repositories) in terms of making the research content of Caltech publicly available. That includes publications ([CaltechAUTHORS](https://authors.library.caltech.edu/)) and theses ([CaltechTHESIS](https://thesis.library.caltech.edu/))  as well as what I spend most of my time working on, which is datasets and research software ([CaltechDATA](https://data.caltech.edu)). 
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 And when did when did Caltech first start its repositories? You have both an institutional repository and a data repository, correct? 
