@@ -8,7 +8,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/hierarchies/TreeNetwork.png" 
 images = ['/img/blog/hierarchies/TreeNetwork.png']
-author = "Adam Buttrick, Amanda French, Maria Gould, and Liz Krznarich" 
+author = "ROR Team" 
 description = "ROR supports parent-child organizational hierarchies as well as other types of relationships between organizations. This blog post explains how organizational hierarchies and relationships are expressed in ROR metadata, offers statistics on hierarchies and relationships in ROR, summarizes ROR's curation practices for hierarchies and relationships, and gives examples of real-life use cases of ROR hierarchies and relationships."
 +++ 
 
@@ -102,3 +102,8 @@ ROR's support for relationships and hierarchies is specifically informed by our 
 We hope this post has helped to provide more detail about how relationships and hierarchies are supported in ROR, how we make decisions about relationship structures in the curation process, and how this metadata is being leveraged by users and integrators. 
 
 To learn more, check out [ROR's technical documentation](https://ror.readme.io), and get in touch via <support@ror.org> with any questions. If you have feedback about relationship structures to add to or update in the registry, let us know via the [curation request form](https://curation-request.ror.org).
+
+---
+
+_This post was jointly written by members of the [ROR core team](/about/#core-team): Adam Buttrick (Metadata Curation Lead), Amanda French (Technical Community Manager), Maria Gould (Project Lead), and Liz Krznarich (Technical Lead)._ 
+
