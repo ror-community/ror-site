@@ -5,7 +5,7 @@
   <div class="container">
 	<div class="row justify-content-between no-gutters ml-auto mr-auto text-center">
 		{{ range sort .Site.Data.socials }}
-		<div class=" col-sm-6 col-md-1 ">
+		<div class=" col-sm-6 col-md-auto ">
 			<a href="{{ .link }}">
 			 <a {{ if .rel }}rel='{{.rel}}'{{ end }} href='{{ .link }}'>
 				 <i class="{{ .icon }}"></i>
