@@ -44,6 +44,19 @@ description = "Events by and about the Research Organization Registry (ROR)"
 - Description: Un evento enteramente dedicado a los identificadores persistentes y la ciencia abierta en América Latina, con DataCite, ORCID y ROR a [csv,conf,v7](https://csvconf.com/). 
 - Joining instructions: Regístrese [en Eventbrite](https://www.eventbrite.com/e/identificadores-persistentes-pids-y-la-ciencia-abierta-en-america-latina-tickets-547874145317)
 
+## Events calendar - Airtable
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrjqvdkFSDJuhr31?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="733" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Events list - Airtable
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr2VR8YgRWQl6aHJ?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Events calendar - GCal
+
+<iframe src="https://calendar.google.com/calendar/embed?height=800&wkst=1&bgcolor=%23ffffff&ctz=America%2FNew_York&src=Y19jOWQ0Yzc3OGZhMGEzMTE3NmFjYmIxMGYwNzJhOTg3Nzg0MzI1OTRjMzIxNzJiNGM2MmM0YWM3YThlYWI0ODA5QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=czNzaG9obzFwOGJoa2ZpbGlzdHY4cG12M3UwMGN1NXVAaW1wb3J0LmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237986CB&color=%23F09300" style="border:solid 1px #777" width="900" height="800" frameborder="0" scrolling="no"></iframe>
+
+
 ## Past events 
 
 ### [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting)
