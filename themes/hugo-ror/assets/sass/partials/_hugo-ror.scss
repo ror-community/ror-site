@@ -6923,12 +6923,15 @@ p strong, p b, li strong, li b {
 
 /* blog styles */
 
+figure img {
+	border: solid 1px grey;
+}
+
 .blog-figure img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
 	width: 70%;
-	border: solid 1px grey;
 }
 
 .round-figure {
