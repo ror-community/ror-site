@@ -6916,7 +6916,7 @@ table#donations-table td ul li {
 
 /* fixing bold font family no clue what the upstream issue is */
 
-p strong, p b, li strong, li b {
+p strong, p b, li strong, li b, .author {
 	font-family: "AH-Bold";
 }
 
@@ -6942,10 +6942,6 @@ figure img {
 .round-figure img {
     border-radius:50%;
     height:35px;
-}
-
-.author {
-	font-weight: bold;	
 }
 
 .blog-video {
