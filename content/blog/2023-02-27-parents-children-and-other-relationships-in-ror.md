@@ -24,17 +24,7 @@ Since its [first independent release](https://ror.org/blog/2022-03-17-first-inde
 
 ## Relationships in the ROR data structure
 
-**ROR records store both structural and temporal connections in the `relationships` field.** Connections and relationships between records can therefore be mapped and graphed. 
-
-The following relationship types are supported:
-
-- "Parent"
-- "Child"
-- "Related"
-- "Successor"
-- "Predecessor"
-
-An organization can have multiple relationships, but each relationship must be classified as one of the above types. 
+ROR records store both structural and temporal connections in the `<relationships>` field. Connections and relationships between records can therefore be mapped and graphed. The relationship types supported are `Parent`, `Child`, `Related`, `Successor`, and `Predecessor`. An organization can have multiple relationships, but each relationship must be classified as only one of the above types. 
 
 The United States Department of Energy, for instance (<https://ror.org/01bj3aw27>), has many "child" organizations such as national research laboratories. Those child organizations themselves often have their own children representing different research units and funding bodies. Pictured below is a vertical "family tree" of the Department of Energy created from ROR records with an [organization tree script](https://github.com/ror-community/ror-utilities/tree/main/organization-tree-scripts) showing DOE's children and grandchildren (laterally related organizations are not shown in this view). This structure aligns with how the Department of Energy tracks both its research outputs and the research projects it has supported using ROR IDs and [Crossref Funder Registry IDs](https://www.crossref.org/services/funder-registry/). 
 
@@ -82,7 +72,6 @@ One example of a system that has cleverly integrated ROR to enable finding resea
 
 {{< figure src="/img/blog/hierarchies/ror-lens-ulondon-lineage.jpg" class="blog-figure" alt="The Lens's structured search for scholarly works by ROR ID showing over 780,000 works associated with the University of London and its subsidiary organizations. The Lens also offers the ability to filter results by sub-organization." caption="The Lens's structured search for scholarly works by ROR ID showing over 780,000 works associated with the University of London and its subsidiary organizations. The Lens also offers the ability to filter results by sub-organization." >}} 
 
-
 Germany's [Open Access Monitor](https://open-access-monitor.de), similarly, uses ROR's hierarchies to allow its users to track open access data for large, complex German research organizations at the parent level, the child level, or in clusters of selected related organizations. The [Max Planck Society](https://ror.org/01hhn8329), for instance, has nearly 100 subsidiary research organizations, and because the OA Monitor maps all the data it acquires from Dimensions, Scopus, and Web of Science to ROR IDs, it can give its users information about the open access compliance of all Max Planck Society organizations together, only one of them, or any combination of them. 
 
 {{< figure src="/img/blog/hierarchies/ror-oam-max-planck-select.png" class="blog-figure" alt="In Germany's ROR-powered Open Access Monitor, a user can select all, one, or any set of the child research organizations of the Max Planck Society. " caption="In Germany's ROR-powered Open Access Monitor, a user can select all, one, or any set of the child research organizations of the Max Planck Society." >}} 
@@ -91,7 +80,7 @@ Germany's [Open Access Monitor](https://open-access-monitor.de), similarly, uses
 
 Finally, we are hearing from a number of publishers who are interested in using ROR to manage open access publishing agreements with research organizations. Our favorite example of a publisher who is already using ROR for this purpose is [Rockefeller University Press](https://rupress.org/) (RUP). In a recent OASPA/JISC webinar on publishing workflows, representatives of RUP explained and demonstrated several different ways in which they use ROR, including for the purpose of managing open access agreements. Their systems compare the ROR ID of the corresponding author's affiliation to the ROR IDs for agreements, and when there is a match, the author is notified that their work falls under the terms of that agreement. RUP's implementation shows the value of having ROR IDs incorporated in multiple parts of a publishing workflow and demonstrates that ROR's degree of granularity is already more than sufficient to increase the efficiency of such workflows. Watch the full RUP presentation and/or the full webinar below:
 
-{{< youtube id="Jn21FiGiNCo" class="blog-video" title="OASPA and JISC webinar on publishing workflows, January 26, 2023" >}} 
+{{< youtube id="Jn21FiGiNCo?t=2361" class="blog-video" title="OASPA and JISC webinar on publishing workflows, January 26, 2023" >}} 
 
 We hope the preceding examples can serve as models for other projects that might use ROR's relationships and hierarchies for similar purposes. If you too are using ROR's relationships or hierarchies, we'd love to hear more about it -- [tell us more about your integration](https://airtable.com/shrQlmqDpXie13ufz) and we'll feature you on our website, or get in touch via <support@ror.org> if you need help getting started.
 
