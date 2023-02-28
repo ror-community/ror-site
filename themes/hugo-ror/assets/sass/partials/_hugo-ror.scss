@@ -6914,13 +6914,22 @@ table#donations-table td ul li {
   font-family: $font-regular;
 }
 
+/* fixing bold font family no clue what the upstream issue is */
+
+p strong, p b, li strong, li b {
+	font-family: "AH-Bold";
+}
+
+
 /* blog styles */
 
 .blog-figure img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 70%;}
+	width: 70%;
+	border: solid 1px grey;
+}
 
 .round-figure {
 	display:inline;
@@ -6934,6 +6943,10 @@ table#donations-table td ul li {
 
 .author {
 	font-weight: bold;	
+}
+
+.blog-video {
+	padding-bottom: 2rem;	
 }
 
 .blog-video iframe {
