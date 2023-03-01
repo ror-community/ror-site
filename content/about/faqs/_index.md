@@ -101,7 +101,7 @@ ROR is focused on addressing the fundamental affiliation use case and increasing
 
 ### **What is a ROR identifier?**
 
-A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/ror-identifier-pattern). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
+A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/ror-identifier-pattern). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`, although the ROR API will recognize all three of these forms as ROR IDs. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
 
 ***
 
