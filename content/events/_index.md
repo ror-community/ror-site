@@ -14,14 +14,6 @@ description = "Research Organization Registry (ROR) events"
 
 ## Upcoming events
 
-### ROR Open Hours 1st Wednesdays
-- Date and time: Wednesday, March 1st, 2023 at [9pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230301T21&p1=%3A&ah=1) (1 hour)
-- Location: Online
-- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for ROR Open Hours 1st Wednesdays {{% /button %}}
-
 ### ROR Open Hours 2nd Thursdays
 - Date and time: Thursday, March 9th, 2023 at [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230309T14&p1=1440&ah=1) (1 hour)
 - Location: Online
@@ -33,7 +25,7 @@ description = "Research Organization Registry (ROR) events"
 ### ROR Schema Changes Call
 - Date and time: Thursday, March 16th, 2023 at [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Schema+Changes+Call&iso=20230316T14&p1=%3A) (1 hour)
 - Location: Online
-- Description: The ROR team will present a summary of community responses to the [request for feedback on proposed changes to the ROR schema](https://ror.org/blog/2022-12-14-schema-scheming/) and ask for further feedback on the revised proposal. 
+- Description: The ROR team will present a summary of community responses to the [request for feedback on proposed changes to the ROR schema](https://ror.org/blog/2022-12-14-schema-scheming/) and go over planned changes in detail. 
 - Recorded: Yes
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIuc-Ghqj4vHNO8QeNEQqtLgwdboGVIPN65" %}} Register for ROR Schema Changes Call {{% /button %}}
@@ -45,6 +37,20 @@ description = "Research Organization Registry (ROR) events"
 - Recorded: Yes
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJ0sdO6orz8pGdHRQxs-1Kl0HOLVWTfSlMKO" %}} Register for ROR Community Call - March  {{% /button %}}
+
+### ROR Open Hours 1st Wednesdays
+- Date and time: Wednesday, April 5, 2023 at [8pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230301T21&p1=%3A&ah=1) (1 hour)
+- Location: Online
+- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
+- Recorded: No
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for ROR Open Hours 1st Wednesdays {{% /button %}}
+
+### ROR Open Hours 2nd Thursdays
+- Date and time: Thursday, April 13, 2023 at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230309T14&p1=1440&ah=1) (1 hour)
+- Location: Online
+- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset.
+- Recorded: No
 
 ### Identificadores Persistentes (PIDs) y la Ciencia Abierta en América Latina
 - Date and time: Martes, 18 de Abril 2023, 11:00 - 17:00 ART
