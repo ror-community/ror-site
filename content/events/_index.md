@@ -52,6 +52,8 @@ description = "Research Organization Registry (ROR) events"
 - Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset.
 - Recorded: No
 
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours 2nd Thursdays {{% /button %}}
+
 ### Identificadores Persistentes (PIDs) y la Ciencia Abierta en América Latina
 - Date and time: Martes, 18 de Abril 2023, 11:00 - 17:00 ART
 - Location: Buenos Aires, Argentina
