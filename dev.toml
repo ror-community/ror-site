@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "ROR"
+title = "Research Organization Registry (ROR)"
 baseurl = "https://dev.ror.org/"
 style = "turquoise"
 theme = "hugo-ror"
