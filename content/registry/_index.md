@@ -47,6 +47,8 @@ ROR's aim is to address the "affiliation use case," which means identifying whic
 
 ROR is focused on being a top-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping university departments and similar sub-units within institutions. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
 
+See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror)
+
 ## Relationship to other identifiers
 ROR has some similarities with other organization identifiers but it differs from other identifiers in a few fundamental ways:
 
