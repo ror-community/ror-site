@@ -61,44 +61,53 @@ ROR defines “research organization” as any organization that is involved in 
 
 ### **Is my organization in scope for ROR?**
 
-ROR is focused on identifying “top-level” organization affiliations for research outputs. To meet the definition of “top-level” entity, an organization should be:
+ROR is primarily focused on identifying and listing global “top-level” organizations that researchers cite as an affiliation. To meet the definition of a “top-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
 
-- A standalone organization
-- Sufficiently independent from other organizations it might be related to
-- Not a subdivision within an organization
-- Not a single-person consultancy
+Common types of entities that are in scope for ROR include
 
-Common types of entities that are out of scope for ROR include:
+- Universities and colleges
+- Companies that are involved in research
+- Private foundations and government agencies
+- Hospitals and healthcare centers
+- Laboratories
+- Nonprofits
+- Research institutes
+- Research facilities
+
+Common types of entities that are out of scope for ROR include
+
 - Departments and subdivisions within organizations
+- Companies that are not involved in research
+- Single-person consultancies
+- Pre-collegiate schools 
 - Journals
 - Projects
-- Companies that are not involved in research
 
 See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope-and-criteria-for-inclusion).
 
 ***
 
+### **Does ROR support relationships and hierarchies?**
+
+Yes, ROR metadata includes both parent-child organizational hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities, and each of these connected organizations may have their own ROR IDs and records. Read our [technical documentation about relationships in ROR](https://ror.readme.io/docs/ror-hierarchies-and-relationships) or read our blog post on ["Parents, Children, and Other Relationships in ROR"](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) to learn more. 
+
+***
+
+### **Why doesn't ROR include university departments?**
+
+ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "top-level" institutional information in ROR is also more stable than sub-unit and departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+
+***
+
 ### **What is a ROR identifier?**
 
-A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/ror-identifier-pattern). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
+A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/ror-identifier-pattern). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`, although the ROR API will recognize all three of these forms as ROR IDs. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
 
 ***
 
 ### **What metadata is included in a ROR record?**
 
 ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization's name in multiple languages, acronyms, aliases, location, website, Wikipedia page, and other corresponding external organizational identifiers. See the ROR documentation for the full model of the [ROR data structure](https://ror.readme.io/docs/ror-data-structure).
-
-***
-
-### **Does ROR support relationships and hierarchies?**
-
-Yes: ROR metadata includes both [parent-child hierarchies and lateral relationships](https://ror.readme.io/docs/ror-hierarchies-and-relationships) between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities. 
-
-***
-
-### **Why doesn't ROR include university departments?**
-
-ROR is focused on being a top-level registry of organizations in order to address the fundamental affiliation use case and to increase interoperability with other systems. The top-level institutional data in ROR is also much more stable and persistent than sub-unit and departmental data, which tends to change frequently and may not be agreed upon by different representatives of a particular institution. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
 
 ***
 
@@ -109,7 +118,7 @@ ROR is focused on being a top-level registry of organizations in order to addres
 ROR is different from other organization identifiers in a few key ways:
 
 - ROR is completely open (CC0 data, open API) and noncommercial.
-- ROR is focused specifically on identifying affiliations.
+- ROR is focused on identifying affiliations.
 - ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID).
 - ROR is developed as a community initiative.
 
