@@ -35,7 +35,7 @@ description = "Research Organization Registry (ROR) events"
 ---
 
 ### LIBER, EIFL and SCOSS joint webinar: Keeping open infrastructure open 
-- Date and time: Wednesday, March 29, 2023 at [8pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Keeping+Open+Infrastructure+Open&iso=20230529T20&p1=1440&ah=1&am=15) (1 hour 15 minutes)
+- Date and time: Wednesday, March 29, 2023 at [4pm CEST](https://www.timeanddate.com/worldclock/fixedtime.html?msg=Keeping+Open+Infrastructure+Open&iso=20230529T16&p1=16&ah=1&am=15) (1 hour 15 minutes)
 - Location: Online
 - Description: [LIBER](https://libereurope.eu/), [EIFL](https://www.eifl.net/) and [SCOSS](https://scoss.org/) are co-organizing a webinar to present the SCOSS 4th pledging round infrastructures to Europe. Meet [Dryad](https://datadryad.org/stash), [LA Referencia](https://www.lareferencia.info/es/) and [ROR](https://ror.org) and learn why they need support from the community to remain open. We will then have a panel discussion with institutions who have pledged to open infrastructures who will highlight why making small financial contributions is important and how they organised it. You can ask your questions directly to panellists and the infrastructure during a Q&A session. [Find more details on the LIBER website.](https://libereurope.eu/event/keeping-open-infrastructure-open-the-scoss-4th-pledging-round-info-session/)
 
