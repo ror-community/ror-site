@@ -34,6 +34,15 @@ description = "Research Organization Registry (ROR) events"
 
 ---
 
+### LIBER, EIFL and SCOSS joint webinar: Keeping open infrastructure open 
+- Date and time: Wednesday, March 29, 2023 at [8pm UTC](https://www.timeanddate.com/worldclock/converter.html?iso=20230329T200000&p1=1440) (1 hour 15 minutes)
+- Location: Online
+- Description: [LIBER](https://libereurope.eu/), [EIFL](https://www.eifl.net/) and [SCOSS](https://scoss.org/) are co-organizing a webinar to present the SCOSS 4th pledging round infrastructures to Europe. Meet [Dryad](https://datadryad.org/stash), [LA Referencia](https://www.lareferencia.info/es/) and [ROR](https://ror.org) and learn why they need support from the community to remain open. We will then have a panel discussion with institutions who have pledged to open infrastructures who will highlight why making small financial contributions is important and how they organised it. You can ask your questions directly to panellists and the infrastructure during a Q&A session. [Find more details on the LIBER website.](https://libereurope.eu/event/keeping-open-infrastructure-open-the-scoss-4th-pledging-round-info-session/)
+
+{{% button color="green" link="https://us06web.zoom.us/meeting/register/tZUvcOCgrzsrGd3wxWnyzF7-OgSVnj6NoPFF" %}} Register for "Keeping open infrastructure open" {{% /button %}}
+
+---
+
 ### ROR Open Hours 1st Wednesdays
 - Date and time: Wednesday, April 5, 2023 at [8pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230301T21&p1=%3A&ah=1) (1 hour)
 - Location: Online
@@ -55,7 +64,7 @@ description = "Research Organization Registry (ROR) events"
 ---
 
 ### Identificadores Persistentes (PIDs) y la Ciencia Abierta en América Latina
-- Date and time: Martes, 18 de Abril 2023, 11:00 - 17:00 ART
+- Date and time: martes, 18 de Abril 2023, 11:00 - 17:00 ART
 - Location: Buenos Aires, Argentina
 - Description: Un evento enteramente dedicado a los identificadores persistentes y la ciencia abierta en América Latina, con DataCite, ORCID y ROR a [csv,conf,v7](https://csvconf.com/). 
 
