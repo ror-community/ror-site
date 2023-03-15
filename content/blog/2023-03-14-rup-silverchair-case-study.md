@@ -12,7 +12,7 @@ author = "Amanda French"
 description = "Rockefeller University Press has incorporated ROR into many aspects of their workflow, and their platform provider Silverchair was there to help. This case study is drawn from the presentation about this integration given at the December 2022 ROR Community Call."
 +++ 
 
-Rockefeller University Press has incorporated ROR into many aspects of their workflow, and their platform provider Silverchair was there to help. This case study is drawn from the presentation about this integration given at the December 2022 ROR Community Call by Robert O'Donnell, Senior Director of Publishing at RUP and Emily Hazzard, Product Operations Analyst at Silverchair. 
+Rockefeller University Press has incorporated ROR into many aspects of their workflow, and their platform provider Silverchair was there to help. This case study is drawn from the presentation about this integration given at the December 2022 ROR Community Call by Rob O'Donnell, Senior Director of Publishing at RUP and Emily Hazzard, Product Operations Analyst at Silverchair. 
 
 {{% callout color="green" icon="no-icon" %}} 
 
@@ -25,7 +25,7 @@ Rockefeller University Press has incorporated ROR into many aspects of their wor
 
 "[W]e're about to finally start including ROR IDs in our JATS files, and once we do, Silverchair is ready to include those in Crossref deposits."
 
--- Robert O'Donnell, Senior Director of Publishing, Rockfeller University Press
+-- Rob O'Donnell, Senior Director of Publishing, Rockfeller University Press
 
 "[I]n the institutional management service in SiteManager, we're going to be introducing a way to search institutions based on the ROR ID just because it's incredibly convenient."
 
@@ -37,7 +37,7 @@ Rockefeller University Press has incorporated ROR into many aspects of their wor
 {{% /callout %}} 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
-We've asked Robert O'Donnell, Senior Director of Publishing at Rockefeller University Press, to tell us about some of the new things they're doing with ROR. 
+We've asked Rob O'Donnell, Senior Director of Publishing at Rockefeller University Press, to tell us about some of the new things they're doing with ROR. 
 
 ### {{< figure src="/img/blog/rup/rodonnell.jpg" class="round-figure" alt="Rob O'Donnell" >}} Rob O'Donnell
 
@@ -136,7 +136,7 @@ Thanks for telling us all about your work with ROR, Rob and Emily.
 
 
 - [Download the slides](/documents/2022-12-08-ROR-RUP-Silverchair-Slides.pdf) as a PDF
-- [Contact Robert O'Donnell](mailto:odonner@mail.rockefeller.edu), Senior Director of Publishing, Rockefeller University Press
+- [Contact Rob O'Donnell](mailto:odonner@mail.rockefeller.edu), Senior Director of Publishing, Rockefeller University Press
 - [Contact Emily Hazzard](mailto:ehazzard@silverchair.com), Product Operations Analyst, Silverchair
 - [Contact Amanda French](mailto:amanda@ror.org), ROR Technical Community Manager
 - [Register for an upcoming ROR Community Call](https://ror.org/events) to hear about integrations like these and more
