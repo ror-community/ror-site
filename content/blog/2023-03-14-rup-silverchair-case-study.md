@@ -25,7 +25,7 @@ Rockefeller University Press has incorporated ROR into many aspects of their wor
 
 "[W]e're about to finally start including ROR IDs in our JATS files, and once we do, Silverchair is ready to include those in Crossref deposits."
 
--- Robert O'Donnell, Senior Director, Rockfeller University Press
+-- Robert O'Donnell, Senior Director of Publishing, Rockfeller University Press
 
 "[I]n the institutional management service in SiteManager, we're going to be introducing a way to search institutions based on the ROR ID just because it's incredibly convenient."
 
