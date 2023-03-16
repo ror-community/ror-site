@@ -94,7 +94,7 @@ description = "Research Organization Registry (ROR) events"
 
 ## Past events 
 
-### [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call)
+### [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - Mar 2023
 
-### [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting)
+### [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - Jan / Feb 2023
 

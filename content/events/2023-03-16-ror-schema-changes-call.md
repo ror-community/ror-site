@@ -23,7 +23,7 @@ description = "Call about proposed changes to the ROR metadata schema for schema
 
 ### Recording 
 
-{{< youtube id="" title="ROR Schema Changes Call March 2023" class="blog-video" >}}
+{{< youtube id="HuGqvGWz6fU" title="ROR Schema Changes Call March 2023" class="blog-video" >}}
 
 
 
