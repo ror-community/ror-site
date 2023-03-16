@@ -14,16 +14,6 @@ description = "Research Organization Registry (ROR) events"
 
 ## Upcoming events
 
-### ROR Schema Changes Call
-- Date and time: Thursday, March 16th, 2023 at [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Schema+Changes+Call&iso=20230316T14&p1=%3A) (1 hour)
-- Location: Online
-- Description: The ROR team will present a summary of community responses to the [request for feedback on proposed changes to the ROR schema](https://ror.org/blog/2022-12-14-schema-scheming/) and go over planned changes in detail. 
-- Recorded: Yes
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIuc-Ghqj4vHNO8QeNEQqtLgwdboGVIPN65" %}} Register for ROR Schema Changes Call {{% /button %}}
-
----
-
 ### ROR Community Call - March 2023
 - Date and time: Tuesday, March 28th, 2023 at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+March+2023&iso=20230328T15&p1=1440&ah=1) (1 hour) 
 - Location: Online
@@ -103,6 +93,8 @@ description = "Research Organization Registry (ROR) events"
 ---
 
 ## Past events 
+
+### [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call)
 
 ### [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting)
 
