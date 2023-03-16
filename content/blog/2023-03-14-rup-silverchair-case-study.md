@@ -1,7 +1,7 @@
 +++ 
 title = "Case Study: ROR at Rockefeller University Press and Silverchair" 
 date = "2023-03-14" 
-draft = false 
+draft = true 
 tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
 categories = ["case-studies"] 
 style = "card-plain" 
@@ -12,7 +12,7 @@ author = "Amanda French"
 description = "Rockefeller University Press has incorporated ROR into many aspects of their workflow, and their platform provider Silverchair was there to help. This case study is drawn from the presentation about this integration given at the December 2022 ROR Community Call."
 +++ 
 
-Rockefeller University Press has incorporated ROR into many aspects of their workflow, and their platform provider Silverchair was there to help. This case study is drawn from the presentation about this integration given at the December 2022 ROR Community Call by Rob O'Donnell, Senior Director of Publishing at RUP and Emily Hazzard, Product Operations Analyst at Silverchair. 
+Rockefeller University Press has incorporated ROR into many aspects of their workflow, and their platform provider Silverchair was there to help. This case study is drawn from the presentation about this integration given at the December 2022 ROR Community Call by Rob O'Donnell, Senior Director of Publishing at RUP, and Emily Hazzard, Product Operations Analyst at Silverchair. 
 
 {{% callout color="green" icon="no-icon" %}} 
 

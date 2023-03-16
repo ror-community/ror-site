@@ -1805,7 +1805,8 @@ li a {
   font-family: $font-bold;
   }
 .h1, h1 {
-    font-size: 3.5em;
+    font-size: 3.5rem;
+    line-height: 3.5rem;
 }
 .h1 small, h1 small {
     opacity: .8;
@@ -6884,9 +6885,10 @@ img.ror-id {
  }
 .page-banner h1 {
 	color: #fff !important;
-  font-family: $font-bold;
-		margin: 0;
+    font-family: $font-bold;
+	margin: 0;		
 }
+
 .blog h1 {
   font-size: 2rem;
   line-height: 2rem;
