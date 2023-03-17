@@ -1,6 +1,6 @@
 +++ 
 title = "Case Study: ROR at Rockefeller University Press and Silverchair" 
-date = "2023-03-16" 
+date = "2023-03-17" 
 draft = false 
 tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
 categories = ["case-studies"] 
@@ -60,7 +60,7 @@ We have Read and Publish deals with over 300 institutions across all our deals (
 
 Now I'll tell you about Read and Publish deal configuration and eligibility checks. **When we get new deals, we set them up in eJournal Press systems. They're all configured using ROR IDs, and the process is then completely driven by ROR. The system looks for a match between affiliation ROR IDs and deal ROR IDs. And once there's a match, we know the article is eligible for that deal.** Because we have consortia and large institutions, we need to map all [sub-organizations](https://ror.readme.io/docs/ror-hierarchies-and-relationships) that are included in deals as well, and this is a manual process. I've been wondering whether the [IP Registry / PSI Registry](https://psiregistry.org) could help here. They now have ROR IDs in the registry. We use PSI and they have our subscribers broken down and clustered into consortia or large institutions with only the sub-institutions as included in our subscriptions or deals. If those ROR IDs were included in the PSI API, it could be a huge help. When there is a match, the corresponding author is alerted that they're eligible for a deal when they proceed to sign their license form. We are currently building other steps in the workflow to alert them earlier in the process.
 
-{{< figure src="/img/blog/rup/slide-04.png" alt="Read and Publish deal configuration and eligibility: Deals configured by ROR within eJournalPress submission and billing systems, hierarchies created and children mapped manually, opportunity for IP  Registry integration, corresponding authors alerted to eligibility based on affiliation ROR IDs" >}} 
+{{< figure src="/img/blog/rup/slide-04.png" alt="Read and Publish deal configuration and eligibility: Deals configured by ROR within eJournalPress submission and billing systems, hierarchies created and children mapped manually, opportunity for IP Registry integration, corresponding authors alerted to eligibility based on affiliation ROR IDs" >}} 
 
 ### {{< figure src="/img/blog/rup/rodonnell.jpg" class="round-figure" alt="Rob O'Donnell" >}} Rob O'Donnell
 
@@ -70,9 +70,9 @@ When we first implemented this workflow we were only collecting ROR IDs for the 
 
 ### {{< figure src="/img/blog/rup/rodonnell.jpg" class="round-figure" alt="Rob O'Donnell" >}} Rob O'Donnell
 
-The next slide is about the [OA Switchboard](https://oaswitchboard.org). If you're not familiar with the Switchboard, I encourage you to look into it! **I'm excited that we're now live with our Open Access Switchboard eligibility workflow, which is known as "E1" in Switchboard lingo. If a manuscript is not recognized as part of a deal using what was shown in the last step, we use the ROR IDs we've gathered to sequentially query each of those organizations to ask if they'll pay the gold OA fee for the article.** We do this during revision when there's a high chance of acceptance: we don't do it for every manuscript. That would be overkill. We're also querying contributing author affiliations, even though we're not collecting ROR IDs for all authors yet. We do this using [Appetence's smart matching](https://www.youtube.com/watch?v=MzfeUJwtDBg&list=PL4n_Cvd0PpoHfsM3_6VfhAovGIfL3Z79x&index=8), and that's working well, too. Smart matching maps text-based affiliations to ROR IDs and then directs the queries to those institutions. The Switchboard also maps our tagged [Funder Registry IDs](https://www.crossref.org/services/funder-registry/) to ROR and queries those organizations as well. So we're tagging all affiliations, all funders, and asking them, "Hey, would you be willing to pay for this?"
+The next slide is about the [OA Switchboard](https://oaswitchboard.org). If you’re not familiar with the Switchboard, I encourage you to look into it! Not only is the functionality important to publishers, institutions, funders, and (indirectly) authors, but the organizations involved are incredibly collaborative, experimental, and working with the goal of industry-wide solutions. **I’m excited that we’re now live with our Open Access Switchboard eligibility workflow, which is known as “E1” in Switchboard lingo. If a manuscript is not recognized as part of a deal using what was shown in the last step, we use the ROR IDs we’ve gathered to sequentially query each of those organizations to ask if they’ll pay the gold OA fee for the article.** We do this during revision when there’s a high chance of acceptance. We don’t do it for every manuscript. That would be overkill. We’re also querying contributing author affiliations, even though we’re not collecting ROR IDs for all authors yet. This is done using [smart matching](https://www.youtube.com/watch?v=MzfeUJwtDBg&list=PL4n_Cvd0PpoHfsM3_6VfhAovGIfL3Z79x&index=8) (originally developed by OA Switchboard's tech team, ELITEX, and now available open source) and that’s working well, too. Smart matching maps text-based affiliations to ROR IDs (via the ROR API) and then directs the queries to those institutions. The Switchboard also maps our tagged [Funder Registry IDs](https://www.crossref.org/services/funder-registry/) to ROR and queries those organizations as well. So, we’re tagging all affiliations, all funders, and asking them, “Hey, would you be willing to pay for this?” The actual question is “Does this intended publication meet your requirements/policies? If so, will you cover the publication charges?” and each organization can reply yes or no, and cover full or partial payment of the APC. This eligibility querying workflow has the potential to facilitate funding for articles that are not covered under a read & publish deal.
 
-And of course, we also use the Switchboard, via ROR, to report on published articles.
+And of course, we also use the Switchboard, via ROR tagging, to report on published articles. The “P1” workflow allows participating institutions and funders to see where and when the research from their organization or research they have funded is published by an OA switchboard-participating publisher. Data from all publishers appears in a single dashboard, with the ability to export as consistently formatted Excel or JSON.
 
 {{< figure src="/img/blog/rup/slide-05.png" alt="OA Switchboard: Eligibility E1 check, smart matching, corresponding author ROR IDs used as is, contributing author ROR IDs captured via Appetence smart matching, Funder IDs mapped to ROR by Appetence, post-publication P1 reporting routed via ROR" >}} 
 
@@ -134,14 +134,14 @@ Thanks for telling us all about your work with ROR, Rob and Emily.
 
 {{% callout color="green" icon="no-icon" %}} 
 
--   [Download the slides](/documents/2022-12-08-ROR-RUP-Silverchair-Slides.pdf) as a PDF
+- [Download the slides](/documents/2022-12-08-ROR-RUP-Silverchair-Slides.pdf) as a PDF
 
--   [Contact Rob O'Donnell,](mailto:odonner@rockefeller.edu) Senior Director of Publishing, Rockefeller University Press
+- [Contact Rob O'Donnell,](mailto:odonner@rockefeller.edu) Senior Director of Publishing, Rockefeller University Press
 
--   [Contact Emily Hazzard](mailto:info@silverchair.com), Product Operations Analyst, Silverchair
+- [Contact Emily Hazzard](mailto:info@silverchair.com), Product Operations Analyst, Silverchair
 
--   [Contact Amanda French](mailto:amanda@ror.org), ROR Technical Community Manager
+- [Contact Amanda French](mailto:amanda@ror.org), ROR Technical Community Manager
 
--   [Register for an upcoming ROR Community Call](/events) to hear about integrations like these and more.
+- [Register for an upcoming ROR Community Call](/events) to hear about integrations like these and more.
 
 {{% /callout %}} 
