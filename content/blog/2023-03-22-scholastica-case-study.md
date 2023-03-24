@@ -36,7 +36,7 @@ Thanks for joining us! Please tell us your name, title, and organization.
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
-My name is Corey Schires. I am a co-founder and CTO at [Scholastica](https://scholasticahq.com).
+My name is Cory Schires. I am a co-founder and CTO at [Scholastica](https://scholasticahq.com).
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
