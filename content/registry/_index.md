@@ -38,14 +38,14 @@ ROR registry records include a unique ID for each organization along with additi
 
 All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 
-More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR support site](https://ror.readme.io). 
+More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR documentation site](https://ror.readme.io). 
 
 ## Scope and criteria for inclusion
 ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
 
 ROR's aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, educator, funder, or scholarly society.
 
-ROR is focused on being a top-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping university departments and similar sub-units within institutions. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
+ROR is focused on being a high-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping departments within institutions, though some sub-units such as research institutes are in scope. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
 
 See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror)
 

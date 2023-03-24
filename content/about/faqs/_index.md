@@ -61,7 +61,7 @@ ROR defines “research organization” as any organization that is involved in 
 
 ### **Is my organization in scope for ROR?**
 
-ROR is primarily focused on identifying and listing global “top-level” organizations that researchers cite as an affiliation. To meet the definition of a “top-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
+ROR is primarily focused on identifying and listing global “high-level” organizations that researchers cite as an affiliation. To meet the definition of a “high-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
 
 Common types of entities that are in scope for ROR include
 
@@ -95,7 +95,7 @@ Yes, ROR metadata includes both parent-child organizational hierarchies and late
 
 ### **Why doesn't ROR include university departments?**
 
-ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "top-level" institutional information in ROR is also more stable than sub-unit and departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "high-level" institutional information in ROR is also more stable than departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Additionally, some high-level sub-units of organizations are in scope for ROR, such as research institutes. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
 
 ***
 
@@ -159,13 +159,13 @@ ROR is currently being integrated by more than 50 publishers, repositories, fund
 
 ### **How do I integrate ROR in my system?**
 
-The [ROR support site](https://ror.readme.io) offers guidance for those integrating ROR in their systems. If you need additional support, reach out via the [technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-tech) or send an email to [support@ror.org](mailto:support@ror.org).
+The [ROR documentation site](https://ror.readme.io) offers guidance for those integrating ROR in their systems. If you need additional support, reach out via the [technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-tech) or send an email to [support@ror.org](mailto:support@ror.org).
 
 ***
 
 ### **Does ROR have an API?**
 
-ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR support site for [API documentation](https://ror.readme.io/docs/rest-api).
+ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/rest-api).
 
 ***
 
@@ -197,7 +197,7 @@ To request a change to an organization’s ROR record, submit the [curation requ
 
 ### **Who is the contact person at my organization responsible for our ROR ID?**
 
-The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org)
+The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org).
 
 ***
 
