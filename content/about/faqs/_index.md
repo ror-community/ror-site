@@ -61,7 +61,7 @@ ROR defines “research organization” as any organization that is involved in 
 
 ### **Is my organization in scope for ROR?**
 
-ROR is primarily focused on identifying and listing global “top-level” organizations that researchers cite as an affiliation. To meet the definition of a “top-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
+ROR is primarily focused on identifying and listing global “high-level” organizations that researchers cite as an affiliation. To meet the definition of a “high-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
 
 Common types of entities that are in scope for ROR include
 
@@ -95,7 +95,7 @@ Yes, ROR metadata includes both parent-child organizational hierarchies and late
 
 ### **Why doesn't ROR include university departments?**
 
-ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "top-level" institutional information in ROR is also more stable than sub-unit and departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "high-level" institutional information in ROR is also more stable than departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Additionally, some high-level sub-units of organizations are in scope for ROR, such as research institutes. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
 
 ***
 
