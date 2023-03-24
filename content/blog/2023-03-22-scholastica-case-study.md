@@ -9,19 +9,22 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg" 
 images = ['https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg']
 author = "Amanda French" 
-description = ""
+description = "Scholastica has incorporated ROR IDs into its Peer Review System, its Production Service, and its OA Publishing Platform. In this interview with Cory Schires, Scholastica co-founder and CTO, we discuss the two phases of ROR implementation, the pros and cons of displaying ROR IDs, what makes sense about ROR's level of granularity, and the importance of reliable APIs."
 +++ 
 
-Scholastica has incorporated ROR IDs into its Peer Review System, its Production Service, and its OA Publishing Platform. 
-
+Scholastica has incorporated ROR IDs into its Peer Review System, its Production Service, and its OA Publishing Platform. In this interview with Cory Schires, Scholastica co-founder and CTO, we discuss the two phases of ROR implementation, the pros and cons of displaying ROR IDs, what makes sense about ROR's level of granularity, and the importance of reliable APIs.
 
 {{% callout color="green" icon="no-icon" %}} 
 
 ### Key quotations 
 
+"I would say the benefit to the users is the richer metadata. I mean, it's an obvious answer, but the users don't always think or know or care about metadata. They also might not think of it as a feature, but I do think it is that, and it does matter. At Scholastica, we try to care about that metadata -- something like ROR, for example -- on behalf of the customers, so that they don't _have_ to care about it." 
 
+"Before ROR, I was aware of some of the commercial competitors, but they are prohibitively expensive for many smaller journals, and they are also more difficult to integrate. We do work with bigger journals and presses, but we also work with a lot of small journals, and the price was a concern for us as well as for our customers. When ROR came out as something that was free and community-supported, that was super important."
 
--- Co-founder and Chief Technology Officer, Scholastica
+"I would say one thing I like about how y'all have set up ROR is your approach to parent-child or nested institutions. Obviously, you can go super deep on that and get extremely detailed. And I think y'all have helpfully resisted the urge to go deeper than in my opinion makes sense. I mean, people don't always realize that: it's kind of counterintuitive that there can be an inverse relationship between the richness of a dataset and its utility. It can get so granular, and that's cool, but then it's really hard to make any kind of inference from the data." 
+
+-- Cory Schires, Co-founder and Chief Technology Officer, Scholastica
 
 {{% /callout %}} 
 
@@ -37,7 +40,7 @@ My name is Corey Schires. I am a co-founder and CTO at [Scholastica](https://sch
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-Tell us about Scholastica.
+Tell us about Scholastica. 
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
@@ -99,7 +102,7 @@ The funny thing is that six months sounds fast to me! My certification has expir
   
 Sure. It wasn't too difficult for us. One thing you already touched on is that we have separate products for [peer review](https://scholasticahq.com/features/) and [production](https://scholasticahq.com/typesetting/) and [publishing](https://scholasticahq.com/publishing-features/). That means we have to put it in at least two places: our manuscript submission form and the form that is used to create an article. So that was a consideration, that we've got to put this in at least two places. That actually kind of divided the project into two phases. First, you've got to collect the data; you've got to update your web forms, right? That's the collecting part. Second, there's using it -- distributing it. Now that you have this data, you need to make sure that it's getting into your [Crossref metadata](https://www.crossref.org/documentation/schema-library/markup-guide-metadata-segments/affiliations/), that it's getting into your [JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml), that it's getting into [Portico](https://www.portico.org/) or [DOAJ](https://doaj.org/) -- if DOAJ even takes ROR IDs: I can't recall. But anyway, you've got to make sure that anywhere you're sending article data, ROR is going along for the ride. 
 
-And actually we did it in the reverse order. We did the second part first, which was to set up all our downstream integrations and different exports to understand and expect ROR identifiers, and we shipped that all the way to production. It wasn't doing anything, but it was just there waiting to be useful. And then we did the first part, which was adding it to the various web forms so that we were actually collecting it. That allowed us to release it in two separate phases. You mentioned agile project planning: we're always looking for ways to break up an otherwise big project into a couple releases, if possible. So that's the approach we took. That can be good tip for anyone who's similarly trying to keep it bite-sized.
+And actually we did it in the reverse order. We did the second part first, which was to set up all our downstream integrations and different exports to understand and expect ROR identifiers, and we shipped that all the way to production. It wasn't doing anything, but it was just there waiting to be useful. And then we did the first part, which was adding it to the various web forms so that we were actually collecting it. That allowed us to release it in two separate phases. You mentioned Agile project planning: we're always looking for ways to break up an otherwise big project into a couple releases, if possible. So that's the approach we took. That can be good tip for anyone who's similarly trying to keep it bite-sized.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
@@ -131,11 +134,11 @@ Going back to what I said before, you need to get those two fields. We call it "
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-I had actually never the term "typeahead" before I started at ROR, but that is what we call it in all of our [documentation](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets) and our [demo](https://ror-community.github.io/ror-typeahead-demos/) and our [demo code](https://github.com/ror-community/ror-typeahead-demos). I thought of it as a "suggest box" or something.
+I had actually never seen the term "typeahead" before I started at ROR, but that is what we call it in all of our [documentation](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets) and our [demo](https://ror-community.github.io/ror-typeahead-demos/) and our [demo code](https://github.com/ror-community/ror-typeahead-demos). I thought of it as a "suggest box" or something.
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
-It's an autosuggest sort of thing, you know, like when you're doing a search, it suggests results. Anyway, so as you're typing in the name field, we're suggesting results in that typeahead. And if they click on one of those results, great, it will fill up the field, and we'll have made the association under the hood. In the interface, you could choose to expose the ROR ID or put a green check or something, and we didn't do any of that. We are just collecting it unbeknownst to the users. And to answer your question about organizations that are not in ROR, because it's a typeahead field, they can also just type whatever they want. They don't have to pick something from that list. We did think briefly about requiring ROR IDs, but we decided against that.
+It's an autosuggest sort of thing, you know, like when you're doing a search, it suggests results. Anyway, so as you're typing in the name field, we're suggesting results in that typeahead. And if they click on one of those results, great: it will fill up the field, and we'll have made the association under the hood. In the interface, you could choose to expose the ROR ID or put a green check or something, and we didn't do any of that. We are just collecting it unbeknownst to the users. And to answer your question about organizations that are not in ROR, because it's a typeahead field, they can also just type whatever they want. They don't have to pick something from that list. We did think briefly about requiring ROR IDs, but we decided against that.
 
 {{< figure src="/img/blog/scholastica/ror-integration-article-form.gif" alt="ROR typeahead in Scholastica OA Publishing Platform form" >}}
 
@@ -153,7 +156,7 @@ Feel free to do that -- we'd love to look at it. You can email it to me. That's 
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
-I would say the benefit to the users is the richer metadata. I mean, it's an obvious answer, but the users don't always think or know or care about metadata. They also might not think of it as a feature, but I do think it is that, and it does matter. At Scholastica, we try to care about that metadata -- something like ROR, for example -- on behalf of the customers, so that they don't _have_ to care about it. 
+**I would say the benefit to the users is the richer metadata. I mean, it's an obvious answer, but the users don't always think or know or care about metadata. They also might not think of it as a feature, but I do think it is that, and it does matter. At Scholastica, we try to care about that metadata -- something like ROR, for example -- on behalf of the customers, so that they don't _have_ to care about it.** 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -195,9 +198,9 @@ What do you hope ROR does in the future? What opportunities should we pursue, or
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
-The main thing is that I'm just glad ROR exists. There all kinds of reasons why you would want to know what institution an author is coming from. Before ROR, I was aware of some of the commercial competitors, but they are prohibitively expensive for many smaller journals, and they are also more difficult to integrate. We do work with bigger journals and presses, but we also work with a lot of small journals, and the price was a concern for us as well as for our customers. So when ROR came out as something that was free and community-supported, that was super important.
+The main thing is that I'm just glad ROR exists. There all kinds of reasons why you would want to know what institution an author is coming from. **Before ROR, I was aware of some of the commercial competitors, but they are prohibitively expensive for many smaller journals, and they are also more difficult to integrate. We do work with bigger journals and presses, but we also work with a lot of small journals, and the price was a concern for us as well as for our customers. When ROR came out as something that was free and community-supported, that was super important.**
 
-But that doesn't really answer your question. I would say one thing I like about how y'all have set up ROR is your [approach to parent-child or nested institutions](https://ror.readme.io/docs/ror-hierarchies-and-relationships). Obviously, you can go super deep on that and get extremely detailed. And I think y'all have helpfully resisted the urge to go deeper than in my opinion makes sense. I mean, people don't always realize that: it's kind of counterintuitive that there can be an inverse relationship between the richness of a dataset and its utility. It can get so granular, and that's cool, but then it's really hard to make any kind of inference from the data. It becomes like [Borges's map](https://en.wikipedia.org/wiki/On_Exactitude_in_Science). It's really exact, but it's useless. 
+But that doesn't really answer your question. **I would say one thing I like about how y'all have set up ROR is your [approach to parent-child or nested institutions](https://ror.readme.io/docs/ror-hierarchies-and-relationships). Obviously, you can go super deep on that and get extremely detailed. And I think y'all have helpfully resisted the urge to go deeper than in my opinion makes sense. I mean, people don't always realize that: it's kind of counterintuitive that there can be an inverse relationship between the richness of a dataset and its utility. It can get so granular, and that's cool, but then it's really hard to make any kind of inference from the data**. It becomes like [Borges's map](https://en.wikipedia.org/wiki/On_Exactitude_in_Science). It's really exact, but it's useless. 
 
 {{< figure src="/img/blog/scholastica/map-territory.png" class="blog-figure" alt="What do you consider the largest map that would be really useful? - About six inches to the mile. - Only six inches! exclaimed Mein Herr. We very soon got to six yards to the mile. Then we tried a hundred yards to the mile. And then came the grandest idea of all ! We actually made a map of the country, on the scale of a mile to the mile! - Have you used it much? I enquired. - It has never been spread out, yet, said Mein Herr: the farmers objected: they said it would cover the whole country, and shut out the sunlight! So we now use the country itself, as its own map, and I assure you it does nearly as well." caption="Carroll, Lewis, and Harry Furniss. Sylvie and Bruno Concluded. London and New York: Macmillan and Co., 1893. [HathiTrust](https://hdl.handle.net/2027/uc2.ark:/13960/t6ww7b09m?urlappend=%3Bseq=208). Accessed 22 Mar. 2023. Influence on the one-paragraph Jorge Luis Borges short story 'Del rigor en la ciencia' [(On Exactitude in Science)](https://en.wikipedia.org/wiki/On_Exactitude_in_Science), first published 1946." >}}
 
@@ -213,7 +216,9 @@ Yeah, that is what I thought initially. But I remember looking at the API and se
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-You've been so kind about ROR, when I asked you to give us constructive feedback! And hopefully, we'll get to that. But honestly I do think that is a piece of constructive feedback that we needed to hear, that we were mis-communicating about what ROR can do in terms of parent-child institutions. People often ask us about university departments in particular, and we [don't do university departments](), but that doesn't mean we don't do organizational hierarchy at all. You know, yeah, we absolutely do do that, and parent child organizations and related organizations and all that. So we've just put out a sort of an explainer and we've beefed up our documentation a lot to say, yes, we do have this so that you don't have to look at the JSON look at the API in order to figure it out. And I think actually, even on our search interface, we didn't have the relationships there for a while. And we just added that a few months ago. So, you know, since a lot of people are looking at ROR, just in that browser UI, they didn't realize it. So yeah, we put out a whole sort of very long explainer in which we talk about exactly what you just said that, you know, we really, honestly think that the degree of granularity we have, which is not as deep as some other organizational identifiers is a feature, not a bug.
+You've been so kind about ROR, when I asked you to give us constructive feedback! And hopefully we'll get to that. But honestly, I do think that is one piece of constructive feedback that we needed to hear, that we were mis-communicating about what ROR can do in terms of parent-child institutional relationships. People often ask us about university departments in particular, and we [don't do university departments](/about/faqs/#why-doesnt-ror-include-university-departments), but that doesn't mean we don't do organizational hierarchy at all. We absolutely do that: both parent-child relationships and related organizations.
+
+That's why we've just put out that [explainer blog post](/blog/2023-02-27-parents-children-and-other-relationships-in-ror/), and we've also beefed up our documentation to say, "Yes, we do hierarchy and relationships," so that you don't have to look at the [JSON in the API](https://api.ror.org/organizations) in order to figure it out. And we didn't have the relationships in [our search interface](https://ror.org/search) for awhile: we just [added that a few months ago](https://github.com/ror-community/ror-roadmap/issues/54). Since a lot of people look at ROR just in that browser search interface, they didn't realize the relationships were there. And we really do think that the degree of granularity we have, which is not as deep as some other organizational identifiers, is a feature, not a bug.
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
@@ -221,27 +226,37 @@ I agree with that. Keep it simple, or at least relatively.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-"Keep it simple, stupid," right, is the acronym.
+"Keep It Simple, Stupid," right? The [KISS acronym for that design principle](https://en.wikipedia.org/wiki/KISS_principle). 
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
-You know, I might have a better answer as we start to use it more internally. But I would say right now, it's like, actually kind of touching on what you mentioned about the Crossref API, which I love Crossref. Don't, don't get it wrong. But you know, it is it is like, just like a small example, like we had some tests in our, in our test suite, which had the Crossref API, we had to kind of disable those by default, because sometimes the API goes down, and then our test suite is failing and causes problems for us. Like, I digress, my point, what I was going to say is kind of invest in resiliency of the API, and I think of the organization because like, you know, it's increasingly useful I think, and we need it to work, us service providers.
+I might have more feedback on ROR as we start to use it more internally, but one thing I would say is that you should invest in the resiliency of the API and of the organization. This is a small example, and I love Crossref, don't get me wrong, but we had some tests in our test suite that hit the Crossref API, and we had to disable those by default, because sometimes the API goes down, and then our test suite is failing and causes problems for us. The ROR API is increasingly useful, I think, and we need it to work, us service providers.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-That is great advice. Our API has had wonderful uptime so far, we have a little heartbeat, you can check api.where.org/heartbeat. So you can just send a little quick query to that. But we definitely have been seeing increased use, and increased use, and increased use, which is great. We want that to happen. But it does mean that there are more costs. And we are, it's actually, it's, as I say, we've got this three model, or three organization model of support. So DataCite is actually the one who pays for our technical infrastructure. So and our technical lead lives because our niche works for DataCite. So she's, you know, periodically having to go back to them and say, You know, we need more, we need more AWS credits, or whatever it is. And then Crossref does kind of a lot of the financial administration stuff. But that is great advice. And then I mean, the other thing I guess I'll say about organizational resiliency is is part of technical resiliency. Last fall, we announced that ROR is now part of the operating budgets of Crossref, DataCite and CDL. So we're not going to have a member model, we might start having people register for the API at some point, just because it can be annoying not to know who's using it, or like doing tons of calls or whatever. But there's no actual plans to do that. But But CDL, Crossref and DataCite. Er, have said, Yes, we have written more into our budgets, we will support it. So as long as people are still paying member fees to DataCite and Crossref, and tuition to UC colleges, then ROR will be around.
+That is great advice. [Our API has had wonderful uptime so far](https://ror1.statuspage.io/uptime), and we have a little [API heartbeat](https://api.ror.org/heartbeat), so you can just send a little quick query to that to see if the ROR API is OK. But we definitely have been seeing increased use, and increased use, and increased use, which is great. We want that to happen, but it does mean that there are more costs. As you might know, we are [supported by three organizations](https://ror.org/about/faqs/#who-runs-ror), and [DataCite](https://datacite.org) is the one that pays for our technical infrastructure. 
+
+And I think organizational resiliency is is part of technical resiliency. Last fall, [we announced that ROR is now part of the operating budgets of Crossref, DataCite, and the California Digital Library](https://ror.org/blog/2022-10-10-strengthening-sustainability/). So we're not going to have a member model, and as long as people are still paying member fees to DataCite and Crossref and tuition to UC colleges, then ROR will be around.
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
-Right? Yeah, you know, one of the little thing about the API, we, as you're obviously aware, you can get the data dump and kind of query that or you can hit the API, we kind of evaluated both approaches. And specifically, what we were looking at is like, is this API going to be fast enough and reliable enough? Because we would prefer to hit the API than keep our own copy of the data. And in our testing, yeah, it was good. So that's, that's great.
+One other thing about the API. As you're obviously aware, you can [get the ROR data dump](https://ror.readme.io/docs/data-dump) and query that or you can hit the API, and we evaluated both approaches. Specifically, what we were looking at was "Is this API going to be fast enough and reliable enough?" because we would prefer to hit the API than keep our own copy of the data, and in our testing, it was good. So that's great.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-And to be honest, the data dump is getting updated every month. So we've had we have seen people, you can get that, you know, new ones, programmatically by querying Zenodo. But it can be a little bit of a pain to be honest to like, make sure you have the latest version of the data, and so on, which isn't that important for all implementations, but most people do want to update it. So yeah, I mean, with if you're querying the API, you don't have to worry about that. You're just getting the updated data when it gets in there. So is there anything else you'd like to say before we wrap up?
+And now that we're updating the ROR registry about twice a month, if you're using the data dump, you'll have to make sure that you have the latest version of the data. You _can_ get that programmatically [by querying Zenodo](https://ror.readme.io/docs/data-dump#download-ror-data-dumps-programmatically-with-the-zenodo-api). But if you're querying the API, you don't have to worry about that: you're just getting the updated data automatically. 
+
+### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
+
+Sure. 
+
+### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
+
+Is there anything else you'd like to say before we wrap up?
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
   
-Um, I don't I don't think so. One thing I would say is that this was a team effort. I didn't work that much on the ROR project. Brian Cody, our CEO, he did most of the project planning and actually most of the spec writing, which is not, not usually you know, how he spends most of his time. He wanted to help get this one done. So and then several different developers worked on it. Specifically one of our developers, Tatum Szymczak, really carried it across the finish line. So yeah, I mean, it's like a whole bunch of people working on it, and yeah, that's important.
+One thing I would say is that this was a team effort. I didn't work that much on the ROR project. Brian Cody, our CEO, he did most of the project planning and actually most of the spec writing, which is not usually how he spends most of his time, but he wanted to help get this one done. And several different developers worked on it. Specifically, Tatum Szymczak really carried it across the finish line. A whole bunch of people worked on it, and that's important.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
@@ -252,10 +267,10 @@ Yes, it is! Well, thanks for talking with me, Cory. It was nice to chat.
 I appreciate your time. Thanks for involving me. Happy to be doing this for ROR. 
 
 
-
-
 {{% callout color="green" icon="no-icon" %}} 
 
+- [Contact Cory Schires](mailto:cschires@scholasticahq.com), Co-founder and CTO, Scholastica
+- [Contact Amanda French](mailto:amanda@ror.org), ROR Technical Community Manager
 - [Register for an upcoming ROR Community Call](/events) to hear about integrations like these and more.
 
 {{% /callout %}} 
