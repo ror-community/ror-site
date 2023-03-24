@@ -159,13 +159,13 @@ ROR is currently being integrated by more than 50 publishers, repositories, fund
 
 ### **How do I integrate ROR in my system?**
 
-The [ROR support site](https://ror.readme.io) offers guidance for those integrating ROR in their systems. If you need additional support, reach out via the [technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-tech) or send an email to [support@ror.org](mailto:support@ror.org).
+The [ROR documentation site](https://ror.readme.io) offers guidance for those integrating ROR in their systems. If you need additional support, reach out via the [technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-tech) or send an email to [support@ror.org](mailto:support@ror.org).
 
 ***
 
 ### **Does ROR have an API?**
 
-ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR support site for [API documentation](https://ror.readme.io/docs/rest-api).
+ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/rest-api).
 
 ***
 
@@ -197,7 +197,7 @@ To request a change to an organization’s ROR record, submit the [curation requ
 
 ### **Who is the contact person at my organization responsible for our ROR ID?**
 
-The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org)
+The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org).
 
 ***
 

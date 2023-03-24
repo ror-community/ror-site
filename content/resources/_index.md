@@ -7,5 +7,5 @@ style = "card-plain"
 +++
 
 <div class="alert alert-dark" role="alert">
-    ROR resources have moved! Find them on our support site <b><a href="https://ror.readme.io">https://ror.readme.io</a></b>
+    ROR resources have moved! Find them on our documentation site <b><a href="https://ror.readme.io">https://ror.readme.io</a></b>
 </div>

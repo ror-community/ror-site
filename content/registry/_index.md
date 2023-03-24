@@ -38,7 +38,7 @@ ROR registry records include a unique ID for each organization along with additi
 
 All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 
-More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR support site](https://ror.readme.io). 
+More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR documentation site](https://ror.readme.io). 
 
 ## Scope and criteria for inclusion
 ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
