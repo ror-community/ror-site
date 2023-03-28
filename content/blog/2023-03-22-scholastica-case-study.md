@@ -76,7 +76,7 @@ You're obviously very good about [announcing new features in your products](http
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
  
-Thanks. Again, credit to Danielle for marketing. At Scholastica, we all advocate for shipping features around integrating our software with industry partners or improving our existing integrations with solutions that support the flow of research throughout the scholarly communication lifecycle. Integrations enable us to connect with the broader publishing and research community more to keep raising awareness of Scholastica and to support important initiatives like ROR, so it's a win-win.
+Thanks. Again, credit to Danielle for marketing. At Scholastica, we all advocate for shipping features that are important to industry partners and improving our existing integrations to better support the flow of research. We like to stay connected with the broader publishing and research community not only to keep raising awareness of Scholastica, but also to support important initiatives like ROR, so it's a win-win.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
