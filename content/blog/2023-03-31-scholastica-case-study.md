@@ -1,7 +1,7 @@
 +++ 
 title = "Case Study: ROR in Scholastica Products" 
-date = "2023-03-22" 
-draft = false 
+date = "2023-03-31" 
+draft = true 
 tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
 categories = ["case-studies"] 
 style = "card-plain" 
