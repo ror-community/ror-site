@@ -68,7 +68,7 @@ Who were the primary advocates of implementing ROR at your organization?
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
  
-I would say it was the sales team and Brian Cody, our CEO. The sales team is obviously always talking to a lot of prospective customers and sometimes to current customers, and people are always asking for things. We're very dutiful about keeping notes on all of that and tracking what people are asking for. So while we heard it from the sales team,they're ultimately relaying customer requests. If enough people ask for something, we'll probably build it.
+I would say it was the sales team and Brian Cody, our CEO. The sales team is obviously always talking to a lot of prospective customers and sometimes to current customers, and people are always asking for things. We're very dutiful about keeping notes on all of that and tracking what people are asking for. So while we heard it from the sales team, they're ultimately relaying customer requests. If enough people ask for something, we'll probably build it.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
@@ -218,7 +218,7 @@ Yeah, that is what I thought initially. But I remember looking at the API and se
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
-You've been so kind about ROR when I asked you to give us constructive feedback! And hopefully, we'll get to that. But honestly, I do think that is one piece of constructive feedback that we needed to hear, that we were miscommunicating about what ROR can do in terms of parent-child institutional relationships. People often ask us about university departments in particular, and we [don't do university departments](/about/faqs/#why-doesnt-ror-include-university-departments), but that doesn't mean we don't do organizational hierarchy at all. We absolutely do that: for both parent-child relationships and related organizations.
+You've been so kind about ROR when I asked you to give us constructive feedback! And hopefully, we'll get to that. But honestly, I do think that is one piece of constructive feedback that we needed to hear, that we were mis-communicating about what ROR can do in terms of parent-child institutional relationships. People often ask us about university departments in particular, and we [don't do university departments](/about/faqs/#why-doesnt-ror-include-university-departments), but that doesn't mean we don't do organizational hierarchy at all. We absolutely do that: for both parent-child relationships and related organizations.
 
 That's why we've just put out that [explainer blog post](/blog/2023-02-27-parents-children-and-other-relationships-in-ror/), and we've also beefed up our documentation to say, "Yes, we do hierarchy and relationships," so that you don't have to look at the [JSON in the API](https://api.ror.org/organizations) in order to figure it out. And we didn't have the relationships in [our search interface](https://ror.org/search) for awhile: we just [added that a few months ago](https://github.com/ror-community/ror-roadmap/issues/54). Since a lot of people look at ROR just in that browser search interface, they didn't realize the relationships were there. And we really do think that the degree of granularity we have, which is not as deep as some other organizational identifiers, is a feature, not a bug.
 
