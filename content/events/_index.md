@@ -14,16 +14,6 @@ description = "Research Organization Registry (ROR) events"
 
 ## Upcoming events
 
-### ROR Community Call - March 2023
-- Date and time: Tuesday, March 28th, 2023 at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+March+2023&iso=20230328T15&p1=1440&ah=1) (1 hour) 
-- Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
-- Recorded: Yes
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJ0sdO6orz8pGdHRQxs-1Kl0HOLVWTfSlMKO" %}} Register for ROR Community Call - March 2023 {{% /button %}}
-
----
-
 ### LIBER, EIFL and SCOSS joint webinar: Keeping open infrastructure open 
 - Date and time: Wednesday, March 29, 2023 at [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=+Keeping+open+infrastructure+open&iso=20230329T14&p1=%3A) (1 hour 15 minutes)
 - Location: Online
@@ -94,7 +84,9 @@ description = "Research Organization Registry (ROR) events"
 
 ## Past events 
 
-### [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - Mar 2023
+### [ROR Community Call](2023-03-28-ror-community-call) - March 28, 2023
 
-### [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - Jan / Feb 2023
+### [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - March 16, 2023
+
+### [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - January 31 / February 1 2023
 
