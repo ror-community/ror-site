@@ -1,3 +1,4 @@
+<<<<<<<< HEAD:content/blog/2023-03-31-scholastica-case-study.md
 +++ 
 title = "Case Study: ROR in Scholastica Products" 
 date = "2023-03-31" 
@@ -5,6 +6,15 @@ draft = true
 tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
 categories = ["case-studies"] 
 style = "card-plain" 
+========
++++
+title = "Case Study: ROR in Scholastica Products"
+date = "2023-03-30"
+draft = false
+tags = ["Adoption", "Integrations", "Community", "Case Studies"]
+categories = ["case-studies"]
+style = "card-plain"
+>>>>>>>> scholastica:content/blog/2023-03-30-scholastica-case-study.md
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg"
 images = ['https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg']
