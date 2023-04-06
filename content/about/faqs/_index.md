@@ -76,7 +76,7 @@ Common types of entities that are in scope for ROR include
 
 Common types of entities that are out of scope for ROR include
 
-- Departments and subdivisions within organizations
+- Departments within organizations
 - Companies that are not involved in research
 - Single-person consultancies
 - Pre-collegiate schools 
