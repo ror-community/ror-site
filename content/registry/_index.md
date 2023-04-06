@@ -43,11 +43,11 @@ More information about the structure of the ROR identifier, the ROR metadata sch
 ## Scope and criteria for inclusion
 ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
 
-ROR's aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, educator, funder, or scholarly society.
+ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. Therefore, one of the most important criteria we use to decide whether to add an organization to ROR is whether researchers list that organization as an affiliation in existing published research outputs.
 
-ROR is focused on being a high-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping departments within institutions, though some sub-units such as research institutes are in scope. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
+ROR is focused on being a high-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping departments within institutions, though some sub-units such as research institutes and laboratories are in scope. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
 
-See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror)
+See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ## Relationship to other identifiers
 ROR has some similarities with other organization identifiers but it differs from other identifiers in a few fundamental ways:
