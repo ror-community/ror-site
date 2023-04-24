@@ -14,26 +14,6 @@ description = "Research Organization Registry (ROR) events"
 
 ## Upcoming events
 
-
-### ROR Open Hours 2nd Thursdays
-- Date and time: Thursday, April 13, 2023 at [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230413T14&p1=1440&ah=1) (1 hour)
-- Location: Online
-- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset.
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours 2nd Thursdays {{% /button %}}
-
----
-
-### Identificadores Persistentes (PIDs) y la Ciencia Abierta en América Latina
-- Date and time: martes, 18 de Abril 2023, 11:00 - 17:00 ART
-- Location: Buenos Aires, Argentina
-- Description: Un evento enteramente dedicado a los identificadores persistentes y la ciencia abierta en América Latina, con DataCite, ORCID y ROR a [csv,conf,v7](https://csvconf.com/). 
-
-{{% button color="green" link="https://www.eventbrite.com/e/identificadores-persistentes-pids-y-la-ciencia-abierta-en-america-latina-tickets-547874145317" %}} Regístrese en Eventbrite {{% /button %}}
-
----
-
 ### ROR Open Hours 1st Wednesdays
 - Date and time: Wednesday, May 3, 2023 at [8pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours+-+1st+Wednesdays&iso=20230503T20&p1=%3A) (1 hour)
 - Location: Online
