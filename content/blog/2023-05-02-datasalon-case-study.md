@@ -156,7 +156,7 @@ OrgRef itself was extracted from structured information on Wikipedia and other o
 
 That was very generous of you.
 
-### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
+### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
 Well, it was free and open anyway! But we stepped back and let them carry on, just because we're quite a small company. We had other products and projects that we were more focused on. The main goal was really to have an open data set that could be used by those who couldn't afford Ringgold and that could be used within our products. If someone else was willing to take that on, that was fine by us.
 
@@ -258,7 +258,9 @@ Is the matching that you do entirely automated, or is there any human checking a
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-There is some manual checking that goes on, but it's predominantly automated. I would say probably 90% is automated. There is a manual checking process where we'll go through and make sure there's no obvious incorrect links there. That gets used in a couple of different ways. The first is on the fly, during the build processes for our two products, MasterVision and PaperStack. What we're doing is we're taking weekly data uploads from the publisher and then rebuilding those sites for them on a weekly basis, sometimes on a daily basis. Part of that build process will be running that matching against the latest data that we receive so that the publisher has the latest, best, single standard record for a given institutional customer based on the latest data available. In that sense, it's working in an automated way as part of the build process, so if there's half a dozen versions of "Oxford University," then we would link those up during that build. Obviously, if there are IDs that we can use from Ringgold or ROR, then we can use those in the build process for creating that single standard record. And then we also use the auto-matching tools that we have, to provide additional services to publishers. Some might not be MasterVision or PaperStack clients. They might come to us and say, "We've got 10,000 institutional records that are just a complete mess from this particular database, that we've been keeping for the last ten years. Can you deduplicate it? Standardize it? Match it to ROR?" And we can do that for them. It's part of the service that we can provide as well.
+There is some manual checking that goes on, but it's predominantly automated. I would say probably 90% is automated. There is a manual checking process where we'll go through and make sure there's no obvious incorrect links there. That gets used in a couple of different ways. The first is on the fly, during the build processes for our two products, MasterVision and PaperStack. What we're doing is we're taking weekly data uploads from the publisher and then rebuilding those sites for them on a weekly basis, sometimes on a daily basis. Part of that build process will be running that matching against the latest data that we receive so that the publisher has the latest, best, single standard record for a given institutional customer based on the latest data available. In that sense, it's working in an automated way as part of the build process, so if there's half a dozen versions of "Oxford University," then we would link those up during that build. Obviously, if there are IDs that we can use from Ringgold or ROR, then we can use those in the build process for creating that single standard record. 
+
+And then we also use the auto-matching tools that we have to provide additional services to publishers. Some might not be MasterVision or PaperStack clients. They might come to us and say, "We've got 10,000 institutional records that are just a complete mess from this particular database, that we've been keeping for the last ten years. Can you deduplicate it? Standardize it? Match it to ROR?" And we can do that for them. It's part of the service that we can provide as well.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -350,7 +352,7 @@ Sure.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-Right. We hear that a lot, that collecting beautifully structured, accurate metadata at the beginning is the ideal, but it just can't always happen that way. Particularly in the case of affiliations, which were collected so often just in a text field, It can be very difficult.
+Right. We hear that a lot, that collecting beautifully structured, accurate metadata at the beginning is the ideal, but it just can't always happen that way. Particularly in the case of affiliations, which were collected so often just in a text field, it can be very difficult.
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
