@@ -237,11 +237,12 @@ Wow.
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
 We are very proud of our auto-matching tools which can link 'real world' (i.e., messy!) publisher data to the correct ROR records with an impressive degree of accuracy. The rules and exceptions in play there have been refined over many years. For example, ROR ID [https://ror.org/04cvxnb49](https://ror.org/04cvxnb49) (Goethe University Frankfurt) brings together many different names:
-Goethe University
-Goethe University, Frankfurt
-Goethe-Universitat Frankfurt am Main
-Goethe-University
-Johann Wolfgang Goethe University
+
+- Goethe University
+- Goethe University, Frankfurt
+- Goethe-Universität Frankfurt am Main
+- Goethe-University
+- Johann Wolfgang Goethe University
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
