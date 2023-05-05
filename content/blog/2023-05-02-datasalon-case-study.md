@@ -12,7 +12,7 @@ author = "Amanda French"
 description = ""
 +++
 
-In January of 2022, DataSalon [announced a full integration of ROR](https://www.datasalon.com/web/downloads/press/PR_ROR.pdf) into its scholarly publishing analytics products MasterVision and PaperStack. DataSalon's Client Services Director Andy Dobson sat down with us to tell us all about how they draw on fifteen years of data experience to match organizational affiliations in publisher data to ROR IDs.
+In January of 2022, DataSalon [announced a full integration of ROR](https://www.datasalon.com/web/downloads/press/PR_ROR.pdf) into its scholarly publishing analytics products [MasterVision](https://www.datasalon.com/web/features/dashboards.htm) and [PaperStack](https://www.datasalon.com/web/features/paperstack.htm). DataSalon's Client Services Director Andy Dobson sat down with us to tell us all about how they draw on fifteen years of data experience to match organizational affiliations in publisher data to ROR IDs.
 
 {{% callout color="green" icon="no-icon" %}}
 
@@ -20,7 +20,7 @@ In January of 2022, DataSalon [announced a full integration of ROR](https://www.
 
 "We're really interested in data standardization and cleansing: that's central to what we do, so we're all very aware of the importance of having a free and open standard reference dataset for identifying organizations and for supporting some of the other datasets that get loaded into our products. Open source data is key to our ethos."
 
-"And if you're moving into OA, and you're not understanding a standardized picture of your customer hierarchy, and you don't know how many articles are coming out of the University of Oxford and how much they should be paying in article fees, then that becomes really tricky. There are potentially significant financial implications, on the customer service side, by not having a dataset that allows you to clean up and standardize all of those customer pictures within your data."
+"And if you're moving into OA, and you're not understanding a standardized picture of your customer hierarchy, and you don't know how many articles are coming out of the University of Oxford and how much they should be paying in article fees, then that becomes really tricky. There are potentially significant financial implications, on the customer service side, of not having a dataset that allows you to clean up and standardize all of those customer pictures within your data."
 
 "ROR does open up new possibilities for us, such as integrating some of the other systems that are around at the moment. We're currently looking at bringing OpenAlex IDs into PaperStack. That should be really straightforward, because you can use the ROR IDs to retrieve the OpenAlex IDs through their API."
 
@@ -54,23 +54,7 @@ I've previously worked at Elsevier and Ingenta, and all of the staff have worked
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-Right. And how many people at DataSalon, roughly?
-
-### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
-
-There are twelve of us.
-
-### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
-
-That is small!
-
-### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
-
-Yes, it's pretty small.
-
-### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
-
-But mighty?
+So you're saying that you're small but mighty?
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
@@ -98,6 +82,8 @@ I can see why you would be interested in ROR, then.
 
 Yes, exactly. So having a reference record to tie customers to is really important, and having the hierarchy of those customers offers vital context. MasterVision is predominantly a sales and marketing tool, and allows publishers to look for sales opportunities and to provide better customer service through having a deep understanding of their customers. If you've got customer data in multiple datasets living in multiple systems, it's time-consuming to go in and query each of those separately. Whereas pulling all those together into a system, that can't be broken by end users, allows staff to see exactly what's going on on a customer basis for all aspects of the relationship. And it's extremely quick and simple to get answers. So rather than getting IT involved to run complex queries across multiple systems, the end user, even if they're non-technical, can do that themselves. You can put together quite complex queries with MasterVision: "Who does XYZ, but doesn’t do A or B?"
 
+{{< figure src="/img/blog/datasalon/datasalon-medical.png" alt="Data showing 1246 institutions with medical books as a blue circle and 1240 institutions with medical journals as a yellow circle with the overlapping area in green with 996 institutions with both medical books and medical journals" >}} 
+
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
 It sounds like you anticipated data science before "data science" was really a term.
@@ -108,7 +94,9 @@ Yes, we've been doing this for quite a long time now. We feel like we were one o
 
 Our other product, PaperStack, works on a similar basis. It's providing publishers with a complete reporting suite for the scholarly submissions process. It is fully integrated with major peer review systems including ScholarOne and Aries Editorial Manager, meaning there is almost zero publisher overhead to get up and running. As a standard part of the service, data from peer review systems is also automatically linked and enhanced using industry data from ROR or Ringgold, Funder Registry, ORCID, and Crossref - all helping to maximize reporting insights. This results in a clean, standardized and comprehensive cross-journal view, available at the institutional, funder, author, and article level. As far as possible PaperStack aims to provide a service with zero overhead in terms of effort on the publisher's part. What we're doing is providing a contextualized and enhanced view of their peer reviewed data, including details of where rejected articles end up.
 
-By "contextualized," I mean that we're using ROR, Ringgold, Funder Registry data, ORCIDs, publication information from Crossref, etc., for building out a comprehensive view of not only the timeline of a given article, but also all of the other big pieces of the puzzle: What are the affiliations of the authors and the editors? What is the hierarchy in terms of organizations they're affiliated with now? How was that then and what does it look like now? How long did it take an article to be accepted? What did it ultimately get published? We use all that data to create a set of standardized reports that publishers can use, as well as helping them to create additional customized reports that they might want to design to meet their business needs. So PaperStack provides extremely detailed, responsive, and visually appealing reporting of their scholarly submissions.
+{{< figure src="/img/blog/datasalon/datasalon-denials.png" alt="Chart titled Rejected Article Tracking showing 271,002 total rejected articles to begin with and over time 22.6% were later published with us, 55.9% were later published elsewhere, and 21.5% not published, with subsequent names of publishers and journals where the rejected articles were published" >}} 
+
+By "contextualized," I mean that we're using ROR, Ringgold, Funder Registry data, ORCIDs, publication information from Crossref, etc., for building out a comprehensive view of not only the timeline of a given article, but also all of the other big pieces of the puzzle: What are the affiliations of the authors and the editors? What is the hierarchy in terms of organizations they're affiliated with now? How was that then and what does it look like now? How long did it take an article to be accepted? Where did it ultimately get published? We use all that data to create a set of standardized reports that publishers can use, as well as helping them to create additional customized reports that they might want to design to meet their business needs. So PaperStack provides extremely detailed, responsive, and visually appealing reporting of their scholarly submissions.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -136,7 +124,7 @@ Yes. Just to go back slightly: as an organization, we've always used an org data
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-Oh, I didn't realize! I'm only vaguely familiar with it. I hadn't known that.
+I'm somewhat familiar with it.
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
@@ -162,7 +150,7 @@ Well, it was free and open anyway! But we stepped back and let them carry on, ju
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-This my own speculation, because I didn't join ROR or these efforts until last year, right as GRID was sunsetting. But my sense is that even Digital Science may have felt the same way. And they were very helpful in setting up ROR. They did do GRID, and obviously they maintained it, and they were releasing, I think, quarterly. But they might also have been happy to have someone else take it on as a full-time, single-focus project rather than it being something that was helpful to the community generally, and necessary for their own systems, but not a product in itself.
+They were very helpful in setting up ROR. 
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
@@ -174,7 +162,7 @@ Right.
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-And ROR probably [sits within that Crossref space](https://www.crossref.org/community/ror/) better. A lot of what we were doing was pretty much automated, although there was some manual input. As I understand it, there's more manual input on the Ringgold side for digging out the right record, making sure that that is the right address, etc. They'll resolve institutional lists that you might want to provide to them, and they do some other bits and pieces that sit outside of what is possible with automation alone. It comes down to, I suppose, publishers getting what they pay for. But having a free and open reference dataset is great for everyone.
+And ROR probably sits within that Crossref space better. A lot of what we were doing was pretty much automated, although there was some manual input. As I understand it, there's more manual input on the Ringgold side for digging out the right record, making sure that that is the right address, etc. They'll resolve institutional lists that you might want to provide to them, and they do some other bits and pieces that sit outside of what is possible with automation alone. It comes down to, I suppose, publishers getting what they pay for. But having a free and open reference dataset is great for everyone.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -185,8 +173,11 @@ Great. Can you take us through some details of what you've done in your ROR inte
 Yes, okay. The ROR integration was very straightforward. We use ROR in both our core services, MasterVision and PaperStack – both of these join together data from multiple sources to give a complete picture of customer activity (for the former) and the editorial process (for the latter), and to do that we need to identify which records relate to the same institution or individual. Matching with ROR means we can link up all the activity by a particular customer even if the data doesn’t have any other IDs or if multiple customer IDs have mistakenly been assigned to the same institution – which happens a lot!
 
 It also means we can standardize the data – we use the name and location information from ROR for the main display, so that the format is consistent across all data sources.
-We do the matching not just for institutions but also for individuals, to link them to their associated institution, which means that our clients are able to analyze data available at the individual level (like article submissions or pay per view purchases) at the institutional level.
+We do the matching not just for institutions but also for individuals, to link them to their associated institution, which means that our clients are able to analyze data available at the individual level (like article submissions or pay per view purchases), as well as at the institutional level.
+
 We also use the parent/child information included in ROR to show the relationships between records, with a family-tree style hierarchy viewer. Making use of hierarchy data allows clients to achieve complex uses around activity, be it funding, article submissions, content purchasing at any level in that hierarchy, or for example, do institutions access content that their associated authors submit to.
+{{< figure src="/img/blog/datasalon/datasalon-oxford.png" alt="Database graphic showing institutional hierarchy with the top parent organization being Southern Universities Purchasing Consortium then University of Oxford and its children with Christ Church selected" >}} 
+
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -210,7 +201,7 @@ And when you say customer IDs, what do you mean?
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-If the fulfillment data, for instance, that we receive from a publisher contains a ROR ID, or a Ringgold ID, we've immediately got a match to the full ROR to Ringgold record. So where those are used in the publisher data, we will match that to the standard records.
+If the fulfillment data, for instance, that we receive from a publisher contains a ROR ID, or a Ringgold ID, we've immediately got a match to the full ROR or Ringgold record. So where those are used in the publisher data, we will match that to the standard records.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -260,7 +251,7 @@ Is the matching that you do entirely automated, or is there any human checking a
 
 There is some manual checking that goes on, but it's predominantly automated. I would say probably 90% is automated. There is a manual checking process where we'll go through and make sure there's no obvious incorrect links there. That gets used in a couple of different ways. The first is on the fly, during the build processes for our two products, MasterVision and PaperStack. What we're doing is we're taking weekly data uploads from the publisher and then rebuilding those sites for them on a weekly basis, sometimes on a daily basis. Part of that build process will be running that matching against the latest data that we receive so that the publisher has the latest, best, single standard record for a given institutional customer based on the latest data available. In that sense, it's working in an automated way as part of the build process, so if there's half a dozen versions of "Oxford University," then we would link those up during that build. Obviously, if there are IDs that we can use from Ringgold or ROR, then we can use those in the build process for creating that single standard record. 
 
-And then we also use the auto-matching tools that we have to provide additional services to publishers. Some might not be MasterVision or PaperStack clients. They might come to us and say, "We've got 10,000 institutional records that are just a complete mess from this particular database, that we've been keeping for the last ten years. Can you deduplicate it? Standardize it? Match it to ROR?" And we can do that for them. It's part of the service that we can provide as well.
+And then we also use the auto-matching tools that we have to provide additional services to publishers. Some might not be MasterVision or PaperStack clients. They might come to us and say, "We've got 10,000 institutional records that are just a complete mess from this particular database that we've been keeping for the last ten years. Can you deduplicate it? Standardize it? Match it to ROR?" And we can do that for them. It's part of the service that we can provide as well.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -284,7 +275,7 @@ I know it's hard to tell.
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-It's tricky, because It depends on what the original data is like. Sometimes the matching might be 90%, sometimes it might be 70%; it just depends on how clean the input data is. But I would say around 80% is probably right.
+It's tricky, because it depends on what the original data is like. Sometimes the matching might be 90%, sometimes it might be 70%; it just depends on how clean the input data is. But I would say around 80% is probably right.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -324,17 +315,19 @@ Perfect. Just a couple of more questions. What do you hope ROR does in the futur
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-Not especially. Our main concern previously was that there was no concept of inactive organizations, so it's great that [that's been addressed](https://ror.org/blog/2022-12-07-handling-org-status/). Going forward, I guess the best thing from our point of view would be adding new records just to increase the scope of the dataset. 
+Our main concern previously was that there was no concept of inactive organizations, so it's great that [that's been addressed](https://ror.org/blog/2022-12-07-handling-org-status/). Going forward, I guess the best thing from our point of view would be adding new records just to increase the scope of the dataset. 
 
-It's also key for us to keep the [organizational hierarchies](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) lean and relevant. As we talked about, having too many layers just takes away the usefulness of it and just muddies the water a bit. You don't need to know ten layers down what's going on, because it's either not important or not relevant. That's probably the main thing from our side, really, just for what we do, because that allows us to keep things like hierarchies within MasterVision and PaperStack understandable. If you're looking for a sales prospect, or you want to understand at what level a subscription's sitting at, or you want to know what authors are submitting at what institution, you don't need many levels. You want to know those direct relationships, and maybe one or two layers down, but you don't need to know that someone worked in a department of a library at the college or X university, which isn't going to be particularly relevant to the sorts of analysis you want to do as a publisher.
+It's also key for us to keep the [organizational hierarchies](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) lean and relevant. As we talked about, having too many layers just takes away the usefulness of it and muddies the water a bit. You don't need to know ten layers down what's going on, because it's likely not important or not relevant. That's probably the main thing from our side, really, just for what we do, because that allows us to keep things like hierarchies within MasterVision and PaperStack understandable. If you're looking for a sales prospect, or you want to understand at what level a subscription's sitting at, or you want to know what authors are submitting at what institution, you don't need many levels. You want to know those direct relationships, and maybe one or two layers down, but you don't need to know that someone worked in a department of a library at the college of X university, which probably isn't going to be particularly relevant to the sorts of analysis you want to do as a publisher.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-And let me ask you this -- and let me see if I can phrase this correctly, because I'm coming up with it off the top of my head. What I'm wondering about is what the business case for ROR is for you, but also for publishers or other entities. How is ROR adding value to for-profit enterprises, given that it itself is free and open?
+What I'm also wondering about is what the business case for ROR is -- for you, but also for publishers or other entities. How is ROR adding value to for-profit enterprises, given that it itself is free and open?
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-It comes down to the standardization of your customer data and to have a unique way of identifying a given customer / organization, within the sphere of your relationship and within scholarly publishing more widely. If you can't associate all of your customer activity to a standardized picture of each organization, then what you're left with is a very messy picture that is difficult to understand, and it's very time-consuming to analyze and get into the guts of what your relationship with them ultimately is. If you've got multiple versions of an institution that you're not tying together in a single record, then you don't know, potentially, the full value that X University is getting from the deal. For example, if a customer is referenced differently within both [COUNTER data](https://www.projectcounter.org/) and fulfillment data, and you can’t join those records together, then you’re not going to be unable to understand how much use they are making of their subscriptions. It also has a big impact on the customer relationship. When it comes to things like renewing sales, if you can’t actually tie up all of the different sublevels of the hierarchy of Oxford University to the top level, you could end up trying to sell things they already buy and it becomes a very untrusting relationship.
+It comes down to the standardization of your customer data and to have a unique way of identifying a given customer / organization, within the sphere of your relationship and within scholarly publishing more widely. If you can't associate all of your customer activity to a standardized picture of each organization, then what you're left with is a very messy picture that is difficult to understand, and it's very time-consuming to analyze and get into the guts of what your relationship with them ultimately is. If you've got multiple versions of an institution that you're not tying together in a single record, then you don't know, potentially, the full value that X University is getting from the deal.
+
+For example, if a customer is referenced differently within both [COUNTER data](https://www.projectcounter.org/) and fulfillment data, and you can’t join those records together, then you’re not going to be able to understand how much use they are making of their subscriptions. It also has a big impact on the customer relationship. When it comes to things like renewing sales, if you can’t actually tie up all of the different sublevels of the hierarchy of Oxford University to the top level, you could end up trying to sell things they already buy and it becomes a very untrusting relationship.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -342,15 +335,15 @@ Yes indeed.
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-If you're making a decision as a library based on how much content is being used, then you want to make sure your usage numbers align with what the publisher is seeing. And as a publisher, if you're not able to present consistent numbers because you're not able to tie up usage of the Bodleian Library with the University of Oxford, then it becomes a very difficult conversation. It's like any customer relationship, one needs to feel valued and fully understood. None of us want to be mistaken for somebody else!
+If you're making a decision as a library based on how much content is being used, then you want to make sure your usage numbers align with what the publisher is seeing. And as a publisher, if you're not able to present consistent numbers because you're not able to tie up usage of the Bodleian Library with the University of Oxford, then it becomes a very difficult conversation. It's like any customer relationship: one needs to feel valued and fully understood. None of us want to be mistaken for somebody else!
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-Sure.
+Definitely.
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-**And if you're moving into OA, and you're not understanding a standardized picture of your customer hierarchy, and you don't know how many articles are coming out of the University of Oxford and how much they should be paying in article fees, then that becomes really tricky. There are potentially significant financial implications, on the customer service side, by not having a dataset that allows you to clean up and standardize all of those customer pictures within your data.** Having access to ROR and services like MasterVision allows publishers to continue to maintain and use their existing databases, and the imperfections therein, whilst being confident that they can clean and standardize data in an effective and economical way further downstream.
+**And if you're moving into OA, and you're not understanding a standardized picture of your customer hierarchy, and you don't know how many articles are coming out of the University of Oxford and how much they should be paying in article fees, then that becomes really tricky. There are potentially significant financial implications, on the customer service side, of not having a dataset that allows you to clean up and standardize all of those customer pictures within your data.** Having access to ROR and services like MasterVision allows publishers to continue to maintain and use their existing databases, and the imperfections therein, whilst being confident that they can clean and standardize data in an effective and economical way further downstream.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -358,7 +351,7 @@ Right. We hear that a lot, that collecting beautifully structured, accurate meta
 
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
-Yes, exactly. While we would always recommend putting good data governance practices into place, that is not always possible or affordable. Having access to services that allows one to get the most out of what one has is the next best thing.
+Yes, exactly. While we would always recommend putting good data governance practices into place, that is not always possible or affordable. Having access to services that allow one to get the most out of what one has is the next best thing.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -375,3 +368,6 @@ Great. Well, thank you so much again for doing this with us, Andy.
 ### {{< figure src="/img/blog/datasalon/profile_andy.png" class="round-figure" alt="Andy Dobson" >}} Andy Dobson
 
 Thank you for the opportunity.
+
+
+
