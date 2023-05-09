@@ -83,7 +83,7 @@ Throughout the day, the sessions and participant engagement demonstrated not onl
 
 We at DataCite, ORCID, and ROR express our gratitude for the effusive response to this event and the satellite discussions that took place on the preceding and following days, all of which speak to the leading role that Latin America is playing in developing infrastructures, policies, and practices for promoting collaboration around open knowledge, redistributing global research networks, and making it possible for *all* countries to have greater access to science and technology. It was great to meet the Latin American community in person and we hope to continue working together to build an open and robust research infrastructure!
 
-{{< figure src="/img/blog/pidslatam/pidslatam-group-photo.jpg" class="blog-figure" alt="(Happy!) participants of the PIDs and open science in Latin America event.">}}
+{{< figure src="/img/blog/pidslatam/pidslatam-group-photo.jpg" class="blog-figure" alt="(Happy!) participants of the PIDs and open science in Latin America event." caption="(Happy!) participants of the PIDs and open science in Latin America event.">}}
 
 ***
 # PIDs y Ciencia Abierta: Construyendo comunidad en América Latina
