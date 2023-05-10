@@ -44,13 +44,12 @@ The Community Advisory Group is the primary way to get involved in ROR, engage w
 ## Curation Advisory Board
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
-## Adopters
-A number of systems have already integrated or are working on integrating with ROR to collect and display clean and consistent affiliation data. Current self-reported integrations are listed in the gallery below. If you are working something and it does not appear on the list, let us know via [this form](https://airtable.com/shrQlmqDpXie13ufz).
+## Users
+Many scholarly communication systems are already using ROR's API or data, and many others are working on integrating ROR. Most known system integrations of ROR are are listed in the gallery below. If you are working on a ROR integration and it does not appear on the list, please let us know via [the ROR User Information form](https://airtable.com/shrQlmqDpXie13ufz).
 
-For support adopting ROR, join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) and check out the [developer documentation](https://ror.readme.io).
-
-### Current ROR integrations
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+Those who use or are interested in using ROR's API or data are advised to join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) in order to receive data and API updates and to check out the [developer documentation](https://ror.readme.io).
 
 ## Supporters
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
