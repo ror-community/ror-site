@@ -11,6 +11,46 @@ aliases = [
 
 {{% toc %}}
 
+## Submitting registry updates
+
+The process of registering ROR IDs and maintaining ROR records is different from the workflows for ORCID iDs and DOIs. Unlike ORCID iDs and DOIs, ROR IDs are created and maintained through a centralized, community-based curation process.
+
+Anyone can suggest additions or updates to the registry. You do not need to be affiliated with an organization to suggest changes to the organization's record in ROR.
+
+{{% centered %}}
+
+{{% button color="green" link="https://curation-request.ror.org" %}} Request a change or addition to the registry {{% /button %}}
+
+{{% /centered %}}
+
+After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies. Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump.
+
+Registry data is updated on a rolling basis. New releases are available approximately every month.
+
+The curation process is openly available on [Github](https://github.com/ror-community/ror-updates#ror-updates). Anyone can follow along with the curation process by watching individual [issues](https://github.com/ror-community/ror-updates/issues) and following their progress on the [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
+
+{{% callout icon="no-icon"%}}
+
+**Why did ROR develop this curation model?**
+
+ROR developed its curation model following discussions and consultations with community stakeholders about how to approach curation. A number of factors influenced the ultimate model that ROR employs today.
+
+- Community stakeholders were not in agreement that organizations should control their own records
+- ROR metadata is based on public information about organizations that can be easily verified
+- Centralizing curation is a more scalable approach
+- Allowing for broad community feedback leverages knowledge and expertise from across the community and helps to reinforce community ownership of ROR's infrastructure
+- Centralizing the review and decision-making process ensures consistency and integrity of metadata across the entire registry
+
+{{% /callout %}}
+
+## Scope and criteria for inclusion
+ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
+
+ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. Therefore, one of the most important criteria we use to decide whether to add an organization to ROR is whether researchers list that organization as an affiliation in existing published research outputs.
+
+ROR is focused on being a high-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping departments within institutions, though some sub-units such as research institutes and laboratories are in scope. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
+
+See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ## Accessing the registry
 
@@ -40,14 +80,7 @@ All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Univers
 
 More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR documentation site](https://ror.readme.io). 
 
-## Scope and criteria for inclusion
-ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
 
-ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. Therefore, one of the most important criteria we use to decide whether to add an organization to ROR is whether researchers list that organization as an affiliation in existing published research outputs.
-
-ROR is focused on being a high-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping departments within institutions, though some sub-units such as research institutes and laboratories are in scope. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
-
-See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ## Relationship to other identifiers
 ROR has some similarities with other organization identifiers but it differs from other identifiers in a few fundamental ways:
@@ -61,32 +94,6 @@ ROR IDs crosswalk to other open, globally used identifiers when they are availab
 
 ROR initially launched with seed data from [GRID](https://grid.ac). ROR IDs were synced with GRID between January 2019 and March 2022. ROR IDs previously crosswalked to GRID IDs but these are being phased out of registry records as GRID has since sunset its publicly available IDs following its [announcement in July 2021](https://ror.org/blog/2021-07-12-ror-grid-the-way-forward/) that it would discontinue its public data offering.
 
-## Curation model
-Registry data is updated on a rolling basis. New releases are available approximately every month.
-
-The process of registering ROR IDs and maintaining ROR records is different from the workflows for ORCID iDs and DOIs. Unlike ORCID iDs and DOIs, ROR IDs are created and maintained through a centralized, community-based curation process.
-
-Anyone can suggest additions or updates to the registry via the [public request form](https://curation-request.ror.org). You do not need to be affiliated with an organization to suggest changes to the organization's record in ROR.
-
-After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies.
-
-Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump.
-
-The curation process is openly available on [Github](https://github.com/ror-community/ror-updates#ror-updates). Anyone can follow along with the curation process by watching individual [issues](https://github.com/ror-community/ror-updates/issues) and following their progress on the [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
-
-{{% callout icon="no-icon"%}}
-
-**Why did ROR develop this curation model?**
-
-ROR developed its curation model following discussions and consultations with community stakeholders about how to approach curation. A number of factors influenced the ultimate model that ROR employs today.
-
-- Community stakeholders were not in agreement that organizations should control their own records
-- ROR metadata is based on public information about organizations that can be easily verified
-- Centralizing curation is a more scalable approach
-- Allowing for broad community feedback leverages knowledge and expertise from across the community and helps to reinforce community ownership of ROR's infrastructure
-- Centralizing the review and decision-making process ensures consistency and integrity of metadata across the entire registry
-
-{{% /callout %}}
 
 ## Curation advisory board
 In conjunction with the metadata curation lead, ROR's Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.

@@ -56,7 +56,7 @@ Buttons work similarly to the new callout boxes above. Just wrap the _text_ of y
 
 ## Centered content
 
-You can center any block of content, including just a single button, usign the `centered` shortcode. View the .md file for this page to see how it works. You can see an example of it below.
+You can center any block of content, including just a single button, using the `centered` shortcode. View the .md file for this page to see how it works. You can see an example of it below.
 
 {{% centered %}}
 
