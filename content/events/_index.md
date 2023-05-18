@@ -14,26 +14,6 @@ description = "Research Organization Registry (ROR) events"
 
 ## Upcoming events
 
-### ROR Open Hours 1st Wednesdays
-- Date and time: Wednesday, May 3, 2023 at [8pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours+-+1st+Wednesdays&iso=20230503T20&p1=%3A) (1 hour)
-- Location: Online
-- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for ROR Open Hours 1st Wednesdays {{% /button %}}
-
----
-
-### ROR Open Hours 2nd Thursdays
-- Date and time: Thursday, May 11, 2023 at [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Open+Hours&iso=20230511T14&p1=1440&ah=1) (1 hour)
-- Location: Online
-- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset.
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours 2nd Thursdays {{% /button %}}
-
----
-
 ### ROR Community Call - May 2023
 - Date and time: Thursday, May 25th, 2023 at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+-+May&iso=20230525T15&p1=1440) (1 hour) 
 - Location: Online
