@@ -107,4 +107,12 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 - Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
 
-Read more about the board's activities on [Github](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) and [send us an email](mailto:registry@ror.org) if you are interested in getting involved.
+Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) and [send us an email](mailto:registry@ror.org) if you are interested in getting involved.
+
+
+{{% callout icon="fa-envelope" %}}
+### Contact us
+
+Contact <registry@ror.org> with questions or comments about ROR Registry data. 
+
+{{% /callout %}}
