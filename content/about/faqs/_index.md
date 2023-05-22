@@ -42,7 +42,9 @@ ROR is freely and openly available to anyone. There is no cost to access and use
 
 ROR is not a membership organization, so it is not necessary to "join" ROR in order to add or edit your organization's record in the registry. To ask for a change to your organization's ROR record or to request that your organization be added to ROR, submit the [curation request form](https://curation-request.ror.org). 
 
-As a community-based initiative, however, ROR has many channels for participation. Read more about the ROR [community](/community) if you are interested in receiving updates about ROR, participating in strategic discussions about ROR, or volunteering for ROR initiatives.
+As a community-based initiative, however, ROR has many channels for participation. Read more about joining the ROR [community](/community) if you are interested in receiving updates about ROR, participating in strategic discussions about ROR, or volunteering for ROR initiatives.
+
+***
 
 ### **How is ROR pronounced?**
 

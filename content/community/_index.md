@@ -135,10 +135,8 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 **See a [larger version of the list of ROR supporters.](https://airtable.com/shrd7RFd5WEQHPVXL/tblVW4WwaLB6mOfW8?backgroundColor=gray&viewControls=on)**
 
 
-{{% callout icon="no" %}}
+{{% callout icon="fa-envelope" %}}
 
-### Contact us
-
-**For other questions, please contact <community@ror.org>.**
+**Contact <community@ror.org> with other questions about ROR community activities.**
 
 {{% /callout %}}
