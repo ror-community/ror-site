@@ -134,11 +134,50 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 **See a [larger version of the list of ROR supporters.](https://airtable.com/shrd7RFd5WEQHPVXL/tblVW4WwaLB6mOfW8?backgroundColor=gray&viewControls=on)**
 
+## Get involved
 
-{{% callout icon="no" %}}
+### Discuss ROR
 
+Sign up for one or more of the following open, public forums to ask questions and discuss issues with a wide range of people interested in ROR:
+
+- [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Technical announcements, discussions, and questions for developers implementing ROR in their systems.
+
+- [ROR Community Slack](https://tinyurl.com/ror-slack): General questions and discussion with ROR staff, ROR adopters, and ROR supporters.
+
+- [ROR GitHub Discussion Board](https://github.com/ror-community/ror-roadmap/discussions): Announcements, calls for feedback, and a forum for community members to propose and discuss features and ideas. 
+
+- [PIDForum chat ROR room](https://www.pidforum.org/c/ror-chat-room/16): General questions and discussion about ROR with people interested in persistent identifiers.
+
+- [Crossref Community Forum](https://community.crossref.org): Visit [the 'ror' tag](https://community.crossref.org/tag/ror) on the Crossref Community Forum to read and ask questions about ROR and Crossref.
+
+### Follow ROR 
+Stay up-to-date on the latest ROR news and opportunities for feedback and involvement:
+
+- Sign up for the [ROR email list](http://eepurl.com/gjkT9H)
+
+- Read the ROR [blog](https://ror.org/blog) 
+
+- Follow the [ROR Twitter account](https://twitter.com/ResearchOrgs)
+
+- Follow ROR on [Mastodon](https://mastodon.social/@ResearchOrgs)
+
+- Follow ROR on [LinkedIn](https://www.linkedin.com/company/ror-research-organization-registry/)
+
+### Suggest changes to ROR 
+
+- Anyone can suggest changes or additions to the records in the ROR registry via the [ROR request form](https://curation-request.ror.org/). Use this form to request a new organization or to request changes to an existing record. Changes are reviewed and if approved will usually appear in the registry within 4-6 weeks. 
+
+- To report a bug or request a feature in the ROR API or other tools, create an issue on [the ROR roadmap on Github](https://github.com/ror-community/ror-roadmap/issues).
+
+- If you spot an error in our [documentation](https://ror.readme.io/docs/), use the "suggest edits" button in the top right to let us know. 
+
+### Join the ROR Community Advisory Group
+
+Anyone is welcome to join the [ROR Community Advisory Group](https://ror.org/supporters#ror-community-advisors). This group meets on a bimonthly basis to discuss ROR updates and give feedback. Please contact [info@ror.org](mailto:info@ror.org) if you're interested in joining the group.
+
+{{% callout icon="fa-envelope" %}}
 ### Contact us
 
-**For other questions, please contact <community@ror.org>.**
+Contact <community@ror.org> with questions or comments about ROR community activities. 
 
 {{% /callout %}}

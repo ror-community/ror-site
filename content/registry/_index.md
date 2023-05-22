@@ -108,10 +108,9 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) .
 
-{{% callout icon="no" %}}
-
+{{% callout icon="fa-envelope" %}}
 ### Contact us
 
-**For other questions or to express interest in joining the Curation Advisory Board, please contact <registry@ror.org>.**
+Contact <registry@ror.org> with questions or comments about ROR Registry data or if you are interested in volunteering for the Curation Advisory Board. 
 
 {{% /callout %}}

@@ -99,13 +99,34 @@ ROR has benefited and continues to benefit from the involvement of many individu
 - Martin Fenner, DataCite
 - Richard Hallett, DataCite
 - Ginny Hendricks, Crossref
--  Kornelia Korzec, Crossref
+- Kornelia Korzec, Crossref
 - Suze Kundu, Digital Science
 - Rachael Lammey, Crossref
 - Simon Porter, Digital Science
 - Dominika Tkaczyk, Crossref
 - Paul Vierkant, DataCite
 - Sarala Wimalaratne, DataCite
+
+## Impact
+
+More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://tinyurl.com/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
+
+### ROR IDs in Crossref DOI metadata
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1786924431&amp;format=interactive" width="600" height="400"></iframe>
+
+See the full spreadsheet of [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing).
+
+### ROR IDs in DataCite DOI metadata
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=674408658&amp;format=interactive" width="600" height="400"></iframe>
+
+See the full spreadsheet of [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing).
+
+### ROR in published research
+
+ <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4790165%2Fitems%3Fkey%3DtLg7EVAz22c9ckW47DwFkwht%26format%3Dbibtex%26limit%3D100" width="600" height="400"></iframe> 
+
+See the full [ROR Research Zotero bibliography](https://www.zotero.org/groups/4790165/ror_research/library). 
 
 ## History
 ROR is the culmination of several years of extensive community collaborations to develop a shared vision for a registry of organization identifiers.
@@ -179,10 +200,9 @@ ROR [formalized its sustainability model](/blog/2022-10-10-strengthening-sustain
 
 ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/2022-11-22-scoss-selects-ror) in November 2022.
 
-{{% callout icon="no" %}}
-
+{{% callout icon="fa-envelope" %}}
 ### Contact us
 
-**For other questions, please contact <info@ror.org>.**
+Contact <info@ror.org> with general questions or comments about ROR. 
 
 {{% /callout %}}
