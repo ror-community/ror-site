@@ -6,7 +6,7 @@ banner = "/img/banners/ROR_Banner-pink.jpg"
 aliases = [
     "/integrations",
     "/supporters",
-    "/display-guidelines"
+    "/display-guidelines",
 ]
 +++
 
@@ -21,11 +21,11 @@ ROR is governed, operated, and financially supported by [California Digital Libr
 
 The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries, including **publishers, libraries, platform providers, university research offices, data repositories, CRIS systems, government agencies, funders, and more.** 
 
-## Steering Group
+## Community groups 
+
+### Steering Group
 
 The ROR Steering Group is a small advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members who are key stakeholders in the global scholarly communication ecosystem. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) to provide input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
-
-### Current steering group representatives
 
 - Matt Buys, [DataCite](https://datacite.org/) (permanent member)
 - John Chodacki, [California Digital Library](https://cdlib.org/) (CDL) (permanent member)
@@ -38,18 +38,38 @@ The ROR Steering Group is a small advisory body composed of the [ROR Operations 
 - Chris Shillum, [ORCID](https://orcid.org/)
 - Natasha Simons, [Australian Research Data Commons](https://ardc.edu.au/) (ARDC)
 
-## Community Advisory Group
+### Community Advisory Group
 The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on ROR's current projects and future direction. The group of more than 150 people is invited to attend bi-monthly videoconference calls and is open to anyone who is interested in ROR. You can read more about the group on the [ROR blog](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email [info@ror.org](mailto:info@ror.org).
 
-## Curation Advisory Board
+### Curation Advisory Board
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
-## Users
-Many scholarly communication systems are already using ROR's API or data, and many others are working on integrating ROR. Most known system integrations of ROR are are listed in the gallery below. If you are working on a ROR integration and it does not appear on the list, please let us know via [the ROR User Information form](https://airtable.com/shrQlmqDpXie13ufz).
+## Who's using ROR
+Many scholarly communication systems are already using ROR's API or data, and many others are working on integrating ROR. Most known integrations of ROR are are listed in the gallery below. If your system's integration of ROR does not appear on the list, please let us know. 
 
+{{% centered %}}
+{{% button color="green" link="https://airtable.com/shrQlmqDpXie13ufz" %}}Tell us about your ROR integration {{% /button %}}
+{{% /centered %}}
+
+**ROR Integrations**
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-Those who use or are interested in using ROR's API or data are advised to join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) in order to receive data and API updates and to check out the [developer documentation](https://ror.readme.io).
+**See a [larger version of the list of ROR integrations.](https://airtable.com/shr7a3O7xPb4y8xhx/tblTsQMC5DJ0lIvw6?backgroundColor=gray&viewControls=on)**
+
+{{% callout color="green" icon="no-icon" %}}
+ 
+### Case Studies
+To learn more about why organizations and systems are deciding to use ROR and how they approached the work of integrating ROR, read in-depth interviews with ROR adopters in the [Case Studies](/categories/case-studies) series on our blog.
+
+{{% /callout %}}
+
+## Events 
+ROR-organized events include open bi-monthly Community Calls, Annual Meetings, open hours, webinars, and more that anyone can register for. ROR team members also frequently present at conferences and webinars organized by other groups. All ROR-organized events are always free. 
+
+* See our [events page](/events) to sign up for upcoming events and access materials from [past events](/events#past-events)
+* Read [recaps of past events](/categories/events) on our blog 
+
+We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
 
 ## Supporters
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
@@ -60,16 +80,12 @@ Does your organization want to become a ROR financial supporter?
 {{% button color="green" link="/sustain" %}} Sign up {{% /button %}}
 {{% /centered %}}
 
-### ROR supporters
+**ROR supporters**
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Events 
 
 ROR-organized events include bi-monthly Community Advisory Board calls, webinars, and more, and ROR team members frequently present at conferences and webinars organized by other groups. All ROR events are always free. See our [events page](/events) to read more about and sign up for upcoming events. We are also happy to schedule free custom webinars and tutorials for your team: write [support@ror.org](mailto:support@ror.org) with inquiries. 
-
-## Tutorials 
-
-Want to learn more about ROR -- or teach someone else? See our list of video and text [tutorials](/tutorials) on using the ROR API and other topics. 
 
 ## Get involved
 
