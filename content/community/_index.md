@@ -6,7 +6,7 @@ banner = "/img/banners/ROR_Banner-pink.jpg"
 aliases = [
     "/integrations",
     "/supporters",
-    "/display-guidelines",
+    "/adopters",
 ]
 +++
 
@@ -45,18 +45,15 @@ The Community Advisory Group is the primary way to get involved in ROR, engage w
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
 ## Who's using ROR
-Many scholarly communication systems are already using ROR's API or data, and many others are working on integrating ROR. Most known integrations of ROR are are listed in the gallery below. If your system's integration of ROR does not appear on the list, please let us know. 
+Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. 
 
-{{% centered %}}
-{{% button color="green" link="https://airtable.com/shrQlmqDpXie13ufz" %}}Tell us about your ROR integration {{% /button %}}
-{{% /centered %}}
-
-**ROR Integrations**
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-**See a [larger version of the list of ROR integrations.](https://airtable.com/shr7a3O7xPb4y8xhx/tblTsQMC5DJ0lIvw6?backgroundColor=gray&viewControls=on)**
+See the [complete list of known ROR integrations.](https://airtable.com/shr7a3O7xPb4y8xhx/tblTsQMC5DJ0lIvw6?backgroundColor=gray&viewControls=on)
 
-{{% callout color="green" icon="no-icon" %}}
+If your system's integration of ROR does not appear on the list, please let us know. {{% button color="green" link="https://airtable.com/shrQlmqDpXie13ufz" %}}Tell us about your ROR integration {{% /button %}}
+
+{{% callout color="dark-grey" icon="no-icon" %}}
  
 ### Case Studies
 To learn more about why organizations and systems are deciding to use ROR and how they approached the work of integrating ROR, read in-depth interviews with ROR adopters in the [Case Studies](/categories/case-studies) series on our blog.
@@ -74,18 +71,11 @@ We are also happy to schedule free custom webinars and tutorials for your team: 
 ## Supporters
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
 
-Does your organization want to become a ROR financial supporter? 
+<iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="520" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-{{% centered %}}
-{{% button color="green" link="/sustain" %}} Sign up {{% /button %}}
-{{% /centered %}}
+[See the complete list of ROR sustaining supporters.](https://airtable.com/shrd7RFd5WEQHPVXL/tblVW4WwaLB6mOfW8?backgroundColor=gray&viewControls=on)
 
-**ROR supporters**
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
-## Events 
-
-ROR-organized events include bi-monthly Community Advisory Board calls, webinars, and more, and ROR team members frequently present at conferences and webinars organized by other groups. All ROR events are always free. See our [events page](/events) to read more about and sign up for upcoming events. We are also happy to schedule free custom webinars and tutorials for your team: write [support@ror.org](mailto:support@ror.org) with inquiries. 
+Does your organization want to help support ROR financially? {{% button color="green" link="/sustain" %}} Become a ROR sustaining supporter {{% /button %}}
 
 ## Get involved
 
