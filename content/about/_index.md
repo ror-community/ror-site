@@ -204,8 +204,7 @@ ROR [formalized its sustainability model](/blog/2022-10-10-strengthening-sustain
 ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/2022-11-22-scoss-selects-ror) in November 2022.
 
 {{% callout icon="fa-envelope" %}}
-### Contact us
 
-Contact <info@ror.org> with general questions or comments about ROR. 
+Contact <info@ror.org> with any and all questions about ROR. 
 
 {{% /callout %}}

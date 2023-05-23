@@ -233,9 +233,9 @@ ROR is updated on a rolling basis. New registry releases are published on [Githu
 
 ***
 
-{{% callout color="blue" icon="no" %}}
+{{% callout icon="fa-envelope" %}}
 
-Got a question not answered here? Email support@ror.org. 
+Contact <support@ror.org> with other questions about ROR. 
 
 {{% /callout %}}
  
