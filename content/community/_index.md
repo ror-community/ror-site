@@ -113,8 +113,7 @@ Stay up-to-date on the latest ROR news and opportunities for feedback and involv
 Anyone is welcome to join the [ROR Community Advisory Group](https://ror.org/supporters#ror-community-advisors). This group meets on a bimonthly basis to discuss ROR updates and give feedback. Please contact [info@ror.org](mailto:info@ror.org) if you're interested in joining the group.
 
 {{% callout icon="fa-envelope" %}}
-### Contact us
 
-Contact <community@ror.org> with questions or comments about ROR community activities. 
+Contact <community@ror.org> with questions about getting involved with ROR. 
 
 {{% /callout %}}
