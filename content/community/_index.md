@@ -13,13 +13,17 @@ aliases = [
 {{% toc %}}
 
 ## Join the ROR community
-The primary way to get involved with ROR is to join the ROR Slack, where you can ask questions of ROR staff and of other ROR users, get announcements of community calls and other events, participate in calls for feedback, volunteer for initiatives and working groups, and help ROR set strategy. Let's ROR!
+The primary way to get involved with ROR is to [join the ROR Slack](https://tinyurl.com/ror-slack), where you can ask questions of ROR staff and of other ROR users, get announcements of community calls and other events, participate in calls for feedback, volunteer for initiatives and working groups, and help ROR set strategy. Let's ROR!
 
 {{% centered %}}
 
 {{% button color="green" link="https://tinyurl.com/ror-slack" %}} Join the ROR community on Slack {{% /button %}}
 
 {{% /centered %}}
+
+{{% callout style="color:gray;" %}}
+You do not need to join the ROR Community in order to request a change to the ROR registry. To ask for a new ROR record or a change to an existing ROR record, see the [Registry](/registry) page, click one of the curation request links from within the [registry search](https://ror.org/search), or go directly to the [request form](https://curation-request.ror.org).
+{{% /callout %}}
 
 If you are a developer implementing ROR in your systems, please join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) Google Group to receive technical announcements about data releases and API performance and to participate in technical discussions.
 
@@ -54,9 +58,11 @@ Not ready to join the ROR community, but still want to give us feedback? ROR has
 ## Community values
 ROR is community-supported, community-driven, community-funded open infrastructure.
 
-The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers.
+The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers. ROR is committed to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org/). Read our 2020 self-evaluation of our [alignment with POSI](https://ror.org/blog/2020-12-16-aligning-ror-with-posi/). 
 
-ROR stakeholders and community members include users and stakeholders from around the world and across many types of institutions and industries, including **publishers, libraries, platform providers, university research offices, data repositories, CRIS systems, government agencies, funders, and more.** 
+ROR stakeholders and community members include users and stakeholders from around the world and across many types of institutions and industries, including publishers, libraries, platform providers, university research offices, data repositories, CRIS systems, government agencies, funders, and more.
+
+ROR prides itself on creating a welcoming, inclusive, and respectful community. 
 
 ## Community groups
 
