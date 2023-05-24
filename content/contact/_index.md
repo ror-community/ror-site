@@ -8,9 +8,9 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 ### Tech questions & support
 Use the following open communication channels to ask questions and get support:
 
-- [ROR Support Site](https://ror.readme.io): API documentation, implementation guides & other resources
+- [ROR Documentation](https://ror.readme.io): API documentation, implementation guides & other resources
 - [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Tech questions & discussion
-- [ROR PIDForum chat room](https://www.pidforum.org/c/ror-chat-room/16): General questions & discussion
+- [ROR PID Forum chat room](https://www.pidforum.org/c/ror-chat-room/16): General questions & discussion
 - [ROR Community Slack](https://tinyurl.com/ror-slack) General questions & discussion
 
 ### Suggest changes or additions to ROR

@@ -1805,7 +1805,8 @@ li a {
   font-family: $font-bold;
   }
 .h1, h1 {
-    font-size: 3.5em;
+    font-size: 3.5rem;
+    line-height: 3.5rem;
 }
 .h1 small, h1 small {
     opacity: .8;
@@ -2006,7 +2007,7 @@ body {
     border-radius: .1875rem;
     padding: 2em;
     cursor: pointer;
-    background-color: #888;
+    background-color: #505759;
     color: #FFF !important;
     text-decoration: none;
     transition: 0.25s;
@@ -6379,7 +6380,7 @@ img {
     margin: 0;
 }
 .navbar-nav .nav-item:not(:last-child) {
-    margin-right: 5px;
+    margin-right: 15px;
 }
 .navbar-collapse:not(.has-image) {
     background: 0 0!important;
@@ -6884,9 +6885,10 @@ img.ror-id {
  }
 .page-banner h1 {
 	color: #fff !important;
-  font-family: $font-bold;
-		margin: 0;
+    font-family: $font-bold;
+	margin: 0;		
 }
+
 .blog h1 {
   font-size: 2rem;
   line-height: 2rem;
@@ -6914,13 +6916,25 @@ table#donations-table td ul li {
   font-family: $font-regular;
 }
 
+/* fixing bold font family no clue what the upstream issue is */
+
+p strong, p b, li strong, li b, .author {
+	font-family: "AH-Bold";
+}
+
+
 /* blog styles */
+
+figure img {
+	border: solid 1px grey;
+}
 
 .blog-figure img {
 	display: block;
 	margin-left: auto;
 	margin-right: auto;
-	width: 70%;}
+	width: 70%;
+}
 
 .round-figure {
 	display:inline;
@@ -6932,8 +6946,8 @@ table#donations-table td ul li {
     height:35px;
 }
 
-.author {
-	font-weight: bold;	
+.blog-video {
+	padding-bottom: 2rem;	
 }
 
 .blog-video iframe {

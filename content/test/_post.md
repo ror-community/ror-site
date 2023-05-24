@@ -8,16 +8,23 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
+videos = ['""]
 author = "" 
 description = ""
 +++ 
 
 ## This is a test blog post
-Hello, world
+Hello, world. See the top of this file for default front matter metadata. 
 
-## Image and video styles
+## Images and videos
 
-You can apply a CSS class to an image or embedded YouTube video to make it look a certain way. Sitewide images should be stored in the directory /static/img and blog-specific images should be stored in the directory /static/img/blog/[blogpostname]. 
+Sitewide images should be stored in the directory /static/img and blog-specific images should be stored in the directory /static/img/blog/[blogpostname]. 
+
+### Thumbnail images
+
+The ROR blog is optimized for square thumbnails on the blog list page and the home page (called with "thumb" in blog post front matter), but rectangular images share best on social media (called with "images" in blog post front matter). You can choose to use a square image as the thumbnail and a different, rectangular image as the featured image for social cards, or you can use the same image file for both. 
+
+The best size for square thumbnails is 300 x 300 and the best size for rectangular social sharing images is 1200 x 627. 
 
 ### Round avatar image for interviews 
 
@@ -65,7 +72,7 @@ Buttons work similarly to the new callout boxes above. Just wrap the _text_ of y
 
 ## Centered content
 
-You can center any block of content, including just a single button, usign the `centered` shortcode. View the .md file for this page to see how it works. You can see an example of it below.
+You can center any block of content, including just a single button, using the `centered` shortcode. View the .md file for this page to see how it works. You can see an example of it below.
 
 {{% centered %}}
 

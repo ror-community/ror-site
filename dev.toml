@@ -1,5 +1,5 @@
 languageCode = "en-us"
-title = "ROR"
+title = "Research Organization Registry (ROR)"
 baseurl = "https://dev.ror.org/"
 style = "turquoise"
 theme = "hugo-ror"
@@ -9,7 +9,7 @@ summaryLength = 20
 [params]
 	date_format = "January 2, 2006"
 	CSSVersion = 3
-	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations.'
+	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. ROR aims to provide a persistent identifier (PID) for every research organization in the world, just as ORCID provides persistent identifiers for researchers and DOIs provide persistent identifiers for research outputs. All ROR data is open on the web and public domain via CC0, and the ROR dataset and API are free to use.'
 	title = 'Research Organization Registry (ROR)'
   	images = ['/img/ror-logo-800.png']
 
@@ -46,13 +46,6 @@ summaryLength = 20
 [params.testimonials]
     enable = false
 
-[params.about]
-    enable = false
-    title = "Why ROR?"
-    subtitle = "The scholarly research community depends on a series of open identifier and metadata infrastructure systems to great success. Content identifiers and contributor identifiers are foundational infrastructure for the community. But there is one piece of the infrastructure that is missing – there currently is no open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata."
-    link_text = "Learn more"
-    link_url = "/scope"
-
 [params.socials]
     enable = true
 
@@ -65,4 +58,5 @@ summaryLength = 20
     title = "Twitter Feed"
     
 [social]
-	twitter = 'ResearchOrgs'    
+	twitter = 'ResearchOrgs' 
+	

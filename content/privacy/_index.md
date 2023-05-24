@@ -33,7 +33,7 @@ For example, visitors who contact ROR by email are required to provide an email 
 
 ROR does not employ a formal membership model but ROR does engage in discussions and projects with members of the community who are interested in being involved with the project. Depending on the type of activity or desired type of involvement, community members who have expressed an interest in ROR may receive notifications about upcoming webinars or calls, product updates, project developments, or other news that impact ROR sites and services. These communications take place via MailChimp mail services and via email associated with the ror.org domain hosted by Gmail. We store individuals' names and contact information in MailChimp and in the Gmail account. Individuals may remove themselves from these communications by following the unsubscribe link in general mailings or by sending a request to <info@ror.org> to be removed from general mailing lists and direct message threads.
 
-## Support Site
+## Documentation
 
 ROR provides documentation and support guidance on a Readme.io site (<https://ror.readme.io>) to help enable ROR users to interact with ROR data and services. Readme.io fully [complies](https://readme.io/gdpr/) with current privacy regulations.
 
