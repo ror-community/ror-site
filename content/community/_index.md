@@ -119,8 +119,6 @@ One of the best ways to stay up to date on ROR happenings is to register for the
 
 Register to attend ROR Community Calls and other events on our [events](/events) page.
 
-### 
-
 ## Supporters
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
 
