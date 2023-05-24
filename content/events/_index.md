@@ -14,7 +14,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call - May 2023
+### ROR Community Call May 2023
 - Date: Thursday, May 25th, 2023 
 - Time: [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+-+May&iso=20230525T15&p1=1440) 
 - Duration: 1 hour
@@ -36,7 +36,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Open Hours, First Wednesdays 
+### ROR Open Hours, First Wednesdays, June 2023 
 - Date: June 7, 2023 
 - Time: [8pm UTC](https://dateful.com/eventlink/2771280041)
 - Duration: 1 hour
@@ -48,7 +48,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Open Hours, Second Thursdays 
+### ROR Open Hours, Second Thursdays, June 2023 
 - Date: June 8, 2023 
 - Time: [2pm UTC](https://dateful.com/eventlink/1203248088)
 - Duration: 1 hour
@@ -93,7 +93,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Open Hours, First Wednesdays
+### ROR Open Hours, First Wednesdays, July 2023
 - Date: July 5, 2023 
 - Time: [8pm UTC](https://dateful.com/eventlink/2771280041)
 - Duration: 1 hour
@@ -105,7 +105,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Open Hours, Second Thursdays
+### ROR Open Hours, Second Thursdays, July 2023
 - Date: July 13, 2023 
 - Time: [2pm UTC](https://dateful.com/eventlink/1203248088)
 - Duration: 1 hour
@@ -117,7 +117,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Community Call 
+### ROR Community Call July 2023
 - Date: July 25, 2023 
 - Time: [3pm UTC](https://dateful.com/eventlink/2730218384)
 - Duration: 1 hour
@@ -134,11 +134,15 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
-### [ROR Community Call](2023-03-28-ror-community-call) - March 28, 2023
+### ROR Community Call March 2023
+- [ROR Community Call March 2023](2023-03-28-ror-community-call) - March 28, 2023
 
-### [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - March 16, 2023
+### ROR Schema Changes Call 
+- [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - March 16, 2023
 
-### [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - January 31 / February 1 2023
+### ROR Annual Community Meeting 2023 
+
+- [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - January 31 / February 1 2023
 
 ### More past events
 <iframe class="airtable-embed" src="https://airtable.com/embed/shraBgs4xLlsBCboZ?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
