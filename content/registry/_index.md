@@ -19,15 +19,15 @@ Anyone can suggest additions or updates to the registry. You do not need to be a
 
 {{% centered %}}
 
-{{% button color="green" link="https://curation-request.ror.org" %}} Request a change or addition to the registry {{% /button %}}
+{{% button color="green" link="https://curation-request.ror.org" %}} Request a change to the registry {{% /button %}}
 
 {{% /centered %}}
 
 After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies. Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump.
 
-Registry data is updated on a rolling basis. New releases are available approximately every month.
+Registry data is updated on a rolling basis. New releases are available at least once every month, so the time between when a request is made and when the approved change appears in the registry is usually no more than 6 weeks. Not all requests are approved.
 
-The curation process is openly available on [Github](https://github.com/ror-community/ror-updates#ror-updates). Anyone can follow along with the curation process by watching individual [issues](https://github.com/ror-community/ror-updates/issues) and following their progress on the [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
+The curation process is openly available on [GitHub](https://github.com/ror-community/ror-updates). Anyone can follow along with the curation process by visiting the [issues queue](https://github.com/ror-community/ror-updates/issues) of change requests or the  [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
 
 {{% callout icon="no-icon"%}}
 
@@ -52,6 +52,24 @@ ROR is focused on being a high-level registry of organizations so we can address
 
 See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
+## About registry data 
+ROR registry records include a unique ID for each organization along with additional metadata about each organization to facilitate discovery and disambiguation. The ROR ID is expressed as a URL that resolves to the organization's record. [Search the ROR registry](https://ror.org/search) to see examples of ROR records and IDs.
+
+All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
+
+More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR documentation site](https://ror.readme.io). 
+
+ROR has some similarities with other organization identifiers but it differs from other identifiers in a few fundamental ways:
+
+- ROR is completely open (CC0 data, open API)
+- ROR is focused specifically on affiliations
+- ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID)
+- ROR is developed as a community initiative
+
+ROR IDs crosswalk to other open, globally used identifiers when they are available. These crosswalks currently include [ISNI](https://isni.org), [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/), and [Wikidata](https://wikidata.org).
+
+ROR initially launched with seed data from [GRID](https://grid.ac). ROR IDs were synced with GRID between January 2019 and March 2022. GRID has since sunset its publicly available IDs following its [announcement in July 2021](https://ror.org/blog/2021-07-12-ror-grid-the-way-forward/) that it would discontinue its public data offering. ROR records still include GRID IDs, but GRID IDs no longer resolve to public web pages. 
+
 ## Accessing the registry
 
 The ROR registry is freely and openly available. There are no fees or access requirements for using ROR.
@@ -69,36 +87,17 @@ Registry data is updated on a rolling basis and made available in the search int
 
 Registry updates are coordinated by ROR’s curation advisory board through an [open, community-based process](https://github.com/ror-community/ror-updates#ror-updates).
 
-Want to suggest a new organization in ROR or make changes to an existing record? [Submit a curation request](https://curation-request.ror.org).
+Want to suggest a new organization in ROR or make changes to an existing record? 
+
+{{% button color="green" link="https://curation-request.ror.org" %}} Request a change to the registry {{% /button %}}
 
 {{% /callout %}}
 
-## Registry data
-ROR registry records include a unique ID for each organization along with additional metadata about each organization to facilitate discovery and disambiguation. The ROR ID is expressed as a URL that resolves to the organization's record.
 
-All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
-
-More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR documentation site](https://ror.readme.io). 
-
-
-
-## Relationship to other identifiers
-ROR has some similarities with other organization identifiers but it differs from other identifiers in a few fundamental ways:
-
-- ROR is completely open (CC0 data, open API)
-- ROR is focused specifically on affiliations
-- ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID)
-- ROR is developed as a community initiative
-
-ROR IDs crosswalk to other open, globally used identifiers when they are available. These crosswalks currently include [ISNI](https://isni.org), [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/), and [Wikidata](https://wikidata.org).
-
-ROR initially launched with seed data from [GRID](https://grid.ac). ROR IDs were synced with GRID between January 2019 and March 2022. ROR IDs previously crosswalked to GRID IDs but these are being phased out of registry records as GRID has since sunset its publicly available IDs following its [announcement in July 2021](https://ror.org/blog/2021-07-12-ror-grid-the-way-forward/) that it would discontinue its public data offering.
-
-
-## Curation advisory board
+## Curation Advisory Board
 In conjunction with the metadata curation lead, ROR's Curation Advisory Board reviews suggested updates to the registry and advises on curation practices and standards for ROR to implement.
 
-**Current advisory board members**
+**Current Curation Advisory Board members**
 
 - Matthias Liffers, Australian Research Data Commons
 - Nick Lundvick, Argonne National Laboratory
@@ -107,12 +106,10 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 - Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
 
-Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) and [send us an email](mailto:registry@ror.org) if you are interested in getting involved.
-
+Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) .
 
 {{% callout icon="fa-envelope" %}}
-### Contact us
 
-Contact <registry@ror.org> with questions or comments about ROR Registry data. 
+Contact <registry@ror.org> with questions or comments about ROR Registry data or if you are interested in volunteering for the Curation Advisory Board. 
 
 {{% /callout %}}

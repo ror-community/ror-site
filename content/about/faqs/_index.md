@@ -153,7 +153,7 @@ ROR is [supported and integrated in ORCID in several ways](https://info.orcid.or
 ***
 
 ### **Is ROR supported in DOIs?**
-Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-doi-metadata) and [how to include ROR IDs in JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml). 
+Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in Crossref DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-crossref-dois), how to include [ROR IDs in DataCite DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-datacite-dois), and how to include [ROR IDs in JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml). 
 
 ***
 
@@ -185,7 +185,7 @@ ROR records can be downloaded via the [public data dump](https://ror.readme.io/d
 
 ### **How should ROR IDs and logos be displayed?**
 
-In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/ror-id-display-guidelines).
+In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos). You can also download official versions of ROR logos on that page. 
 
 ***
 
@@ -235,9 +235,9 @@ ROR is updated on a rolling basis. New registry releases are published on [Githu
 
 ***
 
-{{% callout color="blue" icon="no" %}}
+{{% callout icon="fa-envelope" %}}
 
-Got a question not answered here? Email support@ror.org. 
+Contact <support@ror.org> with other questions about ROR. 
 
 {{% /callout %}}
  
