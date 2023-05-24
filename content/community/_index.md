@@ -1,3 +1,17 @@
++++
+title = "Community"
+draft = false
+date = "2022-01-21"
+banner = "/img/banners/ROR_Banner-pink.jpg"
+aliases = [
+    "/integrations",
+    "/supporters",
+    "/adopters",
+]
++++
+
+{{% toc %}}
+
 ## Join the ROR community
 The primary way to get involved with ROR is to join the ROR Slack, where you can ask questions of ROR staff and of other ROR users, get announcements of community calls and other events, participate in calls for feedback, volunteer for initiatives and working groups, and help ROR set strategy. Let's ROR!
 
