@@ -19,7 +19,7 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 
 ### Materials
 
-- [Slides from ROR Community Call - March 2023]()
+- [Slides from ROR Community Call - March 2023](https://docs.google.com/presentation/d/1K99Bqg81iDybHdCQnaDkquQIeHkN9MHoG9rHv5s4Gjw/edit?usp=sharing)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnauNcRZ4hdCcwJc9_s_yAaqtxveX-9QpYuhFFfyNNziCC6b9wE3ITeMo84bTS_uj8OktJwiZMeZcR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
