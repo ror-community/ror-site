@@ -10,20 +10,21 @@ author = "Research Organization Registry (ROR)"
 description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more."
 +++
 
-### ROR Community Call - March 2023
-- Date and time: Tuesday, March 28th, 2023 at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+March+2023&iso=20230328T15&p1=1440&ah=1) (1 hour) 
+### ROR Community Call May 2023
+- Date: Thursday, May 25th, 2023 
+- Time: [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+-+May&iso=20230525T15&p1=1440) 
+- Duration: 1 hour
 - Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this ROR Community Call, we hear updates on ROR curation and tech, a list of events that ROR will be attending in the summer of 2023, and hear two reports from ROR integrators Scholastica and EuropePMC.
 - Recorded: Yes
-
 
 ### Materials
 
-- [Slides from ROR Community Call - March 2023](https://docs.google.com/presentation/d/1K99Bqg81iDybHdCQnaDkquQIeHkN9MHoG9rHv5s4Gjw/edit?usp=sharing)
+- [Slides from ROR Community Call - May 2023](https://docs.google.com/presentation/d/1J6aH8hd7aFYbwkvgAFcHJV6lwU5ICAkijMsTbRS5QYU/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQnauNcRZ4hdCcwJc9_s_yAaqtxveX-9QpYuhFFfyNNziCC6b9wE3ITeMo84bTS_uj8OktJwiZMeZcR/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRI7ZeWHTnXnrqrc8JgAnhvFYlAouj9GI4FvUB4dFoLflVSxO3RLo2AEvxvu1z7kDc_mZr_gXUN9juk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Recording 
 
-{{< youtube id="nbg8CWTn8O8" title="ROR Community Call March 2023" >}}
+{{< youtube id="" title="ROR Community Call May 2023" >}}
 

@@ -14,10 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-
-
----
-
 ### ROR at SSP 2023 
 - Date: June 1st and 2nd, 2023
 - Time: 12:30pm-1:00pm June 1, 1:00pm-1:30pm June 2
@@ -149,7 +145,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ## Past events 
 
 ### ROR Community Call May 2023
-- [ROR Community Call May 2023] - May 25, 2023
+- [ROR Community Call May 2023](2023-05-25-ror-community-call) - May 25, 2023
 
 ### ROR Community Call March 2023
 - [ROR Community Call March 2023](2023-03-28-ror-community-call) - March 28, 2023
