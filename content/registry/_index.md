@@ -72,20 +72,27 @@ ROR initially launched with seed data from [GRID](https://grid.ac). ROR IDs were
 
 ## Accessing the registry
 
-The ROR registry is freely and openly available. There are no fees or access requirements for using ROR.
+The ROR registry is freely and openly available. There are **no fees or access requirements** for using ROR. There are three ways to look up organizations and organization records in ROR:
 
-There are three ways to look up organizations and organization records in ROR:
+#### Web search
+- Search ROR on the web at [https://ror.org/search](https://ror.org/search)
+- Read the [ROR web search documentation](https://ror.readme.io/docs/web-search-interface)
 
-- [ROR search](https://ror.org/search)
-- [ROR API](https://api.ror.org/organizations)
-- [Data dump](https://doi.org/10.5281/zenodo.6347574)
+#### REST API
+- Use the ROR REST API at [https://api.ror.org/organizations](https://api.ror.org/organizations)
+- Read the [ROR REST API documentation](https://ror.readme.io/docs/rest-api)
+- Join the [ROR Tech Forum]() to receive important announcements about the ROR API
+
+#### Dataset
+- Download the entire ROR dataset in JSON and CSV format at [https://doi.org/10.5281/zenodo.6347574](https://doi.org/10.5281/zenodo.6347574)
+- Read the [ROR data dump documentation](https://ror.readme.io/docs/data-dump)
+- Join the [ROR Tech Forum](https://groups.google.com/a/ror.org/g/ror-tech) to receive announcements about new releases of ROR data
+
 
 {{% callout icon="no-icon" %}}
 **How often is ROR updated?**
 
-Registry data is updated on a rolling basis and made available in the search interface, API, and data dump. New releases are available approximately every month. [Read the release notes](https://github.com/ror-community/ror-updates/releases) for a summary of what's in each release.
-
-Registry updates are coordinated by ROR’s curation advisory board through an [open, community-based process](https://github.com/ror-community/ror-updates#ror-updates).
+Registry data is updated on a rolling basis and made available in the search interface, API, and data dump. New releases are available approximately every month. [Read the release notes](https://github.com/ror-community/ror-updates/releases) for a summary of what's in each release. Registry updates are coordinated by ROR’s curation advisory board through an [open, community-based process](https://github.com/ror-community/ror-updates#ror-updates).
 
 Want to suggest a new organization in ROR or make changes to an existing record? 
 
@@ -106,7 +113,7 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 - Shayn Smulyan, Crossref
 - Martin Spenger, LMU Munich
 
-Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview) .
+Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview).
 
 {{% callout icon="fa-envelope" %}}
 
