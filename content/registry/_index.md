@@ -81,7 +81,7 @@ The ROR registry is freely and openly available. There are **no fees or access r
 #### REST API
 - Use the ROR REST API at [https://api.ror.org/organizations](https://api.ror.org/organizations)
 - Read the [ROR REST API documentation](https://ror.readme.io/docs/rest-api)
-- Join the [ROR Tech Forum]() to receive important announcements about the ROR API
+- Join the [ROR Tech Forum](https://groups.google.com/a/ror.org/g/ror-tech) to receive important announcements about the ROR API
 
 #### Dataset
 - Download the entire ROR dataset in JSON and CSV format at [https://doi.org/10.5281/zenodo.6347574](https://doi.org/10.5281/zenodo.6347574)
