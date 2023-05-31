@@ -138,7 +138,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours August 10, 2023 {{% /button %}}
 
 
-### Events calendar
+## Calendar
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrjqvdkFSDJuhr31?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="733" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
