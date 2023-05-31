@@ -26,5 +26,5 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 
 ### Recording 
 
-{{< youtube id="" title="ROR Community Call May 2023" >}}
+{{< youtube id="CNYDZX4O35Y" title="ROR Community Call May 2023" >}}
 
