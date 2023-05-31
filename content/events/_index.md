@@ -14,15 +14,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call May 2023
-- Date: Thursday, May 25th, 2023 
-- Time: [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+-+May&iso=20230525T15&p1=1440) 
-- Duration: 1 hour
-- Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
-- Recorded: Yes
 
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIkcu6trjMtHdSHQuTCA5O4047CROgRvpZV" %}} Register for ROR Community Call - May 2023 {{% /button %}}
 
 ---
 
@@ -113,7 +105,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
 - Recorded: No
 
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours July 13 {{% /button %}}
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours July 13, 2023 {{% /button %}}
 
 ---
 
@@ -127,12 +119,37 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJEtdOihqjkrHNXQQrcJXLc6mLnWLsAYViCn" %}} Register for the July ROR Community Call {{% /button %}}
 
+### ROR Open Hours, First Wednesdays, August 2023
+- Date: August 2, 2023 
+- Time: [8pm UTC](https://dateful.com/eventlink/2771280041)
+- Duration: 1 hour
+- Location: Online
+- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
+- Recorded: No
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for ROR Open Hours August 2, 2023  {{% /button %}}
+
+---
+
+### ROR Open Hours, Second Thursdays, August 2023
+- Date: August 10, 2023 
+- Time: [2pm UTC](https://dateful.com/eventlink/1203248088)
+- Duration: 1 hour
+- Location: Online
+- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
+- Recorded: No
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours August 10, 2023 {{% /button %}}
+
 
 ### Events calendar
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrjqvdkFSDJuhr31?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="733" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 
 ## Past events 
+
+### ROR Community Call May 2023
+- [ROR Community Call May 2023] - May 25, 2023
 
 ### ROR Community Call March 2023
 - [ROR Community Call March 2023](2023-03-28-ror-community-call) - March 28, 2023
