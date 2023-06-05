@@ -341,3 +341,9 @@ Thank you so much for you being such a big supporter of ROR in general, and for 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
 My pleasure. Thanks for your time. 
+
+{{% callout color="green" icon="no-icon" %}}
+
+See also the [press release](https://www.eurekalert.org/news-releases/984137) about EuropePMC's incorporation of ROR into its Grant Finder. Contact <amanda@ror.org> with any questions. 
+
+{{% /callout %}}
