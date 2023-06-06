@@ -14,16 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR at SSP 2023 
-- Date: June 1st and 2nd, 2023
-- Time: 12:30pm-1:00pm June 1, 1:00pm-1:30pm June 2
-- Location: Portland, OR
-- Description: ROR will be presenting a poster titled "ROR and Organization Identifier Interoperability in Publisher Systems" at the SSP 2023 conference. the poster will be available throughout the conference and Project Lead Maria Gould will be on hand to answer questions in the poster sessions on June 1st and 2nd. 
-- Recorded: No
-- Conference website: [SSP 2023](https://customer.sspnet.org/SSP/ssp/AM23/Home.aspx?hkey=22abbe1c-7a5d-45c5-9a39-183b3535d1b6)
-
----
-
 ### ROR Open Hours, First Wednesdays, June 2023 
 - Date: June 7, 2023 
 - Time: [8pm UTC](https://dateful.com/eventlink/2771280041)
@@ -154,7 +144,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - March 16, 2023
 
 ### ROR Annual Community Meeting 2023 
-
 - [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - January 31 / February 1 2023
 
 ### More past events
