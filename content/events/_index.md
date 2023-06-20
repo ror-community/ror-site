@@ -14,17 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR at Open Repositories 2023 
-- Date: June 12, 2023 
-- Time: 2pm-5pm
-- Duration: 3 hours
-- Location: Stellenbosch, South Africa
-- Description: The ROR in Repositories workshop will introduce participants to the Research Organization Registry (ROR); teach participants to search the ROR API; go over the importance of ROR IDs in DataCite DOIs; and invite participants to share information about whether, why, and how their own repositories might make use of ROR. 
-- Recorded: No
-- Conference website: [Open Repositories 2023](https://or2023.openrepositories.org/)
-
----
-
 ### ROR at JCDL 2023 
 - Date: June 26, 2023 
 - Time: 1pm-4pm
