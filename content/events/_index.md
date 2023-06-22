@@ -25,6 +25,16 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### Keeping open infrastructure open: The SCOSS 4th pledging round / Manteniendo abierta la infraestructura abierta: el cuarto ciclo de financiación SCOSS  
+- Date: June 27, 2023
+- Time: [4:00pm UTC](https://dateful.com/eventlink/4288837172)
+- Location: Online
+- Description: The purpose of this session is to present the three open infrastructures selected for this round: Dryad, LA Referencia and the Research Organization Registry (ROR), and explain how you can support them through a financial contribution.
+
+{{% button color="green" link="" %}} Register for Keeping open Infrastructure open  {{% /button %}}
+
+---
+
 ### ROR at ISSI 2023 
 - Date: July 2, 2023
 - Time: 4:30pm-6:00pm
