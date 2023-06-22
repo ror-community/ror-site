@@ -31,7 +31,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Location: Online
 - Description: The purpose of this session is to present the three open infrastructures selected for this round: Dryad, LA Referencia and the Research Organization Registry (ROR), and explain how you can support them through a financial contribution.
 
-{{% button color="green" link="" %}} Register for Keeping open Infrastructure open  {{% /button %}}
+{{% button color="green" link="https://us02web.zoom.us/meeting/register/tZMocOGvrzsqHdKb37mq36tp6bN0QIja9hQN#/registration" %}} Register for Keeping open Infrastructure open {{% /button %}}
 
 ---
 
