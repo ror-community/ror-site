@@ -203,7 +203,7 @@ Absolutely. And I think there's a lot of momentum in that regard. I think if we 
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
-PubMed has supported ORCIDs for quite a few years now. ***For now, on the ROR community calls, it always cheers me up to see that bump in ROR IDs in Crossref metadata: "Oh, that's the Wellcome grant DOIs we registered." Although I enjoy that, I really hope that in a couple of years that's a tiny little blip because publishers have put so many ROR IDs in Crossref journal metadata that you can't even see that on the graph. That would be really nice. I'll be a little bit sad, because once upon a time, you know, Europe PMC had a reasonable contribution to adding ROR IDs to Crossref. But I really do hope in time that you can't even see it.***
+PubMed has supported ORCIDs for quite a few years now. **For now, on the ROR community calls, it always cheers me up to see that bump in ROR IDs in Crossref metadata: "Oh, that's the Wellcome grant DOIs we registered." Although I enjoy that, I really hope that in a couple of years that's a tiny little blip because publishers have put so many ROR IDs in Crossref journal metadata that you can't even see that on the graph. That would be really nice. I'll be a little bit sad, because once upon a time, you know, Europe PMC had a reasonable contribution to adding ROR IDs to Crossref. But I really do hope in time that you can't even see it.**
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -272,11 +272,7 @@ Right.
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
-<<<<<<< HEAD
-**And the other thing would be the documentation, and the way that you're always inviting the community to provide feedback on things like schema changes, that's excellent, partly because it lets people know what's coming up, and lets you object if you have a strong opinion about that: "Oh no, that doesn't work for us, have you considered that this might mess up this kind of system." I just think it's a really nice way of doing things. But it is very hard to do and do well, and I think ROR does it very well.**
-=======
-***And the other thing would be the documentation, and the way that you're always inviting the community to provide feedback on things like schema changes, that's excellent, partly because it lets people know what's coming up, and lets you object if you have a strong opinion about that: "Oh no, that doesn't work for us, have you considered that this might mess up this system." I just think it's a really nice way of doing things. But it is very hard to do and do well, and I think ROR does it very well.***
->>>>>>> europepmc
+And the other thing would be the documentation, and **the way that you're always inviting the community to provide feedback on things like schema changes, that's excellent, partly because it lets people know what's coming up, and lets you object if you have a strong opinion about that: "Oh no, that doesn't work for us, have you considered that this might mess up this kind of system." I just think it's a really nice way of doing things. But it is very hard to do and do well, and I think ROR does it very well.**
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
