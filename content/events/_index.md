@@ -14,51 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR at SSP 2023 
-- Date: June 1st and 2nd, 2023
-- Time: 12:30pm-1:00pm June 1, 1:00pm-1:30pm June 2
-- Location: Portland, OR
-- Description: ROR will be presenting a poster titled "ROR and Organization Identifier Interoperability in Publisher Systems" at the SSP 2023 conference. the poster will be available throughout the conference and Project Lead Maria Gould will be on hand to answer questions in the poster sessions on June 1st and 2nd. 
-- Recorded: No
-- Conference website: [SSP 2023](https://customer.sspnet.org/SSP/ssp/AM23/Home.aspx?hkey=22abbe1c-7a5d-45c5-9a39-183b3535d1b6)
-
----
-
-### ROR Open Hours, First Wednesdays, June 2023 
-- Date: June 7, 2023 
-- Time: [8pm UTC](https://dateful.com/eventlink/2771280041)
-- Duration: 1 hour
-- Location: Online
-- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
-- Recorded: No 
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for ROR Open Hours June 7 2023 {{% /button %}}
-
----
-
-### ROR Open Hours, Second Thursdays, June 2023 
-- Date: June 8, 2023 
-- Time: [2pm UTC](https://dateful.com/eventlink/1203248088)
-- Duration: 1 hour
-- Location: Online
-- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours June 8 2023 {{% /button %}}
-
----
-
-### ROR at Open Repositories 2023 
-- Date: June 12, 2023 
-- Time: 2pm-5pm
-- Duration: 3 hours
-- Location: Stellenbosch, South Africa
-- Description: The ROR in Repositories workshop will introduce participants to the Research Organization Registry (ROR); teach participants to search the ROR API; go over the importance of ROR IDs in DataCite DOIs; and invite participants to share information about whether, why, and how their own repositories might make use of ROR. 
-- Recorded: No
-- Conference website: [Open Repositories 2023](https://or2023.openrepositories.org/)
-
----
-
 ### ROR at JCDL 2023 
 - Date: June 26, 2023 
 - Time: 1pm-4pm
@@ -67,6 +22,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description: ROR will be one of the co-presenters at the workshop "Persistent Identifiers & US Federal Agency Policies" along with representatives of ORCID, Crossref, and the U.S. Department of Energy.
 - Recorded: No
 - Conference website: [JCDL 2023](https://2023.jcdl.org/)
+
+---
+
+### Keeping Open Infrastructure Open: The SCOSS 4th pledging round / Manteniendo abierta la infraestructura abierta: el cuarto ciclo de financiación SCOSS  
+- Date: June 27, 2023
+- Time: [4:00pm UTC](https://dateful.com/eventlink/4288837172)
+- Duration: 1 hour
+- Location: Online
+- Description: The purpose of this session is to present the three open infrastructures selected for this round: Dryad, LA Referencia and the Research Organization Registry (ROR), and explain how you can support them through a financial contribution.
+
+{{% button color="green" link="https://us02web.zoom.us/meeting/register/tZMocOGvrzsqHdKb37mq36tp6bN0QIja9hQN#/registration" %}} Register for Keeping Open Infrastructure Open {{% /button %}}
 
 ---
 
@@ -154,7 +120,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - March 16, 2023
 
 ### ROR Annual Community Meeting 2023 
-
 - [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - January 31 / February 1 2023
 
 ### More past events
