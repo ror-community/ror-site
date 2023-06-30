@@ -1,6 +1,6 @@
 +++
 title = "Case Study: How Europe PMC Uses ROR"
-date = "2023-06-04"
+date = "2023-06-30"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies"]
 categories = ["case-studies"]
@@ -11,6 +11,8 @@ images = ['/img/blog/europepmcEurope-PMC-Extended-Logo.png/']
 author = "Amanda French"
 description = "Michael Parkin, data scientist at EMBL-EBI who helps maintain Europe PMC, explains why and how ROR  helps with assessing funding impact and tracking researcher collaborations."
 +++
+
+Michael Parkin, data scientist at EMBL-EBI who helps maintain Europe PMC, explains why and how ROR  helps with assessing funding impact and tracking researcher collaborations.
 
 {{% callout color="green" icon="no-icon" %}}
 
