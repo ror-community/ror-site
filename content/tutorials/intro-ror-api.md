@@ -56,14 +56,6 @@ When organization data is consistent, organizations such as the Cracow (or Krak√
 [https://en.wikipedia.org/wiki/Krak%C3%B3w_University_of_Economics](https://en.wikipedia.org/wiki/Krak%C3%B3w_University_of_Economics)
 {{% /centered %}}
 
-{{% callout color="green" icon="no-icon" %}}
-
-### Exercise: Try out the ROR typeahead demos 
-
-- Go to https://ror-community.github.io/ror-typeahead-demos/ and try some searches. 
-
-{{% /callout %}}
-
 ## About the ROR API
 
 See https://ror.readme.io/docs/rest-api for full documentation of the ROR API. 
