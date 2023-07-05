@@ -14,18 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-
-### ROR at ISSI 2023 
-- Date: July 2, 2023
-- Time: 4:30pm-6:00pm
-- Duration: 3 hours
-- Location: Bloomington, IN
-- Description: ROR will first introduce the ROR API and dataset and then give participants exercises that will enable them to analyze the ROR registry itself using simple and advanced queries. We will then go over some useful ROR-based queries of the respective open APIs of Crossref, DataCite, and OpenAlex and ask participants to develop their own queries and share and discuss the results. Finally, we will touch on various methods and tools for matching affiliation text strings to ROR IDs, including the `affiliation` parameter of ROR's own API.
-- Recorded: No
-- Conference website: [ISSI 2023](https://cns-iu.github.io/workshops/2023-07-02_issi/)
-
----
-
 ### ROR Open Hours, First Wednesdays, July 2023
 - Date: July 5, 2023 
 - Time: [8pm UTC](https://dateful.com/eventlink/2771280041)
