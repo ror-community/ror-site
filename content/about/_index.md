@@ -7,7 +7,7 @@ aliases = [
     "/governance",
 	"/impact",
 	"/logos",
-	"display-guidelines",
+	"/display-guidelines",
 ]
 +++
 
