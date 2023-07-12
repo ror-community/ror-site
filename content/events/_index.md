@@ -14,18 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Open Hours, First Wednesdays, July 2023
-- Date: July 5, 2023 
-- Time: [8pm UTC](https://dateful.com/eventlink/2771280041)
-- Duration: 1 hour
-- Location: Online
-- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for ROR Open Hours July 5, 2023  {{% /button %}}
-
----
-
 ### ROR Open Hours, Second Thursdays, July 2023
 - Date: July 13, 2023 
 - Time: [2pm UTC](https://dateful.com/eventlink/1203248088)
@@ -69,6 +57,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Recorded: No
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours August 10, 2023 {{% /button %}}
+
+---
+
+### Make Data Count Summit
+- Date: September 12-13, 2023 
+- Location: Washington, DC
+- Description: ROR will be attending the two-day Make Data Count summit, which "will bring together representatives of the research community, government data administrators, funders, policymakers, publishers and infrastructure providers to discuss and solve the diverse and complex challenges of implementing open data assessment metrics and the infrastructures that support them." 
+- Recorded: No
+- Website: https://summit.makedatacount.org
+
+---
 
 
 ## Calendar
