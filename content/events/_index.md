@@ -14,18 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Open Hours, Second Thursdays, July 2023
-- Date: July 13, 2023 
-- Time: [2pm UTC](https://dateful.com/eventlink/1203248088)
-- Duration: 1 hour
-- Location: Online
-- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours July 13, 2023 {{% /button %}}
-
----
-
 ### ROR Community Call July 2023
 - Date: July 25, 2023 
 - Time: [3pm UTC](https://dateful.com/eventlink/2730218384)
@@ -35,6 +23,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Recorded: Yes
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJEtdOihqjkrHNXQQrcJXLc6mLnWLsAYViCn" %}} Register for the July ROR Community Call {{% /button %}}
+
+---
 
 ### ROR Open Hours, First Wednesdays, August 2023
 - Date: August 2, 2023 
