@@ -88,7 +88,7 @@ And why did you decide to live stream it?
 ### {{< figure src="/img/blog/liberatescience/chris_hartgerink.png" class="round-figure" alt="Chris Hartgerink" >}} Chris Hartgerink  
 The live streaming was actually very fun. I was thinking about integrating ROR, and then I thought, "Okay, but I have so many other things on my plate. How do I actually plan this properly?" And it was a challenge to myself. It was four weeks, four two-hour slots, where I said, "Well, I'm just going to plan those two-hour slots for every week, and then I'm going to get it as far as I can." I thought even if nobody watched, the live streaming would help me to plan and to have this experience of [rubber duck programming](https://en.wikipedia.org/wiki/Rubber_duck_debugging), where you try to explain to your rubber ducky what you're actually doing. And that was incredibly helpful. And actually, in the live stream itself I got some feedback that helped me along the way and made me look at things differently. 
 
-{{< youtube id="PLagyLN5PZI3zVbJNYCNFmL1cJif_31ReV" title="" class="blog-video" >}}
+{{< playlist id="PLagyLN5PZI3zVbJNYCNFmL1cJif_31ReV" title="Integrating ROR into ResearchEquals" class="blog-video" >}}
 
 And so yeah, the idea was for self planning, but also to take the open source aspects of ResearchEquals to the next level. Or maybe not the next level, because other people have done this, but I thought this would be a fun exercise to try. And I was surprised how many people actually ended up watching the stream. I mean, it wasn't thousands, of course, but I think [one of the videos actually got around a hundred views](https://www.youtube.com/live/vfXjvn2ccUI?feature=share) over time. Not very long views, but still. 
 
