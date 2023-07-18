@@ -1,5 +1,5 @@
 +++
-title = "Case Study: Why ResearchEquals Integrated ROR and Live Streamed It"
+title = "Case Study: Why Liberate Science Integrated ROR and Why They Live Streamed It"
 date = "2023-07-14"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies"]
