@@ -139,7 +139,9 @@ Yeah. And actually I think after the first two sessions, so after four hours, th
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French  
 I had actually forgotten this until you mentioned it, but one of the things that I changed after watching your live stream was the part of our documentation about [the preferred form of the ROR ID](https://ror.readme.io/docs/ror-identifier-pattern). There's actually [a lot of discussion on the ORCID GitHub](https://github.com/ORCID/ORCID-Source/issues/6520) about why our preferred form is the entire URL, and one of the changes I made was to add that reasoning into the documentation. Essentially, our sense is that when the URL is used as the ID in metadata, it's more likely to continue to resolve. And that's the key thing that you want from a persistent identifier. 
 
-I also put in the documentation that while we think the entire URL is the best form for the ROR identifier, the ROR API does also recognize just the unique string. A ROR ID is "https://ror.org" plus nine characters, and if you just use that nine-character string, that will work in the API. 
+I also put in the documentation that while we think the entire URL is the best form for the ROR identifier, the ROR API does also recognize just the unique string. A ROR ID is `https://ror.org` plus nine characters, and if you just use that nine-character string, that will work in the API. 
+
+{{< figure src="/img/blog/liberatescience/libscie-ror-id-forms.png"  alt="Both the full URL and the 9-character string forms of the ROR ID are valid in requests to the ROR API" caption="Both the full URL https://ror.org/0342dzm54 and the 9-character string `0342dzm54` forms of the ROR ID are valid in requests to the ROR API." >}}
 
 ### {{< figure src="/img/blog/liberatescience/chris_hartgerink.png" class="round-figure" alt="Chris Hartgerink" >}} Chris Hartgerink  
 I mean, I think it makes sense, because then ultimately, in the code, that means whenever we want to link out, we don't need to add all of that. Yeah, I think in that sense, it's very worthwhile. 
