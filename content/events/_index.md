@@ -56,6 +56,40 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Website: https://summit.makedatacount.org
 
 ---
+### ROR Community Call September 2023
+- Date: September 28, 2023 
+- Time: [3pm UTC](https://dateful.com/eventlink/9934890934)
+- Duration: 1 hour
+- Location: Online
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
+- Recorded: Yes
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJYtcemurTgjEtQyaCDe2LpHdb3YcuAooZpK" %}} Register for the September ROR Community Call {{% /button %}}
+
+### ROR Open Hours, First Wednesdays, September 2023
+- Date: September 6, 2023 
+- Time: [8pm UTC](https://dateful.com/eventlink/3202787202)
+- Duration: 1 hour
+- Location: Online
+- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
+- Recorded: No
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for ROR Open Hours September 6, 2023  {{% /button %}}
+
+---
+
+### ROR Open Hours, Second Thursdays, September 2023
+- Date: September 14, 2023 
+- Time: [4pm UTC](https://dateful.com/eventlink/2349772547)
+- Duration: 1 hour
+- Location: Online
+- Description: Ask us anything! ROR staff will be on hand to answer your questions about ROR and help you use the ROR API and dataset. 
+- Recorded: No
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIrdOCupjojHN1GA6RZScGRc5EsQomOOjUJ" %}} Register for ROR Open Hours September 14, 2023 {{% /button %}}
+
+---
+
 
 
 ## Calendar
