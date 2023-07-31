@@ -1,6 +1,6 @@
 +++
 title = "Events" 
-date = "2022-12-20" 
+date = "2023-07-31" 
 draft = false 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -13,16 +13,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{% toc %}}
 
 ## Upcoming events
-
-### ROR Community Call July 2023
-- Date: July 25, 2023 
-- Time: [3pm UTC](https://dateful.com/eventlink/2730218384)
-- Duration: 1 hour
-- Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
-- Recorded: Yes
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJEtdOihqjkrHNXQQrcJXLc6mLnWLsAYViCn" %}} Register for the July ROR Community Call {{% /button %}}
 
 ### ROR Open Hours, First Wednesdays, August 2023
 - Date: August 2, 2023 
@@ -97,6 +87,9 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 
 ## Past events 
+
+### ROR Community Call July 2023
+- [ROR Community Call July 2023](2023-07-25-ror-community-call) - July 25, 2023
 
 ### ROR Community Call May 2023
 - [ROR Community Call May 2023](2023-05-25-ror-community-call) - May 25, 2023
