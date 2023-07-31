@@ -11,20 +11,20 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 +++
 
 ### ROR Community Call July 2023
-- Date: Thursday, May 25th, 2023 
-- Time: [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+-+May&iso=20230525T15&p1=1440) 
+- Date: July 25, 2023 
+- Time: [3pm UTC](https://dateful.com/eventlink/2730218384)
 - Duration: 1 hour
 - Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this ROR Community Call, we hear updates on ROR curation and tech, a list of events that ROR will be attending in the summer of 2023, and hear two reports from ROR integrators Scholastica and EuropePMC.
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
 - Recorded: Yes
 
 ### Materials
 
-- [Slides from ROR Community Call - May 2023](https://docs.google.com/presentation/d/1J6aH8hd7aFYbwkvgAFcHJV6lwU5ICAkijMsTbRS5QYU/edit?usp=sharing)
+- [Slides from ROR Community Call - July 2023](https://docs.google.com/presentation/d/1T3Nv-HeILw9Yl7HRg39SuT3Chr7kLoV87PqQnnk5xbQ/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRI7ZeWHTnXnrqrc8JgAnhvFYlAouj9GI4FvUB4dFoLflVSxO3RLo2AEvxvu1z7kDc_mZr_gXUN9juk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNXGB267S6IZ50X0DNAD_qauN_KCDBWjxftY8H9ekhXlUdlqqj1EwF3w2folOZpwwCL5vECg01Ss50/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Recording 
 
-{{< youtube id="CNYDZX4O35Y" title="ROR Community Call May 2023" >}}
+{{< youtube id="w2t7OASjEmM" title="ROR Community Call July 2023" >}}
 
