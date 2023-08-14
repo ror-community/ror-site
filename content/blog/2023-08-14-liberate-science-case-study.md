@@ -22,7 +22,7 @@ Chris Hartgerink, the founder of [Liberate Science](https://libscie.org), discus
 
 "So when people add an affiliation, they all use ROR. I have not heard any feedback that people can't find their institution. Sometimes it might be under a slightly different name than they expect, especially if there's a bilingual name or if it's known under different names."
 
-"A nice thing about ROR is that it is living, breathing – with the continual releases, there's new organizations being added making it more worthwhile without us doing anything. As the data get richer and the usage gets richer, I think that's really where the added value is."
+"A nice thing about ROR is that it is living, breathing – with the continual releases, there's new organizations being added, making it more worthwhile without us doing anything. As the data get richer and the usage gets richer, I think that's really where the added value is."
 
 -- Chris Hartgerink, Founder, Liberate Science
 
