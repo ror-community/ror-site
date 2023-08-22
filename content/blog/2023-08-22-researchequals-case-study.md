@@ -1,13 +1,13 @@
 +++
 title = "Case Study: Why ResearchEquals Integrated ROR and Live Streamed It"
-date = "2023-08-14"
+date = "2023-08-22"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies"]
 categories = ["case-studies"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
-thumb = "/img/blog/researchequals/libscie-logomark-300-rectangle.png"
-images = ['/img/blog/researchequals/libscie-logomark-300-square.png']
+thumb = "/img/blog/researchequals/libscie-logomark-300-square.png"
+images = ['/img/blog/researchequals/libscie-logomark-300-rectangle.png']
 author = "Amanda French"
 description = "Chris Hartgerink, the founder of Liberate Science, discusses why and how they integrated ROR into the modular publishing platform ResearchEquals for author affiliations in user profiles and Crossref DOIs and explains why they live streamed all eight hours of the work."
 +++
