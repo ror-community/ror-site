@@ -42,7 +42,9 @@ ROR is freely and openly available to anyone. There is no cost to access and use
 
 ROR is not a membership organization, so it is not necessary to "join" ROR in order to add or edit your organization's record in the registry. To ask for a change to your organization's ROR record or to request that your organization be added to ROR, submit the [curation request form](https://curation-request.ror.org). 
 
-As a community-based initiative, however, ROR has many channels for participation. Read more about the ROR [community](/community) if you are interested in receiving updates about ROR, participating in strategic discussions about ROR, or volunteering for ROR initiatives.
+As a community-based initiative, however, ROR has many channels for participation. Read more about joining the ROR [community](/community) if you are interested in receiving updates about ROR, participating in strategic discussions about ROR, or volunteering for ROR initiatives.
+
+***
 
 ### **How is ROR pronounced?**
 
@@ -101,7 +103,7 @@ Yes, ROR metadata includes both parent-child organizational hierarchies and late
 
 ### **Why doesn't ROR include university departments?**
 
-ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "high-level" institutional information in ROR is also more stable than departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Additionally, some high-level sub-units of organizations are in scope for ROR, such as research institutes. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+ROR is focused on solving the problem of connecting research outputs to research organizations while remaining easy to use, and therefore it is not focused on capturing all subdivisions of a given organization such as a university’s schools or departments. ROR does support organizational hierarchy, and units such as research institutes and laboratories are in scope for ROR. The more granular the registry, however, the less suited it is to address the key use case of linking research outputs to research organizations and the more difficult it is to implement and maintain. University departments in particular often emerge, close, combine, and change: the "high-level" institutional information in ROR is more stable and is therefore better suited for persistence. ROR concentrates on maintaining broad, inclusive global coverage of research organizations rather than on capturing the internal structure of particular organizations. ROR might extend its scope in the future, but meanwhile, because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own school- and department-level taxonomies. 
 
 ***
 
@@ -151,7 +153,7 @@ ROR is [supported and integrated in ORCID in several ways](https://info.orcid.or
 ***
 
 ### **Is ROR supported in DOIs?**
-Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-doi-metadata) and [how to include ROR IDs in JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml). 
+Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in Crossref DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-crossref-dois), how to include [ROR IDs in DataCite DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-datacite-dois), and how to include [ROR IDs in JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml). 
 
 ***
 
@@ -183,7 +185,7 @@ ROR records can be downloaded via the [public data dump](https://ror.readme.io/d
 
 ### **How should ROR IDs and logos be displayed?**
 
-In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/ror-id-display-guidelines).
+In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos). You can also download official versions of ROR logos on that page. 
 
 ***
 

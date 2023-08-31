@@ -50,13 +50,11 @@ Many scholarly communication systems are already using ROR, and many others are 
 {{% centered %}}
 {{% button color="green" link="https://airtable.com/shrQlmqDpXie13ufz" %}}Tell us about your ROR integration {{% /button %}}
 
-
 <iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 See the [complete list of known ROR integrations.](https://airtable.com/shr7a3O7xPb4y8xhx/tblTsQMC5DJ0lIvw6?backgroundColor=gray&viewControls=on)
 
 {{% /centered %}}
-
 
 {{% callout color="green" icon="no-icon" %}}
  
@@ -74,36 +72,34 @@ ROR-organized events include open bi-monthly Community Calls, Annual Meetings, o
 We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
 
 ## Supporters
-ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects.
-
-Does your organization want to help support ROR financially? 
+ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. Does your organization want to help support ROR financially? 
 
 {{% centered %}}
+
 {{% button color="green" link="/sustain" %}} Become a ROR sustaining supporter {{% /button %}}
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="520" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [See the complete list of ROR sustaining supporters.](https://airtable.com/shrd7RFd5WEQHPVXL/tblVW4WwaLB6mOfW8?backgroundColor=gray&viewControls=on)
 
-
 {{% /centered %}}
 
 
 ## Get involved
 
+### Join the ROR Community Advisory Group
+
+Anyone is welcome to join the [ROR Community Advisory Group](https://ror.org/supporters#ror-community-advisors). This group meets on a bimonthly basis to discuss ROR updates and give feedback. Please contact [info@ror.org](mailto:info@ror.org) if you're interested in joining the group.
+
 ### Discuss ROR
 
 Sign up for one or more of the following open, public forums to ask questions and discuss issues with a wide range of people interested in ROR:
 
-- [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Technical announcements, discussions, and questions for developers implementing ROR in their systems.
-
 - [ROR Community Slack](https://tinyurl.com/ror-slack): General questions and discussion with ROR staff, ROR adopters, and ROR supporters.
 
+- [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Technical announcements, discussions, and questions for developers implementing ROR in their systems.
+
 - [ROR GitHub Discussion Board](https://github.com/ror-community/ror-roadmap/discussions): Announcements, calls for feedback, and a forum for community members to propose and discuss features and ideas. 
-
-- [PIDForum chat ROR room](https://www.pidforum.org/c/ror-chat-room/16): General questions and discussion about ROR with people interested in persistent identifiers.
-
-- [Crossref Community Forum](https://community.crossref.org): Visit [the 'ror' tag](https://community.crossref.org/tag/ror) on the Crossref Community Forum to read and ask questions about ROR and Crossref.
 
 ### Follow ROR 
 Stay up-to-date on the latest ROR news and opportunities for feedback and involvement:
@@ -125,10 +121,6 @@ Stay up-to-date on the latest ROR news and opportunities for feedback and involv
 - To report a bug or request a feature in the ROR API or other tools, create an issue on [the ROR roadmap on Github](https://github.com/ror-community/ror-roadmap/issues).
 
 - If you spot an error in our [documentation](https://ror.readme.io/docs/), use the "suggest edits" button in the top right to let us know. 
-
-### Join the ROR Community Advisory Group
-
-Anyone is welcome to join the [ROR Community Advisory Group](https://ror.org/supporters#ror-community-advisors). This group meets on a bimonthly basis to discuss ROR updates and give feedback. Please contact [info@ror.org](mailto:info@ror.org) if you're interested in joining the group.
 
 {{% callout icon="fa-envelope" %}}
 

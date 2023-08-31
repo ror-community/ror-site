@@ -4,7 +4,10 @@ draft = false
 date = "2017-08-16"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 aliases = [
-    "/governance"
+    "/governance",
+	"/impact",
+	"/logos",
+	"display-guidelines",
 ]
 +++
 
@@ -75,7 +78,7 @@ Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-t
 
 #### Amanda French, Technical Community Manager
 
-Amanda [joined ROR in June 2022](blog/2022-06-13-welcome-amanda-french/). Amanda works with ROR's three operating organizations and the broader ROR community to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.
+Amanda [joined ROR in June 2022](/blog/2022-06-13-welcome-amanda-french/). Amanda works with ROR's three operating organizations and the broader ROR community to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.
 
 A well-known community manager and project director in the digital humanities and scholarly communication sphere, Amanda was most recently Community Lead at The COVID Tracking Project at The Atlantic. Previously, she directed the Mellon-funded project "Resilient Networks for Inclusive Digital Humanities" at the George Washington University Libraries and the Digital Research Services unit at Virginia Tech University Libraries, led the THATCamp unconference initiative at George Mason University's Roy Rosenzweig Center for History and New Media, and was a member of the first cohort of Council on Library and Information Resources (CLIR) Postdoctoral Fellows. 
 
@@ -83,7 +86,7 @@ Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute mee
 
 #### Liz Krznarich, Technical Lead
 
-Liz [joined the ROR team in late 2020](blog.datacite.org/working-at-the-intersection-of-people-and-technology/) as our first Adoption Manager and has developed extensive guidance to support ROR users and integrators, before [stepping into the role of ROR Technical Lead in February 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). Previously, Liz was based at ORCID for 6 years, where she held roles ranging from member support to technical lead. A librarian by training and a software developer by necessity, Liz thrives at the intersection of people, processes and technology. She loves understanding the human and technological aspects of systems and developing solutions that suit both the people and the machines.
+Liz [joined the ROR team in late 2020](https://blog.datacite.org/working-at-the-intersection-of-people-and-technology/) as our first Adoption Manager and has developed extensive guidance to support ROR users and integrators, before [stepping into the role of ROR Technical Lead in February 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). Previously, Liz was based at ORCID for 6 years, where she held roles ranging from member support to technical lead. A librarian by training and a software developer by necessity, Liz thrives at the intersection of people, processes and technology. She loves understanding the human and technological aspects of systems and developing solutions that suit both the people and the machines.
 
 #### Maria Gould, Project Lead
 
@@ -202,6 +205,10 @@ ROR published its [first independent registry update](/blog/2022-03-17-first-ind
 ROR [formalized its sustainability model](/blog/2022-10-10-strengthening-sustainability) in September 2022.
 
 ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/2022-11-22-scoss-selects-ror) in November 2022.
+
+## Logos 
+
+To obtain official versions of the ROR logo, please visit our [display guidelines and logos](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos) page and abide by the usage recommendations there. 
 
 {{% callout icon="fa-envelope" %}}
 
