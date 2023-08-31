@@ -61,9 +61,9 @@ In line with ROR's commitment to the [Principles of Open Scholarly Infrastructur
 
 ### Operations team
 
-The ROR operations team is responsible for strategic decision-making about registry resourcing and operations. This team comprises the ROR project lead and a representative from each governing organization.
+The ROR operations team is responsible for strategic decision-making about registry resourcing and operations. This team comprises the ROR Director and a representative from each governing organization.
 
-- [Maria Gould](https://cdlib.org/contact/staff_directory/maria-gould-staff-profile/) (Project Lead), California Digital Library
+- [Maria Gould](https://cdlib.org/contact/staff_directory/maria-gould-staff-profile/) (ROR Director), California Digital Library
 - [John Chodacki](https://cdlib.org/contact/staff_directory/john-chodacki-staff-profile/), California Digital Library
 - [Ed Pentz](https://www.crossref.org/people/ed-pentz/), Crossref
 - [Matt Buys](https://datacite.org/team.html), DataCite
@@ -88,9 +88,9 @@ Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute mee
 
 Liz [joined the ROR team in late 2020](https://blog.datacite.org/working-at-the-intersection-of-people-and-technology/) as our first Adoption Manager and has developed extensive guidance to support ROR users and integrators, before [stepping into the role of ROR Technical Lead in February 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). Previously, Liz was based at ORCID for 6 years, where she held roles ranging from member support to technical lead. A librarian by training and a software developer by necessity, Liz thrives at the intersection of people, processes and technology. She loves understanding the human and technological aspects of systems and developing solutions that suit both the people and the machines.
 
-#### Maria Gould, Project Lead
+#### Maria Gould, Director
 
-Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) and led the team that launched the minimum viable registry (MVR) prototype at PIDapalooza in 2019. As project lead, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is based at California Digital Library, where she leads the University of California Curation Center (UC3)'s portfolio of persistent identifier services, including ROR. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS.
+Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) and led the team that launched the minimum viable registry (MVR) prototype at PIDapalooza in 2019. As director, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is based at California Digital Library, where she leads the University of California Curation Center (UC3)'s portfolio of persistent identifier services, including ROR. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS.
 
 #### Alumni and affiliates
 

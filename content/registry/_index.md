@@ -106,6 +106,7 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 **Current Curation Advisory Board members**
 
+- Kateřina Janderová, Czech Academy of Sciences
 - Matthias Liffers, Australian Research Data Commons
 - Nick Lundvick, Argonne National Laboratory
 - Carly Robinson, OSTI/DOE

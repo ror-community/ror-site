@@ -22,7 +22,7 @@ ROR, the Research Organization Registry, is operated as a collaborative initiati
 
 ### **How is ROR funded?**
 
-During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
+During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. In 2022, ROR began [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
 
 ***
 
@@ -225,7 +225,7 @@ Contact [registry@ror.org](mailto:registry@ror.org) if you have a list of organi
 
 ### **I submitted a curation request to ROR. How can I track it?**
 
-After a request is submitted via the feedback form, an issue will be created in the [ror-updates Github repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You can track the status of your request by following the repository and by signing up as a watcher on the issue associated with your request.
+After a request is submitted via the feedback form, an issue will be created in the [ror-updates Github repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You will receive an email notification with a link to the Github issue associated with your request. You can track the status of the request by following this issue and subscribing to issue notifications.
 
 ***
 
