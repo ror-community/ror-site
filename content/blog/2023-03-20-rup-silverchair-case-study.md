@@ -134,14 +134,6 @@ Thanks for telling us all about your work with ROR, Rob and Emily.
 
 {{% callout color="green" icon="no-icon" %}} 
 
-- [Download the slides](/documents/2022-12-08-ROR-RUP-Silverchair-Slides.pdf) as a PDF
-
-- [Contact Rob O'Donnell,](mailto:odonner@rockefeller.edu) Senior Director of Publishing, Rockefeller University Press
-
-- [Contact Emily Hazzard](mailto:info@silverchair.com), Product Operations Analyst, Silverchair
-
-- [Contact Amanda French](mailto:amanda@ror.org), ROR Technical Community Manager
-
-- [Register for an upcoming ROR Community Call](/events) to hear about integrations like these and more.
+[Download the slides](/documents/2022-12-08-ROR-RUP-Silverchair-Slides.pdf) as a PDF. Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
 {{% /callout %}} 

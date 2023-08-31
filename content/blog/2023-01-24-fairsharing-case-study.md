@@ -373,6 +373,8 @@ Oh, I should mention that part of the reason we're able to work so effectively w
 
 Well, thank you so much for speaking to me. It was lovely to talk to you.
 
-{{% callout color="dark-grey" icon="no-icon" %}}
-Do you have a comment on or question about this post? Email [amanda@ror.org](mailto:amanda@ror.org) or [get involved](https://ror.readme.io/docs/get-involved) with the ROR community. 
+{{% callout color="green" icon="no-icon" %}}
+
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+
 {{% /callout %}}

@@ -223,3 +223,9 @@ And then, you know, really what we are looking for, just like many other institu
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
 Great! This was tremendously interesting -- thanks for telling us all about your ROR integration. 
+
+{{% callout color="green" icon="no-icon" %}}
+
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+
+{{% /callout %}}
