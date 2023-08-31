@@ -6,6 +6,8 @@ banner = "/img/banners/ROR_Banner-pink.jpg"
 aliases = [
     "/integrations",
     "/supporters",
+	"/adopters",
+	"/integrators"
 ]
 +++
 
@@ -44,7 +46,7 @@ The Community Advisory Group is the primary way to get involved in ROR, engage w
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
 
-## Who's using ROR {#adopters, #integrators} 
+## Who's using ROR {#adopters} 
 Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. Listed below are the latest known ROR adopters -- if your system's integration of ROR does not appear on the list, please let us know.
 
 {{% centered %}}
@@ -71,7 +73,7 @@ ROR-organized events include open bi-monthly Community Calls, Annual Meetings, o
 
 We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
 
-## Supporters
+## Supporters {#supporters}
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. Does your organization want to help support ROR financially? 
 
 {{% centered %}}
