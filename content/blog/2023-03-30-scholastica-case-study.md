@@ -271,8 +271,6 @@ I appreciate your time. Thanks for involving me. Happy to be doing this for ROR.
 
 {{% callout color="green" icon="no-icon" %}}
 
-- [Contact Cory Schires](mailto:cschires@scholasticahq.com), Co-founder and CTO, Scholastica
-- [Contact Amanda French](mailto:amanda@ror.org), ROR Technical Community Manager
-- [Register for an upcoming ROR Community Call](/events) to hear about integrations like these and more.
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
 {{% /callout %}}

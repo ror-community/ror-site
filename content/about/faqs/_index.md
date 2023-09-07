@@ -22,7 +22,7 @@ ROR, the Research Organization Registry, is operated as a collaborative initiati
 
 ### **How is ROR funded?**
 
-During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
+During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. In 2022, ROR began [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
 
 ***
 
@@ -103,7 +103,7 @@ Yes, ROR metadata includes both parent-child organizational hierarchies and late
 
 ### **Why doesn't ROR include university departments?**
 
-ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "high-level" institutional information in ROR is also more stable than departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Additionally, some high-level sub-units of organizations are in scope for ROR, such as research institutes. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+ROR is focused on solving the problem of connecting research outputs to research organizations while remaining easy to use, and therefore it is not focused on capturing all subdivisions of a given organization such as a university’s schools or departments. ROR does support organizational hierarchy, and units such as research institutes and laboratories are in scope for ROR. The more granular the registry, however, the less suited it is to address the key use case of linking research outputs to research organizations and the more difficult it is to implement and maintain. University departments in particular often emerge, close, combine, and change: the "high-level" institutional information in ROR is more stable and is therefore better suited for persistence. ROR concentrates on maintaining broad, inclusive global coverage of research organizations rather than on capturing the internal structure of particular organizations. ROR might extend its scope in the future, but meanwhile, because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own school- and department-level taxonomies. 
 
 ***
 
@@ -225,7 +225,7 @@ Contact [registry@ror.org](mailto:registry@ror.org) if you have a list of organi
 
 ### **I submitted a curation request to ROR. How can I track it?**
 
-After a request is submitted via the feedback form, an issue will be created in the [ror-updates Github repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You can track the status of your request by following the repository and by signing up as a watcher on the issue associated with your request.
+After a request is submitted via the feedback form, an issue will be created in the [ror-updates Github repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You will receive an email notification with a link to the Github issue associated with your request. You can track the status of the request by following this issue and subscribing to issue notifications.
 
 ***
 
