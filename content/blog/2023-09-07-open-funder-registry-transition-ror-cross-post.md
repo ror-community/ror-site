@@ -1,5 +1,5 @@
 +++
-title = "Open Funder Registry to transition to ROR (cross-post)"
+title = "Open Funder Registry to Transition to ROR (cross-post)"
 date = "2023-09-07"
 draft = false
 tags = ["funders", "news", "metadata", "persistent-identifiers", "pids", "registry" ]

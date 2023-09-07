@@ -7022,8 +7022,8 @@ th {
 }
 thead tr,
 thead tr:hover {
-  background-color:#017698;
-  border:1px solid #017698;
+  background-color:#e0004d;
+  border:1px solid #e0004d;
   color:#fff
 }
 tr:nth-child(2n+2) {
@@ -7032,3 +7032,22 @@ tr:nth-child(2n+2) {
 table.no-zebra tr:nth-child(2n+2) {
   background-color:#fff
 }
+
+/* footnotes */ 
+
+.footnotes {
+font-size: .8em;
+}
+
+.footnotes::before {
+  font-weight: bold;
+  font-size: 1.75rem;
+  line-height: 2.5rem;
+  content: "References";
+}
+
+.footnotes ol li, .footnotes ol li p {
+margin-bottom: .5rem;
+}
+
+
