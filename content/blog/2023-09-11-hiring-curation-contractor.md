@@ -24,9 +24,7 @@ Since [officially launching its new curation model](/blog/2022-03-17-first-indep
 
 The project description and application instructions follow below. 
 
-# Contract Support: ROR Curation Coordinator
-
-## General responsibilities
+## Curation Contractor: General responsibilities
 - Triage new curation requests using Github-based and command-line tools
 - Evaluate accuracy and validate requests by researching information in ROR, on organizational websites, and other sources such as Google Scholar
 - Review bulk requests as assigned by the metadata curation lead
