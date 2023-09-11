@@ -25,6 +25,7 @@ Since [officially launching its new curation model](/blog/2022-03-17-first-indep
 The project description and application instructions follow below. 
 
 # Contract Support: ROR Curation Coordinator
+
 ## General responsibilities
 - Triage new curation requests using Github-based and command-line tools
 - Evaluate accuracy and validate requests by researching information in ROR, on organizational websites, and other sources such as Google Scholar
@@ -34,14 +35,15 @@ The project description and application instructions follow below.
 - Provide support to curation lead and curation advisory board if troubleshooting is needed
 
 ## Contract deliverables
+
 ### Curation backlog management and processing
-Deliverables: Carry out Github- and command-line-based workflow to triage new curation requests and keep backlog small. Evaluate metadata accuracy and complete requests by researching information in ROR, on organizational websites, and other sources such as Google Scholar. Provide recommendations to curation lead and curation advisory board about how requests should be processed
+Carry out Github- and command-line-based workflow to triage new curation requests and keep backlog small. Evaluate metadata accuracy and complete requests by researching information in ROR, on organizational websites, and other sources such as Google Scholar. Provide recommendations to curation lead and curation advisory board about how requests should be processed
 
 ### Project support
-Deliverables: Review bulk requests as identified and assigned by the metadata curation lead. Provide support to curation lead and curation advisory board if troubleshooting is needed
+Review bulk requests as identified and assigned by the metadata curation lead. Provide support to curation lead and curation advisory board if troubleshooting is needed
 
 ### Data analysis/metadata Q&A
-Deliverables: Identify opportunities to improve ROR metadata quality and address metadata quality issues at scale. 
+Identify opportunities to improve ROR metadata quality and address metadata quality issues at scale. 
 			 						
 
 ## Skills and qualifications
@@ -57,14 +59,12 @@ Deliverables: Identify opportunities to improve ROR metadata quality and address
 
 ## Position details
 
-The contractor has no set hours of work, and there is no requirement for the contractor to work full-time.
-						
 This is a part-time contracted position (up to 20 hours a week) for approximately three months. This position will be in contract with Crossref but will be accountable to the three organizations that operate ROR (Crossref, California Digital Library, and DataCite).
 
-All work will be performed remotely.
+All work will be performed remotely. The contractor will have no set work hours. 
 
 ## To apply
-To apply, send a resume, statement of interest, and rate schedule to jobs@ror.org. Proposals will be reviewed until the position is filled. Review of proposals will begin XXXX. 
+To apply, send a resume, statement of interest, and rate schedule to jobs@ror.org. Proposals will be reviewed until the position is filled. Review of proposals will begin September 15. 
 
 ## Equal opportunity statement
 ROR, and the collaborating organizations behind it, California Digital Library, Crossref, and DataCite, are committed to non-discrimination and making opportunities available to anyone without regard to race, color, religion, sex, pregnancy or a condition related to pregnancy, sexual orientation, gender identity or expression, national origin, ancestry, age, physical or mental disability, genetic information, veteran status, uniform service member status, or any other protected class under applicable law.
