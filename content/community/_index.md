@@ -6,7 +6,8 @@ banner = "/img/banners/ROR_Banner-pink.jpg"
 aliases = [
     "/integrations",
     "/supporters",
-    "/adopters",
+	"/adopters",
+	"/integrators"
 ]
 +++
 
@@ -41,11 +42,12 @@ The ROR Steering Group is a small advisory body composed of the [ROR Operations 
 ### Community Advisory Group
 The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on ROR's current projects and future direction. The group of more than 150 people is invited to attend bi-monthly videoconference calls and is open to anyone who is interested in ROR. You can read more about the group on the [ROR blog](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email [info@ror.org](mailto:info@ror.org).
 
-### Curation Advisory Board
+### Curation Advisory Board 
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
-## Who's using ROR
-Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. If your system's integration of ROR does not appear on the list, please let us know. 
+
+## Who's using ROR {#adopters} 
+Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. Listed below are the latest known ROR adopters -- if your system's integration of ROR does not appear on the list, please let us know.
 
 {{% centered %}}
 {{% button color="green" link="https://airtable.com/shrQlmqDpXie13ufz" %}}Tell us about your ROR integration {{% /button %}}
@@ -71,7 +73,7 @@ ROR-organized events include open bi-monthly Community Calls, Annual Meetings, o
 
 We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
 
-## Supporters
+## Supporters {#supporters}
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. Does your organization want to help support ROR financially? 
 
 {{% centered %}}

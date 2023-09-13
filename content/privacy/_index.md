@@ -17,7 +17,7 @@ If you find content on the ROR website, Github site, blog, or social media chann
 
 ## Website, Github, Blog, and Services
 
-ROR operates a website at <https://ror.org>, maintains code on a Github site at <https://www.github.com/ror-community>, maintains documentation on a Readme.io site at <https://ror.readme.io>, publishes blog posts at <https://ror.org/blog>, and manages support requests via email at <info@ror.org>. It is ROR's policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on these sites please contact <info@ror.org>.
+ROR operates a website at <https://ror.org>, maintains code on a Github site at <https://www.github.com/ror-community>, maintains documentation on a Readme.io site at <https://ror.readme.io>, publishes blog posts at <https://ror.org/blog>, and manages support requests via email at <info@ror.org> and <support@ror.org>. It is ROR's policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on these sites please contact <info@ror.org>.
 
 ## Site Visitors
 
@@ -39,15 +39,11 @@ ROR provides documentation and support guidance on a Readme.io site (<https://ro
 
 ## Metadata and Identifiers
 
-ROR provides a registry of unique identifiers for research organizations and associated metadata about these organizations. All of the metadata and Identifiers registered with ROR are made available for use and reuse without restriction and under a CC0 license through our public APIs, search interfaces, and dataset downloads from Figshare and Zenodo. We are open and transparent about the use of our identifiers and metadata.
+ROR provides a registry of unique identifiers for research organizations and associated metadata about these organizations. All of the metadata and identifiers registered with ROR are made available for use and reuse without restriction and under a CC0 license through our public APIs, search interfaces, and dataset downloads. We are open and transparent about the use of our identifiers and metadata.
 
 ## ROR Support Queries
 
-Help and support queries are handled via email to <info@ror.org>. Any details provided during a support conversation are kept private. From time to time ROR may add your email to an appropriate mailing list for additional information. Individuals may remove themselves from mailings by following the unsubscribe link provided in messages or by contacting <info@ror.org>.  
-
-## Comments on the ROR Blog
-
-Readers of the [ROR blog](https://ror.org/blog) can submit comments on each post. ROR uses a platform called [Disqus](https://disqus.com/) to enable comments on the blog. Users can control their privacy settings with a Disqus account.
+Help and support queries are handled via email to <info@ror.org> and <support@ror.org>. Any details provided during a support conversation are kept private. From time to time ROR may add your email to an appropriate mailing list for additional information. Individuals may remove themselves from mailings by following the unsubscribe link provided in messages or by contacting <info@ror.org>.  
 
 ## Email Communications
 
