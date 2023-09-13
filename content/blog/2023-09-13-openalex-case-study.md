@@ -1,6 +1,6 @@
 +++
 title = "Case Study: OpenAlex, ROR, and Machine Learning Models"
-date = "2023-08-24"
+date = "2023-09-13"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies", "Machine Learning"]
 categories = ["case-studies"]
@@ -98,7 +98,7 @@ Can you talk a little bit more about this streamlining? Why did you pivot to nar
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
  
-We did a little bit of analysis at first to see "Okay, what's the distribution in OpenAlex as far as the number of papers for ROR institutions versus non-ROR institutions?" Through that analysis, we found that it was a very large percentage of institutions that were ROR institutions. I don't remember the exact number off the top of my head, but there was only a handful of institutions that were non-ROR institutions that had a lot of papers attributed to them.
+We did a little bit of analysis at first to see "Okay, what's the distribution in OpenAlex as far as the number of papers for ROR institutions versus non-ROR institutions?" Through that analysis, we found that about 97% of institution assignments were ROR institutions. 
 
 In addition to that, a lot of our non-ROR institutions were just garbage. They weren't linking to any [Wikidata](https://www.wikidata.org/wiki/Wikidata:Main_Page) page, they didn't have any information about location, and some of them were duplicates of ROR entities. The more we looked into it, the more we wanted to just start with ROR, and then maybe in the future, we could start adding institutions on top of ROR.
 
@@ -124,7 +124,7 @@ Just to give the people who will be reading this interview some perspective, wha
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
  
-I think OpenAlex has around 280 million works as of right now. Of course, not all of those have institution strings or affiliation strings that come with them. The last time I checked, about 80% of the new data we have coming in has an affiliation string. When you go back to some of the old data in MAG, papers from the 1960s and 1970s, a lot of those are missing institutional strings, but for our more current data, I would say about 80% at least have an affiliation string with them, so they are getting matched to a ROR ID.
+I think OpenAlex has around 243 million works as of right now. Of course, not all of those have institution strings or affiliation strings that come with them. The last time I checked, about 80% of the new data we have coming in has an affiliation string. When you go back to some of the old data in MAG, papers from the 1960s and 1970s, a lot of those are missing institutional strings, but for our more current data, I would say about 80% at least have an affiliation string with them, so they are getting matched to a ROR ID.
 
 ### {{< figure src="/img/adam-sq-200.jpg" class="round-figure" alt="Adam Buttrick" >}} Adam Buttrick
  
@@ -146,7 +146,7 @@ I'd like to hear a bit more about how the matching that you do works and how you
  
 We get the ROR data a couple of different ways. When I was creating this model, I used the most recent [data dump](https://ror.readme.io/docs/data-dump) to get an updated snapshot of all the ROR data, and then that's what I used to perform all the string matching. Currently, that snapshot is what the model is using in order to match those strings.
 
-In the future, we are going to be doing that slightly differently, because we have implemented some processes to use the [ROR API](https://ror.readme.io/docs/rest-api). I believe we're using the ROR API to update the institution data in our database with ROR data, but I didn't work on that project. That was one of our data engineers. But I believe once a day we ping the ROR API to check to see if any of the data has changed for specific institutions, and if there's a change, then we take that data and we put it into our system.
+In the future, we are going to be doing that slightly differently, because we will be implementing some processes to use the [ROR API](https://ror.readme.io/docs/rest-api). I believe we're using the ROR API to update some institution data in our database with ROR data, but that is not propagating through our whole system as of right now. I didn't work on that project, that was one of our data engineers. But I believe at some point in the future, we will ping the ROR API once a day to check to see if any of the data has changed for specific institutions, and if there's a change, we will take that data and put it into our system.
 
 When I get done with the author disambiguation project, institutions are something that I'm about to start looking at again, and because we are now populating our own database with ROR data, that gives me the opportunity to constantly update the strings that it's matching on. The process of matching those strings will be a little more streamlined to current data, as opposed to right now where it's just a snapshot from the past, which probably works most of the time, but which doesn't give me new data that you guys are providing, and which doesn't correct any data that might be wrong from that snapshot. I'm looking forward to getting back into institutions and making it more of a sustainable pipeline as opposed to what it is right now, where it's kind of a point in time model.
 
@@ -160,13 +160,13 @@ I did not work on that, so I could not speak to the funders. But I know that was
 
 ### {{< figure src="/img/adam-sq-200.jpg" class="round-figure" alt="Adam Buttrick" >}} Adam Buttrick
  
-It was very forward thinking to include ROR ID mappings, because over the long term, [the Funder Registry and ROR are intended to merge](https://crossref.atlassian.net/browse/CR-1208). It's a long ways out, but you'll be ahead of the game, because you already have a Funder ID to ROR ID mapping in the Funder object, so you can just privilege one ID or the other.
+It was very forward thinking to include ROR ID mappings, because over the long term, [the Funder Registry and ROR are intended to merge](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/). It's a long ways out, but you'll be ahead of the game, because you already have a Funder ID to ROR ID mapping in the Funder object, so you can just privilege one ID or the other.
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
  
 I'm sure it won't be that easy at the time, but we'll have a head start. I wish it was always as easy as a one-to-one mapping from one thing to another.
 
-We have the alpha version of our [user interface](http://web.openalex.org/) up right now, which is very rough, but it gives you kind of a preview of what we will have probably within the next month or two. It'll be really nice: you'll be able to look and see funders and institutions and all that information pretty easily. Before, you could look at that information, but it wasn't really user friendly, so we're pretty excited about the UI that's coming.
+We have the alpha version of our [user interface](https://alpha.openalex.org/) up right now, which is very rough, but it gives you kind of a preview of what we will probably have within the next month or two. It'll be really nice: you'll be able to look and see funders and institutions and all that information pretty easily. Before, you could look at that information, but it wasn't really user friendly, so we're pretty excited about the UI that's coming.
 
 ### {{< figure src="/img/adam-sq-200.jpg" class="round-figure" alt="Adam Buttrick" >}} Adam Buttrick
  
@@ -174,7 +174,7 @@ Do you know if you'll leverage things like [ROR hierarchies and relationships](h
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
 
-At first, no. At first, it'll probably just be a mapping to each institution's own ROR ID in version one of the UI. Once we start getting into subsequent versions, I think that we'll start looking to link all of the data a little bit better, so yes, at that point we'd probably add ROR institutions with the parents and children and all those relationships. Concepts also have a defined hierarchy that we would be most likely looking to leverage. So yes, there are a couple of things that we'll be looking to improve, but getting the UI out there to start is our top goal.
+At first, no. At first, it'll probably just be a mapping to each institution's own ROR ID in the alpha version of the UI. Once we start getting into subsequent versions, I think that we'll start looking to link all of the data a little bit better, so yes, at that point we'd probably add ROR institutions with the parents and children and all those relationships. However, we have recently started leveraging some of the ROR relationships and hierarchies in our API. It is a separate feature called ‘lineage’ which links the children of an institution with the parent only if a parent was tagged using our institution parser. Eventually this feature will make it into our UI but for now it is only accessible through our API. Concepts also have a defined hierarchy that we would be most likely looking to leverage at some point in the future. So yes, there are a couple of things that we'll be looking to improve in our UI, but getting a better version out there to start is our top goal.
 
 ### {{< figure src="/img/adam-sq-200.jpg" class="round-figure" alt="Adam Buttrick" >}} Adam Buttrick
  
@@ -204,7 +204,7 @@ Do you have any sense of who the users of the OpenAlex API are, roughly?
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
  
-We have some idea because of the requests that we're getting -- the problem reports, or bug reports. We have a group of people that submit tickets for any number of reasons, and there are definitely a lot of graduate students that are asking us, "Hey, can you increase the limits for the API for this email address so that I can pull up more data?" Just based on the number of grad students that message us about increasing their API limits, I would think that those are one of our largest group of users for the API. I can't imagine many other groups that are more prominent for API usage.
+We have some idea because of the requests that we're getting -- the problem reports, or bug reports. We have a group of people that submit tickets for any number of reasons, and there are definitely a lot of graduate students that are asking us, "Hey, can you increase the limits for the API for this email address so that I can pull up more data?" Just based on the number of grad students that message us about increasing their API limits, I would think that those are one of our largest groups of users for the API. I can't imagine many other groups that are more prominent for API usage.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
@@ -212,7 +212,7 @@ What are they doing with the OpenAlex API? What are they using it for?
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
  
-That is a good question. When people submit support tickets for us, a lot of the time they include the reason why they need the API increase. We don't need that reason; all we need is an email from you requesting more data from the API, and usually we just give it away. But a lot of people will tell us about the research they're doing. They want to analyze trends. Some of them want to analyze trends because they want to figure out where they should research, what topic they should explore, where they should submit a paper.
+That is a good question. When people submit support tickets for us, a lot of the time they include the reason why they need the API increase. We don't need that reason; all we need is an email from you requesting more data from the API, and usually we just give the user a higher limit. But a lot of people will tell us about the research they're doing. They want to analyze trends. Some of them want to analyze trends because they want to figure out where they should research, what topic they should explore, where they should submit a paper.
  
 There are a lot of interesting support tickets that come in that tell us why people are using our API, but we don't really analyze API usage as far as what people are searching for in the API.
 
@@ -244,11 +244,11 @@ Awesome. Does the OpenAlex data model support multiple affiliations for authors?
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
  
-Yes. We did not used to. Our first version of the institution parser was pretty good, but it could not handle strings that had multiple institutions in it. And so we worked a lot with [CWTS](https://www.cwts.nl/). They create the [Leiden ranking](https://www.leidenranking.com/).
+Yes. We did not used to. Our first version of the institution parser was pretty good, but it could not handle strings that had multiple institutions in it. And so we worked a lot with [CWTS](https://www.cwts.nl/). They help create the [Leiden ranking](https://www.leidenranking.com/).
  
 They took samples of our data, and they came back with suggestions for ways that we could improve it. We ended up incorporating a lot of those suggestions into our v2 model, and one of the main ones was to fix the problem that we could not handle multiple institutions in a single string.
 
-The v2 model that we created was highly dependent on ROR. The models in the first version of the institution parser used some ROR data, but they didn't really integrate ROR into our system. For v2, the way that we figured out to get multiple institutions in a string is to take the top N most likely institutions that the model says might match and then to use [ROR string matching](https://ror.readme.io/docs/affiliation-parameter) on those top 20 in order to see which ones would match. That has been very successful.
+The v2 model that we created was highly dependent on ROR. The models in the first version of the institution parser used some ROR data, but they didn't really integrate ROR into our system. For v2, the way that we figured out to get multiple institutions in a string is to take the top 20 most likely institutions that the model says might match and then to use some custom string matching on those top 20 in order to see which ones would match. That has been very successful.
 
 There are issues when it comes to longer strings that have more than three or four institutions in them. As you can imagine, the more institutions contained within a single string, the harder it is for the model to point you towards all of them accurately. There's definitely degradation when there's that many institutions within a string, but if you're looking at two or three institutions in a string, sometimes four or five, it can normally get all of them. It's pretty good.
 
@@ -258,7 +258,7 @@ Cool. Now I want to give you a chance to make some feature requests for ROR. Wha
 
 ### {{< figure src="/img/blog/openalex/justin_barrett.png" class="round-figure" alt="Justin Barrett" >}} Justin Barrett
  
-I know that the relationships between ROR institutions are very tricky sometimes. When I'm looking at the relationships I see sometimes an organization is both a parent of another organization and also related laterally to it. I see a lot of weird relationships, and I don't really understand how they work, and maybe that is actually how they are. I think that the next step for us is to use that relationship data. I would hope that when I start using it, it's ready to go, but I don't know if that'll be the case. We are working right now to look at French institutions. I don't know if you are familiar with how complicated that is.
+I know that the relationships between ROR institutions are very tricky sometimes. I see a lot of weird relationships, and I don't really understand how they work, and maybe that is actually how they are. I think that the next step for us is to use that relationship data. I would hope that when I start using it, it's ready to go, but I don't know if that'll be the case. We are working right now to look at French institutions. I don't know if you are familiar with how complicated that is.
 
 ### {{< figure src="/img/adam-sq-200.jpg" class="round-figure" alt="Adam Buttrick" >}} Adam Buttrick
  
