@@ -52,7 +52,7 @@ Many scholarly communication systems are already using ROR, and many others are 
 {{% centered %}}
 {{% button color="green" link="https://airtable.com/shrQlmqDpXie13ufz" %}}Tell us about your ROR integration {{% /button %}}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 See the [complete list of known ROR integrations.](https://airtable.com/shr7a3O7xPb4y8xhx/tblTsQMC5DJ0lIvw6?backgroundColor=gray&viewControls=on)
 
