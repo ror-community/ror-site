@@ -14,15 +14,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call September 2023
-- Date: September 28, 2023 
-- Time: [3pm UTC](https://dateful.com/eventlink/9934890934)
-- Duration: 1 hour
-- Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
-- Recorded: Yes
 
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJYtcemurTgjEtQyaCDe2LpHdb3YcuAooZpK" %}} Register for the September ROR Community Call {{% /button %}}
 
 ---
 
@@ -43,6 +35,9 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 
 ## Past events 
+
+### ROR Community Call September 2023
+- [ROR Community Call September 2023](2023-09-28-ror-community-call) - September 28, 2023
 
 ### ROR Community Call July 2023
 - [ROR Community Call July 2023](2023-07-25-ror-community-call) - July 25, 2023
