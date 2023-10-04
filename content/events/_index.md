@@ -26,6 +26,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### The Role of Funders in Building a Robust and Trustworthy Output Tracking Mechanism Using PIDs and Open Metadata - DataCite Annual Meeting
+- Date: October 12, 2023 
+- Time: [2pm UTC](https://dateful.com/eventlink/1996323906)
+- Duration: 2 hours
+- Location: Online
+- Description: In this panel, we will hear perspectives—including from funding organizations—on how the adoption of PIDs and the creation of rich connection metadata can serve as a concrete step towards Open and FAIR grant management, output tracking, and impact measurement. Opening talks by each of the panellists will be followed by a moderated discussion on how funders can leverage their influence to incentivize and normalize the adoption of FAIR workflows within the research community, thereby fostering data management, publication, and communication best practices. 
+- Recorded: Yes
+
+{{% button color="green" link="https://datacite.zoom.us/webinar/register/7716951154450/WN_VHRhKWT9T3C1MXGR5pvxiA#/registration" %}} Register for The Role of Funders - DataCite Annual Meeting {{% /button %}}
+
+---
+
 ### ROR Open Hours 2nd Thursdays
 - Date: October 12, 2023 
 - Time: [4pm UTC](https://dateful.com/eventlink/2802250199)
