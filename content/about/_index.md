@@ -115,16 +115,20 @@ ROR has benefited and continues to benefit from the involvement of many individu
 More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://tinyurl.com/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
 
 ### ROR IDs in Crossref metadata
-The chart below tracks the number of DOI records registered with Crossref that include ROR IDs in metadata over time. The chart begins in May 2022 and is updated by periodically running manual queries of the Crossref API. 
+The chart below tracks the number of DOI records registered with Crossref that include ROR IDs in metadata over time. The time series begins in May 2022 and is updated by periodically running manual queries of the Crossref API. 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1786924431&amp;format=interactive" width="600" height="400"></iframe>
 
 See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional statistics.
 
 ### ROR IDs in DataCite metadata
-The chart below tracks the number of DOI records registered with DataCite that include ROR IDs in affiliation metadata over time. The chart begins in May 2022 and is updated by periodically running manual queries of the DataCite API. 
+The chart below tracks the number of DOI records registered with DataCite that include ROR IDs in affiliation metadata over time. The time series begins in May 2022 and is updated by periodically running manual queries of the DataCite API. 
 
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=674408658&amp;format=interactive" width="600" height="400"></iframe>
+
+The chart below tracks the use of text strings and identifiers in funding references in DataCite over time. The time series begins in May 2022 and is updated by periodically running manual queries of the DataCite API. 
+
+<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=744448944&amp;format=interactive" width="600" height="400"></iframe>
 
 See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional statistics.
 
@@ -135,10 +139,7 @@ See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https:
 See the full [ROR Research Zotero bibliography](https://www.zotero.org/groups/4790165/ror_research/library). 
 
 ### ROR API usage 
-ROR API usage has seen remarkable increase over time and is a good, if rough, indicator of ROR's increasing adoption. See the table below or explore our [public ROR API insights dashboard](https://p.datadoghq.eu/sb/db1aec04-0c1a-11ec-860a-da7ad0900005-7d7c572812608235cca3359ee5ec591a) to see how much people are using our API. 
-
- <iframe src="https://p.datadoghq.eu/sb/db1aec04-0c1a-11ec-860a-da7ad0900005-88ebf7266548a28b7b173dfd6f6919b9" width="600" height="400"></iframe>
-
+ROR API usage has seen remarkable increase over time and is a good, if rough, indicator of ROR's increasing adoption. Explore our [public ROR API insights dashboard](https://p.datadoghq.eu/sb/db1aec04-0c1a-11ec-860a-da7ad0900005-7d7c572812608235cca3359ee5ec591a) to see how much people are using our API. 
 
 ## History
 ROR is the culmination of several years of extensive community collaborations to develop a shared vision for a registry of organization identifiers.
