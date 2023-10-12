@@ -1,6 +1,6 @@
 +++
 title = "How ROR and the Open Funder Registry Overlap: A Closer Look at the Data"
-date = "2023-10-11"
+date = "2023-10-12"
 draft = false
 tags = ["funders", "news", "metadata", "persistent-identifiers", "pids", "registry" ]
 categories = ["explainers"]
@@ -8,7 +8,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/funder-overlap/overlap-blank-charts.png"
 images = ['/img/blog/funder-overlap/overlap-blank-charts.png']
-author = "Amanda French and Adam Buttrick"
+author = "Amanda French, Adam Buttrick"
 description = "ROR is ready to take on the important work that the Open Funder Registry has been doing: identifying research funders in a clean, consistent, comprehensive, and interoperable way. This post compares both registries and provides data showing that most of the Open Funder Registry records that see the most use already have equivalent records in ROR."
 +++
 
@@ -17,7 +17,7 @@ Following on the [announcement that Crossref's Open Funder Registry will be merg
 
 Crossref and Elsevier have done the entire scholarly communication ecosystem a great service not just in creating and maintaining the Open Funder Registry (formerly FundRef), but also in promulgating its use by publishers and other systems. Thanks to the Open Funder Registry, it has never been easier to match funders to research outputs using open connection metadata, and the current moment is one in which linking funding to research outputs is of critical importance to ensure transparency and research integrity.  
 
-As more and more systems have begun using ROR for contributor affiliations, however, it has become clear that using ROR for the all-important task of identifying funders provides many benefits: 
+As more and more systems have begun using ROR for contributor affiliations, however, it has become clear that also using ROR for the all-important task of identifying funders provides many benefits: 
 
 * Streamlining processes by using one registry instead of two
 * Reducing difficulty with ROR's easy-to-use REST API, clear documentation, and web-based landing pages
@@ -89,7 +89,7 @@ ROR's curation team plans to continue adding entities listed in the Open Funder 
 
 If you are a funder or if you work with Funder IDs, you can use [the ROR / Funder Overlap tool](https://rorfunderoverlap.streamlit.app/) to look up any funder in the Open Funder Registry and find its equivalent ROR record. If the information in the ROR record needs a correction, or if there is no matching ROR record, you can request that ROR make the change from within the tool. 
 
-{{< figure src="/img/blog/funder-overlap/funder-mapping-lookup.gif" alt="GIF showing how to look up the funder Arcadia in the ROR / Funder overlap tool" caption="How to look up a funder such as the Arcadia in the [ROR / Funder Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
+{{< figure src="/img/blog/funder-overlap/funder-mapping-lookup.gif" alt="GIF showing how to look up the Arcadia Fund in the ROR / Funder overlap tool" caption="How to look up a funder such as the Arcadia Fund in the [ROR / Funder Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
 
 You can also look up how many of a particular Crossref member's funding assertions can be mapped to ROR IDs by choosing "Crossref - Overlap by Member" from the views on the left side of the screen. 
 
