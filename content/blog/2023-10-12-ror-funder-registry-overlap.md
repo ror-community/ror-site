@@ -63,7 +63,7 @@ The project to reconcile ROR with the Open Funder Registry has been focused on F
 
 To analyze the overlap between ROR and the Funder Registry, we have built and made publicly available the [ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app/). This tool shows that **after ROR's reconciliation efforts to date, 94.1% of the existing Funder ID assertions in Crossref metadata can be matched to ROR IDs.** We expect this percentage to increase as the reconciliation work continues.
 
-{{< figure src="/img/blog/funder-overlap/crossref-funder-overlap.png" class="blog-figure" alt="Two pie charts, with the one on the left showing that 54.6% of organizations in the Open Funder Registry are available in ROR and the one on the right showing that 94.1% of Funder ID uses in Crossref records have a corresponding ROR ID" caption="Crossref - Aggregate ROR/Funder Registry OverlapTool view from the [ROR / Funder Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
+{{< figure src="/img/blog/funder-overlap/crossref-funder-overlap.png" class="blog-figure" alt="Two pie charts, with the one on the left showing that 54.6% of organizations in the Open Funder Registry are available in ROR and the one on the right showing that 94.1% of Funder ID uses in Crossref records have a corresponding ROR ID" caption="Crossref - Aggregate ROR/Funder Registry OverlapTool view from the [ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
 
 The pie chart on the left shows that of the 35,000+ funders in the Funder Registry, more than 19,000, or a small majority of 54.6%, are represented in ROR, usually on a one-to-one basis. However, about 2,000 Funder IDs in the Funder Registry are never used in Crossref metadata, and many of the remaining 33,000 are used only once. Individual funders who issue many awards can account for a high number of funding assertions, and ROR has therefore focused its Open Funder Registry reconciliation work on these large funders. For example, the United States National Science Foundation currently accounts for over 332,000 funding assertions by itself, and with its many associated laboratories and agencies, it accounts for over 412,000 funding assertions in works registered with Crossref.[^3] The pie chart on the right shows that **of the more than 13 million uses of Funder IDs in Crossref metadata, nearly 12.5 million have a corresponding ROR ID.**
 
@@ -82,18 +82,18 @@ In addition, while the preceding chart shows the number of funder assertions in 
 
 **Clearly, then, ROR is ready to take on the work that the Open Funder Registry is currently doing with regard to funding data in Crossref and DataCite records.**
 
-ROR's curation team plans to continue adding entities listed in the Open Funder Registry to ROR based on priority and usage. You can help us determine what needs to be done by analyzing your own funder data with the [ROR / Funder Overlap tool](https://rorfunderoverlap.streamlit.app/) that we've made available to help you in this transition.  
+ROR's curation team plans to continue adding entities listed in the Open Funder Registry to ROR based on priority and usage. You can help us determine what needs to be done by analyzing your own funder data with the [ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app/) that we've made available to help you in this transition.  
 
 
 ## Analyzing your own funder data
 
 If you are a funder or if you work with Funder IDs, you can use [the ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app/) to look up any funder in the Open Funder Registry and find its equivalent ROR record. If the information in the ROR record needs a correction, or if there is no matching ROR record, you can request that ROR make the change from within the tool. 
 
-{{< figure src="/img/blog/funder-overlap/funder-mapping-lookup.gif" alt="GIF showing how to look up the Arcadia Fund in the ROR / Funder overlap tool" caption="How to look up a funder such as the Arcadia Fund in the [ROR / Funder Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
+{{< figure src="/img/blog/funder-overlap/funder-mapping-lookup.gif" alt="GIF showing how to look up the Arcadia Fund in the ROR / Funder Registry Overlap tool" caption="How to look up a funder such as the Arcadia Fund in the [ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
 
 You can also look up how many of a particular Crossref member's funding assertions can be mapped to ROR IDs by choosing "Crossref - Overlap by Member" from the views on the left side of the screen. 
 
-{{< figure src="/img/blog/funder-overlap/crossref-member-lookup.gif" alt="GIF showing how to look up the Crossref member Royal Society of Chemistry in the ROR / Funder Registry overlap tool" caption="How to look up the funding assertions of a Crossref member such as the Royal Society of Chemistry in the [ROR / Funder Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
+{{< figure src="/img/blog/funder-overlap/crossref-member-lookup.gif" alt="GIF showing how to look up the Crossref member Royal Society of Chemistry in the ROR / Funder Registry Overlap tool" caption="How to look up the funding assertions of a Crossref member such as the Royal Society of Chemistry in the [ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app).">}} 
 
 For instance, Crossref member the [Royal Society of Chemistry (RSC)](https://rsc.org) has as of this writing used Funder IDs over 478,000 times in Crossref metadata, and nearly 93% of these assertions can be matched to a ROR ID. Of the 9,000+ funders that RSC publications currently acknowledge in Crossref metadata, nearly 73% have corresponding ROR IDs. 
 
