@@ -194,7 +194,9 @@ Precisely.
   
 Yeah, I think so. I saw that [OpenAlex has got funder data](https://docs.openalex.org/api-entities/funders) now, but I haven't had a good play around with it. I do think there's something interesting there. If you're finding misconduct in research, and it's been funded, the funder would probably want to know, 
 
-The other question, of course, is how funding could also be a signal that can be used the other way for saying, "Okay, this seems less likely to be problematic, because it's been funded by someone who we think is doing a good job of assessing who they're giving the money to." Something like that. I think there's different sides to it. One thing I have done in the past was analyze papers to compare the ones with funding statements with the ones that don't have funding statements -- which get cited more? And, significantly, it's the ones with the funding statements that have more citations. That's ignoring what those funding statements say, who they're from, how much funding the person got, or anything like that. Simply having the statement gave you a different distribution, so you'd have more citations. 
+The other question, of course, is how funding could also be a signal that can be used the other way for saying, "Okay, this seems less likely to be problematic, because it's been funded by someone who we think is doing a good job of assessing who they're giving the money to." Something like that. I think there's different sides to it. 
+
+One thing I have done in the past was analyze papers to compare the ones with funding statements with the ones that don't have funding statements -- which get cited more? And, significantly, it's the ones with the funding statements that have more citations. That's ignoring what those funding statements say, who they're from, how much funding the person got, or anything like that. Simply having the statement gave you a different distribution, so you'd have more citations. 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
@@ -278,7 +280,7 @@ But yeah, I guess that's it. That's the thing I think is really important and va
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-I'm glad you said that. Having the data be open is a really crucial part of what we think is important about ROR, because it makes it easier for analysts and even for software developers.
+I'm glad you said that. Having the data be open is a really crucial part of what we think is important about ROR.
 
 ### {{< figure src="/img/blog/clearskies/adam-day.jpg" class="round-figure" alt="Adam Day" >}} Adam Day
   
