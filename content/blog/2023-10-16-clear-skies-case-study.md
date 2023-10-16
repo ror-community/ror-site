@@ -80,7 +80,7 @@ How important do you think that organization correlation is in detecting paper m
 
 ### {{< figure src="/img/blog/clearskies/adam-day.jpg" class="round-figure" alt="Adam Day" >}} Adam Day
   
-I think there are a lot of a lot of factors in there. And really, the fundamental thing is that there has to be solid, human-in-the-loop analysis of every case. It would be fantastic if we could just have this wonderful, magical machine that could detect all of the fraud and deal with it for us. But the reality is that you need to have humans in there to check the data that's coming out.
+I think there are a lot of factors in there. And really, the fundamental thing is that there has to be solid, human-in-the-loop analysis of every case. It would be fantastic if we could just have this wonderful, magical machine that could detect all of the fraud and deal with it for us. But the reality is that you need to have humans in there to check the data that's coming out.
 
 Sometimes, you could have input data that is incorrect, which is fairly unusual these days, but it does happen. Sometimes the wrong piece of input data gets into your analysis, and that can affect the output, so you need humans there to check just for that, because that is a fact of life. When it comes down to automated detection, I don't think there is an automated detection method that is 100% accurate, and I'm not sure if that's even possible. There need to be humans who are looking at things and saying, "Okay, what would we consider to be good evidence of misconduct?" And that's going to be partly down to them doing particular investigations, but also down to their judgment, right? And human judgment really does have to come into this. 
 
@@ -94,7 +94,7 @@ What other persistent identifiers do you use in Papermill Alarm?
 
 ### {{< figure src="/img/blog/clearskies/adam-day.jpg" class="round-figure" alt="Adam Day" >}} Adam Day
   
-There are lots of things that come into the analysis. [DOIs](https://doi.org), frankly, are absolutely critical, really useful things. Then there's [ORCID](https://orcid.org), which we use to some extent, although a lot a lot of ORCIDs aren't there, and a lot of data that you might want from ORCID isn't in there. And there are some issues around using it with particular datasets still. They may have fixed it now, but there used to be an issue with OpenAlex, that they would infer that people were the same person, and then you would get multiple ORCIDs with the same person, and then you'd find that the wrong ORCID was on the wrong paper. So you can use them to some extent, but that can have limitations. 
+There are lots of things that come into the analysis. [DOIs](https://doi.org), frankly, are absolutely critical, really useful things. Then there's [ORCID](https://orcid.org), which we use to some extent, although a lot of ORCIDs aren't there, and a lot of data that you might want from ORCID isn't in there. And there are some issues around using it with particular datasets still. They may have fixed it now, but there used to be an issue with OpenAlex, that they would infer that people were the same person, and then you would get multiple ORCIDs with the same person, and then you'd find that the wrong ORCID was on the wrong paper. So you can use them to some extent, but that can have limitations. 
 
 And I think the ROR identifier gets added from the affiliation string?
 
