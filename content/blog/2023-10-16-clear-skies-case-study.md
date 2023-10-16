@@ -44,7 +44,7 @@ Lovely. Tell us about Clear Skies Ltd. When was it founded? What does it do? Wha
 
 ### {{< figure src="/img/blog/clearskies/adam-day.jpg" class="round-figure" alt="Adam Day" >}} Adam Day
   
-Clear Skies was founded in, let's see, the first quarter of 2022, so not very long ago. The whole idea behind Clear Skies is to take data from multiple sources, bring it together, and use it to help research integrity. But I mean that in quite a broad sense: not just research integrity as in dealing with misconduct or paper mills, but the whole process. What can we do by bringing data together to help me make this a better, stronger, more robust process?
+Clear Skies was founded in, let's see, the first quarter of 2022, so not very long ago. The whole idea behind Clear Skies is to take data from multiple sources, bring it together, and use it to help research integrity. But I mean that in quite a broad sense: not just research integrity as in dealing with misconduct or paper mills, but the whole process. What can we do by bringing data together to help make this a better, stronger, more robust process?
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
