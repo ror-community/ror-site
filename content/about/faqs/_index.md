@@ -218,13 +218,13 @@ Currently, releases are published approximately every month. You can track your 
 
 ***
 
-### **How can I submit bulk processing requests to ROR when I want to add multiple organizations?**
+### **How can I submit bulk requests to ROR when I want to add multiple organizations?**
 
 If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact [registry@ror.org](mailto:registry@ror.org) for assistance.
 
 ***
 
-### **How long will it take for my bulk processing request to be processed?**
+### **How long will it take for my bulk request to be processed?**
 
 While approved requests for single ROR records generally appear in the registry in 2-4 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely.
 
