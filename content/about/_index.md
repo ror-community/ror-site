@@ -112,7 +112,7 @@ ROR has benefited and continues to benefit from the involvement of many individu
 
 ## Impact
 
-More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://tinyurl.com/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
+More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://bit.ly/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
 
 ### ROR IDs in Crossref metadata
 The chart below tracks the number of DOI records registered with Crossref that include ROR IDs in metadata over time. The time series begins in May 2022 and is updated by periodically running manual queries of the Crossref API. 

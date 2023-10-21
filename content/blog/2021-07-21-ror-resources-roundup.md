@@ -36,7 +36,7 @@ An important point to note is that ROR IDs are still considered primarily intern
 
 Curious about who’s using ROR and how they’re using it? Check out our [updated integrations list](/integrations), which includes more details than our previous list as well as options to sort and filter by integration type, status and other facets.
 
-- **Is your integration missing?** Tell us about it via the [integration info form](https://airtable.com/shrQlmqDpXie13ufz)
+- **Is your integration missing?** Tell us about it via the [integration info form](https://airtable.com/app2Tnq1uCHnS8HQD/shrzY2wVF5ebL0Fm5)
 - **Is your integration on the list, but in need of updates?** Let us know at [info@ror.org](mailto:info@ror.org)
 
 [{{< figure src="/img/2021-07-ror-integrations.gif">}}](/integrations)

@@ -50,11 +50,11 @@ The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews su
 Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. Listed below are the latest known ROR adopters -- if your system's integration of ROR does not appear on the list, please let us know.
 
 {{% centered %}}
-{{% button color="green" link="https://airtable.com/shrQlmqDpXie13ufz" %}}Tell us about your ROR integration {{% /button %}}
+{{% button color="green" link="https://airtable.com/app2Tnq1uCHnS8HQD/shrzY2wVF5ebL0Fm5" %}}Tell us about your ROR integration {{% /button %}}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shr7a3O7xPb4y8xhx?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="600" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrM876d6Koi1UONe?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="550" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-See the [complete list of known ROR integrations.](https://airtable.com/shr7a3O7xPb4y8xhx/tblTsQMC5DJ0lIvw6?backgroundColor=gray&viewControls=on)
+See the [complete list of known ROR integrations.](https://airtable.com/app2Tnq1uCHnS8HQD/shrM876d6Koi1UONe?backgroundColor=gray&viewControls=on)
 
 {{% /centered %}}
 
@@ -80,9 +80,9 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 {{% button color="green" link="/sustain" %}} Become a ROR sustaining supporter {{% /button %}}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrd7RFd5WEQHPVXL?backgroundColor=gray&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="520" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="520" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-[See the complete list of ROR sustaining supporters.](https://airtable.com/shrd7RFd5WEQHPVXL/tblVW4WwaLB6mOfW8?backgroundColor=gray&viewControls=on)
+[See the complete list of ROR sustaining supporters.](https://airtable.com/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt)
 
 {{% /centered %}}
 
