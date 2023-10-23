@@ -14,6 +14,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
+### Crossref Live Annual ROR flash talk
+- Date: October 31, 2023 
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&tz2=Coordinated-Universal-Time-UTC)
+- Duration: 1 hour
+- Location: Online
+- Description: ROR Technical Community Manager Amanda French will give a brief demonstration of the Crossref Funder Registry / ROR Overlap tool and discuss ROR's analysis of the overlap between the two registries showing that ROR is ready to identify funders.  
+- Recorded: No
+
+{{% button color="green" link="https://www.crossref.org/crossref-live-annual/2023-annual-meeting/" %}} Register for Crossref Live Annual {{% /button %}}
+
+---
+
 ### ROR Open Hours 1st Wednesdays
 - Date: November 1, 2023 
 - Time: [8pm UTC](https://dateful.com/eventlink/1267576284)
