@@ -45,7 +45,6 @@ The Community Advisory Group is the primary way to get involved in ROR, engage w
 ### Curation Advisory Board 
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
-
 ## Who's using ROR {#adopters} 
 Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. Listed below are the latest known ROR adopters -- if your system's integration of ROR does not appear on the list, please let us know.
 
@@ -64,6 +63,22 @@ See the [complete list of known ROR integrations.](https://airtable.com/app2Tnq1
 To learn more about why organizations and systems are deciding to use ROR and how they approached the work of integrating ROR, read in-depth interviews with ROR adopters in the [Case Studies](/categories/case-studies) series on our blog.
 
 {{% /callout %}}
+
+## Why ROR? 
+Looking for a short document to help you or others at your organization understand why you should adopt ROR? Read and share one or more of the below PDF documents from the [ROR Community Materials](https://zenodo.org/communities/ror-community-materials) collection. 
+
+- Why ROR? (1 page)
+	- [English](https://zenodo.org/doi/10.5281/zenodo.10054259)
+	- [Spanish](https://zenodo.org/doi/10.5281/zenodo.10055069) 
+	- [Portuguese](https://zenodo.org/doi/10.5281/zenodo.10055098) 
+	- [Korean](https://zenodo.org/doi/10.5281/zenodo.10055269) 
+- ROR Fact Sheet (1 page) 
+	- [English](https://zenodo.org/doi/10.5281/zenodo.10055115)
+	- [Spanish](https://zenodo.org/doi/10.5281/zenodo.10055359) 
+	- [Portuguese](https://zenodo.org/doi/10.5281/zenodo.10055374) 
+	- [Korean](https://zenodo.org/doi/10.5281/zenodo.10055396) 
+- [ROR for Publishers](https://zenodo.org/doi/10.5281/zenodo.10049191) (4 pages)
+- [ROR for Repositories](https://zenodo.org/doi/10.5281/zenodo.10049153) (13 pages)
 
 ## Events 
 ROR-organized events include open bi-monthly Community Calls, Annual Meetings, open hours, webinars, and more that anyone can register for. ROR team members also frequently present at conferences and webinars organized by other groups. All ROR-organized events are always free. 
