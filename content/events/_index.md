@@ -14,18 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### Crossref Live Annual ROR flash talk
-- Date: October 31, 2023 
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&tz2=Coordinated-Universal-Time-UTC)
-- Duration: 1 hour
-- Location: Online
-- Description: ROR Technical Community Manager Amanda French will give a brief demonstration of the Crossref Funder Registry / ROR Overlap tool and discuss ROR's analysis of the overlap between the two registries showing that ROR is ready to identify funders.  
-- Recorded: No
-
-{{% button color="green" link="https://www.crossref.org/crossref-live-annual/2023-annual-meeting/" %}} Register for Crossref Live Annual {{% /button %}}
-
----
-
 ### ROR Open Hours 1st Wednesdays
 - Date: November 1, 2023 
 - Time: [8pm UTC](https://dateful.com/eventlink/1267576284)
@@ -98,6 +86,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### SCOSS Building connections - the importance of open infrastructure
+- Date: November 30, 2023 
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2023-11-30)
+- Duration: 1 hour
+- Location: Online
+- Description: The session aims to reflect on how SCOSS infrastructures have progressed, what the case for open infrastructure is and it gives you the opportunity to meet some of the SCOSS Board who will share their visions for the future. Over the past five years, over 10 open infrastructures have received support from a wide range of research organisations around the globe. In this webinar, we will highlight these open infrastructures, how far they have come, and above all their connections, whilst stressing the importance of collectively funding this valuable ecosystem. 
+
+{{% button color="green" link="https://us02web.zoom.us/webinar/register/WN_zlLSlwwxQ_Wi-ZNVnj6vPw#/registration" %}} Register for SCOSS webinar {{% /button %}}
+
+---
+
 ### US Federal Guidance and PIDs 
 - Date: December 7, 2023 
 - Time: [4pm UTC](https://dateful.com/eventlink/2889486054)
@@ -108,6 +107,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJcvc-2trjIvGdGasDI15R_cEZaeUwXcNEr8" %}} Register for US Federal Guidance and PIDs {{% /button %}}
 
+---
+
+### AfricArXiv webinar - Spotlight on ROR and Africa
+- Date: December 11, 2023 
+- Time: TBD
+- Duration: 1 hour
+- Location: Online
+- Description: In this AfricArXiv webinar, we'll give a summary of African organizations in ROR, highlight ROR-enabled systems in use in Africa, and discuss existing and future collaborations with other services such as ORCID as well as with African research entities. 
+- Recorded: Yes
+
+{{% button color="green" link="https://docs.google.com/forms/d/e/1FAIpQLSew5jA_rTyraMVJ_7g1EhIHmckwSTretmaX3EgV7G8rEVZ27A/viewform" %}} Register for AfricArXiv webinar on ROR {{% /button %}}
 
 ---
 
