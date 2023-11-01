@@ -111,10 +111,10 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ### AfricArXiv webinar - Spotlight on ROR and Africa
 - Date: December 11, 2023 
-- Time: TBD
+- Time: [1pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1pm&d=2023-12-11)
 - Duration: 1 hour
 - Location: Online
-- Description: In this AfricArXiv webinar, we'll give a summary of African organizations in ROR, highlight ROR-enabled systems in use in Africa, and discuss existing and future collaborations with other services such as ORCID as well as with African research entities. 
+- Description: In this AfricArXiv webinar, we'll give a summary of African organizations in ROR, highlight ROR-enabled systems in use in Africa, and discuss existing and future collaborations with services such as ORCID and with African research entities. 
 - Recorded: Yes
 
 {{% button color="green" link="https://docs.google.com/forms/d/e/1FAIpQLSew5jA_rTyraMVJ_7g1EhIHmckwSTretmaX3EgV7G8rEVZ27A/viewform" %}} Register for AfricArXiv webinar on ROR {{% /button %}}
