@@ -102,7 +102,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Time: [4pm UTC](https://dateful.com/eventlink/2889486054)
 - Duration: 90 minutes
 - Location: Online
-- Description: In this panel, we'll hear from involved stakeholders about two guidance memos issued by the U.S. federal government on the topic of Persistent Identifiers (PIDs).  
+- Description: In this panel, we’ll hear from ORCID, Crossref, DataCite and the Department of Energy about two guidance memos (Research Security & Public Access to Research) issued by the U.S. federal government encouraging the use of Persistent Identifiers (PIDs).
 - Recorded: Yes
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJcvc-2trjIvGdGasDI15R_cEZaeUwXcNEr8" %}} Register for US Federal Guidance and PIDs {{% /button %}}
