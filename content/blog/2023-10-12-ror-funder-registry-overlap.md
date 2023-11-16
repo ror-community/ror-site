@@ -112,7 +112,7 @@ Meanwhile, if you have questions or comments about ROR and the Open Funder Regis
 
 ---
 
-[^1]: Please note that all figures, percentages, and statistics in this blog post are current as of October 12, 2023 but might change when updates are made to the Open Funder Registry, ROR, and funding assertions in Crossref and DataCite records. Similarly, the ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app/) might produce different results when new data is ingested. [Note added 11/16/2023.]
+[^1]: Please note that all figures, percentages, and statistics in this blog post are current as of October 12, 2023 but might change when updates are made to the Open Funder Registry, ROR, and funding assertions in Crossref and DataCite records. Similarly, the [ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app/) might produce different results when new data is ingested. [Note added 11/16/2023.]
 
 [^2]: [Crossref API works with Funder IDs](http://api.crossref.org/works?filter=has-funder-doi:t)
 
