@@ -13,7 +13,7 @@ description = "ROR is ready to take on the important work that the Open Funder R
 +++
 
 
-Following on the [announcement that Crossref's Open Funder Registry will be merging with ROR after 2024](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/), we'd like to do a deep dive into the specifics of the evidence that ROR is ready to take on the important work that the Open Funder Registry has been doing: identifying research funders in a clean, consistent, comprehensive, and interoperable way. The main thing you need to know is that ROR's data is up to the challenge. As of today, **there is a corresponding ROR ID for over 94% of Funder ID assertions in both DataCite and Crossref DOI records**. 
+Following on the [announcement that Crossref's Open Funder Registry will be merging with ROR after 2024](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/), we'd like to do a deep dive into the specifics of the evidence that ROR is ready to take on the important work that the Open Funder Registry has been doing: identifying research funders in a clean, consistent, comprehensive, and interoperable way. The main thing you need to know is that ROR's data is up to the challenge. As of today, **there is a corresponding ROR ID for over 94% of Funder ID assertions in both DataCite and Crossref DOI records**.[^1]
 
 Crossref and Elsevier have done the entire scholarly communication ecosystem a great service not just in creating and maintaining the [Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef), but also in promulgating its use by publishers and other systems. Thanks to the Open Funder Registry, it has never been easier to match funders to research outputs using open connection metadata, and the current moment is one in which linking funding to research outputs is of critical importance to ensure transparency and research integrity.  
 
@@ -59,7 +59,7 @@ At the record level, then, ROR and the Open Funder Registry are far more similar
 
 **Most of the Funder Registry records that see the most use already have equivalent records in ROR**, which is good news for users of the Funder Registry. Throughout 2022 and into 2023, the ROR team has been [working diligently to reconcile the Open Funder Registry with ROR](https://github.com/ror-community/ror-roadmap/issues/131), and this reconciliation work has resulted in the addition of 631 new ROR records identifying funders. Moreover, we have modified 6,080 ROR records to add Funder ID mappings and to ensure that these records include key metadata from the Open Funder Registry.  
 
-The project to reconcile ROR with the Open Funder Registry has been focused on Funder IDs that have existing uses, or "assertions," in Crossref records, and the work has been prioritized on the basis of the total number of assertions. The Funder Registry includes identifiers for about 35,000 funding organizations, and of these, nearly 33,000 are used at least once in Crossref metadata. More than 8 million content items registered with Crossref include Funder IDs,[^1] and since many of those items cite more than one funder, there are over 13 million total funding assertions in Crossref metadata.[^2] 
+The project to reconcile ROR with the Open Funder Registry has been focused on Funder IDs that have existing uses, or "assertions," in Crossref records, and the work has been prioritized on the basis of the total number of assertions. The Funder Registry includes identifiers for about 35,000 funding organizations, and of these, nearly 33,000 are used at least once in Crossref metadata. More than 8 million content items registered with Crossref include Funder IDs,[^2] and since many of those items cite more than one funder, there are over 13 million total funding assertions in Crossref metadata.[^3] 
 
 To analyze the overlap between ROR and the Funder Registry, we have built and made publicly available the [ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app/). This tool shows that **after ROR's reconciliation efforts to date, 94.1% of the existing Funder ID assertions in Crossref metadata can be matched to ROR IDs.** We expect this percentage to increase as the reconciliation work continues.
 
@@ -112,11 +112,13 @@ Meanwhile, if you have questions or comments about ROR and the Open Funder Regis
 
 ---
 
-[^1]: [Crossref API works with Funder IDs](http://api.crossref.org/works?filter=has-funder-doi:t)
+[^1]: Please note that all figures, percentages, and statistics in this blog post are current as of October 12, 2023 but might change when updates are made to the Open Funder Registry, ROR, and funding assertions in Crossref and DataCite records. Similarly, the ROR / Funder Registry Overlap tool](https://rorfunderoverlap.streamlit.app/) might produce different results when new data is ingested. [Note added 11/16/2023.]
 
-[^2]: The number of Funder ID assertions in Crossref is derived from a sum of the results for the query https://api.crossref.org/funders/{funder_id}}/works for every Funder ID, e.g., https://api.crossref.org/funders/100000001/works 
+[^2]: [Crossref API works with Funder IDs](http://api.crossref.org/works?filter=has-funder-doi:t)
 
-[^3]: [Crossref API Funder Registry "work-count" and "descendant-work-count" for the U.S. National Science Foundation](http://api.crossref.org/funders/100000001)
+[^3]: The number of Funder ID assertions in Crossref is derived from a sum of the results for the query https://api.crossref.org/funders/{funder_id}}/works for every Funder ID, e.g., https://api.crossref.org/funders/100000001/works 
+
+[^4]: [Crossref API Funder Registry "work-count" and "descendant-work-count" for the U.S. National Science Foundation](http://api.crossref.org/funders/100000001)
 
 
 {{% callout color="grey" icon="fa-envelope" %}}
