@@ -14,66 +14,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Open Hours 1st Wednesdays
-- Date: November 1, 2023 
-- Time: [8pm UTC](https://dateful.com/eventlink/1267576284)
-- Duration: 1 hour
-- Location: Online
-- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset.
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJIocOqtrD8iGdcasXoLLemOsbn9dij-UtP2" %}} Register for the November ROR Open Hours - 1st Wednesdays {{% /button %}}
-
----
-
-### ROR and ORCID - Asserting Affiliations and Professional Activities to ORCID Records - EMEA / Americas Session
-- Date: November 7, 2023 
-- Time: [4pm UTC](https://dateful.com/eventlink/2071142308)
-- Duration: 1 hour
-- Location: Online
-- Description: This webinar will cover the basics of ROR as an organization identifier and how it can be used as part of the ORCID API to assert affiliations and professional activities to ORCID records. We will also hear two case studies of organizations using ROR with the ORCID API. This session is for EMEA / Americas timezones. 
-- Recorded: Yes
-
-{{% button color="green" link="https://orcid-org.zoom.us/webinar/register/WN_ctl6SVHaQzmICapU7ubRtQ" %}} Register for ROR and ORCID - Asserting Affiliations - EMEA / Americas {{% /button %}}
-
----
-
-### ROR and ORCID - Asserting Affiliations and Professional Activities to ORCID Records - APAC Session
-- Date: November 8, 2023 (November 7th in some time zones) 
-- Time: [1am UTC](https://dateful.com/eventlink/2465170605)
-- Duration: 1 hour
-- Location: Online
-- Description: This webinar will cover the basics of ROR as an organization identifier and how it can be used as part of the ORCID API to assert affiliations and professional activities to ORCID records. We will also hear two case studies of organizations using ROR with the ORCID API. This session is for APAC timezones. 
-- Recorded: Yes
-
-{{% button color="green" link="https://orcid-org.zoom.us/webinar/register/WN_dbU4-mHtTjOgeX7rW5cCjg" %}} Register for ROR and ORCID - Asserting Affiliations - APAC  {{% /button %}}
-
---- 
-
-### ROR Open Hours 2nd Thursdays
-- Date: November 9, 2023 
-- Time: [4pm UTC](https://dateful.com/eventlink/1208209572)
-- Duration: 1 hour
-- Location: Online
-- Description: Ask us anything! ROR Technical Community Manager Amanda French will be on hand to answer your questions about ROR and help you use the ROR API and dataset.
-- Recorded: No
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJ0tcuqhpjwrGt28wRU5EJrLPvXnjKA7WvMv" %}} Register for the November ROR Open Hours - 2nd Thursdays {{% /button %}}
-
----
-
-### Enabling FAIRness for Digital Library Materials Using Persistent Identifiers (PIDs) - Digital Library Forum 2023
-- Date: November 13, 2023 
-- Time: 11am Central time
-- Duration: 1 hour
-- Location: St. Louis, MO, USA
-- Description: We explore the benefits of using persistent identifiers (PIDs) (DOIs, ORCID, ROR) in digital library systems and workflows to make research, scholarship, and digital library materials more FAIR: Findable, Accessible, Interoperable, and Reusable. Case studies will be shared, followed by discussion of how attendees are/could be using PIDs in their own work. 
-- Recorded: No
-
-{{% button color="green" link="https://forum2023.diglib.org/" %}} Register for DLF 2023 {{% /button %}}
-
---- 
-
 ### ROR Community Call November 2023
 - Date: November 28, 2023 
 - Time: [4pm UTC](https://dateful.com/eventlink/2802250199)
@@ -119,7 +59,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{% button color="green" link="https://docs.google.com/forms/d/e/1FAIpQLSew5jA_rTyraMVJ_7g1EhIHmckwSTretmaX3EgV7G8rEVZ27A/viewform" %}} Register for AfricArXiv webinar on ROR {{% /button %}}
 
----
+--- 
 
 ## Calendar
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrjqvdkFSDJuhr31?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="733" style="background: transparent; border: 1px solid #ccc;"></iframe>
