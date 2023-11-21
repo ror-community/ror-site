@@ -10,27 +10,9 @@ author = "Research Organization Registry (ROR)"
 description = "Research Organization Registry (ROR) upcoming and past events"
 +++
 
-<!-- Event template 
-
-### 
-- Date: 
-- Time: [ UTC]()
-- Duration: 
-- Location: Online
-- Description: 
-- Recorded: 
-
-{{% button color="green" link="" %}} Register {{% /button %}}
-
----
-
--->
-
 {{% toc %}}
 
 ## Upcoming events
-
----
 
 ### ROR Community Call November 2023
 - Date: November 28, 2023 
@@ -44,7 +26,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### SCOSS Building Connections - The Importance of Open Infrastructure
+### SCOSS Building connections - the importance of open infrastructure
 - Date: November 30, 2023 
 - Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2023-11-30)
 - Duration: 1 hour
@@ -76,66 +58,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Recorded: Yes
 
 {{% button color="green" link="https://docs.google.com/forms/d/e/1FAIpQLSew5jA_rTyraMVJ_7g1EhIHmckwSTretmaX3EgV7G8rEVZ27A/viewform" %}} Register for AfricArXiv webinar on ROR {{% /button %}}
-
----
-
-### ROR at 5 - Updates and Community Celebration
-- Date: Tuesday, January 30, 2024
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
-- Duration: 1 hour
-- Location: Online
-- Description: Celebrate ROR's fifth anniversary with us at this special version of ROR's annual meeting! We'll 
-- Recorded: Yes
-
-{{% button color="green" link="" %}} Register {{% /button %}}
-
----
-
-### ROR at 5 - Community Showcase
-- Date: Tuesday, January 30, 2024
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-01-30)
-- Duration: 1 hour
-- Location: Online
-- Description: 
-- Recorded: Yes
-
-{{% button color="green" link="" %}} Register {{% /button %}}
-
----
-
-### ROR at 5 - Tuesday Drop-in
-- Date: Tuesday, January 30, 2024
-- Time: [11pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=11pm&d=2023-01-30)
-- Duration: 1 hour
-- Location: Online
-- Description: 
-- Recorded: No
-
-{{% button color="green" link="" %}} Register {{% /button %}}
-
----
-
-### ROR at 5 - Why We Need Good Funding Metadata
-- Date: Wednesday, January 31, 2024
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-31)
-- Duration: 1 hour
-- Location: Online
-- Description: 
-- Recorded: Yes
-
-{{% button color="green" link="" %}} Register {{% /button %}}
-
----
-
-### ROR at 5 - Wednesday Drop-in
-- Date: Wednesday, January 31, 2024
-- Time: [11pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=11pm&d=2023-01-31)
-- Duration: 
-- Location: Online
-- Description: 
-- Recorded: No
-
-{{% button color="green" link="" %}} Register {{% /button %}}
 
 --- 
 
