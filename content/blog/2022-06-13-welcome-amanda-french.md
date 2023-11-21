@@ -23,5 +23,5 @@ As a reminder, there are a number of resources available to learn about integrat
 
 - [Technical support documentation](https://ror.readme.io)
 - [Technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-api-users?pli=1)
-- List of [current integrations](https://ror.org/integrations) (fill out [this form](https://airtable.com/shrQlmqDpXie13ufz) if your integration is not listed)
+- List of [current integrations](https://ror.org/integrations) (fill out [this form](https://airtable.com/app2Tnq1uCHnS8HQD/shrzY2wVF5ebL0Fm5) if your integration is not listed)
 - Community advisory group and adoption working group ([email ROR](info@ror.org) to request to join)

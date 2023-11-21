@@ -206,33 +206,43 @@ To request a change to an organization’s ROR record, submit the [curation requ
 
 ### **Who is the contact person at my organization responsible for our ROR ID?**
 
-The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org).
+The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org), and ROR's curators will review the request to determine whether to approve it. 
 
 ***
 
 ### **How quickly can I get a new ROR ID?**
 
-ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog.
+ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog. Generally, an approved request will appear in ROR within 2-4 weeks.
 
-Currently, releases are published approximately every month. You can track your request through the curation process by following it on [Github](https://github.com/ror-community/ror-updates/issues).
+Currently, releases are published approximately every month. You can track your request through the curation process by following it on [GitHub](https://github.com/ror-community/ror-updates/issues).
+
+***
+
+### **How can I submit bulk requests to ROR when I want to add multiple organizations?**
+
+If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact [registry@ror.org](mailto:registry@ror.org) for assistance.
 
 ***
 
-### **Can I send ROR a list of organizations to add?**
+### **How long will it take for my bulk request to be processed?**
 
-Contact [registry@ror.org](mailto:registry@ror.org) if you have a list of organizations you would like to suggest for ROR.
+While approved requests for single ROR records generally appear in the registry in 2-4 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely.
 
-***
+Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 300-400 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. The best way to ensure faster processing of your request is to submit clean, complete metadata.
+
+We are currently scaling our curation processes to support the widespread enthusiasm for ROR and this high volume of requests, so please don’t hesitate to inquire about bulk submissions by writing [registry@ror.org](mailto:registry@ror.org). This helps us to gauge demand for curation activities and resource accordingly. Please also, however, be mindful that large bulk submissions may take us some time to process.
+
+Our curation processes and projects are entirely open, so anyone may see our [queue of open individual requests](https://github.com/ror-community/ror-updates/issues) and our [current list of curation projects](https://github.com/ror-community/ror-updates/projects/1). 
 
 ### **I submitted a curation request to ROR. How can I track it?**
 
-After a request is submitted via the feedback form, an issue will be created in the [ror-updates Github repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You will receive an email notification with a link to the Github issue associated with your request. You can track the status of the request by following this issue and subscribing to issue notifications.
+After a request is submitted via the feedback form, an issue will be created in the [ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You will receive an email notification with a link to the GitHub issue associated with your request. You can track the status of the request by following this issue and subscribing to issue notifications.
 
 ***
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on [Github](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [Github repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [Github](https://github.com/ror-community/ror-roadmap/discussions), in the [ROR Slack](https://tinyurl.com/ror-slack), [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
+ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [GitHub](https://github.com/ror-community/ror-roadmap/discussions), in the [ROR Slack](https://tinyurl.com/ror-slack), [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
 
 ***
 
