@@ -10,6 +10,22 @@ author = "Research Organization Registry (ROR)"
 description = "Research Organization Registry (ROR) upcoming and past events"
 +++
 
+<!-- 
+### 
+- Date: 
+- Time: [ UTC]()
+- Duration: 1 hour
+- Location: Online
+- Description: 
+- Recorded: 
+
+{{% button color="green" link="" %}} Register {{% /button %}}
+
+---
+
+-->
+
+
 {{% toc %}}
 
 ## Upcoming events
