@@ -27,7 +27,7 @@ Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research in
 
 "Having nice, clean, big, open datasets like this is really valuable, especially for a problem like this one, a problem which does require taking a big step back and looking at all of the data together, and not having barriers in the way of getting parts of it."
 
--- Adam Day, Director, Clear Skies Ltd.
+-- Adam Day, CEO, Clear Skies Ltd.
 
  
 
