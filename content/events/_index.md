@@ -30,6 +30,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
+---
+
 ### ROR Community Call November 2023
 - Date: November 28, 2023 
 - Time: [4pm UTC](https://dateful.com/eventlink/2802250199)
@@ -76,6 +78,66 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{% button color="green" link="https://docs.google.com/forms/d/e/1FAIpQLSew5jA_rTyraMVJ_7g1EhIHmckwSTretmaX3EgV7G8rEVZ27A/viewform" %}} Register for AfricArXiv webinar on ROR {{% /button %}}
 
 --- 
+
+### 
+- Date: 
+- Time: [ UTC]()
+- Duration: 1 hour
+- Location: Online
+- Description: 
+- Recorded: 
+
+{{% button color="green" link="" %}} Register {{% /button %}}
+
+---
+
+### 
+- Date: 
+- Time: [ UTC]()
+- Duration: 1 hour
+- Location: Online
+- Description: 
+- Recorded: 
+
+{{% button color="green" link="" %}} Register {{% /button %}}
+
+---
+
+### 
+- Date: 
+- Time: [ UTC]()
+- Duration: 1 hour
+- Location: Online
+- Description: 
+- Recorded: 
+
+{{% button color="green" link="" %}} Register {{% /button %}}
+
+---
+
+### 
+- Date: 
+- Time: [ UTC]()
+- Duration: 1 hour
+- Location: Online
+- Description: 
+- Recorded: 
+
+{{% button color="green" link="" %}} Register {{% /button %}}
+
+---
+
+### 
+- Date: 
+- Time: [ UTC]()
+- Duration: 1 hour
+- Location: Online
+- Description: 
+- Recorded: 
+
+{{% button color="green" link="" %}} Register {{% /button %}}
+
+---
 
 ## Calendar
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrjqvdkFSDJuhr31?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="733" style="background: transparent; border: 1px solid #ccc;"></iframe>
