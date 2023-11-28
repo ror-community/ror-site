@@ -79,63 +79,63 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 --- 
 
-### 
-- Date: 
-- Time: [ UTC]()
+### ROR Annual Meeting and Fifth Anniversary Celebration
+- Date: Tuesday, January 30, 2024
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
 - Duration: 1 hour
 - Location: Online
-- Description: 
-- Recorded: 
+- Description: ROR is turning 5 years old, so we'll be taking this opportunity to reflect on the last five years as well as giving updates about ROR in 2023 and doing some brainstorming with participants about what's next for ROR. Most importantly, we'll also be honoring key ROR community contributors, without whom we'd never have come this far. If you only attend one ROR meeting this year, make it this one. 
+- Recorded: Yes
 
-{{% button color="green" link="" %}} Register {{% /button %}}
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJAvd-GspzsqGNR4PZuBZltTip6Yz2MsrdAj" %}} Register for the ROR Annual Meeting and Fifth Anniversary Celebration {{% /button %}}
 
 ---
 
-### 
-- Date: 
-- Time: [ UTC]()
+### ROR Community Showcase
+- Date: Tuesday, January 30, 2024
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
 - Duration: 1 hour
 - Location: Online
-- Description: 
-- Recorded: 
+- Description: In this session, we'll feature some of the coolest and most important ROR integrations from around the world. We'll also hear from community members who've collaborated with us on large projects to add and modify dozens or even hundreds of ROR records. 
+- Recorded: Yes
 
-{{% button color="green" link="" %}} Register {{% /button %}}
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJAudeCgrjgrEtadTUgHGw2EOtNzRBNlsbxF" %}} Register for the ROR Community Showcase {{% /button %}}
 
 ---
 
-### 
-- Date: 
-- Time: [ UTC]()
+### ROR Drop-in Hour - Tuesday
+- Date: Tuesday, January 30, 2024
+- Time: [11pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=11pm&d=2024-01-30)
 - Duration: 1 hour
 - Location: Online
-- Description: 
-- Recorded: 
+- Description: Ask us anything! Drop in for an informal chat with the ROR team about anything you like -- and maybe even play a ROR-themed game or two. 
+- Recorded: No
 
-{{% button color="green" link="" %}} Register {{% /button %}}
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJYud--prj0iEtBvkkj4yv0QjMUZJv7qQZ3B" %}} Register for the Tuesday ROR Drop-in Hour {{% /button %}}
 
 ---
 
-### 
-- Date: 
-- Time: [ UTC]()
+### Why We All Need Good Funding Metadata
+- Date: Wednesday, January 31, 2024
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-31)
 - Duration: 1 hour
 - Location: Online
-- Description: 
-- Recorded: 
+- Description: Funding information is an increasingly important piece of metadata, yet standardizing and using identifiers for funders remains a challenge. As ROR prepares to incorporate the Crossref Funder Registry, we are consulting with publishers and funders about their needs and use cases for funding metadata. This panel for ROR’s annual community meeting will introduce diverse perspectives from these stakeholders about why funding metadata is needed and how to improve its quality. 
+- Recorded: Yes
 
-{{% button color="green" link="" %}} Register {{% /button %}}
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJcldeqtpj4pGN3KtoE4DbdOXc6OpO78iUHE" %}} Register for Why We All Need Good Funding Metadata {{% /button %}}
 
 ---
 
-### 
-- Date: 
-- Time: [ UTC]()
+### ROR Drop-in Hour - Wednesday
+- Date: Wednesday, January 31, 2024
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-01-31)
 - Duration: 1 hour
 - Location: Online
-- Description: 
-- Recorded: 
+- Description: Ask us anything! Drop in for an informal chat with the ROR team about anything you like -- and maybe even play a ROR-themed game or two. 
+- Recorded: No
 
-{{% button color="green" link="" %}} Register {{% /button %}}
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJYsc-Cupj8tH9NcdOrTOK0xyRg0i11HDXCf" %}} Register for the Wednesday ROR Drop-in Hour {{% /button %}}
 
 ---
 
