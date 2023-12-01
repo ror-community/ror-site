@@ -71,7 +71,7 @@ When and where did you personally first hear about ROR?
 
 ### {{< figure src="/img/blog/clearskies/adam-day.jpg" class="round-figure" alt="Adam Day" >}} Adam Day 
 
-I was at a FORCE11 conference in Edinburgh, and [one of the sessions was about ROR](https://doi.org/10.5281/zenodo.5770970). I wanted to do analysis at an institutional level. So, you want to say, "Okay, which institution is producing the most papers on some topic?" or "Which is the best-cited institution on some topic?" or maybe "Which institution in which country is growing the fastest?" Those are the sorts of questions that you might want to ask, and if you only have, say, addresses to go on, that's a total nightmare. Completely impossible at industry-scale.
+I was at a FORCE11 conference in Edinburgh, and one of the sessions was about ROR. I wanted to do analysis at an institutional level. So, you want to say, "Okay, which institution is producing the most papers on some topic?" or "Which is the best-cited institution on some topic?" or maybe "Which institution in which country is growing the fastest?" Those are the sorts of questions that you might want to ask, and if you only have, say, addresses to go on, that's a total nightmare. Completely impossible at industry-scale.
 
  
 
