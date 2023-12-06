@@ -32,29 +32,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Community Call November 2023
-- Date: November 28, 2023 
-- Time: [4pm UTC](https://dateful.com/eventlink/2802250199)
-- Duration: 1 hour
-- Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
-- Recorded: Yes
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJAucOGgpj8qH9REyhYfoOTvXRY0Nc2fUSNZ" %}} Register for the November ROR Community Call {{% /button %}}
-
----
-
-### SCOSS Building connections - the importance of open infrastructure
-- Date: November 30, 2023 
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2023-11-30)
-- Duration: 1 hour
-- Location: Online
-- Description: The session aims to reflect on how SCOSS infrastructures have progressed, what the case for open infrastructure is and it gives you the opportunity to meet some of the SCOSS Board who will share their visions for the future. Over the past five years, over 10 open infrastructures have received support from a wide range of research organisations around the globe. In this webinar, we will highlight these open infrastructures, how far they have come, and above all their connections, whilst stressing the importance of collectively funding this valuable ecosystem. 
-
-{{% button color="green" link="https://us02web.zoom.us/webinar/register/WN_zlLSlwwxQ_Wi-ZNVnj6vPw#/registration" %}} Register for SCOSS webinar {{% /button %}}
-
----
-
 ### US Federal Guidance and PIDs 
 - Date: December 7, 2023 
 - Time: [4pm UTC](https://dateful.com/eventlink/2889486054)
@@ -145,17 +122,23 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
+---
+
+### ROR Community Call November 2023
+
+In the [ROR Community Call for November 2023](2023-11-28-ror-community-call), we hear updates about ROR Curation, Tech, and Adoption, including stats on the number of recent curation requests (a lot!), the beta release of version 2 of the ROR schema and API, and new and notable ROR adoptions, plus interesting stats on ROR and affiliations in ORCID. We also hear from three featured integrators: Tom Morrell of Caltech on his university's ROR-enabled repositories, Nick Veenstra of University of Groningen on mapping messy organization data from the CRIS system to ROR, and Nina Tscheke of ScienceOpen on their platform's use of ROR.
+
 ### ROR Community Call September 2023
-- [ROR Community Call September 2023](2023-09-28-ror-community-call) - September 28, 2023
+In the [ROR Community Call for September 2023](2023-09-28-ror-community-call), we hear about version 2 of the ROR API and schema and how you can help us beta test. We also hear from Rachael Lammey, Director of Product at Crossref, on the Open Funder Registry deprecation in favor of ROR. Featured ROR integration presentations include a talk by Andy Dobson on ROR in DataSalon's MasterVision and PaperStack and a talk by Joe Mcarthur on ROR in OA.Report.
 
 ### ROR Community Call July 2023
-- [ROR Community Call July 2023](2023-07-25-ror-community-call) - July 25, 2023
+Featured ROR integrators in the [ROR Community Call for July 2023](2023-07-25-ror-community-call) include the Federated Research Data Repository (FRDR) and the Public Knowledge Project / Open Journal Systems (OJS). We hear about new funders for ROR, ROR curation activities, progress on version 2.0 of the ROR metadata schema and API, and progress on ROR adoption.
 
 ### ROR Community Call May 2023
-- [ROR Community Call May 2023](2023-05-25-ror-community-call) - May 25, 2023
+In the [ROR Community Call for May 2023](2023-05-25-ror-community-call), we hear updates on ROR curation and tech, a list of events that ROR will be attending in the summer of 2023, and hear two reports from ROR integrators Scholastica and EuropePMC.
 
 ### ROR Community Call March 2023
-- [ROR Community Call March 2023](2023-03-28-ror-community-call) - March 28, 2023
+In the [ROR Community Call for March 2023](2023-03-28-ror-community-call), we hear about proposed schema updates, stats from 1 year of independent curation, upcoming events and new ROR adoptions, and a presentation from ROR integrator FAIRsharing.
 
 ### ROR Schema Changes Call 
 - [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - March 16, 2023

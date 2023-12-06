@@ -15,7 +15,7 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 - Time: [3pm UTC](https://dateful.com/eventlink/2730218384)
 - Duration: 1 hour
 - Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. Featured ROR integrators in this call include the Federated Research Data Repository (FRDR) and the Public Knowledge Project / Open Journal Systems (OJS). We hear about new funders for ROR, ROR curation activities, progress on version 2.0 of the ROR metadata schema and API, and progress on ROR adoption.
 - Recorded: Yes
 
 ### Materials
