@@ -49,7 +49,7 @@ The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews su
 Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. Listed below are the latest known ROR adopters -- if your system's integration of ROR does not appear on the list, please let us know.
 
 {{% centered %}}
-{{% button color="green" link="https://airtable.com/app2Tnq1uCHnS8HQD/shrzY2wVF5ebL0Fm5" %}}Tell us about your ROR integration {{% /button %}}
+{{% button color="green" link="https://bit.ly/ror-integration-form" %}}Tell us about your ROR integration {{% /button %}}
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrM876d6Koi1UONe?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="550" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
