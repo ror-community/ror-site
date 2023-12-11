@@ -32,30 +32,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### US Federal Guidance and PIDs 
-- Date: December 7, 2023 
-- Time: [4pm UTC](https://dateful.com/eventlink/2889486054)
-- Duration: 90 minutes
-- Location: Online
-- Description: Panelists from ROR, ORCID, Crossref, DataCite and the U.S. Department of Energy's Office of Scientific and Technical Information will discuss guidance memos issued by the U.S. Federal Government that encourage the use of Persistent Identifiers (PIDs).
-- Recorded: Yes
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJcvc-2trjIvGdGasDI15R_cEZaeUwXcNEr8" %}} Register for US Federal Guidance and PIDs {{% /button %}}
-
----
-
-### AfricArXiv webinar - Spotlight on ROR and Africa
-- Date: December 11, 2023 
-- Time: [1pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1pm&d=2023-12-11)
-- Duration: 1 hour
-- Location: Online
-- Description: In this AfricArXiv webinar, we'll give a summary of African organizations in ROR, highlight ROR-enabled systems in use in Africa, and discuss existing and future collaborations with services such as ORCID and with African research entities. 
-- Recorded: Yes
-
-{{% button color="green" link="https://docs.google.com/forms/d/e/1FAIpQLSew5jA_rTyraMVJ_7g1EhIHmckwSTretmaX3EgV7G8rEVZ27A/viewform" %}} Register for AfricArXiv webinar on ROR {{% /button %}}
-
---- 
-
 ### ROR Annual Meeting and Fifth Anniversary Celebration
 - Date: Tuesday, January 30, 2024
 - Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
@@ -124,28 +100,50 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### US Federal Guidance and PIDs 
+
+In the [US Federal Guidance and PIDs webinar](2023-12-07-us-federal-guidance-and-pids) on December 7, 2023, panelists from ROR, ORCID, Crossref, DataCite and the U.S. Department of Energy’s Office of Scientific and Technical Information discuss guidance memos issued by the U.S. Federal Government that encourage the use of Persistent Identifiers (PIDs). Memos include the 2021 NSPM-33 memo and the 2022 OSTP Public Access memo. Panelists include DOE OSTI's Dr. Carly Robinson, ORCID's Shawna Sadler, ROR's Amanda French, Crossref's Isaac Farley, and DataCite's Xiaoli Chen.
+
+---
+
 ### ROR Community Call November 2023
 
 In the [ROR Community Call for November 2023](2023-11-28-ror-community-call), we hear updates about ROR Curation, Tech, and Adoption, including stats on the number of recent curation requests (a lot!), the beta release of version 2 of the ROR schema and API, and new and notable ROR adoptions, plus interesting stats on ROR and affiliations in ORCID. We also hear from three featured integrators: Tom Morrell of Caltech on his university's ROR-enabled repositories, Nick Veenstra of University of Groningen on mapping messy organization data from the CRIS system to ROR, and Nina Tscheke of ScienceOpen on their platform's use of ROR.
 
+---
+
 ### ROR Community Call September 2023
 In the [ROR Community Call for September 2023](2023-09-28-ror-community-call), we hear about version 2 of the ROR API and schema and how you can help us beta test. We also hear from Rachael Lammey, Director of Product at Crossref, on the Open Funder Registry deprecation in favor of ROR. Featured ROR integration presentations include a talk by Andy Dobson on ROR in DataSalon's MasterVision and PaperStack and a talk by Joe Mcarthur on ROR in OA.Report.
+
+---
 
 ### ROR Community Call July 2023
 Featured ROR integrators in the [ROR Community Call for July 2023](2023-07-25-ror-community-call) include the Federated Research Data Repository (FRDR) and the Public Knowledge Project / Open Journal Systems (OJS). We hear about new funders for ROR, ROR curation activities, progress on version 2.0 of the ROR metadata schema and API, and progress on ROR adoption.
 
+---
+
 ### ROR Community Call May 2023
 In the [ROR Community Call for May 2023](2023-05-25-ror-community-call), we hear updates on ROR curation and tech, a list of events that ROR will be attending in the summer of 2023, and hear two reports from ROR integrators Scholastica and EuropePMC.
+
+---
 
 ### ROR Community Call March 2023
 In the [ROR Community Call for March 2023](2023-03-28-ror-community-call), we hear about proposed schema updates, stats from 1 year of independent curation, upcoming events and new ROR adoptions, and a presentation from ROR integrator FAIRsharing.
 
+---
+
 ### ROR Schema Changes Call 
-- [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) - March 16, 2023
+In the [ROR Schema Changes Call](2023-03-16-ror-schema-changes-call) on March 16, 2023, Technical Lead Liz Krznarich presents a summary of community responses to the request for feedback on proposed changes to the ROR schema and goes over planned changes in detail.
+
+---
 
 ### ROR Annual Community Meeting 2023 
-- [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) - January 31 / February 1 2023
+Four years and four sessions at the [ROR Annual Community Meeting 2023](2023-01-31-annual-ror-community-meeting) took place from January 31 to February 1 2023! We heard updates on what ROR accomplished in 2022, conducted an introductory tutorial to the ROR API, and explored how to use ROR to match affiliation strings in a technical session featuring lightning talks and demos by OpenAlex, DOE/OSTI, Allen AI, and Crossref. We also held an unrecorded drop-in session for informal conversations with the ROR Community. 
+
+---
 
 ### More past events
+Browse the list below to see more events ROR has participated in, with links to slides and recordings where available.
+
 <iframe class="airtable-embed" src="https://airtable.com/embed/shraBgs4xLlsBCboZ?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
