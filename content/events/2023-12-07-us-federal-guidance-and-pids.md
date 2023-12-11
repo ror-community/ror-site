@@ -7,23 +7,24 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more."
+description = "In the US Federal Guidance and PIDs webinar on December 7, 2023, panelists from ROR, ORCID, Crossref, DataCite and the U.S. Department of Energy’s Office of Scientific and Technical Information discuss guidance memos issued by the U.S. Federal Government that encourage the use of Persistent Identifiers (PIDs). Memos include the 2021 NSPM-33 memo and the 2022 OSTP Public Access memo. Panelists include DOE OSTI's Dr. Carly Robinson, ORCID's Shawna Sadler, ROR's Amanda French, Crossref's Isaac Farley, and DataCite's Xiaoli Chen."
 +++
 
-### ROR Community Call November 2023
-- Date: November 28, 2023 
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2023-11-28&tz2=UTC)
-- Duration: 1 hour
+### US Federal Guidance and PIDs 
+- Date: December 7, 2023 
+- Time: [4pm UTC](https://dateful.com/eventlink/2889486054)
+- Duration: 90 minutes
 - Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this call, we hear updates about ROR Curation, Tech, and Adoption, including stats on the number of recent curation requests (a lot!), the beta release of version 2 of the ROR schema and API, and new and notable ROR adoptions, plus interesting stats on ROR and affiliations in ORCID. We also hear from three featured integrators: Tom Morrell of Caltech on his university's ROR-enabled repositories, Nick Veenstra of University of Groningen on mapping messy organization data from the CRIS system to ROR, and Nina Tscheke of ScienceOpen on their platform's use of ROR.
+- Description: In this webinar, panelists from ROR, ORCID, Crossref, DataCite and the U.S. Department of Energy’s Office of Scientific and Technical Information discuss guidance memos issued by the U.S. Federal Government that encourage the use of Persistent Identifiers (PIDs). Memos include the 2021 NSPM-33 memo and the 2022 OSTP Public Access memo. Panelists include DOE OSTI's Dr. Carly Robinson, ORCID's Shawna Sadler, ROR's Amanda French, Crossref's Isaac Farley, and DataCite's Xiaoli Chen.
+
 - Recorded: Yes
 
 ### Materials
 
-- []()
+- [Slides from US Federal Guidance and PIDs webinar](https://docs.google.com/presentation/d/1JjTcJELkIja_2yVQX2II3Z-ghc4ZniRdzIi9UB3KQCc/edit?usp=sharing)
 
-
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJvEwW1nctrQwhwB4r3Wu7QzaVlrmYc3djACqGPKHZ8NQX38NMXinBQa-YnnHs61atHLIShCUKEfi4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ### Recording 
 
-{{< youtube id="" title="US Federal Guidance and PIDs webinar December 7, 2023" >}}
+{{< youtube id="J6w9XGCKxn0" title="US Federal Guidance and PIDs webinar December 7, 2023" >}}
