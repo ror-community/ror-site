@@ -6809,6 +6809,12 @@ img {
     right: 1%;
     max-width: 133px;
     top: 99%}
+    
+.page-banner h1 {
+  font-size: 2rem;
+  line-height: 2rem;
+}
+    
 .pricing-5 .title {
     text-align: center;
 }
@@ -6825,6 +6831,10 @@ img {
 }@media screen and (max-width:517px) {
     .alert .alert-icon {
     margin-top: 10px;
+}
+.page-banner h1 {
+  font-size: 2rem;
+  line-height: 2rem;
 }
 }@media screen and (min-width:1200px) {
     .section-images .hero-images-container-1 {
@@ -6883,15 +6893,11 @@ img.ror-id {
 .page-banner {
     /*margin-top: -70px;*/
  }
+ 
 .page-banner h1 {
 	color: #fff !important;
     font-family: $font-bold;
 	margin: 0;		
-}
-
-.blog h1, .events h1 {
-  font-size: 2rem;
-  line-height: 2rem;
 }
 
 /* donations table on the Supporters page */
