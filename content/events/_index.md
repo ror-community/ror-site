@@ -49,7 +49,13 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
 - Duration: 1 hour
 - Location: Online
-- Description: In this session, we'll feature some of the coolest and most important ROR integrations from around the world. We'll also hear from community members who've collaborated with us on large projects to add and modify dozens or even hundreds of ROR records. 
+- Description: In this session, we'll learn how ROR is used in some key global scholarly systems and workflows.
+	 - **Kyle Demes, VP of Research Intelligence at [OurResearch](https://ourresearch.org)**, will show how ROR enables powerful and free research intelligence in [OpenAlex](https://openalex.org).
+	- **Andrea Bollini, Chief Technology Innovation Officer at [4Science](https://www.4science.com/)**, will demonstrate a brand-new ROR integration for author affiliations and funding references in [DSpace-CRIS](https://wiki.lyrasis.org/display/DSPACECRIS).
+	- **Paloma Marín-Arraiza, Engagement Manager at [ORCID](https://orcid.org)**, will show statistics on the increasing use of ROR in ORCID profiles, explain how the [ORCID Affiliation Manager](https://info.orcid.org/affiliation-manager/) uses ROR to allow institutions to verify researcher affiliations, and give an update on future ROR-powered ORCID features.
+	- **Daria Piccinelli, Process and Content Management Project Coordinator at [Springer Nature](https://www.springernature.com/gp)**, will tell us how her team developed a method to match author affiliation text strings to ROR IDs using the ROR API in Springer Nature's production workflow. 
+	- **Savanna Sims, Information Science Specialist at [Edgewater Federal Solutions](https://www.edgewaterit.com/)**, will talk about a large-scale curation effort undertaken in collaboration with ROR to add and modify hundreds of ROR records for the [U.S. Department of Energy](https://www.energy.gov/).
+	- **Eric Olson, Product Manager at the [Center for Open Science](cos.io)**, and **Luca Belletti, Senior Product Manager at [Elsevier](https://www.elsevier.com/)**, will outline the purpose, focus, and accomplishments of the ROR Implementation Task Group of the NIH's [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative).  
 - Recorded: Yes
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJAudeCgrjgrEtadTUgHGw2EOtNzRBNlsbxF" %}} Register for the ROR Community Showcase {{% /button %}}
