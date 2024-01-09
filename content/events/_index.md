@@ -88,7 +88,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 	- **Kristen Ratan / Sonya Dumanis, [Aligning Science Against Parkinson's](https://parkinsonsroadmap.org/#)**
 	- **Michael Lam, Chief Data Officer, [Natural Sciences and Engineering Research Council of Canada (NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp)** 
 
-Additional panelists may be announced closer to the time. After brief 5-minute presentations from each panelists, the audience will be invited to join in a 20-minute discussion about funding metadata challenges and opportunities. 
+After brief 5-minute presentations from each panelist, the audience will be invited to join in a 20-minute discussion about funding metadata challenges and opportunities. 
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJcldeqtpj4pGN3KtoE4DbdOXc6OpO78iUHE" %}} Register for Why We All Need Good Funding Metadata {{% /button %}}
 
