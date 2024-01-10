@@ -46,7 +46,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ### ROR Community Showcase
 - Date: Tuesday, January 30, 2024
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-01-30)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
