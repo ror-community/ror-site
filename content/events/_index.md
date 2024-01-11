@@ -83,7 +83,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description:  Funding information is an increasingly important piece of metadata for many stakeholders, yet standardizing and using identifiers for funders remains a challenge. With ROR set to become the standard persistent identifier for funders, we are convening a panel for ROR’s annual community meeting to hear from diverse perspectives about how funding metadata is used and what might make it better. We'll hear from funders, publishers, metadata specialists, and more, including
 	- **Howard Ratner, Executive Director, [CHORUS](https://chorus.org)**
 	- **Caroline Burley, Journals Manager, Publishing Services & Production, [Royal Society of Chemistry](https://www.rsc.org/)**
-	- **Sarah Lippincott, Head of Community Engagment, [Dryad](https://datadryad.org)**
+	- **Sarah Lippincott, Head of Community Engagement, [Dryad](https://datadryad.org)**
 	- **Patricia Feeney, Head of Metadata, [Crossref](https://crossref.org)**
 	- **Kristen Ratan / Sonya Dumanis, [Aligning Science Across Parkinson's](https://parkinsonsroadmap.org/#)**
 	- **Michael Lam, Chief Data Officer, [Natural Sciences and Engineering Research Council of Canada (NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp)** 
