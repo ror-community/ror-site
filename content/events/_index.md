@@ -86,9 +86,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 	- **Sarah Lippincott, Head of Community Engagement, [Dryad](https://datadryad.org)**
 	- **Patricia Feeney, Head of Metadata, [Crossref](https://crossref.org)**
 	- **Kristen Ratan / Sonya Dumanis, [Aligning Science Across Parkinson's](https://parkinsonsroadmap.org/#)**
-	- **Michael Lam, Chief Data Officer, [Natural Sciences and Engineering Research Council of Canada (NSERC)](https://www.nserc-crsng.gc.ca/index_eng.asp)** 
 
-After brief 5-minute presentations from each panelist, the audience will be invited to join in a 20-minute discussion about funding metadata challenges and opportunities. 
+(Additional panelists may be announced in January.) After brief 5-minute presentations from each panelist, the audience will be invited to join in a 20-minute discussion about funding metadata challenges and opportunities. 
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJcldeqtpj4pGN3KtoE4DbdOXc6OpO78iUHE" %}} Register for Why We All Need Good Funding Metadata {{% /button %}}
 
