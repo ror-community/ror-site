@@ -9,10 +9,10 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/coki/coki-logo.png"
 images = ['/img/blog/coki/coki-logo.png']
 author = "Amanda French"
-description = "Professor Cameron Neylon of Curtin University talks telephones, power outlets, streaming services, persistent identifier education, federated versus centralized curation, providing actionable information to universities, and why the COKI Open Access Dashboard relies on ROR."
+description = "Professor Cameron Neylon of Curtin University talks telephones, power outlets, chat services, persistent identifier education, federated versus centralized curation, providing actionable information to universities, and why the COKI Open Access Dashboard relies on ROR."
 +++
 
-Professor Cameron Neylon of Curtin University talks telephones, power outlets, streaming services, persistent identifier education, federated versus centralized curation, providing actionable information to universities, and why the COKI Open Access Dashboard relies on ROR.
+Professor Cameron Neylon of Curtin University talks telephones, power outlets, chat services, persistent identifier education, federated versus centralized curation, providing actionable information to universities, and why the COKI Open Access Dashboard relies on ROR.
 
 
 {{% callout color="green" icon="no-icon" %}}
@@ -70,7 +70,7 @@ Then, as ROR developed, first as a concept and then as a reality, we were watchi
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
   
-That's great to hear. I'm talking to an increasing number of people who are using that OpenAlex dataset, and thereby using ROR, because ROR is currently the [only external institutional identifier that they that they use](/blog/2023-09-13-openalex-case-study/). 
+That's great to hear. I'm talking to an increasing number of people who are using that OpenAlex dataset, and thereby using ROR, because ROR is currently the [only external institutional identifier that they use](/blog/2023-09-13-openalex-case-study/). 
 
 ### {{< figure src="/img/blog/coki/cameron-neylon.png" class="round-figure" alt="Cameron Neylon" >}} Cameron Neylon
   
