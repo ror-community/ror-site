@@ -1,6 +1,6 @@
 +++
 title = "Case Study: The Curtin Open Knowledge Initiative and ROR"
-date = "2023-12-15"
+date = "2024-01-17"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies", "Open Access",]
 categories = ["case-studies"]
@@ -70,7 +70,7 @@ Then, as ROR developed, first as a concept and then as a reality, we were watchi
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
   
-That's great to hear. I'm talking to an increasing number of people who are using that OpenAlex dataset, and thereby using ROR, because ROR is currently the [only institutional identifier that they that they use](/blog/2023-09-13-openalex-case-study/).
+That's great to hear. I'm talking to an increasing number of people who are using that OpenAlex dataset, and thereby using ROR, because ROR is currently the [only external institutional identifier that they that they use](/blog/2023-09-13-openalex-case-study/). 
 
 ### {{< figure src="/img/blog/coki/cameron-neylon.png" class="round-figure" alt="Cameron Neylon" >}} Cameron Neylon
   
@@ -124,7 +124,7 @@ I think I would agree, in the sense that there's clearly a tension here, right, 
 
 And indeed, I think that's again where the community governance and the model of transparency comes in. And it's got to be flexible, not rigid, because the other assumption people make is, "Well, surely you can automate this or have some sort of system that just does all the checking for you." AI, wave hands, wave hands. And actually, none of those things work, in part because there are bad actors in the system, and you've got to be on the lookout for that. 
 
-That's particularly true in terms of organizations and who they are and what they're connected with and who's connected with them. Those are exactly the areas where we've suffered a lot of fraud in the scholarly system, so that's got to be managed in some way that's ideally flexible and transparent, but also trustworthy. At the end of the day, that's where you've got to be going, otherwise these things just aren't usable.
+That's particularly true in terms of organizations and who they are and what they're connected with and who's connected with them. Those are exactly the areas where [we've suffered a lot of fraud in the scholarly system](https://doi.org/10.1002/leap.1257), so that's got to be managed in some way that's ideally flexible and transparent, but also trustworthy. At the end of the day, that's where you've got to be going, otherwise these things just aren't usable.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
   
@@ -164,6 +164,8 @@ And I guess the challenge with that, thinking about this, is that if you take th
 
 Most of the things we deal with don't have those standards, and that's why they're awful, right? It's why you've got three streaming subscriptions, not one TV aerial, and why you've got seventeen different direct message or personal messenger accounts across multiple different services, none of which you really like to use, but because there's one person who does like to use that particular one you have to have it. And you know, the seemingly obvious concept that you should be able to get those messages wherever you want to, and send them to anyone based on a standardized sort of protocol or system, has partly been lost. And that's part of the battle of making the case for how these things can work better, is, yes, recalling the fact that you can in fact make phone calls and you don't have to have an AT&T phone and a British Telecom phone. 
 
+{{< figure src="/img/blog/coki/chat_systems.png" class="" alt="xkcd 1810 Chat Systems - diagram of dozens of chat systems expressed as circles with different cartoon people drawn in each circle" caption="xkcd 1810, [Chat Systems](https://xkcd.com/1810/)">}}
+
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
   
 That's right. I think that's such a good point about looking at the failures of standardization, and the takeover of non-open commercial services for these things. I suppose some other examples would be power systems, globally. You know, when you travel from country to country, the plugs are different in the United States than they are in Europe, and, as I discovered recently, also different in South Africa. Measurement systems, metric versus non-metric, not standard everywhere you go. Even driving: which side of the road you drive on and which side of the car the steering wheel is on. All of those things are small frictions, and yet they've been standardized enough to where they work regionally, and we can see how well it would work if they were standardized globally. 
@@ -192,7 +194,7 @@ Maybe that's a good occasion for me to ask, what do you hope ROR does better in 
   
 There's very little that we bump up against as a problem. At the moment, I think most of the immediate issues we're facing are to do with the challenges of actually making the interconnections, so the assignments of, say, outputs to two organizations, and the heuristics involved with that, which is a hard problem to solve. 
 
-The area where I can imagine the real benefits will arise, and this is already happening, is the expansion of the set of organizations being covered, and that's really welcome. When there's a new release, that number clicks up and you think, "Oh, my brain is about three releases behind, I thought it was still 95,000, and now it's 110, 115, 120, something like that." [_Note: It's currently [over 107,000](https://github.com/ror-community/ror-updates/releases/tag/v1.38)._] I think that's great. I'm really glad that people are thinking hard about how to manage those questions of curation, not because I have opinions necessarily about how they should be done better, but because I know that they are really hard problems. I'm glad smart people are thinking about them. 
+The area where I can imagine the real benefits will arise, and this is already happening, is the expansion of the set of organizations being covered, and that's really welcome. When there's a [new release](https://github.com/ror-community/ror-updates/tags), that number clicks up and you think, "Oh, my brain is about three releases behind, I thought it was still 95,000, and now it's 110, 115, 120, something like that." [_Note: It's currently [over 107,000](https://github.com/ror-community/ror-updates/releases/tag/v1.38)._] I think that's great. I'm really glad that people are thinking hard about how to manage those questions of curation, not because I have opinions necessarily about how they should be done better, but because I know that they are really hard problems. I'm glad smart people are thinking about them. 
 
 One of the questions I have, and it's an issue that, again, is a real challenge, both from a curation perspective and from a schema perspective, is how we can tackle the question of units within organizations and what that looks like. I've seen that on both sides. I completely understand why people would want to run screaming in the opposite direction from even trying to deal with it. And I can also see from within institutions how important it is to have the capacity to be able to do that. I think that's an area that's really worth thinking through. And the answer might be something like component DOIs, so actually for ROR to not deal with it, but to allow institutions to self-manage. I can also see that going horribly wrong.
 
@@ -206,7 +208,7 @@ I'm not sure I've got a better solution. But one of the things we see really fre
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
-Yes, I know. Departments, in particular, will merge and change names and whatnot. And I have to tell you, I absolutely believe that there would be internal arguments at an institution about what their institutional hierarchy would be. 
+Yes, I know. [Departments](/about/faqs/#why-doesnt-ror-include-university-departments), in particular, will merge and change names and whatnot. And I have to tell you, I absolutely believe that there would be internal arguments at an institution about what their institutional hierarchy would be. 
 
 ### {{< figure src="/img/blog/coki/cameron-neylon.png" class="round-figure" alt="Cameron Neylon" >}} Cameron Neylon
   
