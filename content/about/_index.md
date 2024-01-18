@@ -128,12 +128,11 @@ See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https:
 
 <iframe width="805" height="603" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=750999640&amp;format=interactive"></iframe>
 
-
 See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional statistics.
 
 ### ROR in published research
 
- <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4790165%2Fitems%3Fkey%3DtLg7EVAz22c9ckW47DwFkwht%26format%3Dbibtex%26limit%3D100" width="600" height="400"></iframe> 
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4790165%2Fitems%3Fkey%3DqWYUkNg8G2tSrs1m5i7SsKOn%26format%3Dbibtex%26limit%3D100" width="1000" height="800"></iframe> 
 
 See the full [ROR Research Zotero bibliography](https://www.zotero.org/groups/4790165/ror_research/library). 
 
