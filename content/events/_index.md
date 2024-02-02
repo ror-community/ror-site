@@ -30,86 +30,40 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
----
-
-### ROR Annual Meeting and Fifth Anniversary Celebration
-- Date: Tuesday, January 30, 2024
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
+### ROR Community Call March 2024
+- Date: Tuesday, March 26, 2024
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-03-26)
 - Duration: 1 hour
 - Location: Online
-- Recorded: Yes
-- Description: ROR is turning 5 years old, so we'll be taking this opportunity to reflect on the last five years as well as giving updates about ROR in 2023 and doing some brainstorming with participants about what's next for ROR. Most importantly, we'll also be acknowledging ROR community contributors, without whom we'd never have come this far. If you only attend one ROR meeting this year, make it this one. 
+- Recorded: Yes 
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
 
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJAvd-GspzsqGNR4PZuBZltTip6Yz2MsrdAj" %}} Register for the ROR Annual Meeting and Fifth Anniversary Celebration {{% /button %}}
-
----
-
-### ROR Community Showcase
-- Date: Tuesday, January 30, 2024
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-01-30)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: In this session, we'll learn how ROR is used in some key global scholarly systems and workflows.
-	 - **Kyle Demes, VP of Research Intelligence at [OurResearch](https://ourresearch.org)**, will show how ROR enables powerful and free research intelligence in [OpenAlex](https://openalex.org).
-	- **Andrea Bollini, Chief Technology Innovation Officer at [4Science](https://www.4science.com/)**, will demonstrate a brand-new ROR integration for author affiliations and funding references in [DSpace-CRIS](https://wiki.lyrasis.org/display/DSPACECRIS).
-	- **Paloma Marín-Arraiza, Engagement Manager at [ORCID](https://orcid.org)**, will show statistics on the increasing use of ROR in ORCID records, explain how the [ORCID Affiliation Manager](https://info.orcid.org/affiliation-manager/) and the API use ROR to allow institutions to verify researcher affiliations, and give an update on future ROR-powered ORCID features.
-	- **Daria Piccinelli, Process and Content Management Project Coordinator at [Springer Nature](https://www.springernature.com/gp)**, will tell us how her team developed a method to match author affiliation text strings to ROR IDs using the ROR API in Springer Nature's production workflow. 
-	- **Savanna Sims, Information Science Specialist at [Edgewater Federal Solutions](https://www.edgewaterit.com/) / [U.S. Department of Energy Office of Scientific and Technical Information (OSTI)](https://osti.gov)**, will talk about a large-scale curation effort undertaken in collaboration with ROR to add and modify ROR records for the [U.S. Department of Energy](https://www.energy.gov/).
-	- **Eric Olson, Product Manager at the [Center for Open Science](cos.io)**, and **Luca Belletti, Senior Product Manager at [Elsevier](https://www.elsevier.com/)**, will outline the purpose, focus, and accomplishments of the ROR Implementation Task Group of the NIH's [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative).  
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJAudeCgrjgrEtadTUgHGw2EOtNzRBNlsbxF" %}} Register for the ROR Community Showcase {{% /button %}}
-
----
-
-### ROR Drop-in Hour - Tuesday
-- Date: Tuesday, January 30, 2024
-- Time: [11pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=11pm&d=2024-01-30)
-- Duration: 1 hour
-- Location: Online
-- Recorded: No
-- Description: Ask us anything! Drop in for an informal chat with the ROR team about anything you like. 
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJYud--prj0iEtBvkkj4yv0QjMUZJv7qQZ3B" %}} Register for the Tuesday ROR Drop-in Hour {{% /button %}}
-
----
-
-### Why We All Need Good Funding Metadata
-- Date: Wednesday, January 31, 2024
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-31)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description:  Funding information is an increasingly important piece of metadata for many stakeholders, yet standardizing and using identifiers for funders remains a challenge. With ROR set to become the standard persistent identifier for funders, we are convening a panel for ROR’s annual community meeting to hear from diverse perspectives about how funding metadata is used and what might make it better. We'll hear from funders, publishers, metadata specialists, and more, including
-	- **Howard Ratner, Executive Director, [CHORUS](https://chorus.org)**
-	- **Caroline Burley, Journals Manager, Publishing Services & Production, [Royal Society of Chemistry](https://www.rsc.org/)**
-	- **Sarah Lippincott, Head of Community Engagement, [Dryad](https://datadryad.org)**
-	- **Patricia Feeney, Head of Metadata, [Crossref](https://crossref.org)**
-	- **Kristen Ratan, Founder of [Stratos](https://strategiesos.org/), for [Aligning Science Across Parkinson's](https://parkinsonsroadmap.org/#)**
-
-(Additional panelists may be announced in January.) After brief 5-minute presentations from each panelist, the audience will be invited to join in a 20-minute discussion about funding metadata challenges and opportunities. 
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJcldeqtpj4pGN3KtoE4DbdOXc6OpO78iUHE" %}} Register for Why We All Need Good Funding Metadata {{% /button %}}
-
----
-
-### ROR Drop-in Hour - Wednesday
-- Date: Wednesday, January 31, 2024
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-01-31)
-- Duration: 1 hour
-- Location: Online
-- Recorded: No
-- Description: Ask us anything! Drop in for an informal chat with the ROR team about anything you like. 
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJYsc-Cupj8tH9NcdOrTOK0xyRg0i11HDXCf" %}} Register for the Wednesday ROR Drop-in Hour {{% /button %}}
+{{% button color="green" link="" %}} Registration available soon {{% /button %}}
 
 ---
 
 ## Calendar
 <iframe class="airtable-embed" src="https://airtable.com/embed/shrjqvdkFSDJuhr31?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="733" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
+---
 
 ## Past events 
+
+### Why We All Need Good Funding Metadata
+
+At the ROR annual meeting in January 2024, the session [Why We All Need Good Funding Metadata](2024-01-31-why-we-all-need-good-funding-metadata) addressed the issue that funding information is an increasingly important piece of metadata for many stakeholders, yet standardizing and using identifiers for funders remains a challenge. With ROR set to become the standard persistent identifier for funders, we convened a panel for ROR’s annual community meeting to hear from diverse perspectives about how funding metadata is used and what might make it better. We heard from funders, publishers, metadata specialists, and more, including CHORUS, the publishing unit of the Royal Society of Chemistry, Dryad, Crossref, and from Stratos for Aligning Science Across Parkinson’s, and afterward joined a discussion about funding metadata challenges and opportunities.
+
+---
+
+### ROR Community Showcase
+
+At the ROR annual meeting in January 2024, the [Community Showcase](2024-01-30-community-showcase) featured presentations on how ROR is used in some key global scholarly systems and workflows, including at OpenAlex, 4Science / DSpace-CRIS, ORCID, Springer Nature, US Department of Energy's Office of Scientific and Technical Information (OSTI), and the ROR Implementation Task Group of the NIH’s Generalist Repository Ecosystem Initiative (GREI).
+
+---
+
+### ROR Annual Community Meeting and Fifth Anniversary Celebration
+
+The 2024 version of the ROR annual meeting was a special one! We held a [ROR Annual Community Meeting and Fifth Anniversary Celebration](2024-01-30-annual-meeting-and-fifth-anniversary) in January 2024 to celebrate ROR turning 5 years old, taking the opportunity to reflect on the last five years, remembering where we started and how we got here. We hear about where we've been and where we're going in terms of our community of adopters, our curation activities, and our tech. Most importantly, we also acknowledge ROR community contributors, without whom we’d never have come this far, and we do some brainstorming about what's next. In conclusion: let’s ROR some more in 2024!
 
 ---
 
