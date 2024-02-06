@@ -28,9 +28,11 @@ After brief presentations from each panelist, the audience joins a 20-minute dis
 
 ### Materials
 
-_(Not all slides are yet available. The remaining presentations will be added to the deck below as soon as possible.)_
-
+- [Edited chat log summary](https://docs.google.com/document/d/1vNS5fDK2kSDhpiGGlzBGescLiUPq7Q1HuMDjHPnAB0c/edit?usp=sharing)
+- [Unedited chat log](https://drive.google.com/file/d/1RYHg76veJQFjjLIZ3oBHwT99UprNnEdv/view?usp=sharing)
 - [Slides](https://docs.google.com/presentation/d/1i7yX6mb-PIwc_BMGiHspnrLL0sImflfritbvqJs135c/edit?usp=sharing)
+
+_(Not all slides are yet available. The remaining presentations will be added to the deck below as soon as possible.)_
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8YlZ3ZjcY725b7bXRhif45h7yaB-iH1tJhfFwMtjrjyedKrgqjqFTxdbuS7_fmiXVMubxz1htrboy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
