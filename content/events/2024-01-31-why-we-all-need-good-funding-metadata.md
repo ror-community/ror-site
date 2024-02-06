@@ -28,8 +28,6 @@ After brief presentations from each panelist, the audience joins a 20-minute dis
 
 ### Materials
 
-- [Edited chat log summary](https://docs.google.com/document/d/1vNS5fDK2kSDhpiGGlzBGescLiUPq7Q1HuMDjHPnAB0c/edit?usp=sharing)
-- [Unedited chat log](https://drive.google.com/file/d/1RYHg76veJQFjjLIZ3oBHwT99UprNnEdv/view?usp=sharing)
 - [Slides](https://docs.google.com/presentation/d/1i7yX6mb-PIwc_BMGiHspnrLL0sImflfritbvqJs135c/edit?usp=sharing)
 
 _(Not all slides are yet available. The remaining presentations will be added to the deck below as soon as possible.)_
