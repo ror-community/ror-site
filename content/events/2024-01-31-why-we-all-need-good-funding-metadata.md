@@ -1,5 +1,5 @@
 +++
-title = "ROR Annual Community Meeting and Fifth Anniversary January 2024" 
+title = "Why We All Need Good Funding Metadata" 
 date = "2024-02-01" 
 draft = false 
 style = "card-plain" 
