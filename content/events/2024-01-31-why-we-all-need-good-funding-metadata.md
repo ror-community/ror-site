@@ -18,11 +18,11 @@ description = "Funding information is an increasingly important piece of metadat
 - Recorded: Yes
 - Description: Funding information is an increasingly important piece of metadata for many stakeholders, yet standardizing and using identifiers for funders remains a challenge. With ROR set to become the standard persistent identifier for funders, we convene a panel for ROR’s annual community meeting to hear from diverse perspectives about how funding metadata is used and what might make it better. We hear from funders, publishers, metadata specialists, and more, including
 
-- Howard Ratner, Executive Director, CHORUS
-- Caroline Burley, Journals Manager, Publishing Services & Production, Royal Society of Chemistry
-- Sarah Lippincott, Head of Community Engagement, Dryad
-- Patricia Feeney, Head of Metadata, Crossref
-- Kristen Ratan, Founder of Stratos, for Aligning Science Across Parkinson’s
+- Howard Ratner, Executive Director, [CHORUS](https://chorusagccess.org)
+- Caroline Burley, Journals Manager, Publishing Services & Production, [Royal Society of Chemistry](https://rsc.org)
+- Sarah Lippincott, Head of Community Engagement, [Dryad](https://datadryad.org)
+- Patricia Feeney, Head of Metadata, [Crossref](https://crossref.org)
+- Kristen Ratan, Founder of [Stratos](https://strategiesos.org/), for [Aligning Science Across Parkinson’s](https://parkinsonsroadmap.org/)
 
 After brief presentations from each panelist, the audience joins a 20-minute discussion about funding metadata challenges and opportunities.
 
