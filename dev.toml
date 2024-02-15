@@ -57,6 +57,6 @@ summaryLength = 20
     enable = false
     title = "Twitter Feed"
     
-[social]
+[params.social]
 	twitter = 'ResearchOrgs' 
 	
