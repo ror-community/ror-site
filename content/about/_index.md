@@ -92,7 +92,7 @@ Liz [joined the ROR team in late 2020](https://blog.datacite.org/working-at-the-
 
 Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) and led the team that launched the minimum viable registry (MVR) prototype at PIDapalooza in 2019. As director, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is based at California Digital Library, where she leads the University of California Curation Center (UC3)'s portfolio of persistent identifier services, including ROR. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS.
 
-#### Alumni and affiliates
+### Alumni and affiliates
 
 ROR has benefited and continues to benefit from the involvement of many individuals in its early years.
 
