@@ -45,6 +45,7 @@ The session [Why We All Need Good Funding Metadata](2024-01-31-why-we-all-need-g
 - [2022 - A New Year at ROR](/blog/2022-02-14-new-year-at-ror)  
 - [2021 - Unmute to ROAR!](/blog/2021-02-03-ror-annual-meeting) 
 - [2020 - ROR-ing Together in Portugal](/blog/2020-02-10-ror-ing-in-portugal) 
+- [2019 - Hear us ROR!](/blog/2019-02-10-announcing-first-ror-prototype/)
 
 {{% /callout %}}
 
