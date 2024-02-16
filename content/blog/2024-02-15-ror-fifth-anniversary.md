@@ -50,17 +50,21 @@ The session [Why We All Need Good Funding Metadata](/events/2024-01-31-why-we-al
 
 #### Selected highlights
 
-- 
+- All panelists were asked "If you had a magic wand, what would be the one thing you'd do to improve funding metadata?" The answers: 
+	- "Make extracting PIDs and their associated metadata from articles, datasets and software simple, open and affordable for all!"
+	- "All organisations and systems consistently using standard PIDs for people, organisations, grants, projects, data and publications hroughout the funding, research and publication processes"
+	- "Systems/tools can accurately extract & identify funders from authors’ acknowledgements and match to funder IDs at the point of submission"
+	- "All funder data available through APIs"
 
 {{< youtube id="mDWpO8Jz2lM" title="Why We All Need Good Funding Metadata - ROR Annual Meeting 2024" >}}
 
 ### Let's ROR some more in 2024!
 
-ROR has come a long way in the last five years, and ROR is going even farther in the next five. Heartfelt gratitude is due to everyone in the community who has helped to make ROR a reality, not least the [ROR Operations Team](/about/#operations-team), the [ROR Curation Advisors](/community/#community-advisory-group), the [ROR Steering Group](/community/#steering-group), ROR [Sustaining Supporters](/community/#supporters), ROR [adopters and integrators](https://bit.ly/ror-integrations), members of the [ROR technical forum](https://groups.google.com/a/ror.org/g/ror-tech) and [ROR Slack](https://tinyurl.com/ror-slack), subscribers to the ROR [quarterly newsletter](http://eepurl.com/gjkT9H), our colleagues at [Crossref](https://crossref.org), [DataCite](https://datacite.org), and the [California Digital Library](https://cdlib.org), all the [alumni and affiliates]() who helped build ROR, everyone who comes to a ROR [event](/events), and everyone who [asks for a change or addition to ROR records](https://github.com/ror-community/ror-updates/issues). We wouldn’t be here without your engagement and support!
+ROR has come a long way in the last five years, and ROR is going even farther in the next five. Heartfelt gratitude is due to everyone in the community who has helped to make ROR a reality, including the [ROR Operations Team](/about/#operations-team); the [ROR Curation Advisors](/community/#curation-advisory-board); the [ROR Steering Group](/community/#steering-group); ROR [Sustaining Supporters](/community/#supporters); ROR [adopters and integrators](https://bit.ly/ror-integrations); members of the [ROR technical forum](https://groups.google.com/a/ror.org/g/ror-tech) and [ROR Slack](https://tinyurl.com/ror-slack); subscribers to the ROR [quarterly newsletter](http://eepurl.com/gjkT9H); our colleagues at [Crossref](https://crossref.org), [DataCite](https://datacite.org), and the [California Digital Library](https://cdlib.org); all the [alumni and affiliates](/about/#alumni-and-affiliates) who helped build ROR, everyone who presents at a ROR community call and participates in our [case studies](/categories/case-studies), all those who attend ROR [events](/events); and the many, many people who [ask for a change or addition to ROR records](https://github.com/ror-community/ror-updates/issues). We wouldn’t be here without your engagement and support!
 
 Hope to see you all throughout 2024 and at the next annual meeting in 2025. 
 
-{{< figure src="/img/blog/recap2024/lets-ror-some-more.png" class="blog-figure" alt="Thank you! Let's all do more with ROR in 2024!" >}}
+{{< figure src="/img/blog/recap2024/lets-ror-some-more-in-2024.png" class="blog-figure" alt="Thank you! Let's ROR some more in 2024!" >}}
 
 
 {{% callout color="grey" icon="no-icon" %}}
