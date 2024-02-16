@@ -52,7 +52,7 @@ The session [Why We All Need Good Funding Metadata](/events/2024-01-31-why-we-al
 
 - All panelists were asked "If you had a magic wand, what would be the one thing you'd do to improve funding metadata?" The answers: 
 	- "Make extracting PIDs and their associated metadata from articles, datasets and software simple, open and affordable for all!"
-	- "All organisations and systems consistently using standard PIDs for people, organisations, grants, projects, data and publications hroughout the funding, research and publication processes"
+	- "All organisations and systems consistently using standard PIDs for people, organisations, grants, projects, data and publications throughout the funding, research and publication processes"
 	- "Systems/tools can accurately extract & identify funders from authors’ acknowledgements and match to funder IDs at the point of submission"
 	- "All funder data available through APIs"
 
