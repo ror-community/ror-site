@@ -20,6 +20,10 @@ We had over 300 unique registrants for our three recorded sessions, making this 
 
 The [2024 edition of the main ROR annual meeting](/events/2024-01-30-annual-meeting-and-fifth-anniversary) was a special one! We took the opportunity to reflect on the last five years, remembering where we started and how we got here. We heard about where we’ve been and where we’re going in terms of our community of adopters, our curation activities, and our tech. Most importantly, we acknowledged ROR community contributors, without whom we’d never have come this far, and we did some brainstorming about what’s next. In conclusion: let’s ROR some more in 2024!
 
+Highlights: 
+
+- 
+
 {{< youtube id="mg53Lt5kWYQ" title="ROR Annual Community Meeting and Fifth Anniversary Celebration January 2024" >}}
 
 ### Community Showcase
