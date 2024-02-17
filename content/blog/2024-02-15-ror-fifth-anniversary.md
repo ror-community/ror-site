@@ -22,7 +22,7 @@ The [2024 edition of the main ROR annual meeting](/events/2024-01-30-annual-meet
 
 #### Selected highlights
 
-- A look back at an early [white paper](https://doi.org/10.5438/7885) and the working groups that resulted in ROR circa 2016-2019, plus other memories
+- A look back at an **early [white paper](https://doi.org/10.5438/7885)** and the working groups that resulted in ROR circa 2016-2019, plus other memories
 - Stats of ROR adoption include a staggering **1.48 million DOIs registered with DataCite that include ROR IDs** to identify creators or contributors
 - The number of requests to add new records to ROR has surged from 50 per month in January 2022 to **more than 700 per month** in January 2024
 - Key technical accomplishments in 2023 include schema v2 development, implementation, and beta test; anticipated for 2024 is the **public launch of v2 and a redesigned affiliation matching service**
