@@ -39,6 +39,7 @@ The [Community Showcase](/events/2024-01-30-community-showcase) featured present
 - A **live demo** of OpenAlex's web interface, whose institutional data relies on ROR 
 - ROR will be on the roadmap for **DSpace 8.0**
 - ROR IDs now account for **half of new affiliations created in ORCID**; over 1.2 million ORCID records have a ROR ID and more than 50,000 unique ROR IDs are represented in ORCID
+- **Springer Nature currently has over 1.1 million ROR IDs in its metadata** and its next steps are to add ROR IDs to already published content, provide ROR IDs to Crossref during metadata deposit, and evaluate other potential internal use cases for ROR
 - **OSTI will begin including ROR IDs in its metadata** once they deploy their new internal authority as part of E-Link 2.0, their new research submission tool
 - Of the 7 repository systems participating in NIH's GREI initiative, **5 have already adopted ROR for organizational affiliations and 3 have adopted ROR for funder associations**
 
