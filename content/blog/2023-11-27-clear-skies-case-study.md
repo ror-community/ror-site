@@ -265,6 +265,6 @@ Cool. Thanks. Bye.
 
 {{% callout color="green" icon="no-icon" %}}
 
-Questions? Want to be featured in a ROR case study? Contact <amanda@ror.org>.
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
 {{% /callout %}}
