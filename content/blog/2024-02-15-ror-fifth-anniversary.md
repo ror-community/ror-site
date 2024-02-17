@@ -49,12 +49,12 @@ The [Community Showcase](/events/2024-01-30-community-showcase) featured present
 The session [Why We All Need Good Funding Metadata](/events/2024-01-31-why-we-all-need-good-funding-metadata) addressed the issue that funding information is an increasingly important piece of metadata for many stakeholders, yet standardizing and using identifiers for funders remains a challenge. With ROR [set to become the standard persistent identifier for funders](https://ror.org/blog/2023-09-07-open-funder-registry-transition-ror-cross-post/), we convened a panel for ROR’s annual community meeting to hear from diverse perspectives about how funding metadata is used and what might make it better. We heard from funders, publishers, metadata specialists, and more, including  [CHORUS](https://chorusagccess.org), the [Royal Society of Chemistry](https://rsc.org), [Dryad](https://datadryad.org), [Crossref](https://crossref.org), and [Stratos](https://strategiesos.org/) for [Aligning Science Across Parkinson’s](https://parkinsonsroadmap.org/).
 
 #### Selected highlights
+All panelists were asked "If you had a magic wand, what would be the one thing you'd do to improve funding metadata?" The answers: 
 
-- All panelists were asked "If you had a magic wand, what would be the one thing you'd do to improve funding metadata?" The answers: 
-	- "Make extracting PIDs and their associated metadata from articles, datasets and software simple, open and affordable for all!"
-	- "All organisations and systems consistently using standard PIDs for people, organisations, grants, projects, data and publications throughout the funding, research and publication processes"
-	- "Systems/tools can accurately extract & identify funders from authors’ acknowledgements and match to funder IDs at the point of submission"
-	- "All funder data available through APIs"
+- "Make extracting PIDs and their associated metadata from articles, datasets and software **simple, open and affordable** for all!"
+- "All organisations and systems **consistently using standard PIDs** for people, organisations, grants, projects, data and publications throughout the funding, research and publication processes"
+- "Systems/tools can **accurately extract & identify funders from authors’ acknowledgements** and match to funder IDs at the point of submission"
+- "All **funder data available through APIs**"
 
 {{< youtube id="mDWpO8Jz2lM" title="Why We All Need Good Funding Metadata - ROR Annual Meeting 2024" >}}
 
