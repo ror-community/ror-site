@@ -107,6 +107,7 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 **Current Curation Advisory Board members**
 
+- Jackson Huang, Educopia
 - Kateřina Janderová, Czech Academy of Sciences
 - Matthias Liffers, Australian Research Data Commons
 - Nick Lundvick, Argonne National Laboratory
