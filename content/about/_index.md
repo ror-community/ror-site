@@ -63,7 +63,7 @@ In line with ROR's commitment to the [Principles of Open Scholarly Infrastructur
 
 The ROR operations team is responsible for strategic decision-making about registry resourcing and operations. This team comprises the ROR Director and a representative from each governing organization.
 
-- [Maria Gould](https://cdlib.org/contact/staff_directory/maria-gould-staff-profile/) (ROR Director), California Digital Library
+- [Maria Gould](https://datacite.org/team.html) (ROR Director), DataCite
 - [John Chodacki](https://cdlib.org/contact/staff_directory/john-chodacki-staff-profile/), California Digital Library
 - [Ed Pentz](https://www.crossref.org/people/ed-pentz/), Crossref
 - [Matt Buys](https://datacite.org/team.html), DataCite
@@ -78,11 +78,7 @@ Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-t
 
 #### Amanda French, Technical Community Manager
 
-Amanda [joined ROR in June 2022](/blog/2022-06-13-welcome-amanda-french/). Amanda works with ROR's three operating organizations and the broader ROR community to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.
-
-A well-known community manager and project director in the digital humanities and scholarly communication sphere, Amanda was most recently Community Lead at The COVID Tracking Project at The Atlantic. Previously, she directed the Mellon-funded project "Resilient Networks for Inclusive Digital Humanities" at the George Washington University Libraries and the Digital Research Services unit at Virginia Tech University Libraries, led the THATCamp unconference initiative at George Mason University's Roy Rosenzweig Center for History and New Media, and was a member of the first cohort of Council on Library and Information Resources (CLIR) Postdoctoral Fellows. 
-
-Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
+Amanda [joined ROR in June 2022](/blog/2022-06-13-welcome-amanda-french/) to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.  A well-known community manager and project director in the digital humanities and scholarly communication sphere, Amanda was most recently Community Lead at The COVID Tracking Project at The Atlantic. Previously, she directed the Mellon-funded project "Resilient Networks for Inclusive Digital Humanities" at the George Washington University Libraries and the Digital Research Services unit at Virginia Tech University Libraries, led the THATCamp unconference initiative at George Mason University's Roy Rosenzweig Center for History and New Media, and was a member of the first cohort of Council on Library and Information Resources (CLIR) Postdoctoral Fellows. Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
 
 #### Liz Krznarich, Technical Lead
 
@@ -90,11 +86,11 @@ Liz [joined the ROR team in late 2020](https://blog.datacite.org/working-at-the-
 
 #### Maria Gould, Director
 
-Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) and led the team that launched the minimum viable registry (MVR) prototype at PIDapalooza in 2019. As director, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is based at California Digital Library, where she leads the University of California Curation Center (UC3)'s portfolio of persistent identifier services, including ROR. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS.
+Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) as UC3 Product Manager at the California Digital Library focusing on persistent identifier projects, and in that role she led the team that launched the minimum viable registry (MVR) ROR prototype at PIDapalooza in 2019. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS. As ROR's director, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is [now based at DataCite](https://datacite.org/blog/welcome-maria-gould-datacites-new-product-director/), where she is Director of Product. 
 
 ### Alumni and affiliates
 
-ROR has benefited and continues to benefit from the involvement of many individuals in its early years.
+ROR has benefited from and continues to benefit from the involvement of many individuals. We are especially grateful to those from Crossref, DataCite, and Digital Science who have helped to design, build, and promote ROR. 
 
 - Geoffrey Bilder, Crossref
 - Helena Cousijn, DataCite
