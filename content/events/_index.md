@@ -38,7 +38,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Recorded: Yes 
 - Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
 
-{{% button color="green" link="" %}} Registration available soon {{% /button %}}
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMufuuqqDMsHdwWBHTND5C5mbs4DLqkcyld" %}} Register for the March Community Call {{% /button %}}
 
 ---
 
