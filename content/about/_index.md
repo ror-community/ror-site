@@ -98,6 +98,7 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 - Martin Fenner, DataCite
 - Richard Hallett, DataCite
 - Ginny Hendricks, Crossref
+- Jackson Huang, LEADING intern
 - Kornelia Korzec, Crossref
 - Suze Kundu, Digital Science
 - Rachael Lammey, Crossref
