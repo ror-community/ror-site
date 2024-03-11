@@ -18,7 +18,7 @@ ROR is community-supported, community-driven, community-funded open infrastructu
 
 The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers.
 
-ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org) -- three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share [collective responsibility](/about#governance-model) for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
+ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org) -- three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share [collective responsibility](/about#governance-model) for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
 
 The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries, including **publishers, libraries, platform providers, university research offices, data repositories, CRIS systems, government agencies, funders, and more.** 
 
@@ -33,7 +33,7 @@ The ROR Steering Group is a small advisory body composed of the [ROR Operations 
 - Lautaro Matas, [LA Referencia](https://www.lareferencia.info/)
 - Ritsuko Nakajima, [Japan Science and Technology Agency](https://www.jst.go.jp/) (JST)
 - Joy Owango, [Training Centre in Communication](https://www.tcc-africa.org/) (TCC Africa)
-- Ed Pentz, [Crossref](https://crossref.org) (permanent member)
+- Ed Pentz, [Crossref](https://www.crossref.org) (permanent member)
 - Judy Ruttenberg, [Association of Research Libraries](https://www.arl.org/) (ARL)
 - Kathleen Shearer, [Confederation of Open Access Repositories](https://www.coar-repositories.org/) (COAR)
 - Chris Shillum, [ORCID](https://orcid.org/)
@@ -116,8 +116,6 @@ Sign up for one or more of the following open, public forums to ask questions an
 
 - [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Technical announcements, discussions, and questions for developers implementing ROR in their systems.
 
-- [ROR GitHub Discussion Board](https://github.com/ror-community/ror-roadmap/discussions): Announcements, calls for feedback, and a forum for community members to propose and discuss features and ideas. 
-
 ### Follow ROR 
 Stay up-to-date on the latest ROR news and opportunities for feedback and involvement:
 
@@ -137,7 +135,7 @@ Stay up-to-date on the latest ROR news and opportunities for feedback and involv
 
 - To report a bug or request a feature in the ROR API or other tools, create an issue on [the ROR roadmap on Github](https://github.com/ror-community/ror-roadmap/issues).
 
-- If you spot an error in our [documentation](https://ror.readme.io/docs/), use the "suggest edits" button in the top right to let us know. 
+- If you spot an error in our [documentation](https://ror.readme.io/docs/basics), use the "Suggest Edits" button in the top right to let us know. 
 
 {{% callout icon="fa-envelope" %}}
 

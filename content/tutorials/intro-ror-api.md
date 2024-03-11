@@ -27,7 +27,7 @@ Open the following links in your browser. We will be using them during this tuto
 
 - The ROR search interface - https://ror.org/search 
 - The ROR API on the web - https://api.ror.org/organizations 
-- ROR API Documentation - https://ror.readme.io/docs/rest-api
+- ROR API Documentation - https://ror.readme.io/docs/api-about
 - The ROR API on GitHub - https://github.com/ror-community/ror-api 
 - ROR typeahead demos - https://ror-community.github.io/ror-typeahead-demos/ 
 - URL Encoder: https://urlencoder.org
@@ -42,7 +42,7 @@ When users enter organization names as text, they do so in different ways, inclu
 
 One of the most common uses of the ROR API is to use it to power a "typeahead" widget in a form, so that when a user (for instance, the author of a scholarly article) is asked to enter an organization name, they will be offered a list of standardized organization names to choose from rather than having to type the complete name out. The system can then store all the information in the ROR record associated with the ROR identifier, not just a single text string. 
 
-Try our [demos of ROR-powered typeaheads](https://ror-community.github.io/ror-typeahead-demos/), see the [code for our typeahead demos](https://github.com/ror-community/ror-typeahead-demos), and read our [documentation on how to build your own typeaheads](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets).
+Try our [demos of ROR-powered typeaheads](https://ror-community.github.io/ror-typeahead-demos/), see the [code for our typeahead demos](https://github.com/ror-community/ror-typeahead-demos), and read our [documentation on how to build your own typeaheads](https://ror.readme.io/docs/forms).
 
 {{% centered %}}
 {{% figure src="/img/tutorials/cracow-ror-typeahead.gif" %}}
@@ -58,7 +58,7 @@ When organization data is consistent, organizations such as the Cracow (or Krak�
 
 ## About the ROR API
 
-See https://ror.readme.io/docs/rest-api for full documentation of the ROR API. 
+See https://ror.readme.io/docs/api-about for full documentation of the ROR API. 
 
 - The ROR API is a **REST API** that returns JSON data. 
 - The ROR API is **entirely free** to use. There are no tiered plans.
@@ -80,7 +80,7 @@ The ROR API received about 14 million requests per month in 2022, up from about 
 ## ROR IDs and the ROR data structure
 
 ### The ROR ID
-The basic unit of the ROR registry is the ROR ID, which is in the form `https://ror.org/0262te083`. The ROR ID is the unique identifier for a ROR record containing basic information about a research organization. See https://ror.readme.io/docs/ror-identifier-pattern for more information about how ROR IDs are constructed. 
+The basic unit of the ROR registry is the ROR ID, which is in the form `https://ror.org/0262te083`. The ROR ID is the unique identifier for a ROR record containing basic information about a research organization. See https://ror.readme.io/docs/identifier for more information about how ROR IDs are constructed. 
 
 {{% centered %}}
 {{% figure src="/img/tutorials/cracow-cue-ror-ui.png" width="70%" %}}
@@ -88,7 +88,7 @@ The basic unit of the ROR registry is the ROR ID, which is in the form `https://
 [https://ror.org/0262te083](https://ror.org/0262te083)
 {{% /centered %}}
 
-The ROR API can be used to [retrieve a single ROR ID](https://ror.readme.io/docs/rest-api#retrieve-a-single-organization-record-by-ror-id) by entering a URL in the form `https://api.ror.org/organizations/https://ror.org/0262te083` in your browser. (You can use cURL in a command-line interface if you prefer.) 
+The ROR API can be used to [retrieve a single ROR ID](https://ror.readme.io/docs/api-single) by entering a URL in the form `https://api.ror.org/organizations/https://ror.org/0262te083` in your browser. (You can use cURL in a command-line interface if you prefer.) 
 
 {{% centered %}}
 {{% figure src="/img/tutorials/cracow-cue-ror-json.png"  width="70%" %}}
@@ -108,7 +108,7 @@ The ROR API can be used to [retrieve a single ROR ID](https://ror.readme.io/docs
 
 ### ROR data structure
 
-There are currently **[16 top-level elements](https://ror.readme.io/docs/ror-data-structure)** in a ROR record. The 15 metadata elements apart from the `id` element, which contains the ROR ID itself, fall into a few basic categories: 
+There are currently **[16 top-level elements](https://ror.readme.io/docs/data-structure)** in a ROR record. The 15 metadata elements apart from the `id` element, which contains the ROR ID itself, fall into a few basic categories: 
 
 - Name fields
 	- `name`, `aliases`, `acronyms`, `labels`
@@ -136,7 +136,7 @@ There are three options for searching the ROR API, which are accessed using thre
 - `?query.advanced` - Designed for **complex or highly precise searches** for secondary organizational information such as the organization's location or website.
 - `?affiliation` - Designed to **suggest and rank possible matches** in the ROR registry for long, messy text strings ("Anesthesiologie, Albert Schweitzer Ziekenhus, Postbus 444 3300 AK Dordrecht") using several different matching algorithms and to return results that generally need human review. 
 
-**This tutorial covers only the `?query` parameter**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean. See the [ROR REST API documentation](https://ror.readme.io/docs/rest-api) for more information on all three parameters. 
+**This tutorial covers only the `?query` parameter**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean. See the [ROR REST API documentation](https://ror.readme.io/docs/api-about) for more information on all three parameters. 
 
 The code for the ROR REST API is also openly available at https://github.com/ror-community/ror-api.  
 
@@ -164,15 +164,15 @@ Note that the ROR [search interface](https://ror.org/search) uses the `?query` p
 {{% callout color="grey" icon="no-icon" %}}
 ### Demonstrations: Simple queries for organization names and identifiers
 
-- A single term in an organization's name: https://api.ror.org/organizations?query=Mickiewicz
-- An organization name with escaped special characters (M&I/Partners): https://api.ror.org/organizations?query=M%5C%26I%5C%2FPartners
-- The same organization name with unescaped special characters: https://api.ror.org/organizations?query=M%26I%2FPartners 
-- An organization name with spaces and no quotation marks: https://api.ror.org/organizations?query=Harvard+University+Press
-- The same organization name with spaces surrounded by URL-encoded quotation marks: https://api.ror.org/organizations?query=%22Harvard+University+Press%22
-- An organization acronym: https://api.ror.org/organizations?query=cue 
-- An organization name in a language with non-Latin characters (杭州市妇科医院 - Hangzhou Women's Hospital): https://api.ror.org/organizations?query=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A6%87%E7%A7%91%E5%8C%BB%E9%99%A2 
-- Retrieving the third page of results: https://api.ror.org/organizations?query=smith&page=3
-- Searching by organizational identifier: https://api.ror.org/organizations?query=%22grid.508697.5%22  
+- A single term in an organization's name: ```https://api.ror.org/organizations?query=Mickiewicz```
+- An organization name with escaped special characters (M&I/Partners): ```https://api.ror.org/organizations?query=M%5C%26I%5C%2FPartners```
+- The same organization name with unescaped special characters: ```https://api.ror.org/organizations?query=M%26I%2FPartners``` 
+- An organization name with spaces and no quotation marks: ```https://api.ror.org/organizations?query=Harvard+University+Press```
+- The same organization name with spaces surrounded by URL-encoded quotation marks: ```https://api.ror.org/organizations?query=%22Harvard+University+Press%22```
+- An organization acronym: ```https://api.ror.org/organizations?query=cue```
+- An organization name in a language with non-Latin characters (杭州市妇科医院 - Hangzhou Women's Hospital): ```https://api.ror.org/organizations?query=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A6%87%E7%A7%91%E5%8C%BB%E9%99%A2``` 
+- Retrieving the third page of results: ```https://api.ror.org/organizations?query=smith&page=3```
+- Searching by organizational identifier: ```https://api.ror.org/organizations?query=%22grid.508697.5%22```  
 
 Note that it is advisable to surround query searches for GRID IDs with quotation marks because the string "grid", which is a necessary part of the GRID ID, will match acronyms and name terms in other organizational records.  
   
@@ -209,16 +209,16 @@ Remember too that **searches by default show only records whose status is active
 {{% callout color="grey" icon="no-icon" %}}
 ### Demonstrations: Filtering results by status, type, and country
 
-- Filter the whole ROR registry to show only records whose status is "withdrawn": https://api.ror.org/organizations?filter=status:Withdrawn
-- Filter the whole ROR registry to show only organizations in Qatar: https://api.ror.org/organizations?filter=country.country_name:Qatar
-- Filter the whole ROR registry to show only organizations in Qatar and include inactive and withdrawn records: https://api.ror.org/organizations?filter=country.country_name:Qatar&all_status
-- An unfiltered search for a single term: https://api.ror.org/organizations?query=Wiley
-- The same search filtered by organization type: https://api.ror.org/organizations?query=Wiley&filter=types:Company
-- The original search filtered by country name: https://api.ror.org/organizations?query=Wiley&filter=country.country_name:Germany
-- The original search filtered by country code: https://api.ror.org/organizations?query=Wiley&filter=country.country_code:de
-- Another unfiltered search for a single term: https://api.ror.org/organizations?query=Astrophysics
-- The same search filtered by country name: https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt
-- The same search filtered by both country name and organization type: https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt,types:Facility
+- Filter the whole ROR registry to show only records whose status is "withdrawn": ```https://api.ror.org/organizations?filter=status:Withdrawn```
+- Filter the whole ROR registry to show only organizations in Qatar: ```https://api.ror.org/organizations?filter=country.country_name:Qatar```
+- Filter the whole ROR registry to show only organizations in Qatar and include inactive and withdrawn records: ```https://api.ror.org/organizations?filter=country.country_name:Qatar&all_status```
+- An unfiltered search for a single term: ```https://api.ror.org/organizations?query=Wiley```
+- The same search filtered by organization type: ```https://api.ror.org/organizations?query=Wiley&filter=types:Company```
+- The original search filtered by country name: ```https://api.ror.org/organizations?query=Wiley&filter=country.country_name:Germany```
+- The original search filtered by country code: ```https://api.ror.org/organizations?query=Wiley&filter=country.country_code:de```
+- Another unfiltered search for a single term: ```https://api.ror.org/organizations?query=Astrophysics```
+- The same search filtered by country name: ```https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt```
+- The same search filtered by both country name and organization type: ```https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt,types:Facility```
   
 {{% /callout %}}
 
@@ -251,7 +251,7 @@ The script at https://github.com/ror-community/ror-utilities/blob/main/general-s
 - You can also explore this [list of codebases on GitHub](https://github.com/stars/amandafrench/lists/github-list-of-ror-users) that use ROR.
 
 ## Get help 
-- ROR API Documentation - https://ror.readme.io/docs/rest-api
+- ROR API Documentation - https://ror.readme.io/docs/api-about
 - ROR Technical Forum - https://groups.google.com/a/ror.org/g/ror-tech 
 - ROR Support - support@ror.org 
 

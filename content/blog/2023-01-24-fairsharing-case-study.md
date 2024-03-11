@@ -156,7 +156,7 @@ This was a one-time process, but now gets repeated on a smaller scale, I think i
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-That's really fascinating, actually. And I love doing these interviews, because I'm always hearing about new ways to solve different problems. So first of all, that is one thing that we [recommend](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets#ror-widget-recommendations), that nobody require the entry of a ROR into their system, because there certainly are institutions that are not in ROR that should be, or that are not in ROR because of scope issues, but that are in scope for your system. Oddly enough, you can require an organization without requiring a ROR ID, right, but you're not even requiring organizations, correct?
+That's really fascinating, actually. And I love doing these interviews, because I'm always hearing about new ways to solve different problems. So first of all, that is one thing that we [recommend](https://ror.readme.io/docs/forms), that nobody require the entry of a ROR into their system, because there certainly are institutions that are not in ROR that should be, or that are not in ROR because of scope issues, but that are in scope for your system. Oddly enough, you can require an organization without requiring a ROR ID, right, but you're not even requiring organizations, correct?
 
 ### {{< figure src="/img/blog/fairsharing/allyson-lister.jpg" class="round-figure" alt="Allyson Lister" >}} Allyson Lister
 

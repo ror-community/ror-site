@@ -98,7 +98,7 @@ That flow of curation information into the system, combined with the ease of use
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
   
-Fascinating. Well, I hope you and your staff do refer those kinds of issues to ROR, because we are always happy to make those kinds of corrections. If there is a bookstore that should or should not be in the [relationships of a ROR record](https://ror.readme.io/docs/ror-hierarchies-and-relationships), we're happy to add that or take it out.
+Fascinating. Well, I hope you and your staff do refer those kinds of issues to ROR, because we are always happy to make those kinds of corrections. If there is a bookstore that should or should not be in the [relationships of a ROR record](https://ror.readme.io/docs/relationships), we're happy to add that or take it out.
 
 ### {{< figure src="/img/blog/coki/cameron-neylon.png" class="round-figure" alt="Cameron Neylon" >}} Cameron Neylon
   
@@ -114,7 +114,7 @@ In the space of bibliometrics and scientometrics, almost every university in the
   
 It is interesting too, because ROR's curation model, as I'm sure you know, is not the same as something like Wikipedia or Wikidata, in the sense that we curate everything. Anyone can request anything, but we evaluate that and approve or decline it centrally. Wikidata and Wikipedia have a decentralized, distributed editing model, whereas we have quite a centralized curation model. 
 
-But we also don't have a model in which only certain people can make requests, or where there is a particular person at every organization who is responsible for making sure that their information is correct in ROR. We will take a request from anybody; you don't have to be affiliated with that organization. And we [evaluate that in the open](https//github.com/ror-community/ror-updates/issues) based on openly available information and on what makes sense for ROR.
+But we also don't have a model in which only certain people can make requests, or where there is a particular person at every organization who is responsible for making sure that their information is correct in ROR. We will take a request from anybody; you don't have to be affiliated with that organization. And we [evaluate that in the open](https://github.com/ror-community/ror-updates/issues) based on openly available information and on what makes sense for ROR.
 
 And I think that model is unusual for people to understand. I think they tend to have a kind of a binary notion of authority over data. Either there's a centralized authority who is making decisions, and you are lucky if you have any input into that, or it's something that's entirely distributed. I really like our model, because I do think it has the best of both worlds. We will entertain any corrections that you wish to give us, but we do also review and curate that quite carefully.
 
