@@ -88,7 +88,7 @@ The basic unit of the ROR registry is the ROR ID, which is in the form `https://
 [https://ror.org/0262te083](https://ror.org/0262te083)
 {{% /centered %}}
 
-The ROR API can be used to [retrieve a single ROR ID](https://ror.readme.io/docs/api-about#retrieve-a-single-organization-record-by-ror-id) by entering a URL in the form `https://api.ror.org/organizations/https://ror.org/0262te083` in your browser. (You can use cURL in a command-line interface if you prefer.) 
+The ROR API can be used to [retrieve a single ROR ID](https://ror.readme.io/docs/api-single) by entering a URL in the form `https://api.ror.org/organizations/https://ror.org/0262te083` in your browser. (You can use cURL in a command-line interface if you prefer.) 
 
 {{% centered %}}
 {{% figure src="/img/tutorials/cracow-cue-ror-json.png"  width="70%" %}}
@@ -164,15 +164,15 @@ Note that the ROR [search interface](https://ror.org/search) uses the `?query` p
 {{% callout color="grey" icon="no-icon" %}}
 ### Demonstrations: Simple queries for organization names and identifiers
 
-- A single term in an organization's name: https://api.ror.org/organizations?query=Mickiewicz
-- An organization name with escaped special characters (M&I/Partners): https://api.ror.org/organizations?query=M%5C%26I%5C%2FPartners
-- The same organization name with unescaped special characters: https://api.ror.org/organizations?query=M%26I%2FPartners 
-- An organization name with spaces and no quotation marks: https://api.ror.org/organizations?query=Harvard+University+Press
-- The same organization name with spaces surrounded by URL-encoded quotation marks: https://api.ror.org/organizations?query=%22Harvard+University+Press%22
-- An organization acronym: https://api.ror.org/organizations?query=cue 
-- An organization name in a language with non-Latin characters (杭州市妇科医院 - Hangzhou Women's Hospital): https://api.ror.org/organizations?query=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A6%87%E7%A7%91%E5%8C%BB%E9%99%A2 
-- Retrieving the third page of results: https://api.ror.org/organizations?query=smith&page=3
-- Searching by organizational identifier: https://api.ror.org/organizations?query=%22grid.508697.5%22  
+- A single term in an organization's name: ```https://api.ror.org/organizations?query=Mickiewicz```
+- An organization name with escaped special characters (M&I/Partners): ```https://api.ror.org/organizations?query=M%5C%26I%5C%2FPartners```
+- The same organization name with unescaped special characters: ```https://api.ror.org/organizations?query=M%26I%2FPartners``` 
+- An organization name with spaces and no quotation marks: ```https://api.ror.org/organizations?query=Harvard+University+Press```
+- The same organization name with spaces surrounded by URL-encoded quotation marks: ```https://api.ror.org/organizations?query=%22Harvard+University+Press%22```
+- An organization acronym: ```https://api.ror.org/organizations?query=cue```
+- An organization name in a language with non-Latin characters (杭州市妇科医院 - Hangzhou Women's Hospital): ```https://api.ror.org/organizations?query=%E6%9D%AD%E5%B7%9E%E5%B8%82%E5%A6%87%E7%A7%91%E5%8C%BB%E9%99%A2``` 
+- Retrieving the third page of results: ```https://api.ror.org/organizations?query=smith&page=3```
+- Searching by organizational identifier: ```https://api.ror.org/organizations?query=%22grid.508697.5%22```  
 
 Note that it is advisable to surround query searches for GRID IDs with quotation marks because the string "grid", which is a necessary part of the GRID ID, will match acronyms and name terms in other organizational records.  
   
@@ -209,16 +209,16 @@ Remember too that **searches by default show only records whose status is active
 {{% callout color="grey" icon="no-icon" %}}
 ### Demonstrations: Filtering results by status, type, and country
 
-- Filter the whole ROR registry to show only records whose status is "withdrawn": https://api.ror.org/organizations?filter=status:Withdrawn
-- Filter the whole ROR registry to show only organizations in Qatar: https://api.ror.org/organizations?filter=country.country_name:Qatar
-- Filter the whole ROR registry to show only organizations in Qatar and include inactive and withdrawn records: https://api.ror.org/organizations?filter=country.country_name:Qatar&all_status
-- An unfiltered search for a single term: https://api.ror.org/organizations?query=Wiley
-- The same search filtered by organization type: https://api.ror.org/organizations?query=Wiley&filter=types:Company
-- The original search filtered by country name: https://api.ror.org/organizations?query=Wiley&filter=country.country_name:Germany
-- The original search filtered by country code: https://api.ror.org/organizations?query=Wiley&filter=country.country_code:de
-- Another unfiltered search for a single term: https://api.ror.org/organizations?query=Astrophysics
-- The same search filtered by country name: https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt
-- The same search filtered by both country name and organization type: https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt,types:Facility
+- Filter the whole ROR registry to show only records whose status is "withdrawn": ```https://api.ror.org/organizations?filter=status:Withdrawn```
+- Filter the whole ROR registry to show only organizations in Qatar: ```https://api.ror.org/organizations?filter=country.country_name:Qatar```
+- Filter the whole ROR registry to show only organizations in Qatar and include inactive and withdrawn records: ```https://api.ror.org/organizations?filter=country.country_name:Qatar&all_status```
+- An unfiltered search for a single term: ```https://api.ror.org/organizations?query=Wiley```
+- The same search filtered by organization type: ```https://api.ror.org/organizations?query=Wiley&filter=types:Company```
+- The original search filtered by country name: ```https://api.ror.org/organizations?query=Wiley&filter=country.country_name:Germany```
+- The original search filtered by country code: ```https://api.ror.org/organizations?query=Wiley&filter=country.country_code:de```
+- Another unfiltered search for a single term: ```https://api.ror.org/organizations?query=Astrophysics```
+- The same search filtered by country name: ```https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt```
+- The same search filtered by both country name and organization type: ```https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt,types:Facility```
   
 {{% /callout %}}
 

@@ -92,7 +92,7 @@ Common types of entities that are out of scope for ROR include
 - Journals
 - Projects
 
-See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ***
 
@@ -194,7 +194,7 @@ In general, ROR IDs should operate behind the scenes, helping systems interopera
 
 ### **How can I add an organization to ROR?**
 
-You can check if an organization already has a ROR ID by looking up the organization in ROR’s [search interface](https://ror.org/search) or [API](https://api.ror.org/organizations). To suggest that a new research organization to be added to ROR, please submit the [curation request form](https://curation-request.ror.org). Before submitting the request, be sure to read about ROR's [scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion). 
+You can check if an organization already has a ROR ID by looking up the organization in ROR’s [search interface](https://ror.org/search) or [API](https://api.ror.org/organizations). To suggest that a new research organization to be added to ROR, please submit the [curation request form](https://curation-request.ror.org). Before submitting the request, be sure to read about ROR's [scope and criteria for inclusion](/registry/#scope). 
 
 ***
 
@@ -242,7 +242,7 @@ After a request is submitted via the feedback form, an issue will be created in 
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [GitHub](https://github.com/ror-community/ror-roadmap/discussions), in the [ROR Slack](https://tinyurl.com/ror-slack), [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
+ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on ROR's social media accounts.
 
 ***
 
