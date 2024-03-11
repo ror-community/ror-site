@@ -116,8 +116,6 @@ Sign up for one or more of the following open, public forums to ask questions an
 
 - [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Technical announcements, discussions, and questions for developers implementing ROR in their systems.
 
-- [ROR GitHub Discussion Board](https://github.com/ror-community/ror-roadmap/discussions): Announcements, calls for feedback, and a forum for community members to propose and discuss features and ideas. 
-
 ### Follow ROR 
 Stay up-to-date on the latest ROR news and opportunities for feedback and involvement:
 
