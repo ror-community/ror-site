@@ -20,8 +20,8 @@ description = "Funding information is an increasingly important piece of metadat
 
 - Howard Ratner, Executive Director, [CHORUS](https://chorusagccess.org)
 - Caroline Burley, Journals Manager, Publishing Services & Production, [Royal Society of Chemistry](https://rsc.org)
-- Sarah Lippincott, Head of Community Engagement, [Dryad](https://datadryad.org)
-- Patricia Feeney, Head of Metadata, [Crossref](https://crossref.org)
+- Sarah Lippincott, Head of Community Engagement, [Dryad](https://datadryad.org/)
+- Patricia Feeney, Head of Metadata, [Crossref](https://www.crossref.org)
 - Kristen Ratan, Founder of [Stratos](https://strategiesos.org/), for [Aligning Science Across Parkinson’s](https://parkinsonsroadmap.org/)
 
 After brief presentations from each panelist, the audience joins a 20-minute discussion about funding metadata challenges and opportunities.

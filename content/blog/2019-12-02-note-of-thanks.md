@@ -21,7 +21,7 @@ These new contributions supplement those previously received from:
 - [Altum](https://www.altum.com/)
 - [Center for Science and Technology Studies (CWTS), Leiden University](https://www.cwts.nl/)
 - [Curtin University](https://www.curtin.edu.au/)
-- [Dryad](https://datadryad.org)
+- [Dryad](https://datadryad.org/)
 - [eLife](https://elifesciences.org/)
 - [German National Library of Science and Technology (TIB)](https://www.tib.eu/en/)
 

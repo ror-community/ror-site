@@ -30,7 +30,7 @@ Looking for basic information about ROR? Check out the [frequently asked questio
 
 ## Governance model
 
-ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement-2022.pdf) (MOA).
+ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement-2022.pdf) (MOA).
 
 Responsibility for ROR is designed and premised on the following core principles:
 
@@ -210,7 +210,7 @@ ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/202
 
 ## Logos 
 
-To obtain official versions of the ROR logo, please visit our [display guidelines and logos](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos) page and abide by the usage recommendations there. 
+To obtain official versions of the ROR logo, please visit our [display guidelines and logos](https://ror.readme.io/docs/display) page and abide by the usage recommendations there. 
 
 {{% callout icon="fa-envelope" %}}
 
