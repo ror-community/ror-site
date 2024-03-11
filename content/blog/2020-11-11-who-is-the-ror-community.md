@@ -32,7 +32,7 @@ This blog post highlights three key aspects of ROR's community focus:
 
 CDL, Crossref, and DataCite are the operational team leading ROR. They are the [governing organizations](https://ror.org/governance/) that share the overall responsibility for coordinating ROR activities and making decisions that support the growth and sustainability of ROR. These three organizations also contribute in-kind resources in the form of dedicated and ad hoc personnel for the ROR project team, which works on product development, outreach, and adoption, as well as infrastructural resources such as server hosting.
 
-The [ROR Steering Group](https://ror.org/governance/#steering-group) consists of representatives of additional organizations, including Digital Science, which provided the seed data from GRID that was used to launch ROR. This group provides input on decisions and overall strategy, and support for ROR's growth and sustainability through outreach to funders, potential adopters, and other stakeholders in their respective networks.
+The [ROR Steering Group](https://ror.org/community/#steering-group) consists of representatives of additional organizations, including Digital Science, which provided the seed data from GRID that was used to launch ROR. This group provides input on decisions and overall strategy, and support for ROR's growth and sustainability through outreach to funders, potential adopters, and other stakeholders in their respective networks.
 
 ## Who is the ROR Community?
 

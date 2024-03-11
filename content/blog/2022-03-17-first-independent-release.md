@@ -90,7 +90,7 @@ In the first place, huge thanks to the team that brought this release to fruitio
 - ROR Technical Lead **Esha Datta** developed the infrastructure and workflow for generating new and updated metadata records, indexing them in our API, and deploying the changes to production. 
 - **Liz Krznarich** stepped into the Technical Lead role in February when Esha returned to her primary role at Crossref, and handled the final pieces of preparing the release and setting the foundation for future ones. 
 - ROR's new Metadata Curation Lead, **Adam Buttrick**, joined the team in January and quickly developed tools and workflows for reviewing, preparing, and testing the updates in this release. 
-- ROR's **[curation advisory board](https://ror.org/governance/#curation-advisory-board)** has been working for the past year to review and approve changes and to develop policies and workflows to guide these decisions.
+- ROR's **[curation advisory board](https://ror.org/registry/#curation-advisory-board)** has been working for the past year to review and approve changes and to develop policies and workflows to guide these decisions.
 
 Second, thanks are also due to **Digital Science**. ROR would not have such a comprehensive and useful dataset today if we had not been able to start with the seed file from GRID and coordinate updates through GRID for the past few years.
 

@@ -10,7 +10,7 @@ thumb = "/img/jaguar-thick.png"
 author = "Maria Gould"
 +++
 
-As we announced previously, ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16-help-sustain-ror/) to ensure the registry's long-term sustainability. We are grateful for the community supporters who have already contributed to this campaign. The first round of supporters was [announced a couple of weeks ago] (https://ror.org/blog/2019-11-13-ror-fundraising-update/). We are excited in this post to acknowledge the following additional contributors:
+As we announced previously, ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16-help-sustain-ror/) to ensure the registry's long-term sustainability. We are grateful for the community supporters who have already contributed to this campaign. The first round of supporters was [announced a couple of weeks ago](https://ror.org/blog/2019-11-13-ror-fundraising-update/). We are excited in this post to acknowledge the following additional contributors:
 
 - [American Physical Society](https://www.aps.org/)
 - [American Psychological Association](https://www.apa.org/)
