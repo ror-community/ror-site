@@ -26,7 +26,7 @@ Activities and milestones we're proud of in 2022 include:
 
 -   **Accelerating technical development work** according to a new [product development process](https://github.com/ror-community/ror-roadmap).
 
--   **Improving ways to search and query registry data**: we implemented ["advanced search" functionality](https://ror.readme.io/docs/advanced-search) in the ROR API and [improvements to the ROR API affiliation matching function](https://ror.readme.io/changelog/2022-10-24-affiliation-matching-improvements-api-only), and [fixed some search-related bugs](https://github.com/ror-community/ror-roadmap/issues/8). We also implemented new handling to support [organization status changes](https://ror.org/blog/2022-12-07-handling-org-status/).
+-   **Improving ways to search and query registry data**: we implemented ["advanced search" functionality](https://ror.readme.io/docs/api-advanced-query) in the ROR API and [improvements to the ROR API affiliation matching function](https://ror.readme.io/changelog/2022-10-24-affiliation-matching-improvements-api-only), and [fixed some search-related bugs](https://github.com/ror-community/ror-roadmap/issues/8). We also implemented new handling to support [organization status changes](https://ror.org/blog/2022-12-07-handling-org-status/).
 
 -   **Planning for future changes to the ROR schema/API**: we finalized a [plan for schema and API versioning](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit) based on community input, and drafted a [proposal for the first set of changes](https://ror.org/blog/2022-12-14-schema-scheming/) to come in late 2023.
 

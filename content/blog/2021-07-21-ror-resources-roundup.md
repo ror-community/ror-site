@@ -18,8 +18,8 @@ ROR is all grown up and has its very own [support site](https://ror.readme.io)!
 
 On this site you’ll find:
 
-- [Technical docs](https://ror.readme.io/docs/rest-api) about ROR tools and services
-- [Implementation guides](https://ror.readme.io/docs/map-other-organization-id-types-to-ror) with tips for using these tools/services to address specific use cases
+- [Technical docs](https://ror.readme.io/docs/api-about) about ROR tools and services
+- [Implementation guides](https://ror.readme.io/docs/mapping) with tips for using these tools/services to address specific use cases
 - Links to relevant code examples in the new [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) and out in the world
 
 If you can’t find what you need or get stuck along the way, please post on the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users) (formerly ROR API Users - we recently changed the name to make it clear that we welcome all sorts of tech questions/discussion).

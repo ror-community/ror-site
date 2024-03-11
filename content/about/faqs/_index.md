@@ -16,7 +16,7 @@ aliases = [
 
 ### **Who runs ROR?**
 
-ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
+ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
 
 ***
 
@@ -98,7 +98,7 @@ See also [our more detailed explanation of ROR's scope and the criteria for incl
 
 ### **Does ROR support relationships and hierarchies?**
 
-Yes, ROR metadata includes both parent-child organizational hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities, and each of these connected organizations may have their own ROR IDs and records. Read our [technical documentation about relationships in ROR](https://ror.readme.io/docs/ror-hierarchies-and-relationships) or read our blog post on ["Parents, Children, and Other Relationships in ROR"](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) to learn more. 
+Yes, ROR metadata includes both parent-child organizational hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities, and each of these connected organizations may have their own ROR IDs and records. Read our [technical documentation about relationships in ROR](https://ror.readme.io/docs/relationships) or read our blog post on ["Parents, Children, and Other Relationships in ROR"](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) to learn more. 
 
 ***
 
@@ -110,13 +110,13 @@ ROR is focused on solving the problem of connecting research outputs to research
 
 ### **What is a ROR identifier?**
 
-A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/ror-identifier-pattern). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`, although the ROR API will recognize all three of these forms as ROR IDs. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
+A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/identifier). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`, although the ROR API will recognize all three of these forms as ROR IDs. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
 
 ***
 
 ### **What metadata is included in a ROR record?**
 
-ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization's name in multiple languages, acronyms, aliases, location, website, Wikipedia page, and other corresponding external organizational identifiers. See the ROR documentation for the full model of the [ROR data structure](https://ror.readme.io/docs/ror-data-structure).
+ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization's name in multiple languages, acronyms, aliases, location, website, Wikipedia page, and other corresponding external organizational identifiers. See the ROR documentation for the full model of the [ROR data structure](https://ror.readme.io/docs/fields).
 
 ***
 
@@ -154,7 +154,7 @@ ROR is [supported and integrated in ORCID in several ways](https://info.orcid.or
 ***
 
 ### **Is ROR supported in DOIs?**
-Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in Crossref DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-crossref-dois), how to include [ROR IDs in DataCite DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-datacite-dois), and how to include [ROR IDs in JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml). 
+Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in Crossref DOI metadata](https://ror.readme.io/docs/crossref), how to include [ROR IDs in DataCite DOI metadata](https://ror.readme.io/docs/datacite), and how to include [ROR IDs in JATS XML](https://ror.readme.io/docs/jats). 
 
 ***
 
@@ -174,7 +174,7 @@ The [ROR documentation site](https://ror.readme.io) offers guidance for those in
 
 ### **Does ROR have an API?**
 
-ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/rest-api).
+ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/api-about).
 
 ***
 
@@ -186,7 +186,7 @@ ROR records can be downloaded via the [public data dump](https://ror.readme.io/d
 
 ### **How should ROR IDs and logos be displayed?**
 
-In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos). You can also download official versions of ROR logos on that page. 
+In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/display). You can also download official versions of ROR logos on that page. 
 
 ***
 
