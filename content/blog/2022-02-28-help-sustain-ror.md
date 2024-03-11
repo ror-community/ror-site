@@ -22,7 +22,7 @@ This year, ROR is initiating a new round of community fundraising. Building on t
 
 With the Sustaining Supporters program, organizations are encouraged to support ROR's operating expenses on a recurring annual basis. Any organization that signs up to support ROR through the end of 2022 will be recognized as a Founding Supporter and receive a supporter badge that can be displayed on their website.
 
-We want to make the process of contributing to ROR as easy as possible. To ensure this is the case, organizations can support ROR at any amount that works for their budget and capacity. Also, to simplify the invoicing process, organizations that are already members of [Crossref](https://crossref.org) or [DataCite](https://datacite.org) can choose to receive an invoice directly from Crossref and DataCite for their ROR contributions. However, if organizations prefer, they can also be invoiced directly from ROR.
+We want to make the process of contributing to ROR as easy as possible. To ensure this is the case, organizations can support ROR at any amount that works for their budget and capacity. Also, to simplify the invoicing process, organizations that are already members of [Crossref](https://www.crossref.org) or [DataCite](https://datacite.org) can choose to receive an invoice directly from Crossref and DataCite for their ROR contributions. However, if organizations prefer, they can also be invoiced directly from ROR.
 
 ## **Why support ROR**
 

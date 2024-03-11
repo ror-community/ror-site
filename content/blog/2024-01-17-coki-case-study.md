@@ -98,7 +98,7 @@ That flow of curation information into the system, combined with the ease of use
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
   
-Fascinating. Well, I hope you and your staff do refer those kinds of issues to ROR, because we are always happy to make those kinds of corrections. If there is a bookstore that should or should not be in the [relationships of a ROR record](https://ror.readme.io/docs/ror-hierarchies-and-relationships), we're happy to add that or take it out.
+Fascinating. Well, I hope you and your staff do refer those kinds of issues to ROR, because we are always happy to make those kinds of corrections. If there is a bookstore that should or should not be in the [relationships of a ROR record](https://ror.readme.io/docs/relationships), we're happy to add that or take it out.
 
 ### {{< figure src="/img/blog/coki/cameron-neylon.png" class="round-figure" alt="Cameron Neylon" >}} Cameron Neylon
   

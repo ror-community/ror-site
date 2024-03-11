@@ -36,9 +36,59 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes 
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The March 2024 meeting will include an update on the v2 of the ROR API and schema and on a special project to improve our coverage of Chinese organizations. 
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMufuuqqDMsHdwWBHTND5C5mbs4DLqkcyld" %}} Register for the March Community Call {{% /button %}}
+
+---
+
+### ROR Community Call May 2024
+- Date: Wednesday, May 22, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-05-22&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJckc-Gqpj4iGdTeNzqcXW7sufrZ459AfsBs" %}} Register for the May Community Call {{% /button %}}
+
+---
+
+### ROR Community Call July 2024
+- Date: Tuesday, July 23, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-23&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJUkfu6vrDsiHNcT3RAW4YNECmsyd5YzE3Hs" %}} Register for the July Community Call {{% /button %}}
+
+---
+
+
+### ROR Community Call September 2024
+- Date: Wednesday, September 25, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-09-25&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJwqfu-trTIoHdJ3ajeDyN_GVivLRaiRAEwO" %}} Register for the September Community Call {{% /button %}}
+
+---
+
+
+### ROR Community Call November 2024
+- Date: Wednesday, November 20, 2024
+- Time: [4pm UTC](https://dateful.com/time-zone-converter?t=4pm&d=2024-11-20&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJ0ocO6sqD0tE9xR63qXxTe6KKnZroWRiCY8" %}} Register for the November Community Call {{% /button %}}
 
 ---
 

@@ -22,7 +22,7 @@ The new members of the ROR Steering Group join those who formed the original coh
 -  **Clifford Lynch**, [Coalition for Networked Information](https://cni.org)
 -  **Ritsuko Nakajima**, [Japan Science and Technology Agency](https://ror.org/00097mb19)
 -  **Lautaro Matas***, [LA Referencia](https://www.lareferencia.info/)
--  **Ed Pentz**, [Crossref](https://crossref.org)
+-  **Ed Pentz**, [Crossref](https://www.crossref.org)
 -  **Judy Ruttenberg**, [Association of Research Libraries](https://arl.org)
 -  **Kathleen Shearer***, [Confederation of Open Access Repositories](https://www.coar-repositories.org/)
 -  **Chris Shillum***, [ORCID](https://orcid.org)

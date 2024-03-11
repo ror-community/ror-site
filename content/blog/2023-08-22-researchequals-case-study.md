@@ -128,7 +128,7 @@ What we don't yet do is do the backlog. If you've authored with ResearchEquals b
 Gotcha. What challenges did you run into as you were integrating ROR into your system in four two-hour blocks?
 
 ### {{< figure src="/img/blog/researchequals/chris_hartgerink.png" class="round-figure" alt="Chris Hartgerink" >}} Chris Hartgerink  
-I think the main thing was simply learning some of the quirks around how to interface with ROR directly. I think that's true for any API integration. I write my documentation differently from the way somebody else does, so you have to sort of learn the language a bit to know where to find things. The main thing that was confusing or was a difficulty was [this idea that the URL is the ID](https://ror.readme.io/docs/ror-identifier-pattern). I thought it was going to be just the unique string part.
+I think the main thing was simply learning some of the quirks around how to interface with ROR directly. I think that's true for any API integration. I write my documentation differently from the way somebody else does, so you have to sort of learn the language a bit to know where to find things. The main thing that was confusing or was a difficulty was [this idea that the URL is the ID](https://ror.readme.io/docs/identifier). I thought it was going to be just the unique string part.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French  
 Right.
@@ -143,7 +143,7 @@ The interface design is a big issue, because there's lots of different ways to i
 Yeah. And actually I think after the first two sessions, so after four hours, the integration was pretty much complete. And the remaining four hours were spent simply, you know, moving stuff one pixel to the right to make sure that it displays properly.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French  
-I had actually forgotten this until you mentioned it, but one of the things that I changed after watching your live stream was the part of our documentation about [the preferred form of the ROR ID](https://ror.readme.io/docs/ror-identifier-pattern). There's actually [a lot of discussion on the ORCID GitHub](https://github.com/ORCID/ORCID-Source/issues/6520) about why our preferred form is the entire URL, and one of the changes I made was to add that reasoning into the documentation. Essentially, our sense is that when the URL is used as the ID in metadata, it's more likely to continue to resolve. And that's the key thing that you want from a persistent identifier.
+I had actually forgotten this until you mentioned it, but one of the things that I changed after watching your live stream was the part of our documentation about [the preferred form of the ROR ID](https://ror.readme.io/docs/identifier). There's actually [a lot of discussion on the ORCID GitHub](https://github.com/ORCID/ORCID-Source/issues/6520) about why our preferred form is the entire URL, and one of the changes I made was to add that reasoning into the documentation. Essentially, our sense is that when the URL is used as the ID in metadata, it's more likely to continue to resolve. And that's the key thing that you want from a persistent identifier.
 
 I also put in the documentation that while we think the entire URL is the best form for the ROR identifier, the ROR API does also recognize just the unique string. A ROR ID is `https://ror.org` plus nine characters, and if you just use that nine-character string, that will work in the API.
 
