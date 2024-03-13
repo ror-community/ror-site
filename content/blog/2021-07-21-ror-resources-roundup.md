@@ -18,7 +18,7 @@ ROR is all grown up and has its very own [support site](https://ror.readme.io)!
 
 On this site you’ll find:
 
-- [Technical docs](https://ror.readme.io/docs/api-about) about ROR tools and services
+- [Technical docs](https://ror.readme.io/docs/rest-api) about ROR tools and services
 - [Implementation guides](https://ror.readme.io/docs/mapping) with tips for using these tools/services to address specific use cases
 - Links to relevant code examples in the new [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) and out in the world
 

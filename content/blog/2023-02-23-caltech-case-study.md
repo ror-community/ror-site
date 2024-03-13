@@ -176,7 +176,7 @@ No. It's on our end to figure out how we want to handle that.
 Interesting. I think that's about all I have for you. What else do you want to tell us about the data repository, or the thesis repository, or your integrations of ROR generally? 
 
 ### {{< figure src="/img/blog/caltech/tom-morrell.jpg" class="round-figure" alt="Tom Morrell" >}} Tom Morrell
-I don't know if I have anything else. I'm a big supporter of ROR, and I've been really thrilled to see how it's evolved, particularly over the last couple of years. I feel like ROR has really gotten into its stride in terms of how it's managing the curation process, making the data available, providing both useful [data dumps](https://ror.readme.io/docs/data-dump) and [API features](https://ror.readme.io/docs/api-about). I think it's going to be a really powerful tool for allowing us to do all sorts of queries and identifying how people are associated with organizations and funders.
+I don't know if I have anything else. I'm a big supporter of ROR, and I've been really thrilled to see how it's evolved, particularly over the last couple of years. I feel like ROR has really gotten into its stride in terms of how it's managing the curation process, making the data available, providing both useful [data dumps](https://ror.readme.io/docs/data-dump) and [API features](https://ror.readme.io/docs/rest-api). I think it's going to be a really powerful tool for allowing us to do all sorts of queries and identifying how people are associated with organizations and funders.
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 Great! That's great to hear. Thank you so much, Tom. 

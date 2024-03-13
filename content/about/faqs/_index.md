@@ -174,7 +174,7 @@ The [ROR documentation site](https://ror.readme.io) offers guidance for those in
 
 ### **Does ROR have an API?**
 
-ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/api-about).
+ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/rest-api).
 
 ***
 

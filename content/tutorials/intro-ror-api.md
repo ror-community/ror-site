@@ -27,7 +27,7 @@ Open the following links in your browser. We will be using them during this tuto
 
 - The ROR search interface - https://ror.org/search 
 - The ROR API on the web - https://api.ror.org/organizations 
-- ROR API Documentation - https://ror.readme.io/docs/api-about
+- ROR API Documentation - https://ror.readme.io/docs/rest-api
 - The ROR API on GitHub - https://github.com/ror-community/ror-api 
 - ROR typeahead demos - https://ror-community.github.io/ror-typeahead-demos/ 
 - URL Encoder: https://urlencoder.org
@@ -58,7 +58,7 @@ When organization data is consistent, organizations such as the Cracow (or Krak√
 
 ## About the ROR API
 
-See https://ror.readme.io/docs/api-about for full documentation of the ROR API. 
+See https://ror.readme.io/docs/rest-api for full documentation of the ROR API. 
 
 - The ROR API is a **REST API** that returns JSON data. 
 - The ROR API is **entirely free** to use. There are no tiered plans.
@@ -136,7 +136,7 @@ There are three options for searching the ROR API, which are accessed using thre
 - `?query.advanced` - Designed for **complex or highly precise searches** for secondary organizational information such as the organization's location or website.
 - `?affiliation` - Designed to **suggest and rank possible matches** in the ROR registry for long, messy text strings ("Anesthesiologie, Albert Schweitzer Ziekenhus, Postbus 444 3300 AK Dordrecht") using several different matching algorithms and to return results that generally need human review. 
 
-**This tutorial covers only the `?query` parameter**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean. See the [ROR REST API documentation](https://ror.readme.io/docs/api-about) for more information on all three parameters. 
+**This tutorial covers only the `?query` parameter**, since it is the primary recommended method of searching the ROR registry for an organization by name when input data is fairly clean. See the [ROR REST API documentation](https://ror.readme.io/docs/rest-api) for more information on all three parameters. 
 
 The code for the ROR REST API is also openly available at https://github.com/ror-community/ror-api.  
 
@@ -251,7 +251,7 @@ The script at https://github.com/ror-community/ror-utilities/blob/main/general-s
 - You can also explore this [list of codebases on GitHub](https://github.com/stars/amandafrench/lists/github-list-of-ror-users) that use ROR.
 
 ## Get help 
-- ROR API Documentation - https://ror.readme.io/docs/api-about
+- ROR API Documentation - https://ror.readme.io/docs/rest-api
 - ROR Technical Forum - https://groups.google.com/a/ror.org/g/ror-tech 
 - ROR Support - support@ror.org 
 
