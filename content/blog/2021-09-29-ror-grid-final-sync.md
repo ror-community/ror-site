@@ -26,7 +26,7 @@ ROR has always planned to become independent of GRID. Since the July announcemen
 The following resources are a good starting point for those transitioning from GRID to ROR. If you have questions, please post in the [ROR Tech Support discussion group](https://groups.google.com/a/ror.org/g/ror-api-users) so other users can be part of the conversation.
 
 - [ROR/GRID transition FAQ](https://ror.readme.io/docs/grid)
-- [Technical docs](https://ror.readme.io/docs/api-about) about ROR tools and services
+- [Technical docs](https://ror.readme.io/docs/rest-api) about ROR tools and services
 - [Implementation guides](https://ror.readme.io/docs/mapping) for mapping GRID as well as other identifier types to ROR
 - [Utility scripts](https://github.com/ror-community/ror-utilities) for working with the ROR API
 
