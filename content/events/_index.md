@@ -54,6 +54,24 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### PKP Sprint and Pre-Conference Library Publishing Forum 2024
+- Date: May 13-13, 2024
+- Location: Minneapolis, MN
+- Description: ROR will be participating in the Library Publishing Forum sprint and pre-conference. At the sprint on May 13th, we'll be participating in PKP's full-day software sprint, where small, self-organized teams work together in an unconference-style event to solve common software issues or to make enhancements that benefit everyone. You don’t need to have coding or programming expertise to participate. At the pre-conference on May 14th, ROR will be participating in a panel on "Interdependence, Collaboration, Interoperability: PKP’s Role in the Open Ecosystem" where we'll discuss ROR and PKP collaboration. 
+
+{{% button color="green" link="https://pkp.sfu.ca/2024/02/28/registration-pkp-minnesota-sprint-lpc-pre-conference/" %}} Register for the PKP Sprint and Pre-Conference {{% /button %}}
+
+---
+
+### Society for Scholarly Publishing 2024
+- Date: May 29-31, 2024
+- Location: Boston, MA
+- Description: ROR Technical Community Manager Amanda French will be at SSP 2024! If you'll be there too, we'd love to answer any questions you have about ROR and hear about your current or planned ROR integration. Book a time to meet up at the Crossref booth in the exhibit hall. 
+
+{{% button color="green" link="https://calendly.com/ror-ssp-2024/30min" %}} Book a meeting at SSP 2024 {{% /button %}}
+
+---
+
 ### ROR Community Call July 2024
 - Date: Tuesday, July 23, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-23&tz2=UTC)
