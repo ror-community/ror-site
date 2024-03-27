@@ -13,7 +13,7 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 ### ROR Community Call - March 2023
 - Date and time: Tuesday, March 28th, 2023 at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+March+2023&iso=20230328T15&p1=1440&ah=1) (1 hour) 
 - Location: Online
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this call, we hear about proposed schema updates, stats from 1 year of independent curation, upcoming events and new ROR adoptions, and a presentation from ROR integrator FAIRsharing.
 - Recorded: Yes
 
 

@@ -23,7 +23,7 @@ This is not a major change from the status quo, but it is a significant developm
 In short, what this shift means is that **ROR’s governing organizations are re-committing to ROR and have agreed to share full responsibility for covering ROR’s core operating costs**. It also means that ROR is not currently planning to cover primary operating expenses by relying on revenue from future paid services or time-limited grant funds.
 
 ## How we got here
-ROR itself is not an organization and does not intend to become one. It launched, and continues to exist, as a collaborative initiative led by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org). Our three organizations share responsibility for ROR’s governance and strategic decision-making, a responsibility we formalized in a Memorandum of Agreement signed in 2020.
+ROR itself is not an organization and does not intend to become one. It launched, and continues to exist, as a collaborative initiative led by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). Our three organizations share responsibility for ROR’s governance and strategic decision-making, a responsibility we formalized in a Memorandum of Agreement signed in 2020.
 
 As part of our shared commitment to ROR, our three organizations have provided limited in-kind resources to partially cover ROR’s operating expenses over the years. This in-kind support has been supplemented with grant funds ([IMLS](https://www.imls.gov/grants/awarded/lg-246305-ols-20) and [NSF](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031172)) and [contributions from community stakeholders](/supporters).
 

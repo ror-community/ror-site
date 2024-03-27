@@ -16,7 +16,7 @@ description = ""
 ## This is a test blog post
 Hello, world. See the top of this file for default front matter metadata. 
 
-## Images and videos
+## Image locations
 
 Sitewide images should be stored in the directory /static/img and blog-specific images should be stored in the directory /static/img/blog/[blogpostname]. 
 
@@ -39,12 +39,16 @@ Use the class "blog-figure" in the figure shortcode to center an image in a blog
 
 {{< figure src="/img/blog/caltech/caltech-data-item-affiliation.png" class="blog-figure" alt="Entering an affiliation into CaltechData" caption="Entering an affiliation into CaltechDATA with InvenioRDM.">}} 
 
+### YouTube videos and playlists
 
-### Centered and shrunken YouTube video 
-
-Use the class "blog-video" in the youtube shortcode to center an embedded YouTube video and shrink it to 70% of the page width. 
+YouTube videos can be embedded with the built-in Hugo shortcode. Use the class "blog-video" in the youtube shortcode to center an embedded YouTube video and shrink it to 70% of the page width. 
 
 {{< youtube id="GIxqvBIx4r0" title="ROR Community Update | 2023 ROR Annual Community Meeting" class="blog-video" >}}
+
+YouTube playlists can be embedded with the custom playlist shortcode.
+
+{{< playlist id="PLagyLN5PZI3zVbJNYCNFmL1cJif_31ReV" title="Integrating ROR in ResearchEquals" class="blog-video" >}}
+
 
 ## Callout blocks
 
@@ -68,7 +72,6 @@ Buttons work similarly to the new callout boxes above. Just wrap the _text_ of y
 {{% button color="green" link="/blog" %}} this is a button {{% /button %}}
 {{% button color="red" link="/blog" %}} this is a button {{% /button %}}
 {{% button link="/blog" %}} this is a button {{% /button %}}
-
 
 ## Centered content
 

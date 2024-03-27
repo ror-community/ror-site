@@ -16,13 +16,13 @@ aliases = [
 
 ### **Who runs ROR?**
 
-ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
+ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
 
 ***
 
 ### **How is ROR funded?**
 
-During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. ROR is [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
+During its first few years, ROR relied on a mixed funding model that included in-kind support from the three ROR governing organizations, contributions from supporting organizations, and grants. In 2022, ROR began [transitioning to a resourcing model](/blog/2022-10-10-strengthening-sustainability) where all staffing and core expenses will be supported entirely by the three ROR governing organizations. Additional funding from community supporters or future grants will be used to offset operating costs and support time-limited projects. [Learn more about ROR’s business model](/about#business-model).
 
 ***
 
@@ -85,37 +85,38 @@ Common types of entities that are in scope for ROR include
 Common types of entities that are out of scope for ROR include
 
 - Departments within organizations
+- University schools and colleges
 - Companies that are not involved in research
 - Single-person consultancies
 - Pre-collegiate schools 
 - Journals
 - Projects
 
-See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ***
 
 ### **Does ROR support relationships and hierarchies?**
 
-Yes, ROR metadata includes both parent-child organizational hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities, and each of these connected organizations may have their own ROR IDs and records. Read our [technical documentation about relationships in ROR](https://ror.readme.io/docs/ror-hierarchies-and-relationships) or read our blog post on ["Parents, Children, and Other Relationships in ROR"](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) to learn more. 
+Yes, ROR metadata includes both parent-child organizational hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities, and each of these connected organizations may have their own ROR IDs and records. Read our [technical documentation about relationships in ROR](https://ror.readme.io/docs/relationships) or read our blog post on ["Parents, Children, and Other Relationships in ROR"](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) to learn more. 
 
 ***
 
 ### **Why doesn't ROR include university departments?**
 
-ROR is focused on addressing the fundamental affiliation use case and increasing interoperability with other systems, and therefore it is not focused on capturing all subdivisions of a given organization, such as a university’s academic departments. The more granular the registry, the less suited it is to address the use case of tracking outputs at the institutional level. The "high-level" institutional information in ROR is also more stable than departmental information and is therefore better suited for persistence. ROR concentrates on maintaining inclusive global coverage of research organizations rather than on capturing the internal structure of organizations, and this approach keeps ROR easy to use. Additionally, some high-level sub-units of organizations are in scope for ROR, such as research institutes. Because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own department-level taxonomies. 
+ROR is focused on solving the problem of connecting research outputs to research organizations while remaining easy to use, and therefore it is not focused on capturing all subdivisions of a given organization such as a university’s schools or departments. ROR does support organizational hierarchy, and units such as research institutes and laboratories are in scope for ROR. The more granular the registry, however, the less suited it is to address the key use case of linking research outputs to research organizations and the more difficult it is to implement and maintain. University departments in particular often emerge, close, combine, and change: the "high-level" institutional information in ROR is more stable and is therefore better suited for persistence. ROR concentrates on maintaining broad, inclusive global coverage of research organizations rather than on capturing the internal structure of particular organizations. ROR might extend its scope in the future, but meanwhile, because ROR's code and data are entirely open, ROR users are free to build upon it in their local integrations to add their own school- and department-level taxonomies. 
 
 ***
 
 ### **What is a ROR identifier?**
 
-A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/ror-identifier-pattern). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`, although the ROR API will recognize all three of these forms as ROR IDs. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
+A ROR ID consists of a [unique 9-character string appended to the ROR domain](https://ror.readme.io/docs/identifier). The preferred form of a ROR identifier is the entire URL: `https://ror.org/02mhbdp94` rather than `ror.org/02mhbdp94` or `02mhbdp94`, although the ROR API will recognize all three of these forms as ROR IDs. The unique strings in ROR identifiers are assigned randomly, not sequentially, and contain no organizational information; therefore, the ROR ID of one organization cannot be predicted from the ROR ID of a related organization. 
 
 ***
 
 ### **What metadata is included in a ROR record?**
 
-ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization's name in multiple languages, acronyms, aliases, location, website, Wikipedia page, and other corresponding external organizational identifiers. See the ROR documentation for the full model of the [ROR data structure](https://ror.readme.io/docs/ror-data-structure).
+ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization's name in multiple languages, acronyms, aliases, location, website, Wikipedia page, and other corresponding external organizational identifiers. See the ROR documentation for the full model of the [ROR data structure](https://ror.readme.io/docs/fields).
 
 ***
 
@@ -153,7 +154,7 @@ ROR is [supported and integrated in ORCID in several ways](https://info.orcid.or
 ***
 
 ### **Is ROR supported in DOIs?**
-Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in Crossref DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-crossref-dois), how to include [ROR IDs in DataCite DOI metadata](https://ror.readme.io/docs/include-ror-ids-in-datacite-dois), and how to include [ROR IDs in JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml). 
+Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossref, DataCite, and the Japan Link Center (JaLC) support ROR in DOI metadata. Read more about how to include [ROR IDs in Crossref DOI metadata](https://ror.readme.io/docs/crossref), how to include [ROR IDs in DataCite DOI metadata](https://ror.readme.io/docs/datacite), and how to include [ROR IDs in JATS XML](https://ror.readme.io/docs/jats). 
 
 ***
 
@@ -185,7 +186,7 @@ ROR records can be downloaded via the [public data dump](https://ror.readme.io/d
 
 ### **How should ROR IDs and logos be displayed?**
 
-In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos). You can also download official versions of ROR logos on that page. 
+In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/display). You can also download official versions of ROR logos on that page. 
 
 ***
 
@@ -193,7 +194,7 @@ In general, ROR IDs should operate behind the scenes, helping systems interopera
 
 ### **How can I add an organization to ROR?**
 
-You can check if an organization already has a ROR ID by looking up the organization in ROR’s [search interface](https://ror.org/search) or [API](https://api.ror.org/organizations). To suggest that a new research organization to be added to ROR, please submit the [curation request form](https://curation-request.ror.org). Before submitting the request, be sure to read about ROR's [scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion). 
+You can check if an organization already has a ROR ID by looking up the organization in ROR’s [search interface](https://ror.org/search) or [API](https://api.ror.org/organizations). To suggest that a new research organization to be added to ROR, please submit the [curation request form](https://curation-request.ror.org). Before submitting the request, be sure to read about ROR's [scope and criteria for inclusion](/registry/#scope). 
 
 ***
 
@@ -205,33 +206,43 @@ To request a change to an organization’s ROR record, submit the [curation requ
 
 ### **Who is the contact person at my organization responsible for our ROR ID?**
 
-The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org).
+The ROR registry is maintained through a centralized, community-based curation process. Organizations are not responsible for maintaining their own records in ROR. Anyone can suggest a new ROR record or a change to a ROR record via the [curation request form](https://curation-request.ror.org), and ROR's curators will review the request to determine whether to approve it. 
 
 ***
 
 ### **How quickly can I get a new ROR ID?**
 
-ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog.
+ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog. Generally, an approved request will appear in ROR within 2-4 weeks.
 
-Currently, releases are published approximately every month. You can track your request through the curation process by following it on [Github](https://github.com/ror-community/ror-updates/issues).
+Currently, releases are published approximately every month. You can track your request through the curation process by following it on [GitHub](https://github.com/ror-community/ror-updates/issues).
+
+***
+
+### **How can I submit bulk requests to ROR when I want to add multiple organizations?**
+
+If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact [registry@ror.org](mailto:registry@ror.org) for assistance.
 
 ***
 
-### **Can I send ROR a list of organizations to add?**
+### **How long will it take for my bulk request to be processed?**
 
-Contact [registry@ror.org](mailto:registry@ror.org) if you have a list of organizations you would like to suggest for ROR.
+While approved requests for single ROR records generally appear in the registry in 2-4 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely.
 
-***
+Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 300-400 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. The best way to ensure faster processing of your request is to submit clean, complete metadata.
+
+We are currently scaling our curation processes to support the widespread enthusiasm for ROR and this high volume of requests, so please don’t hesitate to inquire about bulk submissions by writing [registry@ror.org](mailto:registry@ror.org). This helps us to gauge demand for curation activities and resource accordingly. Please also, however, be mindful that large bulk submissions may take us some time to process.
+
+Our curation processes and projects are entirely open, so anyone may see our [queue of open individual requests](https://github.com/ror-community/ror-updates/issues) and our [current list of curation projects](https://github.com/ror-community/ror-updates/projects/1). 
 
 ### **I submitted a curation request to ROR. How can I track it?**
 
-After a request is submitted via the feedback form, an issue will be created in the [ror-updates Github repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You can track the status of your request by following the repository and by signing up as a watcher on the issue associated with your request.
+After a request is submitted via the feedback form, an issue will be created in the [ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You will receive an email notification with a link to the GitHub issue associated with your request. You can track the status of the request by following this issue and subscribing to issue notifications.
 
 ***
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on [Github](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [Github repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [Github](https://github.com/ror-community/ror-roadmap/discussions), in the [ROR Slack](https://tinyurl.com/ror-slack), [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on [Twitter](https://twitter.com/ResearchOrgs).
+ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on ROR's social media accounts.
 
 ***
 

@@ -143,7 +143,7 @@ So what we were looking for is a way to normalize those. This is probably a very
 
 What we've been working on is taking our very, very long list of institution names in Europe PMC grant data, many of which are copies of the same institute, just spelled differently, and matching them to ROR IDs. We use the ROR API to do that. We have our machine learning model for publications, but the grant data is a little different. It's a little bit more straightforward, actually, because these institution text strings tend to just be the institution name, whereas in publications you get postcodes, countries, cities... Sometimes you get two affiliations merged together in the same bit of text. Luckily for us, with Europe PMC grant data, it's usually just something as simple as "the University of Cambridge".
 
-So we basically took all institution names, ran them through the ROR API, and had a threshold for matching. The ROR API, beautifully, [gives you a score](https://ror.readme.io/docs/affiliation-parameter). It tells you how it matched, what kind of similarity was used. We came up with a threshold where "Anything below this, we're just going to leave this." We never had the intention that we'd get 100% coverage, because although you do have York Minster, for example, in the ROR registry, we didn't expect everything to be there. I was actually very surprised at how many companies appeared in the ROR registry. I wasn't expecting that, but there are many companies that do research and receive external funding.
+So we basically took all institution names, ran them through the ROR API, and had a threshold for matching. The ROR API, beautifully, [gives you a score](https://ror.readme.io/docs/api-affiliation). It tells you how it matched, what kind of similarity was used. We came up with a threshold where "Anything below this, we're just going to leave this." We never had the intention that we'd get 100% coverage, because although you do have York Minster, for example, in the ROR registry, we didn't expect everything to be there. I was actually very surprised at how many companies appeared in the ROR registry. I wasn't expecting that, but there are many companies that do research and receive external funding.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -242,7 +242,7 @@ We just [released that in March](https://ror.readme.io/changelog/2023-03-16-csv-
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
-So that was not a problem, but that was a minor inconvenience that you've now sorted. And then the other thing would be around improvements to the [matching API](https://ror.readme.io/docs/affiliation-parameter), but I think that has also [been done](https://ror.readme.io/changelog/2022-10-24-affiliation-matching-improvements-api-only). At the time the documentation was not so comprehensive. Now I think it is. It's very clear [what to do and the output you're going to get](https://ror.readme.io/docs/match-organization-names-to-ror-ids). At the time I was doing this a year and a half ago it was a bit less clear, but that's been improved, too. So in terms of the user experience, it's very good.
+So that was not a problem, but that was a minor inconvenience that you've now sorted. And then the other thing would be around improvements to the [matching API](https://ror.readme.io/docs/api-affiliation), but I think that has also [been done](https://ror.readme.io/changelog/2022-10-24-affiliation-matching-improvements-api-only). At the time the documentation was not so comprehensive. Now I think it is. It's very clear [what to do and the output you're going to get](https://ror.readme.io/docs/matching). At the time I was doing this a year and a half ago it was a bit less clear, but that's been improved, too. So in terms of the user experience, it's very good.
 
 Longer term... I mean, ORCID is interesting because you have the PID, but you also have the ORCID record, and I can claim various things to it. The ROR registry does not have the claiming aspect. I wondered if that was a desirable thing or not, because in my head, ORCID and ROR solve the same problem for a different type of thing. But the ORCID organisation has all this flexibility around claiming various bits and pieces to your ORCID record. That proves to be really useful when you want to make connections between things, and we use ORCID as a source of figuring out which of EMBL researchers have published, what grants do they hold, that kind of thing. We actually use their ORCID record to create staff profiles, so you get the little headshot and the list of research publications is just pulled out of the ORCID record for that person. That doesn't exist for the institution level. The institution doesn't have the ability to add details to that ROR record. I suspect that is just not in the genetics of ROR. But I wondered if that's something that there's interest in. There's a whole world of complexity, though.
 
@@ -284,7 +284,7 @@ Yeah, there are a lot of experts out there who might just think of something you
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-We find that with every [feedback round](https://ror.readme.io/docs/community-feedback-documents). "Oh, we thought we had a good proposal. But oh, here are the things that we didn't think about."
+We find that with every [feedback round](https://ror.readme.io/docs/feedback-docs). "Oh, we thought we had a good proposal. But oh, here are the things that we didn't think about."
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
@@ -292,7 +292,7 @@ And people can ignore it if they're not interested.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-It's interesting what you said about curation, because we are absolutely seeing that. The rate of curation requests has been going up and up and up. We really have only been doing this kind of curation for about a year and a half, actually, because before that [ROR was just synced with GRID](https://ror.readme.io/docs/gridror-transition-faq). So yeah, we are right now looking at ways to maintain the pace of that curation in the face of an increased number of requests. And I am also always trying to make that a little bit more visible, to show [all of the requests that we do get](https://github.com/ror-community/ror-updates/issues) and all of the [curation work that does go on](https://github.com/ror-community/ror-updates/projects/1). Because it is open and transparent, but it's on GitHub, where not everybody goes. It's trying to really show people where that is and what's happening.
+It's interesting what you said about curation, because we are absolutely seeing that. The rate of curation requests has been going up and up and up. We really have only been doing this kind of curation for about a year and a half, actually, because before that [ROR was just synced with GRID](https://ror.readme.io/docs/grid). So yeah, we are right now looking at ways to maintain the pace of that curation in the face of an increased number of requests. And I am also always trying to make that a little bit more visible, to show [all of the requests that we do get](https://github.com/ror-community/ror-updates/issues) and all of the [curation work that does go on](https://github.com/ror-community/ror-updates/projects/1). Because it is open and transparent, but it's on GitHub, where not everybody goes. It's trying to really show people where that is and what's happening.
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
@@ -340,6 +340,8 @@ My pleasure. Thanks for your time.
 
 {{% callout color="green" icon="no-icon" %}}
 
-See also the [press release](https://www.eurekalert.org/news-releases/984137) about Europe PMC's incorporation of ROR into its Grant Finder. Contact <amanda@ror.org> with any questions.
+See also the [press release](https://www.eurekalert.org/news-releases/984137) about Europe PMC's incorporation of ROR into its Grant Finder. Contact <community@ror.org> with any questions.
+
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
 {{% /callout %}}

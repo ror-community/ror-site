@@ -94,7 +94,7 @@ As we continue to improve the quality and coverage of organization metadata in R
 
 Another area of focus for the future is analyzing current name metadata across the registry to identify opportunities for metadata enrichment at scale. For example, we are looking at all records where the primary name is not in English and [reviewing them for the completeness and quality of a corresponding English label](https://github.com/ror-community/ror-updates/issues/720).
 
-We also work to support those who are integrating ROR in their systems to help them develop implementations that can leverage the full breadth of name metadata (and additional information) in ROR. Implementation guidance is available on the [ROR support site](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets). 
+We also work to support those who are integrating ROR in their systems to help them develop implementations that can leverage the full breadth of name metadata (and additional information) in ROR. Implementation guidance is available on the [ROR support site](https://ror.readme.io/docs/forms). 
 
 ## **Bringing it all together**
 

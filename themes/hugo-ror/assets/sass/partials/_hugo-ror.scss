@@ -1791,7 +1791,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: $font-bold;
-    margin: 2rem 0 0 0;
+    margin: 2rem 0 1rem 0;
     line-height: 2.5rem;
 }
 small {
@@ -6809,6 +6809,12 @@ img {
     right: 1%;
     max-width: 133px;
     top: 99%}
+    
+.page-banner h1 {
+  font-size: 2rem;
+  line-height: 2rem;
+}
+    
 .pricing-5 .title {
     text-align: center;
 }
@@ -6825,6 +6831,10 @@ img {
 }@media screen and (max-width:517px) {
     .alert .alert-icon {
     margin-top: 10px;
+}
+.page-banner h1 {
+  font-size: 2rem;
+  line-height: 2rem;
 }
 }@media screen and (min-width:1200px) {
     .section-images .hero-images-container-1 {
@@ -6883,15 +6893,11 @@ img.ror-id {
 .page-banner {
     /*margin-top: -70px;*/
  }
+ 
 .page-banner h1 {
 	color: #fff !important;
     font-family: $font-bold;
 	margin: 0;		
-}
-
-.blog h1 {
-  font-size: 2rem;
-  line-height: 2rem;
 }
 
 /* donations table on the Supporters page */
@@ -6959,6 +6965,10 @@ figure img {
   	margin-right:auto;
 }
 
+.blog figcaption p {
+	text-align: center;
+}
+
 /* header anchor links */
 
 .ha {
@@ -7005,4 +7015,49 @@ h4 .ha, h5 .ha, h6 .ha, .blog .ha {
 .ror-toc ul ul li {
 	margin: .5em;
 }
+
+/* tables */
+
+table { 
+
+margin-right: 2em;
+font-size: .8em;
+
+}
+
+td,
+th {
+  padding:3px 8px;
+  vertical-align:top
+}
+thead tr,
+thead tr:hover {
+  background-color:#e0004d;
+  border:1px solid #e0004d;
+  color:#fff
+}
+tr:nth-child(2n+2) {
+  background-color:#f3f3f3
+}
+table.no-zebra tr:nth-child(2n+2) {
+  background-color:#fff
+}
+
+/* footnotes */ 
+
+.footnotes {
+font-size: .8em;
+}
+
+.footnotes::before {
+  font-weight: bold;
+  font-size: 1.75rem;
+  line-height: 2.5rem;
+  content: "References";
+}
+
+.footnotes ol li, .footnotes ol li p {
+margin-bottom: .5rem;
+}
+
 

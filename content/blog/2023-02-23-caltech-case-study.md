@@ -183,3 +183,9 @@ Great! That's great to hear. Thank you so much, Tom.
 
 ### {{< figure src="/img/blog/caltech/tom-morrell.jpg" class="round-figure" alt="Tom Morrell" >}} Tom Morrell
 Well, thank you. It's been great to chat. 
+
+{{% callout color="green" icon="no-icon" %}}
+
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+
+{{% /callout %}}

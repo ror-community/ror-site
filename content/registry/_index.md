@@ -5,7 +5,6 @@ date = "2022-07-21"
 banner = "/img/banners/ROR_Banner-purple.jpg"
 aliases = [
     "/curation",
-    "/scope"
 ]
 +++
 
@@ -25,7 +24,9 @@ Anyone can suggest additions or updates to the registry. You do not need to be a
 
 After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies. Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump.
 
-Registry data is updated on a rolling basis. New releases are available at least once every month, so the time between when a request is made and when the approved change appears in the registry is usually no more than 6 weeks. Not all requests are approved.
+Registry data is updated on a rolling basis. New releases are available at least once every month, so the time between when a request is made and when the approved change appears in the registry is usually 2-4 weeks. Not all requests are approved.
+
+If you have more than one request, please submit a separate request form for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact registry@ror.org for assistance. For bulk request processing time, see [How long will it take for my bulk request to be processed?](/about/faqs/#how-long-will-it-take-for-my-bulk-request-to-be-processed)
 
 The curation process is openly available on [GitHub](https://github.com/ror-community/ror-updates). Anyone can follow along with the curation process by visiting the [issues queue](https://github.com/ror-community/ror-updates/issues) of change requests or the  [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
 
@@ -43,7 +44,7 @@ ROR developed its curation model following discussions and consultations with co
 
 {{% /callout %}}
 
-## Scope and criteria for inclusion
+## Scope and criteria for inclusion {#scope}
 ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
 
 ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. Therefore, one of the most important criteria we use to decide whether to add an organization to ROR is whether researchers list that organization as an affiliation in existing published research outputs.
@@ -76,7 +77,7 @@ The ROR registry is freely and openly available. There are **no fees or access r
 
 #### Web search
 - Search ROR on the web at [https://ror.org/search](https://ror.org/search)
-- Read the [ROR web search documentation](https://ror.readme.io/docs/web-search-interface)
+- Read the [ROR web search documentation](https://ror.readme.io/docs/web-search)
 
 #### REST API
 - Use the ROR REST API at [https://api.ror.org/organizations](https://api.ror.org/organizations)
@@ -106,6 +107,8 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 **Current Curation Advisory Board members**
 
+- Jackson Huang, Educopia
+- Kateřina Janderová, Czech Academy of Sciences
 - Matthias Liffers, Australian Research Data Commons
 - Nick Lundvick, Argonne National Laboratory
 - Carly Robinson, OSTI/DOE
