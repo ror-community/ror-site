@@ -30,16 +30,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call March 2024
-- Date: Tuesday, March 26, 2024
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-03-26)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes 
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The March 2024 meeting will include an update on the v2 of the ROR API and schema and on a special project to improve our coverage of Chinese organizations. 
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMufuuqqDMsHdwWBHTND5C5mbs4DLqkcyld" %}} Register for the March Community Call {{% /button %}}
-
 ---
 
 ### CHORUS Forum: Navigating the Future of Persistent Identifiers (PIDs) in Scholarly Publishing: Challenges, Risks, and Opportunities
@@ -125,6 +115,9 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### ROR Community Call March 2024
+The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for March 2024](2024-03-26-ror-community-call) includes an update on v2 of the ROR API and schema, a summary of a special project to improve our coverage of Chinese organizations, new and notable ROR adoptions, and an update on Crossref's work on the transition from the Open Funder Registry to ROR.
 
 ### Why We All Need Good Funding Metadata
 
