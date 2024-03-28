@@ -44,7 +44,7 @@ ROR developed its curation model following discussions and consultations with co
 
 {{% /callout %}}
 
-## Scope and criteria for inclusion {#scope}
+## Scope and criteria for inclusion {#scope, #scope-and-critera-for-inclusion}
 ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
 
 ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. Therefore, one of the most important criteria we use to decide whether to add an organization to ROR is whether researchers list that organization as an affiliation in existing published research outputs.
