@@ -4,9 +4,9 @@ draft = false
 date = "2022-01-25"
 banner = "/img/banners/ROR_Banner-grey.jpg"
 aliases = [ 
-"intro-ror-api",
-"/tutorials/intro-ror-api"
-]
+"/intro-ror-api",
+"/tutorials/intro-ror-api",
+"/tutorials"]
 +++
 
 {{% toc %}}
