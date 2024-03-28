@@ -4,9 +4,9 @@ draft = false
 date = "2022-09-26"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 aliases = [
-    "/facts",
-	"/faq",
-	"/faqs"
+    	"/about/facts",
+	"/about/faq",
+	"/faq"
 ]
 +++
 
