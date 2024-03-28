@@ -3,7 +3,7 @@ title = "FAQs"
 draft = false
 date = "2022-09-26"
 banner = "/img/banners/ROR_Banner-orange.jpg"
-aliases = ["/about/facts", "/about/faq", "/faq"]
+aliases = ["/about/facts", "/about/faqs", "/about/faq", "/faq"]
 url = "/faqs"
 +++
 
