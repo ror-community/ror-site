@@ -1,7 +1,7 @@
 +++ 
-title = "" 
-date = "" 
-draft = false 
+title = "ROR site post documentation" 
+date = "2024-03-27" 
+draft = true 
 tags = ["", ""] 
 categories = [""] 
 style = "card-plain" 
