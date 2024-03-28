@@ -1,8 +1,9 @@
-:w+++
++++
 title = "Help Sustain ROR"
 draft = false
 date = "2022-02-01"
 banner = "/img/banners/ROR_Banner-grey.jpg"
+aliases = "/community/sustain"
 url = "/sustain"
 +++
 
