@@ -32,6 +32,15 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### PKP Sprint and Pre-Conference Library Publishing Forum 2024
+- Date: May 13-16, 2024
+- Location: Minneapolis, MN
+- Description: ROR will be participating in the Library Publishing Forum sprint and pre-conference. At the sprint on May 13th, we'll be participating in PKP's full-day software sprint, where small, self-organized teams work together in an unconference-style event to solve common software issues or to make enhancements that benefit everyone. You don’t need to have coding or programming expertise to participate. At the pre-conference on May 14th, ROR will be participating in a panel on "Interdependence, Collaboration, Interoperability: PKP’s Role in the Open Ecosystem" where we'll discuss ROR and PKP collaboration. 
+
+{{% button color="green" link="https://pkp.sfu.ca/2024/02/28/registration-pkp-minnesota-sprint-lpc-pre-conference/" %}} Register for the PKP Sprint and Pre-Conference {{% /button %}}
+
+---
+
 ### CHORUS Forum: Navigating the Future of Persistent Identifiers (PIDs) in Scholarly Publishing: Challenges, Risks, and Opportunities
 - Date: Wednesday, May 22, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-05-22&tz2=UTC)
@@ -50,15 +59,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJckc-Gqpj4iGdTeNzqcXW7sufrZ459AfsBs" %}} Register for the May Community Call {{% /button %}}
-
----
-
-### PKP Sprint and Pre-Conference Library Publishing Forum 2024
-- Date: May 13-13, 2024
-- Location: Minneapolis, MN
-- Description: ROR will be participating in the Library Publishing Forum sprint and pre-conference. At the sprint on May 13th, we'll be participating in PKP's full-day software sprint, where small, self-organized teams work together in an unconference-style event to solve common software issues or to make enhancements that benefit everyone. You don’t need to have coding or programming expertise to participate. At the pre-conference on May 14th, ROR will be participating in a panel on "Interdependence, Collaboration, Interoperability: PKP’s Role in the Open Ecosystem" where we'll discuss ROR and PKP collaboration. 
-
-{{% button color="green" link="https://pkp.sfu.ca/2024/02/28/registration-pkp-minnesota-sprint-lpc-pre-conference/" %}} Register for the PKP Sprint and Pre-Conference {{% /button %}}
 
 ---
 
