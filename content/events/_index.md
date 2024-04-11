@@ -72,8 +72,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ### ROR Community Call July 2024
-- Date: Tuesday, July 23, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-23&tz2=UTC)
+- Date: Tuesday, July 16, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-16&tz2=UTC)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
