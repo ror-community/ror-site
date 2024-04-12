@@ -51,19 +51,21 @@ ROR's primary aim is to address the "affiliation use case," which means identify
 
 ROR is focused on being a high-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping departments within institutions, though some sub-units such as research institutes and laboratories are in scope. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
 
-See also ["Is my organization in scope for ROR?"](/about/faqs/#is-my-organization-in-scope-for-ror) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator’s affiliation or acknowledged as a funder in published research**. See also ["Is my organization in scope for ROR?"](/faqs/#is-my-organization-in-scope-for-ror) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ## About registry data 
 ROR registry records include a unique ID for each organization along with additional metadata about each organization to facilitate discovery and disambiguation. The ROR ID is expressed as a URL that resolves to the organization's record. [Search the ROR registry](https://ror.org/search) to see examples of ROR records and IDs.
 
 All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 
-More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available on the [ROR documentation site](https://ror.readme.io). 
+As of April 2024, ROR maintains two versions of its metadata schema. [Version 1 of the ROR metadata schema](https://ror.readme.io/v1/docs/data-structure) will be supported through at least April 2025; [version 2 of the ROR metadata schema](https://ror.readme.io/v2/docs/data-structure) is the current recommended version.
 
-ROR has some similarities with other organization identifiers but it differs from other identifiers in a few fundamental ways:
+More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available in [ROR's documentation](https://ror.readme.io). 
+
+ROR has some similarities with other organization identifiers, but it differs from them in a few fundamental ways:
 
 - ROR is completely open (CC0 data, open API)
-- ROR is focused specifically on affiliations
+- ROR is focused specifically on researcher affiliations and research funding acknowledgements
 - ROR is designed to be supported in core scholarly infrastructure (e.g., Crossref, DataCite, ORCID)
 - ROR is developed as a community initiative
 
@@ -80,8 +82,8 @@ The ROR registry is freely and openly available. There are **no fees or access r
 - Read the [ROR web search documentation](https://ror.readme.io/docs/web-search)
 
 #### REST API
-- Use the ROR REST API at [https://api.ror.org/organizations](https://api.ror.org/organizations)
-- Read the [ROR REST API documentation](https://ror.readme.io/docs/rest-api)
+- Read the [ROR REST API v1 documentation](https://ror.readme.io/v1/docs/rest-api)
+- Read the [ROR REST API v2 documentation](https://ror.readme.io/v2/docs/rest-api)
 - Join the [ROR Tech Forum](https://groups.google.com/a/ror.org/g/ror-tech) to receive important announcements about the ROR API
 
 #### Dataset
