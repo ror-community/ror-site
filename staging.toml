@@ -40,6 +40,9 @@ summaryLength = 20
 [params.blurb]
     enable = true
 
+[params.announcement]
+    enable = true    
+
 [params.homepage_features]
     enable = true
 
