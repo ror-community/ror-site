@@ -115,12 +115,15 @@ A ROR ID consists of a [unique 9-character string appended to the ROR domain](ht
 
 ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization, including variant names such as acronyms and aliases, the organization's name in multiple languages, its location, its website, and any mappings to existing identifiers for the organization from external identification systems. As of April 2024, ROR currently maintains two versions of its metadata schema. 
 
-* Version 1 of the ROR metadata schema will be supported through at least April 2025.
-	* [Version 1 top-level data structure](https://ror.readme.io/v1/docs/data-structure)
-	* [Version 1 all fields and sub-fields](https://ror.readme.io/v1/docs/fields)
-* Version 2 of the ROR metadata schema is the current recommended version.
-	* [Version 2 top-level data structure](https://ror.readme.io/v2/docs/data-structure)
-	* [Version 2 all fields and sub-fields](https://ror.readme.io/v2/docs/fields)
+Version 1 of the ROR metadata schema will be supported through at least April 2025.
+
+* [Version 1 schema, top-level data structure](https://ror.readme.io/v1/docs/data-structure)
+* [Version 1 schema, all fields and sub-fields](https://ror.readme.io/v1/docs/fields)
+
+Version 2 of the ROR metadata schema is the current recommended version.
+
+* [Version 2 schema, top-level data structure](https://ror.readme.io/v2/docs/data-structure)
+* [Version 2 schema, all fields and sub-fields](https://ror.readme.io/v2/docs/fields)
 
 ***
 
@@ -180,10 +183,9 @@ The [ROR documentation site](https://ror.readme.io) offers guidance for those in
 
 ROR has a REST API that supports retrieving, searching, and filtering organization records in the registry. As of April 2024, ROR currently maintains two versions of its REST API. 
 
-* Version 1 of the ROR API uses version 1 of the ROR metadata schema. It is currently the default version and will be supported at least through April of 2025. 
-	* [Version 1 ROR API guidance](https://ror.readme.io/v1/docs/rest-api)
-* Version 2 of the ROR API uses version 2 of the ROR metadata schema and is the recommended version. 
-	* [Version 2 ROR API guidance](https://ror.readme.io/v2/docs/rest-api)
+Version 1 of the ROR API uses version 1 of the ROR metadata schema. It is currently the default version and will be supported at least through April of 2025. Read [ROR API version 1 guidance](https://ror.readme.io/v1/docs/rest-api).
+
+Version 2 of the ROR API uses version 2 of the ROR metadata schema and is the recommended version. Read [ROR API version 2 guidance](https://ror.readme.io/v2/docs/rest-api). 
 
 ***
 
