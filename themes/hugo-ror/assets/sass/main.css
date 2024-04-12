@@ -17917,6 +17917,10 @@ img {
   background-color: #e89005;
 }
 
+[data-background-color=purple] {
+  background-color: #520c70;
+}
+
 [data-background-color=beige] {
   background-color: #d3bdb0;
 }
