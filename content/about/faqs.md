@@ -66,7 +66,7 @@ ROR defines “research organization” as any organization that is involved in 
 
 ### **Is my organization in scope for ROR?**
 
-ROR is primarily focused on identifying and listing global “high-level” organizations that researchers cite as an affiliation. To meet the definition of a “high-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
+ROR is primarily focused on identifying and listing global “high-level” organizations that researchers cite as an affiliation or funder in published research. To meet the definition of a “high-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
 
 Common types of entities that are in scope for ROR include
 
@@ -89,7 +89,7 @@ Common types of entities that are out of scope for ROR include
 - Journals
 - Projects
 
-See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ***
 
@@ -113,7 +113,14 @@ A ROR ID consists of a [unique 9-character string appended to the ROR domain](ht
 
 ### **What metadata is included in a ROR record?**
 
-ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization's name in multiple languages, acronyms, aliases, location, website, Wikipedia page, and other corresponding external organizational identifiers. See the ROR documentation for the full model of the [ROR data structure](https://ror.readme.io/docs/fields).
+ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization, including variant names such as acronyms and aliases, the organization's name in multiple languages, its location, its website, and any mappings to existing identifiers for the organization from external identification systems. ROR currently maintains two versions of its metadata schema. To learn more about the metadata included in ROR records, please see the documentation linked below. 
+
+* Version 1 of the ROR metadata schema will be supported through at least April 2025.
+	* [Version 1 top-level data structure](https://ror.readme.io/v1/docs/data-structure)
+	* [Version 1 all fields and sub-fields](https://ror.readme.io/v1/docs/fields)
+* Version 2 of the ROR metadata schema is the current recommended version.
+	* [Version 2 top-level data structure](https://ror.readme.io/v2/docs/data-structure)
+	* [Version 2 all fields and sub-fields](https://ror.readme.io/v2/docs/fields)
 
 ***
 
@@ -138,9 +145,9 @@ In July 2021, [GRID announced its plans to sunset its public data and officially
 
 ***
 
-### **What is the relationship between ROR and the Crossref Funder Registry?**
+### **What is the relationship between ROR and the Crossref Open Funder Registry?**
 
-ROR has some overlap with the [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/) because many funding organizations are also included in ROR. ROR IDs map to Funder Registry IDs when one is available. Crossref plans to merge the Funder Registry into ROR at some point in the future, and ROR and Crossref are working closely on this initiative. 
+Many of the funding organizations in the [Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) are also included in ROR, and ROR records include references to corresponding Funder IDs. Therefore, Crossref has [announced its plans to merge the Open Funder Registry with ROR](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/), and Crossref and ROR are working closely together on this initiative. For help on switching from using Funder IDs to using ROR IDs, see our [guide to the Funder Registry transition](https://ror.readme.io/docs/funder-registry).
 
 ***
 
@@ -159,7 +166,7 @@ Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossre
 
 ### **Who is integrating ROR?**
 
-ROR is currently being integrated by more than 50 publishers, repositories, funding platforms, and other services. See a list of known current [integrations](/community/#adopters).
+ROR is currently being integrated by many publishers, repositories, funding platforms, and other services. See a list of known current [integrations](/community/#adopters).
 
 ***
 
