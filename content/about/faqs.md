@@ -66,7 +66,7 @@ ROR defines “research organization” as any organization that is involved in 
 
 ### **Is my organization in scope for ROR?**
 
-ROR is primarily focused on identifying and listing global “high-level” organizations that researchers cite as an affiliation. To meet the definition of a “high-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
+ROR is primarily focused on identifying and listing global “high-level” organizations that researchers cite as an affiliation or funder in published research. To meet the definition of a “high-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
 
 Common types of entities that are in scope for ROR include
 
@@ -89,7 +89,7 @@ Common types of entities that are out of scope for ROR include
 - Journals
 - Projects
 
-See also [our more detailed explanation of ROR's scope and the criteria for inclusion](/registry/#scope) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. See also [our scope and the criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ***
 
@@ -113,7 +113,17 @@ A ROR ID consists of a [unique 9-character string appended to the ROR domain](ht
 
 ### **What metadata is included in a ROR record?**
 
-ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization's name in multiple languages, acronyms, aliases, location, website, Wikipedia page, and other corresponding external organizational identifiers. See the ROR documentation for the full model of the [ROR data structure](https://ror.readme.io/docs/fields).
+ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization, including variant names such as acronyms and aliases, the organization's name in multiple languages, its location, its website, and any mappings to existing identifiers for the organization from external identification systems. As of April 2024, ROR currently maintains two versions of its metadata schema. 
+
+Version 1 of the ROR metadata schema will be supported through at least April 2025.
+
+* [Version 1 schema, top-level data structure](https://ror.readme.io/v1/docs/data-structure)
+* [Version 1 schema, all fields and sub-fields](https://ror.readme.io/v1/docs/fields)
+
+Version 2 of the ROR metadata schema is the current recommended version.
+
+* [Version 2 schema, top-level data structure](https://ror.readme.io/v2/docs/data-structure)
+* [Version 2 schema, all fields and sub-fields](https://ror.readme.io/v2/docs/fields)
 
 ***
 
@@ -138,9 +148,9 @@ In July 2021, [GRID announced its plans to sunset its public data and officially
 
 ***
 
-### **What is the relationship between ROR and the Crossref Funder Registry?**
+### **What is the relationship between ROR and the Crossref Open Funder Registry?**
 
-ROR has some overlap with the [Crossref Funder Registry](https://www.crossref.org/services/funder-registry/) because many funding organizations are also included in ROR. ROR IDs map to Funder Registry IDs when one is available. Crossref plans to merge the Funder Registry into ROR at some point in the future, and ROR and Crossref are working closely on this initiative. 
+Many of the funding organizations in the [Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) are also included in ROR, and ROR records include references to corresponding Funder IDs. Therefore, Crossref has [announced its plans to merge the Open Funder Registry with ROR](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/), and Crossref and ROR are working closely together on this initiative. For help on switching from using Funder IDs to using ROR IDs, see our [guide to the Funder Registry transition](https://ror.readme.io/docs/funder-registry).
 
 ***
 
@@ -159,7 +169,7 @@ Yes, ROR is supported in DOI metadata. Several DOI registrars, including Crossre
 
 ### **Who is integrating ROR?**
 
-ROR is currently being integrated by more than 50 publishers, repositories, funding platforms, and other services. See a list of known current [integrations](/community/#adopters).
+ROR is currently being integrated by many publishers, repositories, funding platforms, and other services. See a list of known current [integrations](/community/#adopters).
 
 ***
 
@@ -171,7 +181,11 @@ The [ROR documentation site](https://ror.readme.io) offers guidance for those in
 
 ### **Does ROR have an API?**
 
-ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/rest-api).
+ROR has a REST API that supports retrieving, searching, and filtering organization records in the registry. As of April 2024, ROR currently maintains two versions of its REST API. 
+
+Version 1 of the ROR API uses version 1 of the ROR metadata schema. It is currently the default version and will be supported at least through April of 2025. Read [ROR API version 1 guidance](https://ror.readme.io/v1/docs/rest-api).
+
+Version 2 of the ROR API uses version 2 of the ROR metadata schema and is the recommended version. Read [ROR API version 2 guidance](https://ror.readme.io/v2/docs/rest-api). 
 
 ***
 
@@ -183,7 +197,7 @@ ROR records can be downloaded via the [public data dump](https://ror.readme.io/d
 
 ### **How should ROR IDs and logos be displayed?**
 
-In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/display). You can also download official versions of ROR logos on that page. 
+In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/display). You can also download official versions of ROR logos via links on that page. 
 
 ***
 
@@ -239,7 +253,7 @@ After a request is submitted via the feedback form, an issue will be created in 
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on ROR's social media accounts.
+ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-tech), and on ROR's social media accounts.
 
 ***
 
