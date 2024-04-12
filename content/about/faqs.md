@@ -113,7 +113,7 @@ A ROR ID consists of a [unique 9-character string appended to the ROR domain](ht
 
 ### **What metadata is included in a ROR record?**
 
-ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization, including variant names such as acronyms and aliases, the organization's name in multiple languages, its location, its website, and any mappings to existing identifiers for the organization from external identification systems. ROR currently maintains two versions of its metadata schema. To learn more about the metadata included in ROR records, please see the documentation linked below. 
+ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization, including variant names such as acronyms and aliases, the organization's name in multiple languages, its location, its website, and any mappings to existing identifiers for the organization from external identification systems. As of April 2024, ROR currently maintains two versions of its metadata schema. 
 
 * Version 1 of the ROR metadata schema will be supported through at least April 2025.
 	* [Version 1 top-level data structure](https://ror.readme.io/v1/docs/data-structure)
@@ -178,7 +178,12 @@ The [ROR documentation site](https://ror.readme.io) offers guidance for those in
 
 ### **Does ROR have an API?**
 
-ROR has a REST API that supports retrieving, searching and filtering organization records in the registry. Consult the ROR documentation site for [ROR REST API guidance](https://ror.readme.io/docs/rest-api).
+ROR has a REST API that supports retrieving, searching, and filtering organization records in the registry. As of April 2024, ROR currently maintains two versions of its REST API. 
+
+* Version 1 of the ROR API uses version 1 of the ROR metadata schema. It is currently the default version and will be supported at least through April of 2025. 
+	* [Version 1 ROR API guidance](https://ror.readme.io/v1/docs/rest-api)
+* Version 2 of the ROR API uses version 2 of the ROR metadata schema and is the recommended version. 
+	* [Version 2 ROR API guidance](https://ror.readme.io/v2/docs/rest-api)
 
 ***
 
@@ -190,7 +195,7 @@ ROR records can be downloaded via the [public data dump](https://ror.readme.io/d
 
 ### **How should ROR IDs and logos be displayed?**
 
-In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/display). You can also download official versions of ROR logos on that page. 
+In general, ROR IDs should operate behind the scenes, helping systems interoperate: there is usually no need for researchers to know the ROR ID of their institution and no need for institutions to display their own ROR ID. If you do choose to display ROR IDs and/or the ROR logo, please read and abide by our [display guidelines](https://ror.readme.io/docs/display). You can also download official versions of ROR logos via links on that page. 
 
 ***
 
@@ -246,7 +251,7 @@ After a request is submitted via the feedback form, an issue will be created in 
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-api-users), and on ROR's social media accounts.
+ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-tech), and on ROR's social media accounts.
 
 ***
 
