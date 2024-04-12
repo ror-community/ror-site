@@ -67,3 +67,7 @@ You can center any block of content, including just a single button, using the `
 And some text beneath it.
 
 {{% /centered %}}
+
+## Home page announcements
+
+To add an announcement banner to the home page, edit the announcement_text and announcement_link in /data/announcement/announcement.yaml and make sure the announcement parameter in the site's config file is enabled. The live site's config file is live.toml: set params.announcement to enable=true to make the purple announcement banner appear with the text and link from announcement.yaml. 
