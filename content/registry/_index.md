@@ -82,9 +82,7 @@ The ROR registry is freely and openly available. There are **no fees or access r
 - Read the [ROR web search documentation](https://ror.readme.io/docs/web-search)
 
 #### REST API
-- Access version 1 of the ROR REST API at [https://api.ror.org/v1/organizations](https://api.ror.org/v1/organizations)
 - Read the [ROR REST API v1 documentation](https://ror.readme.io/v1/docs/rest-api)
-- Access version 2 of the ROR REST API at [https://api.ror.org/v2/organizations](https://api.ror.org/v2/organizations)
 - Read the [ROR REST API v2 documentation](https://ror.readme.io/v2/docs/rest-api)
 - Join the [ROR Tech Forum](https://groups.google.com/a/ror.org/g/ror-tech) to receive important announcements about the ROR API
 
