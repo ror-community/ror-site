@@ -27,7 +27,7 @@ Here's a synopsis of what's new and improved.
 
 * We've added a field for **administrative information** that includes the date a record was created and the date it was last modified. This crucial change enables users to retrieve only the most recently added and updated records from the ROR registry, which has been a much-requested feature. 
 
-* We've simplified **name information** and have made changes to ensure that organization names in ROR work for a global, multilingual community of users. By adding language codes to all name variants and treating names in different languages as equivalent, we've made ROR metadata less Anglocentric and more useful for countries with multiple official languages. 
+* We've simplified **name information** and have made changes to ensure that organization names in ROR work for a global, multilingual community of users. By adding a place to store language codes for all name variants and treating names in different languages as equivalent, we've made ROR metadata less Anglocentric and more useful for countries with multiple official languages. 
 
 * We've removed redundant and overly granular **location information**, keeping only the most useful and globally relevant fields: country name, country code, latitude, longitude, specific location (city), and [GeoNames](https://geonames.org) ID. These changes make location information much easier to read, understand, and work with.
 
