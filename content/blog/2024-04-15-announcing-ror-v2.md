@@ -1,5 +1,5 @@
 +++
-title = "Announcing version 2 of the ROR schema and API!"
+title = "Announcing Version 2 of the ROR Schema and API!"
 date = "2024-04-12"
 draft = false
 tags = ["Updates", "API", "Development", "Implementation"]
