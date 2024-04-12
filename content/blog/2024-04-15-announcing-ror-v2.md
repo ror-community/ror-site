@@ -35,7 +35,7 @@ Here's a synopsis of what's new and improved.
 
 * We've restructured **external identifier information** and made it more flexible in order to make it easier to manage current and potential future mappings to other organization identifiers.
 
-* We've added an additional **organization type**, "funder," which can be combined with existing organization types in ROR such as "nonprofit" and "government." With [ROR set to become the standard identifier for funders](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/), this change will make it easier for ROR users to recognize and select funding organizations. 
+* We're adding an additional **organization type**, "funder," which can be combined with existing organization types in ROR such as "nonprofit" and "government." With [ROR set to become the standard identifier for funders](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/), this change will make it easier for ROR users to recognize and select funding organizations. 
 
 * The **ROR API** now exists in two parallel versions, and we've made sure not to break any code that current ROR API users have written. Version 1 of the ROR API is now available at [https://api.ror.org/v1/organizations](https://api.ror.org/v1/organizations) and version 2 of the ROR API is now available at [https://api.ror.org/v2/organizations](https://api.ror.org/v2/organizations), but version 1 is still available at the original location without the version in the path: [https://api.ror.org/organizations](https://api.ror.org/organizations). Version 1 of the ROR API will remain the default for at least another year, through April 2025 and perhaps beyond.
 
