@@ -55,7 +55,7 @@ Not all new fields and subfields in version 2 of ROR have values yet, but we exp
 
 **Domains** have not yet been added. 
 
-The **funder** value has not yet been added to organization records for funders. 
+The **funder** organization type has not yet been added to funder records. 
 
 {{% /callout %}}
 
