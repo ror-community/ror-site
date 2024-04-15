@@ -41,9 +41,9 @@ You can also set any icon from the [Font Awesome v4 library](https://fontawesome
 {{% callout color="dark-grey" icon="fa-envelope" %}} This is a dark grey callout box, with an envelope icon. We are not - we are [not keeping up with other websites](#). {{% /callout %}}
 
 {{% callout color="mustard" %}} ## This is an orange callout box with a heading and no icon.
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does [everybody know](#) that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud. {{% /callout %}}
+Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does [everybody know](#) that dork named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that your placeholder text is a fraud. {{% /callout %}}
 
-{{% callout color="black" icon="fa-question-circle" %}} This is a black callout box, with a question-circle icon. Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An [‘extremely credible source’](#) has called my office and told me that Barack Obama’s placeholder text is a fraud. {{% /callout %}}
+{{% callout color="black" icon="fa-question-circle" %}} This is a black callout box, with a question-circle icon. Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that dork named Lorem Ipsum? An [‘extremely credible source’](#) has called my office and told me that your placeholder text is a fraud. {{% /callout %}}
 
 ## Buttons
 
@@ -67,3 +67,7 @@ You can center any block of content, including just a single button, using the `
 And some text beneath it.
 
 {{% /centered %}}
+
+## Home page announcements
+
+To add an announcement banner to the home page, edit the announcement_text and announcement_link in /data/announcement/announcement.yaml and make sure the announcement parameter in the site's config file is enabled. The live site's config file is live.toml: set params.announcement to enable=true to make the purple announcement banner appear with the text and link from announcement.yaml. 
