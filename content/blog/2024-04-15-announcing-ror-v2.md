@@ -1,6 +1,6 @@
 +++
 title = "Announcing Version 2 of the ROR Schema and API!"
-date = "2024-04-12"
+date = "2024-04-15"
 draft = false
 tags = ["Updates", "API", "Development", "Implementation"]
 categories = ["updates"]
@@ -43,7 +43,7 @@ Here's a synopsis of what's new and improved.
 
 * The **ROR data dump** now includes JSON and CSV files formatted according to both schema v1 and schema v2. This means that there will now be 4 files in each data release instead of 2, and users can choose to use the format and schema that best suits their needs. Take a look for yourself by downloading the most recent ROR data dump from Zenodo at [https://zenodo.org/doi/10.5281/zenodo.6347574](https://zenodo.org/doi/10.5281/zenodo.6347574). 
 
-* The **ROR web search** at [https://ror.org/search](https://ror.org/search) now uses version 2 of the ROR API, and we've taken the opportunity to make a few improvements. Organization names are now identified by type and language so that it's clearer to see what's an alias, what's an acronym, and what's in Arabic. Additionally, each individual landing page for a ROR record now includes a link to the JSON view of the record, which enables users to see the underlying data behind the interface. 
+* The **ROR web search** at [https://ror.org/search](https://ror.org/search) now uses version 2 of the ROR API, and we've taken the opportunity to make a few improvements. Organization names are now identified by type and language so that it's more apparent what's an alias, what's an acronym, and what's in an alternate script. Additionally, each individual landing page for a ROR record now includes a link to the JSON view of the record, which enables users to see the underlying data behind the interface. 
 
 {{% callout color="mustard" icon="no-icon" %}}
 
