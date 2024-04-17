@@ -6698,6 +6698,7 @@ img {
     margin-left: 0;
     margin-bottom: 30px;
 }
+
 }@media screen and (max-width:580px) {
     .alert button.close {
     position: absolute;
@@ -6705,6 +6706,11 @@ img {
     top: 50%;
     transform: translateY(-50%);
 }
+
+.pagination .number, .pagination .newest, .pagination .oldest {
+	display:none;
+}
+
 }@media screen and (max-width:576px) {
     .blog-post .button-container>.btn:first-child, .media, .projects-1 .nav-pills {
     display: block;
@@ -6831,6 +6837,7 @@ img {
 #social-buttons>.row .col-md-1:nth-child(2) p, #social-buttons>.row .col-md-1:nth-child(3) p, #social-buttons>.row .col-md-3 p {
     display: none;
 }
+
 }@media screen and (max-width:517px) {
     .alert .alert-icon {
     margin-top: 10px;

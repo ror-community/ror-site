@@ -1,0 +1,48 @@
+<!--              <ul class="pagination justify-content-center"> 
+                                    
+                {{ if .Paginator.HasPrev }}
+                <li class="page-item"><a class="page-link" href="{{ .Paginator.Prev.URL }}">&larr; Newer</a></li>
+                {{ else }}
+                <li class="page-item disabled"><a class="page-link" href="#">&larr; Newer</a></li>
+                {{ end }}
+                
+                {{ if .Paginator.HasNext }}
+                <li class="page-item"><a class="page-link" href="{{ .Paginator.Next.URL }}">Older &rarr;</a></li>
+                {{ else }}
+                <li class="page-item disabled"><a class="page-link" href="#">Older &rarr;</a></li>
+                {{ end }}
+                
+              </ul>
+              
+-->
+
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<ul class="pagination justify-content-center">
+    {{ with $pag.First }}
+    <li {{ if not $pag.HasPrev }}class="page-item disabled newest" {{else}} class="page-item newest" {{ end }}>
+        <a class="page-link" href="{{ .URL }}" aria-label="Newest">&larr; Newest</a>
+    </li>
+    {{ end }}
+    <li {{ if not $pag.HasPrev }}class="page-item disabled newer" {{else}} class="page-item newer" {{ end }}>
+        <a class="page-link" href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Newer"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
+    </li>
+
+    {{ range $index, $element := $pag.Pagers }}
+    {{ $less := lt (sub $pag.PageNumber $index) 4 }}
+    {{ $more := gt (sub $pag.PageNumber $index) -9 }}
+        {{ if and $less $more }}
+        <li {{ if eq $element $pag }}class="page-item number active" {{else}} class="page-item number"{{ end }}><a class="page-link" href="{{ $element.URL }}">{{ $element.PageNumber }}</a></li>
+        {{ end }}
+    {{ end }}
+    <li {{ if not $pag.HasNext }}class="page-item disabled older" {{else}} class="page-item older" {{ end }}>
+        <a class="page-link" href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Older"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
+    </li>
+    {{ with $pag.Last }}
+    <li {{ if not $pag.HasNext }}class="page-item disabled oldest" {{else}} class="page-item oldest" {{ end }}>
+        <a class="page-link" href="{{ .URL }}" aria-label="Oldest">Oldest &rarr;</a>
+    </li>
+    {{ end }}
+</ul>
+
+{{ end }}
