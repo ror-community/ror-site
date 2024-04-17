@@ -1722,6 +1722,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
     font-size: 1rem;
     text-transform: uppercase;
     background: 0 0;
+    display:block;
 }
 .pagination .page-item .page-link:focus, .pagination .page-item .page-link:hover {
     color: #2c2c2c;
@@ -6707,7 +6708,7 @@ img {
     transform: translateY(-50%);
 }
 
-.pagination .number, .pagination .newest, .pagination .oldest {
+.pagination .number {
 	display:none;
 }
 
