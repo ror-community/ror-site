@@ -63,3 +63,7 @@ summaryLength = 20
 [params.social]
 	twitter = 'ResearchOrgs' 
 	
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'	
+	

@@ -61,5 +61,9 @@ summaryLength = 20
     title = "Twitter Feed"
     
 [params.social]
-	twitter = 'ResearchOrgs'    
+	twitter = 'ResearchOrgs'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'	
     
