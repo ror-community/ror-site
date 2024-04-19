@@ -3,7 +3,7 @@ title = "Jobs"
 draft = false
 date = "2024-04-19"
 banner = "/img/banners/ROR_Banner-orange.jpg"
-aliases = ["/careers"]
+aliases = ["about/jobs", "/careers", "/opportunities",]
 url = "/jobs"
 +++
 
