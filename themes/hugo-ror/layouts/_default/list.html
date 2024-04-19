@@ -17,7 +17,7 @@
         <div class="section container">
           <div class="row">
             <div class="col-md-12" id="blog-listing-medium">
-           
+                       
               {{ $paginator := .Paginate (where .Data.Pages "Type" "in" .Site.Params.mainSections) }}
               {{ range $paginator.Pages }}
               <section class="post">
