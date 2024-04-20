@@ -3,8 +3,7 @@ title = "Privacy Policy"
 draft = false
 date = "2020-04-07"
 banner = "/img/banners/ROR_Banner-grey.jpg"
-aliases = ["/privacy-policy"]
-url = "/privacy"
+aliases = ["/privacy-policy", "/privacy"]
 +++
 
 ROR respects the privacy of our users and we comply with applicable laws to safeguard users' information. We follow a few basic principles related to privacy:
