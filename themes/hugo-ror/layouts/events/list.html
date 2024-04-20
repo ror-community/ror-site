@@ -17,8 +17,9 @@
         <div class="section container">
           <div class="row">
             <div class="col-md-12" id="event-listing-medium">
-            
+          
             {{ .Content }}
+
             {{ range .Pages }}
             <ul>
             <li><a href="{{.RelPermalink}}">{{.Title}}</a></li>
