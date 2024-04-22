@@ -6,7 +6,7 @@ banner = "/img/banners/ROR_Banner-orange.jpg"
 aliases = ["/faqs", "/faq"]
 +++
 
-{{% toc %}}
+
 
 ## General questions
 

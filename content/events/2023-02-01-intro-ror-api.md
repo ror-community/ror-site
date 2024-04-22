@@ -9,7 +9,7 @@ aliases = [
 "/tutorials"]
 +++
 
-{{% toc %}}
+
 
 ## What this lesson covers
 
@@ -19,7 +19,7 @@ aliases = [
 
 {{% callout color="mustard" icon="no-icon" %}}
 
-### Heads up! Changes are coming in late 2023. 
+## Heads up! Changes are coming in late 2023. 
 Please note that this tutorial applies only to the current version of the ROR API and data structure. In late 2023, we are [planning to release version 2 of both the ROR API and the ROR JSON metadata schema](https://ror.org/blog/2022-12-14-schema-scheming/). Comments are open through **February 5, 2023** on our [proposed changes to the ROR schema](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit?usp=sharing) -- we'd be grateful for your feedback! 
 
 {{% /callout %}}
@@ -75,7 +75,7 @@ See https://ror.readme.io/docs/rest-api for full documentation of the ROR API.
 - We strongly encourage ROR API users to sign up for the **[ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech)** in order to receive infrequent (two or three times a month) updates by email about changes to the ROR registry and API. 
 
 {{% callout color="orange" icon="no-icon" %}}
-### Consider whether you need to use the live ROR API
+## Consider whether you need to use the live ROR API
 The ROR API received about 14 million requests per month in 2022, up from about 6 million per month in 2021 and 3 million per month in 2020. While ROR has maintained 100% uptime throughout this period of growth, please be mindful that many others use this service and there is no service-level agreement (SLA). If your use case requires a large number of daily queries, guaranteed uptime, or a very fast response rate, we recommend that you run the ROR API locally or use the ROR data dump.
 {{% /callout  %}}
 
@@ -83,7 +83,7 @@ The ROR API received about 14 million requests per month in 2022, up from about 
 
 ## ROR IDs and the ROR data structure
 
-### The ROR ID
+## The ROR ID
 The basic unit of the ROR registry is the ROR ID, which is in the form `https://ror.org/0262te083`. The ROR ID is the unique identifier for a ROR record containing basic information about a research organization. See https://ror.readme.io/docs/identifier for more information about how ROR IDs are constructed. 
 
 {{% centered %}}
@@ -103,14 +103,14 @@ The ROR API can be used to [retrieve a single ROR ID](https://ror.readme.io/docs
 
 {{% callout color="green" icon="no-icon" %}}
 
-### Exercises: Explore the ROR registry using the ROR search interface and the ROR API in a web browser. 
+## Exercises: Explore the ROR registry using the ROR search interface and the ROR API in a web browser. 
 
 - Go to the ROR registry search interface at https://ror.org/search and look up a few organizations using the ROR search interface. 
 - Then look up the ROR IDs of a few organizations using the ROR API in your browser by entering `https://api.ror.org/organizations/[some ROR ID]` in the URL bar, e.g., https://api.ror.org/organizations/https://ror.org/0262te083
 
 {{% /callout %}}
 
-### ROR data structure
+## ROR data structure
 
 There are currently **[16 top-level elements](https://ror.readme.io/docs/data-structure)** in a ROR record. The 15 metadata elements apart from the `id` element, which contains the ROR ID itself, fall into a few basic categories: 
 
@@ -144,7 +144,7 @@ There are three options for searching the ROR API, which are accessed using thre
 
 The code for the ROR REST API is also openly available at https://github.com/ror-community/ror-api.  
 
-### General API usage tips
+## General API usage tips
 - All search strings, especially those that contain Latin extended or non-Latin characters, must be **[URL-encoded](https://www.w3schools.com/tags/ref_urlencode.asp)**. One useful tool to do this is https://urlencoder.org. 
 - **Special characters** that are [reserved in Elasticsearch](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-query-string-query.html#_reserved_characters) must be escaped with a URL-encoded backslash character (`%5C`). Note that some reserved characters, like ( ), must occur in pairs, otherwise an error will be returned. 
 - Search strings with **spaces** and/or multi-word search strings may need to be surrounded by URL-encoded quotation marks (`%22`), since Elasticsearch treats strings separated by a space as separate parts of a query instead of a single query. 
@@ -166,7 +166,7 @@ The `?query` parameter of the ROR API is the recommended parameter for building 
 Note that the ROR [search interface](https://ror.org/search) uses the `?query` parameter of the ROR API, as does the [organization search at DataCite Commons](https://commons.datacite.org/ror.org?query=*). These search tools, therefore, will return zero results for searches on values that are not stored in these fields, such as an organization's website: https://api.ror.org/organizations?query=www.oberlin.edu 
 
 {{% callout color="grey" icon="no-icon" %}}
-### Demonstrations: Simple queries for organization names and identifiers
+## Demonstrations: Simple queries for organization names and identifiers
 
 - A single term in an organization's name: ```https://api.ror.org/organizations?query=Mickiewicz```
 - An organization name with escaped special characters (M&I/Partners): ```https://api.ror.org/organizations?query=M%5C%26I%5C%2FPartners```
@@ -183,7 +183,7 @@ Note that it is advisable to surround query searches for GRID IDs with quotation
 {{% /callout %}}
 
 {{% callout color="green" icon="no-icon" %}}
-### Exercises: Searching for organization names and identifiers
+## Exercises: Searching for organization names and identifiers
 
 - Use the ROR API to search for a single term in an organization's name. 
 - Use the ROR API to search for an organization name that contains spaces. Try it both with and without enclosing URL-encoded quotation marks. 
@@ -211,7 +211,7 @@ The syntax of a filter is `filter=[filter]:[value]`, and filters can be combined
 Remember too that **searches by default show only records whose status is active**. You can use individual filters to show inactive organizations or withdrawn records, but you can also add the parameter `?all_status` to any query to include records of any status. If a query includes both `filter=status:[value]` and `all_status parameters`, the `filter=status:[value]` will take precedent. 
 
 {{% callout color="grey" icon="no-icon" %}}
-### Demonstrations: Filtering results by status, type, and country
+## Demonstrations: Filtering results by status, type, and country
 
 - Filter the whole ROR registry to show only records whose status is "withdrawn": ```https://api.ror.org/organizations?filter=status:Withdrawn```
 - Filter the whole ROR registry to show only organizations in Qatar: ```https://api.ror.org/organizations?filter=country.country_name:Qatar```
@@ -228,7 +228,7 @@ Remember too that **searches by default show only records whose status is active
 
 
 {{% callout color="green" icon="no-icon" %}}
-### Exercises: Filtering search results
+## Exercises: Filtering search results
 
 - Filter a ROR API query by status. 
 - Filter a ROR API query by organization type. 
@@ -244,7 +244,7 @@ Remember too that **searches by default show only records whose status is active
 
 {{% callout color="grey" icon="no-icon" %}}
 
-### Demonstration: The ROR API query used in a Python script
+## Demonstration: The ROR API query used in a Python script
 
 The script at https://github.com/ror-community/ror-utilities/blob/main/general-scripts/match-other-ids-to-ror.py takes a CSV file of organizational identifiers, queries the ROR API, and returns a CSV file of matched ROR IDs. Note for instance line 25, which surrounds the input identifier with quotation marks: 
 

@@ -8,7 +8,7 @@ aliases = [
 ]
 +++
 
-{{% toc %}}
+
 
 ## Submitting registry updates
 

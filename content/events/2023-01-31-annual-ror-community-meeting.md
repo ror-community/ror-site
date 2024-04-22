@@ -20,7 +20,7 @@ Meeting sessions will take place January 31 and February 1, 2023. You may choose
 
 Note that you must register separately on Zoom for each session you would like to attend. Please only register if you actually plan to join, so that we can estimate approximately how many people to expect.
 
-### Session descriptions
+## Session descriptions
 
 
 #### **Session 1: ROR Community Update**

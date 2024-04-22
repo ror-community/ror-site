@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-{{% toc %}}
+
 
 ## What is ROR?
 

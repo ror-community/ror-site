@@ -11,7 +11,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 +++
 
 <!-- 
-### 
+## 
 - Date: 
 - Time: [ UTC]()
 - Duration: 1 hour
@@ -26,7 +26,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 -->
 
 
-{{% toc %}}
+
 
 ## Upcoming events
 
@@ -179,7 +179,7 @@ Four years and four sessions at the [ROR Annual Community Meeting 2023](2023-01-
 
 ---
 
-### More past events
+## More past events
 Browse the list below to see more events ROR has participated in, with links to slides and recordings where available.
 
 <iframe class="airtable-embed" src="https://airtable.com/embed/shraBgs4xLlsBCboZ?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
