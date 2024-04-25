@@ -92,6 +92,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### FSCI Virtual Course - An Introduction to Querying the APIs of Open Metadata Services
+- Date: Tuesday July 23 - Thursday July 26
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-07-23)
+- Duration: 1 hour each for 3 sessions
+- Location: Online
+- Description: This FORCE11 Scholarly Communications Institute (FSCI) virtual course, co-taught by Technical Community Managers from Crossref, DataCite, and ROR, will introduce participants to the basics of querying the APIs of open metadata services. The course will be suitable for beginners who are not familiar with API queries and want to learn more about "how the sausage is made" in browser-based tools such as OpenAlex, CHORUS, The Lens, Dimensions, and Web of Science. Read more [on the FSCI course list](https://force11.org/fsci/post/course-list-with-abstracts-2024/#V06). 
+
+{{% button color="green" link="https://force11.org/fsci/post/registration-housing-2024/" %}} Register for FSCI Virtual Course V06 {{% /button %}}
+
+---
+
 
 ### ROR Community Call September 2024
 - Date: Wednesday, September 25, 2024
