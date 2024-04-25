@@ -71,6 +71,15 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### PIDFest 2024
+- Date: June 11-13, 2024
+- Location: Prague, CZ
+- Description: ROR will be attending PIDFest, and we hope you will be, too! Come hear our panel "Curation Conundrums and Community: Setting Metadata Policies at ROR," in which we'll explain our novel community-based curation model, discuss the tricky issues and decisions that ROR has encountered over the years, and share plans for future directions, inviting input and participation from the audience.
+
+{{% button color="green" link="https://www.pidfest.org/register" %}} Register for PIDFest {{% /button %}}
+
+---
+
 ### ROR Community Call July 2024
 - Date: Tuesday, July 16, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-16&tz2=UTC)
