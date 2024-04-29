@@ -41,7 +41,7 @@ summaryLength = 20
     enable = true
 
 [params.announcement]
-    enable = true    
+    enable = false
 
 [params.homepage_features]
     enable = true
