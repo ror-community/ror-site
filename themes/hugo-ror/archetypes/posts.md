@@ -1,6 +1,6 @@
 +++ 
-title = "" 
-date = "" 
+title = "{{replace .TranslationBaseName "-" " "}}" 
+date = "{{.Date}}"
 draft = false 
 tags = ["", ""] 
 categories = [""] 
@@ -11,3 +11,4 @@ images = ['/img/blog/']
 author = "" 
 description = ""
 +++ 
+
