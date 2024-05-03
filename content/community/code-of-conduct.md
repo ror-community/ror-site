@@ -6,7 +6,7 @@ draft = false
 banner = "/img/banners/ROR_Banner-pink.jpg" 
 style = "card-plain"
 description = "At ROR, we want all community interactions to be welcoming, collegial, safe, and productive for everyone involved. To that end, this Code of Conduct frames our expectations for interactions in all ROR-managed spaces."
-aliases = ["/community/coc", "/coc"]
+aliases = ["/community/coc", "/coc", "/code-of-conduct"]
 +++ 
 
 {{% toc %}}
