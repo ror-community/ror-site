@@ -1,0 +1,4 @@
+baseURL = 'https://ror.org/'
+languageCode = 'en-us'
+title = 'Research Organization Registry (ROR)'
+theme = 'hugo-ror'
