@@ -4,7 +4,7 @@ draft = false
 date = "2019-06-20"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 style = "card-plain"
-url = "/resources"
+aliases = ["/resources"]
 +++
 
 <div class="alert alert-dark" role="alert">

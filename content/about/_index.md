@@ -55,7 +55,7 @@ ROR's three governing organizations [share collective responsibility](/blog/2022
 
 ROR continues to receive additional investments from [community supporters](/community#supporters). These funds offset operating costs and support time-limited projects.
 
-In line with ROR's commitment to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org) (POSI), ROR will not only use time-limited funds for time-limited projects, and any potential revenue-generation models developed in the future would be based on services, not data.
+In line with ROR's commitment to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org) (POSI), ROR will only use time-limited funds for time-limited projects, and any potential revenue-generation models developed in the future would be based on services, not data.
 
 ## Team
 
