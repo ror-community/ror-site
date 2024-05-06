@@ -44,9 +44,12 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### CHORUS Forum: Navigating the Future of Persistent Identifiers (PIDs) in Scholarly Publishing: Challenges, Risks, and Opportunities
 - Date: Wednesday, May 22, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-05-22&tz2=UTC)
-- Duration: 1 hour
+- Duration: 90 minutes
 - Location: Online
-- Description: CHORUS is organizing a forum event on the future of PIDs in scholarly publishing. Further details available soon at [https://www.chorusaccess.org/events/](https://www.chorusaccess.org/events/).
+- Recorded: Yes
+- Description: This forum will aim to provide an overview of PIDs in the scholarly publishing workflow then focus on: US National PID Strategy; implications of transitioning the Crossref Open Funder Registry to ROR;  how Read and Publish deals are critically supported by ROR and other PIDs; implications of “metadata inflation” when third parties add PIDs and other metadata post-publication; and the unique challenges faced in the effective implementation of PIDs.
+
+{{% button color="green" link="https://www.chorusaccess.org/events/chorus-forum-navigating-the-future-of-persistent-identifiers-pids-in-scholarly-publishing-challenges-risks-and-opportunities" %}} Register for the CHORUS Forum {{% /button %}}
 
 ---
 
