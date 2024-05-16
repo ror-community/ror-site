@@ -6,8 +6,8 @@ tags = ["funders", "curation", "data", "machine-learning", "matching" ]
 categories = ["Explainers"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
-thumb = "/img/blog/Last2-rubiks-cube.png"
-images = ['/img/blog/Last2-rubiks-cube.png']
+thumb = "/img/blog/matching101/yellow-matching-thumb.png"
+images = ['/img/blog/matching101/yellow-matching-thumb.png']
 author = "Dominika Tkaczyk and Adam Buttrick"
 description = "In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it,  and why we devote so much effort to this problem."
 +++
@@ -47,7 +47,7 @@ Developing automated matching strategies is not a trivial task, and if we want t
 
 In short, metadata matching gives us a more complete picture of [the research nexus](https://crossref.org/documentation/research-nexus/) by discovering missing relationships between various entities within and throughout the scholarly record:
 
-{{< figure src="/img/blog/matching-101-relationships.png" alt="Example relationships in the scholarly record" class="blog-figure" >}}
+{{< figure src="/img/blog/matching101/matching-101-relationships.png" alt="Example relationships in the scholarly record" class="blog-figure" >}}
 
 <br />
 
