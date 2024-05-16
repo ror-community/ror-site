@@ -9,10 +9,10 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/matching101/yellow-matching-thumb.png"
 images = ['/img/blog/matching101/yellow-matching-thumb.png']
 author = "Dominika Tkaczyk and Adam Buttrick"
-description = "In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it,  and why we devote so much effort to this problem."
+description = "In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it, and why we devote so much effort to this problem."
 +++
 
-ROR Curation Lead Adam Buttrick has been working with Crossref Head of Strategic Initiatives Dominika Tzaczyk to explore improvements in automatic metadata matching strategies that can result in better metadata for everyone. Read more about this important work here. 
+ROR Curation Lead Adam Buttrick has been working with Crossref Head of Strategic Initiatives Dominika Tkaczyk to explore improvements in automatic metadata matching strategies that can result in better metadata for everyone. Read more about this important work here. 
 
 {{% callout color="green" icon="no-icon" %}}
 
