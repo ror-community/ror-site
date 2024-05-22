@@ -9,18 +9,10 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg"
 images = ['/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg']
 author = "ROR Leadership Team"
-description = ""
+description = "ROR Curation Lead Adam Buttrick is moving from Crossref to CDL, which means there's a new position to fill at Crossref. Read more about the Metadata Manager position and consider applying yourself!"
 +++
 
-
-{{% callout color="green" icon="no-icon" %}}
-
-
-
-{{% /callout %}}
-
-
-ROR is fortunate to have a small but mighty team that strives every day to make ROR as good as it can be and to support the diverse needs of our global community. 
+ROR is fortunate to have a small but mighty [team](/about/#core-team) that strives every day to make ROR as good as it can be and to support the diverse needs of our global community. 
 
 Ever since ROR was established, we’ve continually adjusted our resourcing and staffing to keep up with ROR’s needs and to align ROR activities with the needs and priorities of ROR’s operating organizations. The ROR team has therefore changed and grown over the years since the registry’s initial launch, evolving from an _ad hoc_ project team to a more formal structure with dedicated staff members. This was made possible initially through startup funds from ROR’s operating organizations, contributions from community supporters, and multi-year grants. 
 
@@ -32,14 +24,13 @@ In January of this year, long-time ROR Director [Maria Gould left her position a
 
 As of this month, long-time Metadata Curation Lead Adam Buttrick has left his position at Crossref to fill the vacancy at CDL left by Maria. The CDL position is a senior-level Product Manager role focused on leading a portfolio of persistent identifier services, of which ROR is a key element. Like Maria's time previously, Adam’s time will be split across ROR and other PID services and activities. With ROR’s metadata being a core product offering for CDL, Adam will continue to support metadata curation activities while also driving further product development work on ROR’s overall services and infrastructure. 
 
-**Adam’s departure from Crossref means that there is a new vacancy to fill!** ROR’s curation activities continue apace, receiving approximately 700 requests every month to add or update registry records and publishing new registry releases approximately every 2-4 weeks. Curation activities are also heavily focused on the incorporation of the Funder Registry into ROR, with ongoing reconciliation work to support all those who have switched - or are planning to switch - to using ROR for funding organization identification. As the scope of curation activities and product development has grown with wider adoption of ROR, we need to ensure we have adequate resourcing and staffing to keep up with these developments. **We are now hiring a new ROR team member - Metadata Manager** - at Crossref to coordinate metadata curation as well as support related metadata initiatives at Crossref. Read the position announcement and please consider applying yourself or spreading the word to your networks!
+**Adam’s departure from Crossref means that there is a new vacancy to fill!** ROR’s curation activities continue apace, receiving approximately 700 requests every month to add or update registry records and publishing new registry releases approximately every 2-4 weeks. Curation activities are also heavily focused on the incorporation of the Funder Registry into ROR, with ongoing reconciliation work to support all those who have switched - or are planning to switch - to using ROR for funding organization identification. As the scope of curation activities and product development has grown with wider adoption of ROR, we need to ensure we have adequate resourcing and staffing to keep up with these developments. **We are now hiring a new ROR team member - Metadata Manager** - at Crossref to coordinate ROR metadata curation as well as support related metadata initiatives at Crossref. [Read the position announcement](https://www.crossref.org/jobs/2024-05-21-metadata-manager/) and please consider applying yourself or spreading the word to your networks!
 
 All of these developments reflect how ROR continues to stabilize and mature, and they underscore the importance of continuing to grow the team to support ongoing needs as ROR evolves. At the same time, we fully intend to keep our operations small and nimble in order to stay focused on key objectives and remain flexible enough to adapt to future changes. 
 
-
 {{% callout color="grey" icon="fa-envelope" %}}
 
-Questions? Contact info@ror.org.
+Questions? Contact info@ror.org. See also ROR's [jobs page](/jobs).
 
 {{% /callout %}}
 
