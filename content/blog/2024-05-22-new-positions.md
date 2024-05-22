@@ -34,3 +34,4 @@ Questions? Contact info@ror.org. See also ROR's [jobs page](/jobs).
 
 {{% /callout %}}
 
+Photo by [Jansen Yang](https://unsplash.com/@sens_design) on [Unsplash](https://unsplash.com/photos/concrete-man-beside-lion-statue-QtVRBR2Qrf)
