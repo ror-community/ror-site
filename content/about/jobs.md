@@ -30,7 +30,7 @@ See previous [job postings](/tags/jobs/) at ROR.
 
 {{% callout icon="fa-envelope" %}}
 
-Contact <jobs@ror.org> with questions about current positions.
+Contact <info@ror.org> with questions about current positions.
 
 {{% /callout %}}
  
