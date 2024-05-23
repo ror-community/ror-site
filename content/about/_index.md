@@ -72,9 +72,9 @@ The ROR operations team is responsible for strategic decision-making about regis
 
 ROR's core team is responsible for all activities related to day-to-day operations and development. 
 
-#### Adam Buttrick, Metadata Curation Lead
+#### Adam Buttrick, Product Manager
 
-Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). As metadata curation lead, Adam coordinates ongoing updates and improvements to the registry and works closely with ROR's community curation advisory board. A librarian and developer based in Los Angeles, USA, Adam previously worked as a data developer for the Getty Conservation Institute, as an implementation manager for OCLC's Metadata Services, and for the University of Michigan's Art, Architecture, and Engineering Library.
+Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team) as Metadata Curation Lead, in which capacity he built curation processes for ROR, coordinated ongoing updates and improvements to the registry, and worked closely with ROR's community curation advisory board. Adam now manages product improvements for ROR registry data. A librarian and developer based in Los Angeles, USA, Adam previously worked as a data developer for the Getty Conservation Institute, as an implementation manager for OCLC's Metadata Services, and for the University of Michigan's Art, Architecture, and Engineering Library.
 
 #### Amanda French, Technical Community Manager
 
