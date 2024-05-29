@@ -24,6 +24,6 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQySFVOSqvV771nvihif25UePSeMCtJGic2Imp337tqB1rQ5UMJdrm5sPVhheDBYNbWextCpYUQWU1C/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Recording - forthcoming
+### Recording
 
-<!-- {{< youtube id="" title="ROR Community Call May 2024" >}} -->
+{{< youtube id="C9bCe8VOxAk" title="ROR Community Call May 2024" >}}
