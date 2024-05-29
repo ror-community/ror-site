@@ -32,45 +32,21 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### PKP Sprint and Pre-Conference Library Publishing Forum 2024
-- Date: May 13-16, 2024
-- Location: Minneapolis, MN
-- Description: ROR will be participating in the Library Publishing Forum sprint and pre-conference. At the sprint on May 13th, we'll be participating in PKP's full-day software sprint, where small, self-organized teams work together in an unconference-style event to solve common software issues or to make enhancements that benefit everyone. You don’t need to have coding or programming expertise to participate. At the pre-conference on May 14th, ROR will be participating in a panel on "Interdependence, Collaboration, Interoperability: PKP’s Role in the Open Ecosystem" where we'll discuss ROR and PKP collaboration. 
-
-{{% button color="green" link="https://pkp.sfu.ca/2024/02/28/registration-pkp-minnesota-sprint-lpc-pre-conference/" %}} Register for the PKP Sprint and Pre-Conference {{% /button %}}
-
----
-
-### CHORUS Forum: Navigating the Future of Persistent Identifiers (PIDs) in Scholarly Publishing: Challenges, Risks, and Opportunities
-- Date: Wednesday, May 22, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-05-22&tz2=UTC)
-- Duration: 90 minutes
-- Location: Online
-- Recorded: Yes
-- Description: This forum will aim to provide an overview of PIDs in the scholarly publishing workflow then focus on: US National PID Strategy; implications of transitioning the Crossref Open Funder Registry to ROR;  how Read and Publish deals are critically supported by ROR and other PIDs; implications of “metadata inflation” when third parties add PIDs and other metadata post-publication; and the unique challenges faced in the effective implementation of PIDs.
-
-{{% button color="green" link="https://www.chorusaccess.org/events/chorus-forum-navigating-the-future-of-persistent-identifiers-pids-in-scholarly-publishing-challenges-risks-and-opportunities" %}} Register for the CHORUS Forum {{% /button %}}
-
----
-
-### ROR Community Call May 2024
-- Date: Thursday, May 23, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-05-23&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJckc-Gqpj4iGdTeNzqcXW7sufrZ459AfsBs" %}} Register for the May Community Call {{% /button %}}
-
----
-
 ### Society for Scholarly Publishing 2024
 - Date: May 29-31, 2024
 - Location: Boston, MA
 - Description: ROR Technical Community Manager Amanda French will be at SSP 2024! If you'll be there too, we'd love to answer any questions you have about ROR and hear about your current or planned ROR integration. Book a time to meet up at the Crossref booth in the exhibit hall. 
 
 {{% button color="green" link="https://calendly.com/ror-ssp-2024/30min" %}} Book a meeting at SSP 2024 {{% /button %}}
+
+---
+
+### Open Repositories 2024
+- Date: June 3-6, 2024
+- Location: Götheborg, Sweden
+- Description: ROR Technical Lead Liz Krznarich will be attending Open Repositories 2024! If you've got questions about integrating ROR into your repository, find her there. 
+
+{{% button color="green" link="https://or2024.openrepositories.org/program-overview/" %}} See the program for Open Repositories 2024 {{% /button %}}
 
 ---
 
@@ -138,6 +114,9 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### ROR Community Call May 2024 
+The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for May 2024](2024-05-23-ror-community-call) includes general updates, an update on the April launch of the v2 ROR API and schema, and an overview of publisher identifiers in DataCite's new metadata schema 4.5.
 
 ### ROR Community Call March 2024
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for March 2024](2024-03-26-ror-community-call) includes an update on v2 of the ROR API and schema, a summary of a special project to improve our coverage of Chinese organizations, new and notable ROR adoptions, and an update on Crossref's work on the transition from the Open Funder Registry to ROR.
