@@ -212,6 +212,10 @@ ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/202
 
 To obtain official versions of the ROR logo, please visit our [display guidelines and logos](https://ror.readme.io/docs/display) page and abide by the usage recommendations there. 
 
+## Jobs
+
+ROR is a small but growing team. Visit our [jobs](/jobs) page to see current openings. 
+
 {{% callout icon="fa-envelope" %}}
 
 Contact <info@ror.org> with any and all questions about ROR. 

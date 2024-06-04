@@ -24,8 +24,16 @@ The wider ROR community includes users and stakeholders from around the world an
 
 ## Community groups 
 
-### Steering Group
+### Community Forum
+The [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community) is the primary way to get involved in ROR. Join the ROR Community Forum to receive announcements and event invitations from ROR, engage with other ROR users, and give feedback on ROR's current projects and future direction. 
 
+### Technical Forum 
+The [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) is for developers who would like to receive announcements of new data releases and technical changes to ROR and would like to discuss technical topics with other developers using ROR. 
+ 
+### Curation Advisory Board 
+The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
+
+### Steering Group
 The ROR Steering Group is a small advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members who are key stakeholders in the global scholarly communication ecosystem. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) to provide input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
 
 - Matt Buys, [DataCite](https://datacite.org/) (permanent member)
@@ -38,12 +46,6 @@ The ROR Steering Group is a small advisory body composed of the [ROR Operations 
 - Kathleen Shearer, [Confederation of Open Access Repositories](https://www.coar-repositories.org/) (COAR)
 - Chris Shillum, [ORCID](https://orcid.org/)
 - Natasha Simons, [Australian Research Data Commons](https://ardc.edu.au/) (ARDC)
-
-### Community Advisory Group
-The Community Advisory Group is the primary way to get involved in ROR, engage with other stakeholders, and give feedback on ROR's current projects and future direction. The group of more than 150 people is invited to attend bi-monthly videoconference calls and is open to anyone who is interested in ROR. You can read more about the group on the [ROR blog](https://ror.org/blog/2020-11-11-who-is-the-ror-community/). To join the group, email [info@ror.org](mailto:info@ror.org).
-
-### Curation Advisory Board 
-The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
 ## Who's using ROR {#adopters} 
 Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. Listed below are the latest known ROR adopters -- if your system's integration of ROR does not appear on the list, please let us know.
@@ -104,24 +106,22 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 ## Get involved
 
-### Join the ROR Community Advisory Group
+### Join the ROR community 
 
-Anyone is welcome to join the [ROR Community Advisory Group](https://ror.org/supporters#ror-community-advisors). This group meets on a bimonthly basis to discuss ROR updates and give feedback. Please contact [info@ror.org](mailto:info@ror.org) if you're interested in joining the group.
+Are you using or thinking of using ROR? Would you like to know about what ROR's up to, receive event invitations and announcements, give ROR feedback, and talk to other ROR users? Then join the ROR Community Forum. 
 
-### Discuss ROR
+{{% centered %}}
 
-Sign up for one or more of the following open, public forums to ask questions and discuss issues with a wide range of people interested in ROR:
+{{% button color="green" link="https://groups.google.com/a/ror.org/g/ror-community" %}} Join the ROR Community Forum {{% /button %}}
 
-- [ROR Community Slack](https://tinyurl.com/ror-slack): General questions and discussion with ROR staff, ROR adopters, and ROR supporters.
+{{% /centered %}}
 
-- [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech): Technical announcements, discussions, and questions for developers implementing ROR in their systems.
+You can also join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) if you are a developer who would like to receive announcements of new data releases and technical changes to ROR and would like to discuss technical topics with other developers using ROR. 
 
 ### Follow ROR 
 Stay up-to-date on the latest ROR news and opportunities for feedback and involvement:
 
-- Sign up for the [ROR email list](http://eepurl.com/gjkT9H)
-
-- Read the ROR [blog](https://ror.org/blog) 
+- Sign up for the [ROR quarterly newsletter](http://eepurl.com/gjkT9H)
 
 - Follow the [ROR Twitter account](https://twitter.com/ResearchOrgs)
 
@@ -129,13 +129,19 @@ Stay up-to-date on the latest ROR news and opportunities for feedback and involv
 
 - Follow ROR on [LinkedIn](https://www.linkedin.com/company/ror-research-organization-registry/)
 
+- Read the ROR [blog](https://ror.org/blog) 
+
 ### Suggest changes to ROR 
 
 - Anyone can suggest changes or additions to the records in the ROR registry via the [ROR request form](https://curation-request.ror.org/). Use this form to request a new organization or to request changes to an existing record. Changes are reviewed and if approved will usually appear in the registry within 4-6 weeks. 
 
 - To report a bug or request a feature in the ROR API or other tools, create an issue on [the ROR roadmap on Github](https://github.com/ror-community/ror-roadmap/issues).
 
-- If you spot an error in our [documentation](https://ror.readme.io/docs/basics), use the "Suggest Edits" button in the top right to let us know. 
+- If you spot an error in our [documentation](https://ror.readme.io/docs/basics), use the "Suggest Edits" button in the top right to let us know.
+
+## Code of conduct
+
+At ROR, we want all community interactions to be welcoming, collegial, safe, and productive for everyone involved. To that end, we have adopted a [Code of Conduct](/community/code-of-conduct) that frames our expectations for community interactions in all ROR-managed spaces. 
 
 {{% callout icon="fa-envelope" %}}
 

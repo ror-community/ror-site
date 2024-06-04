@@ -22,7 +22,7 @@ Crossref has announced a long-term plan to deprecate the Open Funder Registry an
 
 ---
 
-# Open Funder Registry to transition to the Research Organization Registry (ROR)
+## Open Funder Registry to transition to the Research Organization Registry (ROR)
 
 Today, we are announcing a long-term plan to deprecate the [Open Funder Registry](https://www.crossref.org/services/funder-registry/). For some time, we have understood that there is significant overlap between the Funder Registry and the [Research Organization Registry (ROR)](https://ror.org), and funders and publishers have been asking us whether they should use Funder IDs or ROR IDs to identify funders. It has therefore become clear that **merging the two registries will make workflows more efficient and less confusing for all concerned.** Crossref and ROR are therefore working together to ensure that Crossref members and funders can use ROR to simplify persistent identifier integrations, to register better metadata, and to help connect research outputs to research funders.
 
