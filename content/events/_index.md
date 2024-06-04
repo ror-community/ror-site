@@ -32,16 +32,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### Society for Scholarly Publishing 2024
-- Date: May 29-31, 2024
-- Location: Boston, MA
-- Description: ROR Technical Community Manager Amanda French will be at SSP 2024! If you'll be there too, we'd love to answer any questions you have about ROR and hear about your current or planned ROR integration. Book a time to meet up at the Crossref booth in the exhibit hall. 
-
-{{% button color="green" link="https://calendly.com/ror-ssp-2024/30min" %}} Book a meeting at SSP 2024 {{% /button %}}
-
----
-
-### Open Repositories 2024
+### Open Repositories 2024 
 - Date: June 3-6, 2024
 - Location: Götheborg, Sweden
 - Description: ROR Technical Lead Liz Krznarich will be attending Open Repositories 2024! If you've got questions about integrating ROR into your repository, find her there. 
@@ -53,7 +44,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### PIDFest 2024
 - Date: June 11-13, 2024
 - Location: Prague, CZ
-- Description: ROR will be attending PIDFest, and we hope you will be, too! Come hear our panel "Curation Conundrums and Community: Setting Metadata Policies at ROR," in which we'll explain our novel community-based curation model, discuss the tricky issues and decisions that ROR has encountered over the years, and share plans for future directions, inviting input and participation from the audience.
+- Description: ROR will be attending PIDFest, and we hope you will be, too! Come hear our panel "Curation Conundrums and Community: Setting Metadata Policies at ROR," in which we'll explain our novel community-based curation model, discuss the tricky issues and decisions that ROR has encountered over the years, and share plans for future directions, inviting input and participation from the audience. Also, ROR Director Maria Gould will be one of the keynote panelists in the session "PID Providers: Forging New Pathways" on June 12th. 
 
 {{% button color="green" link="https://www.pidfest.org/register" %}} Register for PIDFest {{% /button %}}
 
@@ -71,7 +62,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### FSCI Virtual Course - An Introduction to Querying the APIs of Open Metadata Services
+### FSCI Virtual Course - An Introduction to Querying the APIs of Open Metadata Services 
 - Date: Tuesday July 23 - Thursday July 26
 - Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-07-23)
 - Duration: 1 hour each for 3 sessions
@@ -82,6 +73,14 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### FORCE11 Annual Conference
+- Date: Thursday, August 1 - Saturday, August 3
+- Location: Los Angeles, CA
+- Description: ROR team members will be in attendance in person at the annual meeting of FORCE11, which brings together a wide and diverse set of stakeholders from scholarly communications communities. 
+
+{{% button color="green" link="https://force11.org/conference/" %}} Register for FORCE11 {{% /button %}}
+
+---
 
 ### ROR Community Call September 2024
 - Date: Wednesday, September 25, 2024
