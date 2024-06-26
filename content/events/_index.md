@@ -32,21 +32,15 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### Open Repositories 2024 
-- Date: June 3-6, 2024
-- Location: Götheborg, Sweden
-- Description: ROR Technical Lead Liz Krznarich will be attending Open Repositories 2024! If you've got questions about integrating ROR into your repository, find her there. 
+### How effective FAIR data management aids in the visibility of African funding output
+- Date: Monday, July 1, 2024
+- Time: [8am UTC](https://dateful.com/time-zone-converter?t=8am&d=2024-07-01&tz2=Coordinated-Universal-Time-UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: This webinar will take you through what the Africa PID Alliance has been doing with Crossref and ROR to raise the visibility of African research and will also present African funder case studies from National Research Fund Kenya and Le Fonds National de la Recherche et de l’Innovation pour le Développement -FONRID (Burkina Faso). The webinar will also include contributions from the Association of African Universities and the African Open Science Platform, who will share the research management and policy making implications on making African funders' output accessible.
 
-{{% button color="green" link="https://or2024.openrepositories.org/program-overview/" %}} See the program for Open Repositories 2024 {{% /button %}}
-
----
-
-### PIDFest 2024
-- Date: June 11-13, 2024
-- Location: Prague, CZ
-- Description: ROR will be attending PIDFest, and we hope you will be, too! Come hear our panel "Curation Conundrums and Community: Setting Metadata Policies at ROR," in which we'll explain our novel community-based curation model, discuss the tricky issues and decisions that ROR has encountered over the years, and share plans for future directions, inviting input and participation from the audience. Also, ROR Director Maria Gould will be one of the keynote panelists in the session "PID Providers: Forging New Pathways" on June 12th. 
-
-{{% button color="green" link="https://www.pidfest.org/register" %}} Register for PIDFest {{% /button %}}
+{{% button color="green" link="https://lnkd.in/dWd5pcbP" %}} Register for the Africa PID Alliance webinar {{% /button %}}
 
 ---
 
