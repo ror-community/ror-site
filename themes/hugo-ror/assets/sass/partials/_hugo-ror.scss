@@ -6946,6 +6946,11 @@ figure img {
 	border: solid 1px grey;
 }
 
+.noborder img { 
+	border: 0;
+	margin: 2em 0 2em 0;
+}
+
 .blog-figure img {
 	display: block;
 	margin-left: auto;
@@ -6978,6 +6983,13 @@ figure img {
 
 .blog figcaption p {
 	text-align: center;
+}
+
+.blog code {
+font-size: small;
+color: #2c2c2c;
+word-break: break-word;
+
 }
 
 /* header anchor links */
