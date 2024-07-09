@@ -83,7 +83,7 @@ Finally, we are hearing from a number of publishers who are interested in using 
 
 {{< youtube id="Jn21FiGiNCo?t=2359" class="blog-video" title="OASPA and JISC webinar on publishing workflows, January 26, 2023" >}} 
 
-We hope the preceding examples can serve as models for other projects that might use ROR's relationships and hierarchies for similar purposes. If you too are using ROR's relationships or hierarchies, we'd love to hear more about it -- [tell us more about your integration](https://airtable.com/app2Tnq1uCHnS8HQD/shrzY2wVF5ebL0Fm5) and we'll feature you on our website, or get in touch via <support@ror.org> if you need help getting started.
+We hope the preceding examples can serve as models for other projects that might use ROR's relationships and hierarchies for similar purposes. If you too are using ROR's relationships or hierarchies, we'd love to hear more about it -- [tell us more about your integration](https://bit.ly/ror-integration-form) and we'll feature you on our website, or get in touch via <support@ror.org> if you need help getting started.
 
 ## Final takeaways
 
