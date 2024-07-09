@@ -22,6 +22,6 @@ We are excited to have Amanda join the team at such a critical time for ROR's gr
 As a reminder, there are a number of resources available to learn about integrating ROR and working with ROR IDs, and there are many ways to get involved in community activities and discussions about ROR integrations. These include:
 
 - [Technical support documentation](https://ror.readme.io)
-- [Technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-api-users?pli=1)
-- List of [current integrations](https://ror.org/integrations) (fill out [this form](https://airtable.com/app2Tnq1uCHnS8HQD/shrzY2wVF5ebL0Fm5) if your integration is not listed)
+- [Technical support discussion forum](https://groups.google.com/a/ror.org/g/ror-tech)
+- List of [current integrations](https://bit.ly/ror-integrations) (fill out [this form](https://bit.ly/ror-integration-form) if your integration is not listed)
 - Community advisory group and adoption working group ([email ROR](info@ror.org) to request to join)
