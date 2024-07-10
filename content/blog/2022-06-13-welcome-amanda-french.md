@@ -4,6 +4,7 @@ date = "2022-06-13"
 draft = false
 tags = ["Updates", "Team", "Adoption", "Community"]
 categories = ["Updates"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/amanda.jpeg"
