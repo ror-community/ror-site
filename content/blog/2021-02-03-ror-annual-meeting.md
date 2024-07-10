@@ -4,6 +4,7 @@ date = "2021-02-03"
 draft = false
 tags = ["Community", "Events"]
 categories = ["Events"]
+archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/cub-pride-sq.png"
