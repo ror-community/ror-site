@@ -7,14 +7,14 @@
 
     <ul class="nav nav-pills nav-stacked"> 
     
-      {{ range $name, $items := .Site.Taxonomies.archives }}
-        {{ if eq ( $.Title | urlize | lower ) ( $name | lower ) }}
-          <li><span>{{ $name }} ({{ len $items }})</span></li>
+              {{ $data := .Site.Taxonomies.archives.Alphabetical.Reverse }}
+              {{ range $data }}
+        {{ if eq ( $.Title | urlize | lower ) ( .Term | lower ) }}
+          <li><span>{{ .Term }} ({{ .Count }})</span></li>
         {{ else }}
-          <li><a href="{{ $.Site.BaseURL }}archives/{{ $name | urlize | lower }}"><span>{{ $name }} ({{ len $items }})</span></a></li>
-        {{ end }}
-      {{ end }}
-
+                    <li><a href="/archives/{{ .Term | urlize }}">{{ .Term }}</a> <span class="blog-count">({{ .Count }})</span></li>
+              {{ end }}
+              {{ end }}
     </ul>
   </div>
 </div>
