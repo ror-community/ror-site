@@ -4,6 +4,7 @@ date = "2023-09-07"
 draft = false
 tags = ["funders", "news", "metadata", "persistent-identifiers", "pids", "registry" ]
 categories = ["Updates"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "https://assets.crossref.org/logo/crossref-logo-200.svg"

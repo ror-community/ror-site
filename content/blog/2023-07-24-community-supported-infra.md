@@ -4,6 +4,7 @@ date = "2023-07-24"
 draft = false
 tags = ["Sustainability", "Community"]
 categories = ["Updates"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-ball-statue-sq.jpg"

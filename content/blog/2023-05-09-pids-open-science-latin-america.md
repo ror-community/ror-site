@@ -4,6 +4,7 @@ date = "2023-05-09"
 draft = false
 tags = ["Events", "Community", "Latin America"]
 categories = ["Events"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/pidslatam/noun-latin-america-663117.png"
