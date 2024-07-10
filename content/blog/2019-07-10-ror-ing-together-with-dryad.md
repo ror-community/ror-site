@@ -4,6 +4,7 @@ date = "2019-07-10"
 draft = false
 tags = ["Implementation", "MVR", "Dryad"]
 categories = ["Updates"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lions-square.jpg"

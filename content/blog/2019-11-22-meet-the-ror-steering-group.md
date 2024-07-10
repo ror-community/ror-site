@@ -4,6 +4,7 @@ date = "2019-11-22"
 draft = false
 tags = ["Community", "Sustainability",]
 categories = ["Updates"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/icon-compass.png"
