@@ -27,6 +27,7 @@ summaryLength = 20
     search = true
     categories = true
     tags = true
+    archives = true
 
 [params.carousel]
     enable = false
@@ -66,6 +67,8 @@ summaryLength = 20
 [taxonomies]
   category = 'categories'
   tag = 'tags'
+  archive = 'archives'
+  
 
 	
 	

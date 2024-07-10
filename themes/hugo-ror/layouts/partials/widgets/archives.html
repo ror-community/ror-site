@@ -1,0 +1,21 @@
+{{ if .Site.Params.widgets.archives }}
+{{ if isset .Site.Taxonomies "archives" }}
+{{ if not (eq (len .Site.Taxonomies.archives) 0) }}
+<div class="card card-plain taxonomy">
+  <div class="card-body">
+    <h3 class="card-title">Archives</h3>
+
+    <ul class="nav nav-pills nav-stacked">
+      {{ range $name, $items := .Site.Taxonomies.archives }}
+        {{ if eq ( $.Title | urlize | lower ) ( $name | lower ) }}
+          <li><span>{{ $name }} ({{ len $items }})</span></li>
+        {{ else }}
+          <li><a href="{{ $.Site.BaseURL }}archives/{{ $name | urlize | lower }}"><span>{{ $name }} ({{ len $items }})</span></a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}
+{{ end }}
+{{ end }}
