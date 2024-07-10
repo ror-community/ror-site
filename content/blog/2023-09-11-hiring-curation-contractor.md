@@ -4,6 +4,7 @@ date = "2023-09-11"
 draft = false
 tags = ["Updates", "Jobs", "Curation" ]
 categories = ["Updates"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-couple-sq.jpg"

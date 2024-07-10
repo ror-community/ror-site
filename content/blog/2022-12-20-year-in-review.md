@@ -4,6 +4,7 @@ date = "2022-12-20"
 draft = false
 tags = ["Updates", "Community"]
 categories = ["Updates"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-silhouette-sq.jpg"

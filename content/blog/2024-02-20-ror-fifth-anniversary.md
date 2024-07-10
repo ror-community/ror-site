@@ -4,6 +4,7 @@ date = "2024-02-20"
 draft = false
 tags = ["Updates", "Community", "Events"]
 categories = ["Events"]
+archives = ["2024"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/recap2024/maria-roring.png"

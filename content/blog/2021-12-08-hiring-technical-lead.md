@@ -4,6 +4,7 @@ date = "2021-12-08"
 draft = false
 tags = ["Updates", "Jobs", "Development" ]
 categories = ["Updates"]
+archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-couple-sq.jpg"

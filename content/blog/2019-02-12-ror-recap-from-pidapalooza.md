@@ -4,6 +4,7 @@ date = "2019-02-12"
 draft = false
 tags = ["Community", "Events", "PIDapalooza", "PIDs", "Persistent Identifiers"]
 categories = ["Events"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/ror-matching-game-banner.jpg"
 thumb = "/img/banners/ror-lion-mask.jpg"

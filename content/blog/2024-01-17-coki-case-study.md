@@ -4,6 +4,7 @@ date = "2024-01-17"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies", "Open Access",]
 categories = ["Case Studies"]
+archives = ["2024"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/coki/coki-logo.png"

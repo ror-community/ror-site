@@ -4,6 +4,7 @@ date = "2023-01-23"
 draft = false
 tags = ["Updates", "Community", "Steering Group", "Governance"]
 categories = ["Updates"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-couple-sq.jpg"

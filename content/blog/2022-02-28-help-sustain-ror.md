@@ -4,6 +4,7 @@ date = "2022-02-28"
 draft = false
 tags = ["Updates", "Sustainability", "Community"]
 categories = ["Proposals"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-silhouette-sq.jpg"

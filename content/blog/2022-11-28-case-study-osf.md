@@ -4,6 +4,7 @@ date = "2022-11-28"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies"]
 categories = ["Case Studies"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/blog/osf/cos-logo.jpg"

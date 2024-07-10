@@ -4,6 +4,7 @@ date = "2022-04-11"
 draft = false
 tags = ["Updates", "Community", "Steering Group", "Governance"]
 categories = ["Updates"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-crew-sq.jpg"

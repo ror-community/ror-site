@@ -4,6 +4,7 @@ date = "2023-11-27"
 draft = false
 tags = ["Adoption", "Integrations", "Community", "Case Studies", "Machine Learning", "Research Integrity",]
 categories = ["Case Studies"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/clearskies/clear-skies.png"
