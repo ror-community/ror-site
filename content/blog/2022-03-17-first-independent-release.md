@@ -4,6 +4,7 @@ date = "2022-03-17"
 draft = false
 tags = ["Updates", "Curation", "Community"]
 categories = ["Updates"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/city-ban.jpg"
 thumb = "/img/fireworks-sq.jpg"

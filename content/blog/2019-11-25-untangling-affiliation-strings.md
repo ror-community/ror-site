@@ -4,6 +4,7 @@ date = "2019-11-25"
 draft = false
 tags = ["Implementation", "API"]
 categories = ["Explainers"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lion-trio.jpg"

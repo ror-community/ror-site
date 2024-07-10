@@ -4,6 +4,7 @@ date = "2024-04-15"
 draft = false
 tags = ["Updates", "API", "Development", "Implementation"]
 categories = ["Updates"]
+archives = ["2024"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/ror-v2-launch-shadow-sparkles.gif"

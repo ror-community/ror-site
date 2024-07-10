@@ -4,6 +4,7 @@ date = "2022-08-31"
 draft = false
 tags = ["Curation", "Registry", "Metadata", "Community"]
 categories = ["Explainers"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-statue-sq.jpg"

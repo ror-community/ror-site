@@ -4,6 +4,7 @@ date = "2021-07-27"
 draft = false
 tags = ["API", "Updates" ]
 categories = ["Updates"]
+archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-bw-sq.jpg"

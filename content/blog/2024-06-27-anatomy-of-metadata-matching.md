@@ -4,6 +4,7 @@ date = "2024-06-27"
 draft = false
 tags = ["funders", "curation", "data", "machine-learning", "matching"]
 categories = ["Explainers"]
+archives = ["2024"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/matching-anatomy/yellow-matching-figure-02.png"

@@ -4,6 +4,7 @@ date = "2019-07-02"
 draft = false
 tags = ["Implementation", "MVR", "prototype", "GRID"]
 categories = ["Updates"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/building-banner.jpg"
 thumb = "/img/banners/building-sq.jpg"

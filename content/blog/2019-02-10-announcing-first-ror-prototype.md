@@ -4,6 +4,7 @@ date = "2019-02-10"
 draft = false
 tags = ["Community", "prototype", "MVR"]
 categories = ["Updates"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/pride-of-lions-us.jpg"
 thumb = "/img/banners/pride-of-lions-sq.jpg"

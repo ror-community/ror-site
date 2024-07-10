@@ -4,6 +4,7 @@ date = "2022-12-14"
 draft = false
 tags = ["Metadata", "Community", "API", "Data", "Schema"]
 categories = ["Proposals"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/ror-elements-tech-u-kenya.png"

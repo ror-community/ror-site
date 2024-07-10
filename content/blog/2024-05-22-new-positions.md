@@ -4,6 +4,7 @@ date = "2024-05-22"
 draft = false
 tags = ["jobs", "team"]
 categories = ["Updates"]
+archives = ["2024"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg"

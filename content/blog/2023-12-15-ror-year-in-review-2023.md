@@ -4,6 +4,7 @@ date = "2023-12-15"
 draft = false
 tags = ["adoption"]
 categories = ["Updates"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/recap2023/circular_arrow-teal_02.png"
