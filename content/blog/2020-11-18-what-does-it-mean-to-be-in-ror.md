@@ -4,6 +4,7 @@ date = "2020-11-16"
 draft = false
 tags = ["Community", "Data", "Curation"]
 categories = ["Explainers"]
+archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-reflection-sq.jpg"

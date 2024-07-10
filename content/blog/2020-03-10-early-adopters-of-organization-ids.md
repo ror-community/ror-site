@@ -4,6 +4,7 @@ date = "2020-03-10"
 draft = false
 tags = ["Community", "implementation", "DataCite"]
 categories = ["Updates"]
+archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/metadata-game-changers-logo.png"

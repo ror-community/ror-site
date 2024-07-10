@@ -4,6 +4,7 @@ date = "2020-08-20"
 draft = false
 tags = ["Community", "implementation", "sustainability"]
 categories = ["Updates"]
+archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-sq.jpg"
