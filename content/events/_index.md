@@ -44,6 +44,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### DataCite Open Hours July 2024
+- Date: Wednesday, July 17, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-17&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: DataCite has two really exciting presentations lined up from DataCite members Dryad and Zenodo, who will be showcasing the work they are doing with ROR IDs in the context of DataCite services and infrastructure. We will also have the chance to hear the latest from our Global Access Fund (GAF) awarded project in Georgia.
+
+{{% button color="green" link="https://datacite.zoom.us/meeting/register/tZArfuyqrTwuHNU-r0CP6GM0NJUOSHOaSxJX#/registration" %}} Register for DataCite Open Hours {{% /button %}}
+
+---
+
 ### FSCI Virtual Course - An Introduction to Querying the APIs of Open Metadata Services 
 - Date: Tuesday July 23 - Thursday July 26
 - Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2024-07-23)
