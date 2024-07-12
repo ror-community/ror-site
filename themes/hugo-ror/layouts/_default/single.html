@@ -14,9 +14,13 @@
        
        {{ partial "breadcrumbs.html" . }}
 
-        <div class="section container">
-          <div class="row">
+        <div class="section container"> 
+          <div class="row">   
             <div class="col-md-12 mr-auto">
+            
+                   {{ partial "toc.html" . }}
+
+            
               <div>
                 {{ .Content }}
               </div>
