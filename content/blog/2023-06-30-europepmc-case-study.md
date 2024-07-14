@@ -2,7 +2,7 @@
 title = "Case Study: How Europe PMC Uses ROR"
 date = "2023-06-30"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies"]
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"

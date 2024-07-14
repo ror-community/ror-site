@@ -2,7 +2,7 @@
 title = "Case Study: Clear Skies, Research Integrity, Data Science, and ROR"
 date = "2023-11-27"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies", "Machine Learning", "Research Integrity",]
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Machine Learning", "Research Integrity", "Interviews"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"
