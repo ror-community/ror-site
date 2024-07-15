@@ -13,7 +13,7 @@ author = "Tom Demeranville, Paula Demain, and Dan Dineen"
 
 _This is a guest post by the [ORCID](https://orcid.org) team that was originally published on the ORCID blog. See the original post [here](https://info.orcid.org/add-research-institution-identifiers-with-ror/)._
 
-# Add Research Institution Identifiers with ROR!
+## Add Research Institution Identifiers with ROR!
 
 As part of our ongoing commitment to increase value to our researchers and our members, we are pleased to announce that the [Research Organization Registry (ROR)](https://ror.org) has been added to the ORCID Registry as a disambiguated Organization ID. ROR can now be used with the API and our Affiliation Manager to record research institution identifiers and metadata, thus making it easier to track the impact of institutional research. ORCID’s own staff affiliations have now been updated to include a ROR ID!
 
