@@ -13,10 +13,7 @@ author = "Amanda French"
 description = "Several widely used scholarly systems are using ROR IDs to identify and disambiguate funders. In this post, we'll give you a glimpse of how these early adopters of ROR IDs as funder identifiers have implemented this feature."
 +++ 
 
-<div>
-
-{{< figure src="/img/blog/use-case-funders/ror-for-funders.png" alt="featured image" class="blog-figure" >}}
-</div>
+{{< figure src="/img/blog/use-case-funders/ror-for-funders.png" alt="ROR logo and funder icon" class="featured-figure" >}}
 
 Several widely used scholarly systems are using ROR IDs to identify and disambiguate funders. In this post, we'll give you a glimpse of how these early adopters of ROR IDs for funder identifiers have implemented this feature. 
 
