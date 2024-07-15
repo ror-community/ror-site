@@ -4,6 +4,7 @@ date = "2020-11-11"
 draft = false
 tags = ["Community"]
 categories = ["Explainers"]
+archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lions-in-lisbon-sq.jpg"

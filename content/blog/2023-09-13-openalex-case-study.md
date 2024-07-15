@@ -2,8 +2,9 @@
 title = "Case Study: OpenAlex, ROR, and Machine Learning Models"
 date = "2023-09-13"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies", "Machine Learning"]
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Machine Learning", "Interviews"]
 categories = ["Case Studies"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/openalex/OpenAlex-logo.png"

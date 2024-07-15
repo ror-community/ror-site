@@ -2,9 +2,10 @@
 title = "Case Study: ROR in Caltech Repositories" 
 date = "2023-02-23" 
 draft = false 
-tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews"] 
 categories = ["Case Studies"] 
-style = "card-plain" 
+archives = ["2023"]
+style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/caltech/caltech-new-logo-sq.png" 
 images = ['/img/blog/caltech/caltech-new-logo-sq.png']

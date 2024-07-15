@@ -2,8 +2,9 @@
 title = "ROR and GRID: The Way Forward"
 date = "2021-07-12"
 draft = false
-tags = ["News", "Updates", "Community", "Sustainability", "GRID" ]
-categories = ["Updates"]
+tags = ["Community", "Sustainability", "GRID" ]
+categories = ["General Updates"]
+archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-silhouette-sq.jpg"
@@ -20,7 +21,7 @@ Below we are cross-posting a joint statement from Digital Science and ROR about 
 
 ---
 
-# GRID Passes the Torch to ROR
+## GRID Passes the Torch to ROR
 In 2015 Digital Science first released the Global Research Identifier Database (GRID), an open database of unique research-related organisation identifiers they had developed in-house over several years, for public use by the research community. In 2019 ROR, the Research Organization Registry, was founded as a community-driven initiative, mirroring the GRID database. With ROR coming of age and becoming independent from GRID, Digital Science has decided to pass on the torch to ROR and retire GRID from the public space, with a last public release in Q4 of 2021.
 
 This might come as a surprise, as GRID and ROR have been co-existing and collaborating for quite some time now. GRID was initially created to fill a void, as no open organisation identifier was available for the open research space. As a community-driven initiative has now built upon GRID's first initiative, two open organisation identifiers could be perceived as competing against each other. Digital Science has therefore decided to formally hand the torch over to ROR as the leading open organisation identifier. Digital Science will continue to use GRID internally- but focused on the Digital Science products and their users and clients.

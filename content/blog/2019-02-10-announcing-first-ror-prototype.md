@@ -2,8 +2,9 @@
 title = "Hear us ROR! Announcing our first prototype and next steps"
 date = "2019-02-10"
 draft = false
-tags = ["Community", "prototype", "MVR"]
-categories = ["Updates"]
+tags = ["community", "prototype", "MVR", "annual meeting"]
+categories = ["Technical News"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/pride-of-lions-us.jpg"
 thumb = "/img/banners/pride-of-lions-sq.jpg"

@@ -2,8 +2,9 @@
 title = "Case Study: ROR at Rockefeller University Press and Silverchair" 
 date = "2023-03-20" 
 draft = false 
-tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews"] 
 categories = ["Case Studies"] 
+archives = ["2023"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/rup/rup-silverchair-logos-sq.png" 

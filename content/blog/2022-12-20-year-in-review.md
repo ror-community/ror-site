@@ -2,8 +2,9 @@
 title = "ROR's Year in Review: 2022"
 date = "2022-12-20"
 draft = false
-tags = ["Updates", "Community"]
-categories = ["Updates"]
+tags = ["Community"]
+categories = ["Year in Review"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-silhouette-sq.jpg"

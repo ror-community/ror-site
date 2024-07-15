@@ -2,8 +2,9 @@
 title = "The Anatomy of Metadata Matching (cross-post)"
 date = "2024-06-27"
 draft = false
-tags = ["funders", "curation", "data", "machine-learning", "matching"]
+tags = ["Funders", "Curation", "Data", "Machine learning", "Matching", "Cross-post"]
 categories = ["Explainers"]
+archives = ["2024"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/matching-anatomy/yellow-matching-figure-02.png"

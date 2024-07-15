@@ -32,18 +32,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### How effective FAIR data management aids in the visibility of African funding output
-- Date: Monday, July 1, 2024
-- Time: [8am UTC](https://dateful.com/time-zone-converter?t=8am&d=2024-07-01&tz2=Coordinated-Universal-Time-UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: This webinar will take you through what the Africa PID Alliance has been doing with Crossref and ROR to raise the visibility of African research and will also present African funder case studies from National Research Fund Kenya and Le Fonds National de la Recherche et de l’Innovation pour le Développement -FONRID (Burkina Faso). The webinar will also include contributions from the Association of African Universities and the African Open Science Platform, who will share the research management and policy making implications on making African funders' output accessible.
-
-{{% button color="green" link="https://lnkd.in/dWd5pcbP" %}} Register for the Africa PID Alliance webinar {{% /button %}}
-
----
-
 ### ROR Community Call July 2024
 - Date: Tuesday, July 16, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-16&tz2=UTC)
@@ -53,6 +41,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJUkfu6vrDsiHNcT3RAW4YNECmsyd5YzE3Hs" %}} Register for the July Community Call {{% /button %}}
+
+---
+
+### DataCite Open Hours July 2024
+- Date: Wednesday, July 17, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-17&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: DataCite has two really exciting presentations lined up from DataCite members Dryad and Zenodo, who will be showcasing the work they are doing with ROR IDs in the context of DataCite services and infrastructure. We will also have the chance to hear the latest from our Global Access Fund (GAF) awarded project in Georgia.
+
+{{% button color="green" link="https://datacite.zoom.us/meeting/register/tZArfuyqrTwuHNU-r0CP6GM0NJUOSHOaSxJX#/registration" %}} Register for DataCite Open Hours {{% /button %}}
 
 ---
 
@@ -76,7 +76,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Community Call September 2024
+### ROR Community Call September 2024 
 - Date: Wednesday, September 25, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-09-25&tz2=UTC)
 - Duration: 1 hour
@@ -87,7 +87,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJwqfu-trTIoHdJ3ajeDyN_GVivLRaiRAEwO" %}} Register for the September Community Call {{% /button %}}
 
 ---
-
 
 ### ROR Community Call November 2024
 - Date: Wednesday, November 20, 2024

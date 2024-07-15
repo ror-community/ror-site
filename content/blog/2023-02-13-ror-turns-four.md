@@ -2,8 +2,9 @@
 title = "ROR Turns Four: Highlights from the 2023 Annual Community Meeting"
 date = "2023-02-13"
 draft = false
-tags = ["Updates", "Community", "Events"]
-categories = ["Events"]
+tags = ["Community", "Annual Meeting"]
+categories = ["Event Recaps"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-crew-sq.jpg"

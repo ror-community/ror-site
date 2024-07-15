@@ -2,8 +2,9 @@
 title = "ROR-ing around the clock at PIDapalooza21"
 date = "2021-02-12"
 draft = false
-tags = ["Community", "Events"]
-categories = ["Events"]
+tags = ["Community", "PIDapalooza"]
+categories = ["Event Recaps"]
+archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/cub-pride-sq.png"

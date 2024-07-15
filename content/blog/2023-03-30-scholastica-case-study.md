@@ -2,8 +2,9 @@
 title = "Case Study: ROR in Scholastica Products"
 date = "2023-03-30"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies"]
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews"]
 categories = ["Case Studies"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg"
