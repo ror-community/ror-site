@@ -6968,6 +6968,12 @@ figure img {
     height:35px;
 }
 
+.featured-figure img {
+	display: block;
+	float: left;
+	width: 30%;
+}
+
 .blog-video {
 	padding-bottom: 2rem;	
 }
