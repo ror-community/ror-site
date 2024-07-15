@@ -2,7 +2,7 @@
 title = "ROR-ing on our own: Announcing our first independent registry update"
 date = "2022-03-17"
 draft = false
-tags = ["Updates", "Curation", "Community"]
+tags = ["Curation", "Community"]
 categories = ["Updates"]
 archives = ["2022"]
 style = "card-plain"

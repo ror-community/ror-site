@@ -2,7 +2,7 @@
 title = "Hear us ROR! Announcing our first prototype and next steps"
 date = "2019-02-10"
 draft = false
-tags = ["Community", "prototype", "MVR"]
+tags = ["community", "prototype", "MVR", "annual meeting"]
 categories = ["Updates"]
 archives = ["2019"]
 style = "card-plain"

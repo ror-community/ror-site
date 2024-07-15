@@ -2,7 +2,7 @@
 title = "ROR and GRID: The Way Forward"
 date = "2021-07-12"
 draft = false
-tags = ["News", "Updates", "Community", "Sustainability", "GRID" ]
+tags = ["Community", "Sustainability", "GRID" ]
 categories = ["Updates"]
 archives = ["2021"]
 style = "card-plain"

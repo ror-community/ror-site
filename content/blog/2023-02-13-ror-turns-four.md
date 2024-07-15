@@ -2,7 +2,7 @@
 title = "ROR Turns Four: Highlights from the 2023 Annual Community Meeting"
 date = "2023-02-13"
 draft = false
-tags = ["Updates", "Community", "Events"]
+tags = ["Community", "Annual Meeting"]
 categories = ["Event Recaps"]
 archives = ["2023"]
 style = "card-plain"

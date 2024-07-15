@@ -2,7 +2,7 @@
 title = "Now Hiring: Metadata Curation Lead"
 date = "2021-10-01"
 draft = false
-tags = ["Updates", "Jobs", "Curation" ]
+tags = ["Jobs", "Curation" ]
 categories = ["Updates"]
 archives = ["2021"]
 style = "card-plain"

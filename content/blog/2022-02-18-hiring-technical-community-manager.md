@@ -2,7 +2,7 @@
 title = "ROR Is Hiring a Technical Community Manager"
 date = "2022-02-18"
 draft = false
-tags = ["Updates", "Jobs", "Development", "Community", "Adoption"]
+tags = ["Jobs", "Development", "Community", "Adoption"]
 categories = ["Updates"]
 archives = ["2022"]
 style = "card-plain"

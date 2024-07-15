@@ -2,7 +2,7 @@
 title = "PIDs and Open Science: Building Community in Latin America | PIDs y Ciencia Abierta: Construyendo comunidad en América Latina"
 date = "2023-05-09"
 draft = false
-tags = ["Events", "Community", "Latin America"]
+tags = ["Community", "Latin America"]
 categories = ["Event Recaps"]
 archives = ["2023"]
 style = "card-plain"

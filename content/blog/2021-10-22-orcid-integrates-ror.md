@@ -2,7 +2,7 @@
 title = "ORCID Integrates ROR"
 date = "2021-10-22"
 draft = false
-tags = ["Updates", "Integrations", "ORCID" ]
+tags = ["Integrations", "ORCID" ]
 categories = ["Updates"]
 archives = ["2021"]
 style = "card-plain"

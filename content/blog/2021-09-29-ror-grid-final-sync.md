@@ -2,7 +2,7 @@
 title = "New ROR Update and Final GRID Sync"
 date = "2021-09-29"
 draft = false
-tags = ["Updates", "GRID" ]
+tags = ["GRID" ]
 categories = ["Updates"]
 archives = ["2021"]
 style = "card-plain"

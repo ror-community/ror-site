@@ -2,7 +2,7 @@
 title = "ROR's Fifth Anniversary: Highlights from the 2024 Annual Community Meeting"
 date = "2024-02-20"
 draft = false
-tags = ["Updates", "Community", "Events"]
+tags = ["Community", "Annual Meeting"]
 categories = ["Event Recaps"]
 archives = ["2024"]
 style = "card-plain"
