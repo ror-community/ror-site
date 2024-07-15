@@ -2,8 +2,8 @@
 title = "Early Adopters of Organization Identifiers in DataCite"
 date = "2020-03-10"
 draft = false
-tags = ["Community", "implementation", "DataCite"]
-categories = ["Updates"]
+tags = ["community", "implementation", "DataCite", "cross-post"]
+categories = ["Explainers"]
 archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
@@ -15,7 +15,7 @@ Version 4.3 of the DataCite Metadata Schema released during August, 2019 include
 
 The first organizational identifiers in DataCite metadata were funderIdentifiers introduced in Version 4.0 during late 2016. These identifiers might now be considered mature in DataCite metadata and will not be considered.  Here we focus on organizational identifiers introduced last August and are integrated into the DataCite schema as affiliationIdentifiers associated with either creators or contributors. In this blog I identify the early adopters that have already started to build these important connections into their metadata.
 
-## Finding Early Adaptors
+## Finding Early Adopters
 The DataCite API makes it easy to find repositories that are adopting these new identifiers with two requests and a small bit of python (both functional but certainly could be improved):
 
 ```
