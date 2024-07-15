@@ -38,20 +38,7 @@ Zenodo takes an "award-first" approach to connecting items to funders, asking th
 
 {{< figure src="/img/blog/use-case-funders/zenodo-add-award.gif" alt="Zenodo's award lookup pulls in ROR IDs for funders on the back end." caption="Zenodo's award lookup pulls in ROR IDs for funders on the back end." >}}
 
-## ChronosHub
 
-[ChronosHub](https://chronoshub.io/), a comprehensive platform for managing Open Access fees and policy compliance, was one of the earliest systems to adopt ROR as a funder identifier: this integration is now nearly three years old. In the fall of 2021, ChronosHub published a [blog post explaining its new approach to supporting all institutional identifiers](https://chronoshub.io/news/latest-updates/updated-feature-first-to-support-all-institutional-identifiers/), including ROR, GRID, Ringgold, ISNI, and the Crossref Funder Registry. While "ChronosHub makes use of ROR IDs as standard," the post explains, the platform added "support for an automated mapping across all identifier databases, enabling seamless integrations and workflows." 
-
-A few months later, at the ROR annual meeting in January 2022, ChronosHub's Martin Jagerhorn described in detail how and why their platform uses ROR at multiple points in the publication and post-publication process, enabling streamlining and automation of four distinct tasks: 
-
-1. Submitting manuscripts to peer-review systems
-2. Connecting manuscripts to the right institutional, publisher, and funder agreements 
-3. Checking articles against all appropriate APC funding eligibility criteria and sending approvals and rejections
-4. Depositing article metadata and full text to institutional repositories and CRIS systems
-
-See the recording of Martin's presentation for more details. 
-
- {{< youtube id="mi-33M1yXI8" title="ROR & ChronosHub" >}}
 
 
 
