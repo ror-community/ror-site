@@ -2,7 +2,7 @@
 title = "A ROR-ing recap from PIDapalooza"
 date = "2019-02-12"
 draft = false
-tags = ["Community", "Events", "PIDapalooza", "PIDs", "Persistent Identifiers"]
+tags = ["Community", "PIDapalooza", "PIDs", "Persistent Identifiers"]
 categories = ["Event Recaps"]
 archives = ["2019"]
 style = "card-plain"

@@ -2,7 +2,7 @@
 title = "ROR's Year in Review: 2022"
 date = "2022-12-20"
 draft = false
-tags = ["Updates", "Community"]
+tags = ["Community"]
 categories = ["Year in Review"]
 archives = ["2022"]
 style = "card-plain"

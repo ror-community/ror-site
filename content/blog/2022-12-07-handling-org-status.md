@@ -2,7 +2,7 @@
 title = "Handling Organization Status Changes in ROR"
 date = "2022-12-07"
 draft = false
-tags = ["Updates", "Curation", "API", "Registry"]
+tags = ["Curation", "API", "Registry"]
 categories = ["Updates"]
 archives = ["2022"]
 style = "card-plain"

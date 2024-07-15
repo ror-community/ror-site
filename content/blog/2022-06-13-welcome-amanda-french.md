@@ -2,7 +2,7 @@
 title = "Welcome Amanda French, Technical Community Manager"
 date = "2022-06-13"
 draft = false
-tags = ["Updates", "Team", "Adoption", "Community"]
+tags = ["Team", "Adoption", "Community"]
 categories = ["Updates"]
 archives = ["2022"]
 style = "card-plain"

@@ -2,7 +2,7 @@
 title = "The ROR of the crowd: get involved!"
 date = "2018-12-02"
 draft = false
-tags = ["communication", "news"]
+tags = ["communication", "community",]
 categories = ["Updates"]
 archives = ["2018"]
 style = "card-plain"

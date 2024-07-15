@@ -2,7 +2,7 @@
 title = "ROR-ing around the clock at PIDapalooza21"
 date = "2021-02-12"
 draft = false
-tags = ["Community", "Events"]
+tags = ["Community", "PIDapalooza"]
 categories = ["Event Recaps"]
 archives = ["2021"]
 style = "card-plain"

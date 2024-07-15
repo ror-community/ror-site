@@ -2,7 +2,7 @@
 title = "Europe PMC announces ROR integration into Grant Finder" 
 date = "2023-03-28" 
 draft = false 
-tags = ["Adoption", "Integrations", "Community", "Updates", "Funders"] 
+tags = ["Adoption", "Integrations", "Community", "Funders"] 
 categories = ["Updates"] 
 archives = ["2023"]
 style = "card-plain" 

@@ -2,7 +2,7 @@
 title = "Job Posting: ROR Technical Lead"
 date = "2021-12-08"
 draft = false
-tags = ["Updates", "Jobs", "Development" ]
+tags = ["Jobs", "Development" ]
 categories = ["Updates"]
 archives = ["2021"]
 style = "card-plain"

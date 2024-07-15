@@ -2,7 +2,7 @@
 title = "Announcing Version 2 of the ROR Schema and API!"
 date = "2024-04-15"
 draft = false
-tags = ["Updates", "API", "Development", "Implementation"]
+tags = ["API", "development", "implementation"]
 categories = ["Updates"]
 archives = ["2024"]
 style = "card-plain"

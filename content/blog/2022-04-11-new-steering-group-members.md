@@ -2,7 +2,7 @@
 title = "ROR Welcomes Three New Steering Group Members"
 date = "2022-04-11"
 draft = false
-tags = ["Updates", "Community", "Steering Group", "Governance"]
+tags = ["Community", "Steering Group", "Governance"]
 categories = ["Updates"]
 archives = ["2022"]
 style = "card-plain"
