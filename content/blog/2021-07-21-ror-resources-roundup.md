@@ -2,8 +2,8 @@
 title = "ROR Resources Roundup"
 date = "2021-07-27"
 draft = false
-tags = ["API", "Updates" ]
-categories = ["Updates"]
+tags = ["API", "integrations", "resources"]
+categories = ["Technical News"]
 archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"

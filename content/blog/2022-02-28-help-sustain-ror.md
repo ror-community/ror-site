@@ -2,7 +2,7 @@
 title = "Let's Fund Open Infrastructure Together"
 date = "2022-02-28"
 draft = false
-tags = ["Updates", "Sustainability", "Community"]
+tags = ["Sustainability", "Community"]
 categories = ["Proposals"]
 archives = ["2022"]
 style = "card-plain"

@@ -2,7 +2,7 @@
 title = "Case Study: Why ResearchEquals Integrated ROR and Live Streamed It"
 date = "2023-08-22"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies"]
+tags = ["Adoption", "Integrations", "Community"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"
