@@ -2,8 +2,8 @@
 title = "ROR Welcomes Three New Steering Group Members"
 date = "2022-04-11"
 draft = false
-tags = ["Updates", "Community", "Steering Group", "Governance"]
-categories = ["Updates"]
+tags = ["Community", "Steering Group", "Governance"]
+categories = ["General Updates"]
 archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"

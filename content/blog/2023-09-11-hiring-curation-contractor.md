@@ -2,8 +2,8 @@
 title = "Now Hiring: Metadata Curation Support Contractor"
 date = "2023-09-11"
 draft = false
-tags = ["Updates", "Jobs", "Curation" ]
-categories = ["Updates"]
+tags = ["Jobs", "Curation" ]
+categories = ["Team Updates"]
 archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"

@@ -2,8 +2,8 @@
 title = "Now Hiring: Metadata Curation Lead"
 date = "2021-10-01"
 draft = false
-tags = ["Updates", "Jobs", "Curation" ]
-categories = ["Updates"]
+tags = ["Jobs", "Curation" ]
+categories = ["Team Updates"]
 archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"

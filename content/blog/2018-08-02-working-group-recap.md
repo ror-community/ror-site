@@ -2,8 +2,8 @@
 title = "Org ID: a recap and a hint of things to come"
 date = "2018-08-02"
 draft = false
-tags = ["communication", "news", "working group"]
-categories = ["Updates"]
+tags = ["communication", "working group"]
+categories = ["General Updates"]
 archives = ["2018"]
 style = "card-plain"
 banner = "/img/banners/city-ban.jpg"

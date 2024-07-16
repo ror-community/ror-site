@@ -2,8 +2,8 @@
 title = "ROR Is Hiring a Technical Community Manager"
 date = "2022-02-18"
 draft = false
-tags = ["Updates", "Jobs", "Development", "Community", "Adoption"]
-categories = ["Updates"]
+tags = ["Jobs", "Development", "Community", "Adoption"]
+categories = ["Team Updates"]
 archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"

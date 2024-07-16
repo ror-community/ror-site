@@ -2,8 +2,8 @@
 title = "Announcing Version 2 of the ROR Schema and API!"
 date = "2024-04-15"
 draft = false
-tags = ["Updates", "API", "Development", "Implementation"]
-categories = ["Updates"]
+tags = ["API", "development", "implementation"]
+categories = ["Technical News"]
 archives = ["2024"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"

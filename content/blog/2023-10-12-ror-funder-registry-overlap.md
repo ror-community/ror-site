@@ -2,7 +2,7 @@
 title = "How ROR and the Open Funder Registry Overlap: A Closer Look at the Data"
 date = "2023-10-12"
 draft = false
-tags = ["funders", "news", "metadata", "persistent-identifiers", "pids", "registry" ]
+tags = ["funders", "metadata", "persistent-identifiers", "pids", "registry" ]
 categories = ["Explainers"]
 archives = ["2023"]
 style = "card-plain"

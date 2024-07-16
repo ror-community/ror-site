@@ -2,8 +2,8 @@
 title = "A New Year at ROR"
 date = "2022-02-14"
 draft = false
-tags = ["Updates"]
-categories = ["Updates"]
+tags = ["annual meeting", "team", "sustainability"]
+categories = ["Event Recaps"]
 archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
