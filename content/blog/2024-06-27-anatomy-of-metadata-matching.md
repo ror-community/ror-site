@@ -130,9 +130,8 @@ Example input:
 
 ---
 
-```
-Department of Molecular Medicine, Sapporo Medical University, Sapporo 060-8556, Japan
-```
+```Department of Molecular Medicine, Sapporo Medical University, Sapporo 060-8556, Japan```
+
 ---
 
 #### Matching funder names to ROR IDs. 
@@ -140,9 +139,9 @@ Department of Molecular Medicine, Sapporo Medical University, Sapporo 060-8556, 
 Example input:
 
 ---
-```
-Alexander von Humboldt Foundation
-```
+
+```Alexander von Humboldt Foundation```
+
 ---
 
 Are these different matching tasks (affiliation matching vs. funder matching), or the same task with different inputs (organisation matching)?
