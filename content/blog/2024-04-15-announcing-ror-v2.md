@@ -97,7 +97,7 @@ If you'd like to participate in future ROR developments, please get involved wit
 
 * [Subscribe to the quarterly ROR newsletter](http://eepurl.com/gjkT9H) 
 * [Sign up for the ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech)
-* [Join the ROR Slack](https://tinyurl.com/ror-slack) 
+* Join the ROR Slack 
 * Attend a [ROR community call or other event](/events)
 
 {{% callout color="light-grey" icon="fa-envelope" %}}
