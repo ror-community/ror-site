@@ -252,7 +252,7 @@ After a request is submitted via the feedback form, an issue will be created in 
 
 ### **How will I know when ROR has been updated?**
 
-ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced in the [ROR Slack](https://tinyurl.com/ror-slack), on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-tech), and on ROR's social media accounts.
+ROR is updated on a rolling basis. New registry releases are published on [GitHub](https://github.com/ror-community/ror-updates/releases) and new data dumps are published on [Zenodo](https://doi.org/10.5281/zenodo.6347574) approximately once a month. Following the [GitHub repository](https://github.com/ror-community/ror-updates/issues) and signing up to watch individual issues is the best way to be notified when a new release is available. Releases are also announced on [the ROR technical support forum](https://groups.google.com/a/ror.org/g/ror-tech) and on ROR's social media accounts.
 
 ***
 
