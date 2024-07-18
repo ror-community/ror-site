@@ -2,7 +2,7 @@
 title = "Schema Scheming: Evolving the ROR Data Model"
 date = "2022-12-14"
 draft = false
-tags = ["Metadata", "Community", "API", "Data", "Schema"]
+tags = ["Metadata", "Community", "API", "Data", "Schema", "feedback"]
 categories = ["Requests"]
 archives = ["2022"]
 style = "card-plain"
