@@ -153,9 +153,9 @@ There are also important questions related to the expected behaviour of a matchi
 It is likewise important to consider what should happen if different parts of the input match to different identifiers, like in the following example:
 
 ---
-```
-Department of Haematology, Eastern Health and Monash University, Box Hill, Australia
-```
+
+```Department of Haematology, Eastern Health and Monash University, Box Hill, Australia```
+
 ---
 
 Here, “Eastern Health” matches to https://ror.org/00vyyx863 and “Monash University” to https://ror.org/02bfwt286. Should the matching strategy return all the identifiers, one of them (if so, which one?), or nothing at all?
