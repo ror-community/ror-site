@@ -6968,6 +6968,13 @@ figure img {
     height:35px;
 }
 
+.featured-figure img {
+	display: block;
+	float: left;
+	width: 30%;
+	margin-right: 1em;
+}
+
 .blog-video {
 	padding-bottom: 2rem;	
 }
@@ -6985,7 +6992,7 @@ figure img {
 	text-align: center;
 }
 
-.blog code {
+.blog pre code {
 font-size: small;
 color: #2c2c2c;
 word-break: break-word;
