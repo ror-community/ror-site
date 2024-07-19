@@ -242,11 +242,11 @@ Bulk requests are processed according to what will benefit the largest number of
 
 We are currently scaling our curation processes to support the widespread enthusiasm for ROR and this high volume of requests, so please don’t hesitate to inquire about bulk submissions by writing [registry@ror.org](mailto:registry@ror.org). This helps us to gauge demand for curation activities and resource accordingly. Please also, however, be mindful that large bulk submissions may take us some time to process.
 
-Our curation processes and projects are entirely open, so anyone may see our [queue of open individual requests](https://github.com/ror-community/ror-updates/issues) and our [current list of curation projects](https://github.com/ror-community/ror-updates/projects/1). 
+Our curation processes and projects are entirely open, so anyone may see our [queue of open individual requests](https://github.com/ror-community/ror-updates/issues). 
 
 ### **I submitted a curation request to ROR. How can I track it?**
 
-After a request is submitted via the feedback form, an issue will be created in the [ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues) and added to a [project board](https://github.com/ror-community/ror-updates/projects/1). You will receive an email notification with a link to the GitHub issue associated with your request. You can track the status of the request by following this issue and subscribing to issue notifications.
+After a request is submitted via the feedback form, an issue will be created in the [ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues). You will receive an email notification with a link to the GitHub issue associated with your request. You can track the status of the request by following this issue and subscribing to issue notifications.
 
 ***
 
