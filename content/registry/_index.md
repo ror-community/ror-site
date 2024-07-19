@@ -109,14 +109,15 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 **Current Curation Advisory Board members**
 
-- Jackson Huang, Educopia
-- Kateřina Janderová, Czech Academy of Sciences
-- Matthias Liffers, Australian Research Data Commons
-- Nick Lundvick, Argonne National Laboratory
-- Carly Robinson, OSTI/DOE
-- Arthur Smith, American Physical Society
-- Shayn Smulyan, Crossref
-- Martin Spenger, LMU Munich
+- Jackson Huang, [Educopia](https://educopia.org)
+- Kateřina Janderová, [Czech Academy of Sciences](https://www.avcr.cz/en/)
+- Matthias Liffers, [Australian Research Data Commons (ARDC)](https://ardc.edu.au/)
+- Nick Lundvick, [Argonne National Laboratory](https://www.anl.gov/)
+- Carole Melzac, [Agence bibliographique de l’enseignement supérieur (ABES)](https://abes.fr/) 
+- Carly Robinson, [OSTI/DOE](https://www.osti.gov/)
+- Arthur Smith, [American Physical Society (APS)](https://aps.org)
+- Shayn Smulyan, [Crossref](https://crossref.org)
+- Martin Spenger, [LMU Munich](https://www.lmu.de/en/)
 
 Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview).
 
