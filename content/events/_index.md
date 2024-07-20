@@ -26,7 +26,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 -->
 
 
-{{% toc %}}
+
 
 ## Upcoming events
 
