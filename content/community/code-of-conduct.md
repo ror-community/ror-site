@@ -9,7 +9,7 @@ description = "At ROR, we want all community interactions to be welcoming, colle
 aliases = ["/community/coc", "/coc", "/code-of-conduct"]
 +++ 
 
-{{% toc %}}
+
 
 ## Code of Conduct
 

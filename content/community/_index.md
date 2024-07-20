@@ -11,7 +11,7 @@ aliases = [
 ]
 +++
 
-{{% toc %}}
+
 
 ## Community values
 ROR is community-supported, community-driven, community-funded open infrastructure.
