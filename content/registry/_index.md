@@ -112,10 +112,10 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 - Matthias Liffers, [Australian Research Data Commons (ARDC)](https://ardc.edu.au/)
 - Nick Lundvick, [Argonne National Laboratory](https://www.anl.gov/)
 - Carole Melzac, [Agence bibliographique de l’enseignement supérieur (ABES)](https://abes.fr/) 
-- Carly Robinson, [OSTI/DOE](https://www.osti.gov/)
+- Carly Robinson, [U.S. Dept. of Energy Office of Scientific and Technical Information (OSTI)](https://www.osti.gov/)
 - Arthur Smith, [American Physical Society (APS)](https://aps.org)
 - Shayn Smulyan, [Crossref](https://crossref.org)
-- Martin Spenger, [LMU Munich](https://www.lmu.de/en/)
+- Martin Spenger, [Ludwig-Maximilians-Universität München](https://www.lmu.de/en/)
 
 Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview).
 
