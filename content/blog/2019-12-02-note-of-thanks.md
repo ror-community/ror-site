@@ -3,14 +3,15 @@ title = "A Note of Thanks from ROR"
 date = "2019-12-02"
 draft = false
 tags = ["Community", "Sustainability",]
-categories = ["updates"]
+categories = ["General Updates"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/jaguar-thick.png"
 author = "Maria Gould"
 +++
 
-As we announced previously, ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16-help-sustain-ror/) to ensure the registry's long-term sustainability. We are grateful for the community supporters who have already contributed to this campaign. The first round of supporters was [announced a couple of weeks ago] (https://ror.org/blog/2019-11-13-ror-fundraising-update/). We are excited in this post to acknowledge the following additional contributors:
+As we announced previously, ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16-help-sustain-ror/) to ensure the registry's long-term sustainability. We are grateful for the community supporters who have already contributed to this campaign. The first round of supporters was [announced a couple of weeks ago](https://ror.org/blog/2019-11-13-ror-fundraising-update/). We are excited in this post to acknowledge the following additional contributors:
 
 - [American Physical Society](https://www.aps.org/)
 - [American Psychological Association](https://www.apa.org/)
@@ -21,7 +22,7 @@ These new contributions supplement those previously received from:
 - [Altum](https://www.altum.com/)
 - [Center for Science and Technology Studies (CWTS), Leiden University](https://www.cwts.nl/)
 - [Curtin University](https://www.curtin.edu.au/)
-- [Dryad](https://datadryad.org)
+- [Dryad](https://datadryad.org/)
 - [eLife](https://elifesciences.org/)
 - [German National Library of Science and Technology (TIB)](https://www.tib.eu/en/)
 

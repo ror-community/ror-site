@@ -2,8 +2,9 @@
 title = "ROR-ing on our own: Announcing our first independent registry update"
 date = "2022-03-17"
 draft = false
-tags = ["Updates", "Curation", "Community"]
-categories = ["updates"]
+tags = ["Curation", "Community"]
+categories = ["Technical News"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/city-ban.jpg"
 thumb = "/img/fireworks-sq.jpg"
@@ -29,7 +30,7 @@ This registry update is the first one that ROR has handled completely on its own
 
 Many of you know the backstory, but here is a recap of where we started and how we got to this point: ROR first launched in 2019 using seed data from GRID, which had been selected as the foundational data source for ROR to start with and then build upon independently and with community input. As ROR began building the technical infrastructure to support independent management of the registry, we coordinated updates via GRID and kept the two registries in sync while working toward a point of divergence.
 
-Although ROR always planned to diverge from GRID as an independent, community-oriented registry, GRID's future plans were not clear until mid-2021, when it announced that it would [retire from the public space at the end of the year and officially pass the torch to ROR](https://ror.org/blog/2021-07-12-ror-grid-the-way-forward/). *Note: If you are mapping GRID IDs to ROR IDs and need guidance, [this is a good place to start](https://ror.readme.io/docs/map-other-organization-id-types-to-ror).*
+Although ROR always planned to diverge from GRID as an independent, community-oriented registry, GRID's future plans were not clear until mid-2021, when it announced that it would [retire from the public space at the end of the year and officially pass the torch to ROR](https://ror.org/blog/2021-07-12-ror-grid-the-way-forward/). *Note: If you are mapping GRID IDs to ROR IDs and need guidance, [this is a good place to start](https://ror.readme.io/docs/mapping).*
 
 We are excited to have finally reached this long-awaited milestone of full independence!
 
@@ -65,8 +66,8 @@ We also know that as ROR adoption continues to increase, ROR integrators need to
 
 We hope that you are excited as we are about this milestone. We also know you might have some questions about what it means. Here are some things you might be wondering about and a few things that might be helpful to keep in mind:
 
-- **How can I check what is in this release?** You can see a summary of the records added or updated in the [release notes](https://github.com/ror-community/ror-updates/releases/tag/v1.0). You can look up the IDs and metadata in the ROR production service via the [search UI](https://ror.org/search) ([documentation](https://ror.readme.io/docs/web-search-interface)), [API](https://api.ror.org/organizations) ([documentation](https://ror.readme.io/docs/rest-api)), and [data dump](https://doi.org/10.5281/zenodo.6347575) ([documentation](https://ror.readme.io/docs/data-dump)).  
-- **Has the data model changed from previous releases?** This release preserves ROR's existing [data structure](https://ror.readme.io/docs/ror-data-structure), which was inherited from GRID. For the new and updated records included in the release, there are some slight differences in how we handle certain values in the location data (within the "addresses" array) because we are now pulling directly from Geonames based on a given location ID, and this was not always the case for previous releases.
+- **How can I check what is in this release?** You can see a summary of the records added or updated in the [release notes](https://github.com/ror-community/ror-updates/releases/tag/v1.0). You can look up the IDs and metadata in the ROR production service via the [search UI](https://ror.org/search) ([documentation](https://ror.readme.io/docs/web-search)), [API](https://api.ror.org/organizations) ([documentation](https://ror.readme.io/docs/rest-api)), and [data dump](https://doi.org/10.5281/zenodo.6347575) ([documentation](https://ror.readme.io/docs/data-dump)).  
+- **Has the data model changed from previous releases?** This release preserves ROR's existing [data structure](https://ror.readme.io/docs/fields), which was inherited from GRID. For the new and updated records included in the release, there are some slight differences in how we handle certain values in the location data (within the "addresses" array) because we are now pulling directly from Geonames based on a given location ID, and this was not always the case for previous releases.
 - **I submitted a request - why isn't it in this release?** This release (v1.0) includes addition and update requests that ROR received from late 2020 through the end of 2021, along with a few that were submitted in early 2022. If you submitted a request and it was not included in this release, this could be because it was submitted in the past couple of months. Another reason is that your request may have been determined to be out of scope for ROR. If so, the Github issue should explain why. Some requests were also not included in this release because we did not have the functionality to process them. For instance, since we do not yet have the ability to merge, redirect, and deprecate records, these types of requests are currently on hold.  
 - **Why did it take so long for this release to be completed?** We know that some of you submitted requests a while ago and expected a faster turnaround. While we were able to initiate workflows for reviewing and approving requests shortly after ROR's launch, we needed to build brand-new infrastructure to support the technical process by which the registry is updated (which includes generating and validating metadata, generating new ROR IDs, linking related records to each other, indexing the data, and deploying to our production services). This work ended up taking longer than expected for our small, minimally resourced team. Now that we have reached the critical milestone of publishing our first release with the new infrastructure, we assure you that the next releases will not take as long to complete!
 - **So, when is the next release going to be?** Going forward, we plan to publish new releases on a regular and predictable basis, approximately quarterly. This is similar to the frequency with which the public GRID data used to be updated (which ROR would sync to). We will communicate more details about the release schedule when these are firmed up.
@@ -90,7 +91,7 @@ In the first place, huge thanks to the team that brought this release to fruitio
 - ROR Technical Lead **Esha Datta** developed the infrastructure and workflow for generating new and updated metadata records, indexing them in our API, and deploying the changes to production. 
 - **Liz Krznarich** stepped into the Technical Lead role in February when Esha returned to her primary role at Crossref, and handled the final pieces of preparing the release and setting the foundation for future ones. 
 - ROR's new Metadata Curation Lead, **Adam Buttrick**, joined the team in January and quickly developed tools and workflows for reviewing, preparing, and testing the updates in this release. 
-- ROR's **[curation advisory board](https://ror.org/governance/#curation-advisory-board)** has been working for the past year to review and approve changes and to develop policies and workflows to guide these decisions.
+- ROR's **[curation advisory board](https://ror.org/registry/#curation-advisory-board)** has been working for the past year to review and approve changes and to develop policies and workflows to guide these decisions.
 
 Second, thanks are also due to **Digital Science**. ROR would not have such a comprehensive and useful dataset today if we had not been able to start with the seed file from GRID and coordinate updates through GRID for the past few years.
 

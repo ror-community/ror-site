@@ -2,8 +2,9 @@
 title = "ORCID Integrates ROR"
 date = "2021-10-22"
 draft = false
-tags = ["Updates", "Integrations", "ORCID" ]
-categories = ["updates"]
+tags = ["Integrations", "ORCID", "cross-post" ]
+categories = ["Adoption News"]
+archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/orcid-id-icon.png"
@@ -25,7 +26,7 @@ _Example API code for ROR_
 ## A short history of ROR’s inception
 The scholarly research community depends on a series of open identifier and metadata infrastructure systems to accurately identify and disambiguate researchers, their work, and the institutions that support that work.
 
-To help complete a missing piece of the infrastructure puzzle, [ROR was launched in 2019](https://ror.org/about/#history). It  is now a collaborative initiative run by [California Digital Library (CDL)](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org).
+To help complete a missing piece of the infrastructure puzzle, [ROR was launched in 2019](https://ror.org/about/#history). It  is now a collaborative initiative run by [California Digital Library (CDL)](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org).
 
 ## Why ROR? Why now?
 There are numerous ways data is used within the persistent identifier (PID) ecosystem, and affiliation is the key. Knowing where research is coming from, accessing clean and consistent data, and being able to report on the output of institutional research is central to many research stakeholders.

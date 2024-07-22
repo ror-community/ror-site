@@ -2,8 +2,9 @@
 title = "Case Study: ROR in DataSalon's MasterVision and PaperStack"
 date = "2023-05-10"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies"]
-categories = ["case-studies"]
+tags = ["Adoption", "Integrations", "Community"]
+categories = ["Case Studies"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/datasalon/datasalon-logo-image.png"
@@ -369,5 +370,8 @@ Great. Well, thank you so much again for doing this with us, Andy.
 
 Thank you for the opportunity.
 
+{{% callout color="green" icon="no-icon" %}}
 
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
+{{% /callout %}}

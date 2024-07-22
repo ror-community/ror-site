@@ -1722,6 +1722,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
     font-size: 1rem;
     text-transform: uppercase;
     background: 0 0;
+    display:block;
 }
 .pagination .page-item .page-link:focus, .pagination .page-item .page-link:hover {
     color: #2c2c2c;
@@ -1791,7 +1792,7 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: $font-bold;
-    margin: 2rem 0 0 0;
+    margin: 2rem 0 1rem 0;
     line-height: 2.5rem;
 }
 small {
@@ -5431,6 +5432,9 @@ img {
 [data-background-color=mustard] {
     background-color: #e89005;
 }
+[data-background-color=purple] {
+    background-color: #520c70;
+}
 [data-background-color=beige] {
     background-color: #d3bdb0;
 }
@@ -6695,6 +6699,7 @@ img {
     margin-left: 0;
     margin-bottom: 30px;
 }
+
 }@media screen and (max-width:580px) {
     .alert button.close {
     position: absolute;
@@ -6702,6 +6707,11 @@ img {
     top: 50%;
     transform: translateY(-50%);
 }
+
+.pagination .number {
+	display:none;
+}
+
 }@media screen and (max-width:576px) {
     .blog-post .button-container>.btn:first-child, .media, .projects-1 .nav-pills {
     display: block;
@@ -6809,6 +6819,12 @@ img {
     right: 1%;
     max-width: 133px;
     top: 99%}
+    
+.page-banner h1 {
+  font-size: 2rem;
+  line-height: 2rem;
+}
+    
 .pricing-5 .title {
     text-align: center;
 }
@@ -6822,9 +6838,14 @@ img {
 #social-buttons>.row .col-md-1:nth-child(2) p, #social-buttons>.row .col-md-1:nth-child(3) p, #social-buttons>.row .col-md-3 p {
     display: none;
 }
+
 }@media screen and (max-width:517px) {
     .alert .alert-icon {
     margin-top: 10px;
+}
+.page-banner h1 {
+  font-size: 2rem;
+  line-height: 2rem;
 }
 }@media screen and (min-width:1200px) {
     .section-images .hero-images-container-1 {
@@ -6883,15 +6904,11 @@ img.ror-id {
 .page-banner {
     /*margin-top: -70px;*/
  }
+ 
 .page-banner h1 {
 	color: #fff !important;
     font-family: $font-bold;
 	margin: 0;		
-}
-
-.blog h1 {
-  font-size: 2rem;
-  line-height: 2rem;
 }
 
 /* donations table on the Supporters page */
@@ -6929,6 +6946,11 @@ figure img {
 	border: solid 1px grey;
 }
 
+.noborder img { 
+	border: 0;
+	margin: 2em 0 2em 0;
+}
+
 .blog-figure img {
 	display: block;
 	margin-left: auto;
@@ -6946,6 +6968,13 @@ figure img {
     height:35px;
 }
 
+.featured-figure img {
+	display: block;
+	float: left;
+	width: 30%;
+	margin-right: 1em;
+}
+
 .blog-video {
 	padding-bottom: 2rem;	
 }
@@ -6957,6 +6986,17 @@ figure img {
 	width: 70%;	
 	margin-left:auto;
   	margin-right:auto;
+}
+
+.blog figcaption p {
+	text-align: center;
+}
+
+.blog pre code {
+font-size: small;
+color: #2c2c2c;
+word-break: break-word;
+
 }
 
 /* header anchor links */
@@ -7006,3 +7046,59 @@ h4 .ha, h5 .ha, h6 .ha, .blog .ha {
 	margin: .5em;
 }
 
+/* tables */
+
+table { 
+
+margin-right: 2em;
+font-size: .8em;
+margin-bottom: 2em;
+}
+
+td,
+th {
+  padding:3px 8px;
+  vertical-align:top
+}
+thead tr,
+thead tr:hover {
+  background-color:#e0004d;
+  border:1px solid #e0004d;
+  color:#fff
+}
+tr:nth-child(2n+2) {
+  background-color:#f3f3f3
+}
+table.no-zebra tr:nth-child(2n+2) {
+  background-color:#fff
+}
+
+/* footnotes */ 
+
+.footnotes {
+font-size: .8em;
+}
+
+.footnotes::before {
+  font-weight: bold;
+  font-size: 1.75rem;
+  line-height: 2.5rem;
+  content: "References";
+}
+
+.footnotes ol li, .footnotes ol li p {
+margin-bottom: .5rem;
+}
+
+
+/* taxonomies */
+
+.taxonomy .page-banner h1, .breadcrumbs li { 
+text-transform: capitalize;
+}
+
+/* page TOCs */
+
+.ror-toc { 
+margin-bottom: 1em;
+}

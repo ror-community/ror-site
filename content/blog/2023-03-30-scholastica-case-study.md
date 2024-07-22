@@ -2,8 +2,9 @@
 title = "Case Study: ROR in Scholastica Products"
 date = "2023-03-30"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies"]
-categories = ["case-studies"]
+tags = ["Adoption", "Integrations", "Community"]
+categories = ["Case Studies"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg"
@@ -100,7 +101,7 @@ The funny thing is that six months sounds fast to me! My certification has expir
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
  
-Sure. It wasn't too difficult for us. One thing you already touched on is that we have separate products for [peer review](https://scholasticahq.com/features/), [production](https://scholasticahq.com/typesetting/), and [publishing](https://scholasticahq.com/publishing-features/). That means we had to put ROR support in at least two places: our manuscript submission form and the form that is used to create an article. So that was a consideration from the start. That actually kind of divided the project into two phases. First, you've got to collect the data; you've got to update your web forms, right? That's the collecting part. Second, there's using it -- distributing it. Now that you have this data, you need to make sure that it's getting into your [Crossref metadata](https://www.crossref.org/documentation/schema-library/markup-guide-metadata-segments/affiliations/), that it's getting into your [JATS XML](https://ror.readme.io/docs/include-ror-ids-in-jats-xml), that it's getting into [Portico](https://www.portico.org/) and so forth. But anyway, you've got to make sure that anywhere you're sending article data, ROR is going along for the ride.
+Sure. It wasn't too difficult for us. One thing you already touched on is that we have separate products for [peer review](https://scholasticahq.com/features/), [production](https://scholasticahq.com/typesetting/), and [publishing](https://scholasticahq.com/publishing-features/). That means we had to put ROR support in at least two places: our manuscript submission form and the form that is used to create an article. So that was a consideration from the start. That actually kind of divided the project into two phases. First, you've got to collect the data; you've got to update your web forms, right? That's the collecting part. Second, there's using it -- distributing it. Now that you have this data, you need to make sure that it's getting into your [Crossref metadata](https://www.crossref.org/documentation/schema-library/markup-guide-metadata-segments/affiliations/), that it's getting into your [JATS XML](https://ror.readme.io/docs/jats), that it's getting into [Portico](https://www.portico.org/) and so forth. But anyway, you've got to make sure that anywhere you're sending article data, ROR is going along for the ride.
 
 And actually we did it in the reverse order. We did the second part first, which was to set up all our downstream integrations and different exports to understand and expect ROR identifiers, and we shipped that all the way to production. It wasn't doing anything, but it was just there waiting to be useful. And then we did the first part, which was adding it to the various web forms so that we were actually collecting it. That allowed us to release it in two separate phases. You mentioned Agile project planning: we're always looking for ways to break up an otherwise big project into a couple releases, if possible. So that's the approach we took. That can be a good tip for anyone who's similarly trying to keep this kind of project bite-sized.
 
@@ -126,7 +127,7 @@ Even apart from ROR you need your submission form to understand that authors may
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
-That's exactly the way we [recommend to do it](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets#ror-widget-recommendations), so that's great. How do you handle it when an author is affiliated with an organization that is not in ROR?
+That's exactly the way we [recommend to do it](https://ror.readme.io/docs/forms), so that's great. How do you handle it when an author is affiliated with an organization that is not in ROR?
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
  
@@ -134,7 +135,7 @@ Going back to what I said before, you need to get those two fields. We call it "
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
-I had actually never seen the term "typeahead" before I started at ROR, but that is what we call it in all of our [documentation](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets) and our [demo](https://ror-community.github.io/ror-typeahead-demos/) and our [demo code](https://github.com/ror-community/ror-typeahead-demos). I thought of it as a "suggest box" or something.
+I had actually never seen the term "typeahead" before I started at ROR, but that is what we call it in all of our [documentation](https://ror.readme.io/docs/forms) and our [demo](https://ror-community.github.io/ror-typeahead-demos/) and our [demo code](https://github.com/ror-community/ror-typeahead-demos). I thought of it as a "suggest box" or something.
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
  
@@ -144,7 +145,7 @@ It's an autosuggest sort of thing, you know, like when you're doing a search, it
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
-We recommend against that, because while we do have a process for people to request a new ROR ID for an organization, right now it's just a [Google form to request a single new organization](https://curation.ror.org). And it does take us roughly four to six weeks to get those new organizations into ROR, because we [curate those requests](https://ror.org/registry/#curation-model). We have to check and see, "Is this a real organization? Is it in scope?" So we [ask people not to require a ROR ID in forms](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets), because otherwise we'll get requests from people saying, you know, "I can't submit my manuscript, and I have to do it by tomorrow." So kudos to you: exactly the right way to do it. And we'd love to [build a process for collecting some of this data from ROR users](https://github.com/ror-community/ror-roadmap/issues/7), getting information on what these organizations are that people aren't finding in ROR, to see if we can add them. We'd like to do that someday, but it'll take a while to figure out.
+We recommend against that, because while we do have a process for people to request a new ROR ID for an organization, right now it's just a [Google form to request a single new organization](https://curation.ror.org). And it does take us roughly four to six weeks to get those new organizations into ROR, because we [curate those requests](https://ror.org/registry/#curation-model). We have to check and see, "Is this a real organization? Is it in scope?" So we [ask people not to require a ROR ID in forms](https://ror.readme.io/docs/forms), because otherwise we'll get requests from people saying, you know, "I can't submit my manuscript, and I have to do it by tomorrow." So kudos to you: exactly the right way to do it. And we'd love to [build a process for collecting some of this data from ROR users](https://github.com/ror-community/ror-roadmap/issues/7), getting information on what these organizations are that people aren't finding in ROR, to see if we can add them. We'd like to do that someday, but it'll take a while to figure out.
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
  
@@ -172,7 +173,7 @@ Also, and there aren't any short-term plans to do this, but this does give us th
  
 Sure, yeah. It's interesting that you're not showing ROR IDs to the users, and that you've said that whether users care about it or not, the ROR ID and that enriched metadata is a service to them, and a feature, and it might enable other features. I think ORCID originally thought that they would be a behind-the-scenes piece of technical infrastructure, and I think we thought the same at ROR, that it would be mostly implemented under the hood in the way you've done it. 
 
-But there are systems that do [display ROR IDs](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos) to their users, and it is kind of nice, because you can click on the link and go see some concise information about that organization. ROR is a bit different from ORCID in that ORCID records have to be maintained by individual researchers, so they do need to see it, whereas [ROR IDs are not maintained by individual institutions](https://ror.org/about/faqs/#who-is-the-contact-person-at-my-organization-responsible-for-our-ror-id). So I think you're exactly right that users don't really need to see the ROR ID, but they will benefit from that behind-the-scenes tidiness and enrichment of the metadata.
+But there are systems that do [display ROR IDs](https://ror.readme.io/docs/display) to their users, and it is kind of nice, because you can click on the link and go see some concise information about that organization. ROR is a bit different from ORCID in that ORCID records have to be maintained by individual researchers, so they do need to see it, whereas [ROR IDs are not maintained by individual institutions](https://ror.org/about/faqs/#who-is-the-contact-person-at-my-organization-responsible-for-our-ror-id). So I think you're exactly right that users don't really need to see the ROR ID, but they will benefit from that behind-the-scenes tidiness and enrichment of the metadata.
 
 ### {{< figure src="/img/blog/scholastica/cschires.jpg" class="round-figure" alt="Cory Schires" >}} Cory Schires
  
@@ -202,7 +203,7 @@ What do you hope ROR does in the future? What opportunities should we pursue, or
  
 The main thing is that I'm just glad ROR exists. There are all kinds of reasons why you would want to know what institution an author is coming from. **Before ROR, I was aware of some of the commercial competitors, but they were prohibitively expensive for many smaller journals and more difficult to integrate. We work with bigger journals and presses, but we also work with many small journals, and the price was a concern for our customers. When ROR came out as something that was free and community-supported, that was super important.**
 
-But that doesn't really answer your question. **I would say one thing I like about how y'all have set up ROR is your [approach to parent-child or nested institutions](https://ror.readme.io/docs/ror-hierarchies-and-relationships). Obviously, you can go super deep on that and get extremely detailed. And I think y'all have helpfully resisted the urge to go deeper than makes sense, in my opinion. I mean, people don't always realize that: it's kind of counterintuitive that there can be an inverse relationship between the richness of a dataset and its utility. It can get so granular, and that's cool, but then it's really hard to make any kind of inference from the data**. It becomes like [Borges's map](https://en.wikipedia.org/wiki/On_Exactitude_in_Science). It's really exact, but it's useless.
+But that doesn't really answer your question. **I would say one thing I like about how y'all have set up ROR is your [approach to parent-child or nested institutions](https://ror.readme.io/docs/relationships). Obviously, you can go super deep on that and get extremely detailed. And I think y'all have helpfully resisted the urge to go deeper than makes sense, in my opinion. I mean, people don't always realize that: it's kind of counterintuitive that there can be an inverse relationship between the richness of a dataset and its utility. It can get so granular, and that's cool, but then it's really hard to make any kind of inference from the data**. It becomes like [Borges's map](https://en.wikipedia.org/wiki/On_Exactitude_in_Science). It's really exact, but it's useless.
 
 {{< figure src="/img/blog/scholastica/map-territory.png" class="blog-figure" alt="What do you consider the largest map that would be really useful? - About six inches to the mile. - Only six inches! exclaimed Mein Herr. We very soon got to six yards to the mile. Then we tried a hundred yards to the mile. And then came the grandest idea of all ! We actually made a map of the country, on the scale of a mile to the mile! - Have you used it much? I enquired. - It has never been spread out, yet, said Mein Herr: the farmers objected: they said it would cover the whole country, and shut out the sunlight! So we now use the country itself, as its own map, and I assure you it does nearly as well." caption="Carroll, Lewis, and Harry Furniss. Sylvie and Bruno Concluded. London and New York: Macmillan and Co., 1893. [HathiTrust](https://hdl.handle.net/2027/uc2.ark:/13960/t6ww7b09m?urlappend=%3Bseq=208). Accessed 22 Mar. 2023. Influence on the one-paragraph Jorge Luis Borges short story 'Del rigor en la ciencia' [(On Exactitude in Science)](https://en.wikipedia.org/wiki/On_Exactitude_in_Science), first published 1946." >}}
 
@@ -271,8 +272,6 @@ I appreciate your time. Thanks for involving me. Happy to be doing this for ROR.
 
 {{% callout color="green" icon="no-icon" %}}
 
-- [Contact Cory Schires](mailto:cschires@scholasticahq.com), Co-founder and CTO, Scholastica
-- [Contact Amanda French](mailto:amanda@ror.org), ROR Technical Community Manager
-- [Register for an upcoming ROR Community Call](/events) to hear about integrations like these and more.
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
 {{% /callout %}}

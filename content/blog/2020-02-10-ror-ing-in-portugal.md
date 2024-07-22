@@ -2,8 +2,9 @@
 title = "ROR-ing Together in Portugal: A Community Celebration"
 date = "2020-02-10"
 draft = false
-tags = ["Community", "events",]
-categories = ["events"]
+tags = ["Community", "Annual Meeting",]
+categories = ["Event Recaps"]
+archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lions-in-lisbon-sq.jpg"

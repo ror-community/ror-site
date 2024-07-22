@@ -2,8 +2,9 @@
 title = "The ROR of the crowd: get involved!"
 date = "2018-12-02"
 draft = false
-tags = ["communication", "news"]
-categories = ["updates"]
+tags = ["communication", "community",]
+categories = ["General Updates"]
+archives = ["2018"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lions-square.jpg"

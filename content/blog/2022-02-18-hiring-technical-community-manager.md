@@ -2,8 +2,9 @@
 title = "ROR Is Hiring a Technical Community Manager"
 date = "2022-02-18"
 draft = false
-tags = ["Updates", "Jobs", "Development", "Community", "Adoption"]
-categories = ["updates"]
+tags = ["Jobs", "Development", "Community", "Adoption"]
+categories = ["Team Updates"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-crew-sq.jpg"
@@ -12,7 +13,7 @@ author = "Maria Gould"
 
 ROR is hiring! We are looking for a full-time Technical Community Manager to expand the adoption and integration of ROR throughout the global scholarly communications ecosystem.
 
-[ROR](https://ror.org) (Research Organization Registry) is a community-led initiative to develop an open, sustainable, usable, and unique identifier for every research organization in the world. It is jointly managed by [DataCite](https://datacite.org), [Crossref](https://crossref.org), and [California Digital Library](https://cdlib.org). Each of these operating organizations provides input on decisions and strategies that support the growth and sustainability of ROR. Our goal is to address the problem of tracking affiliations in research communications. The Technical Community Manager will be a key driver of that change.
+[ROR](https://ror.org) (Research Organization Registry) is a community-led initiative to develop an open, sustainable, usable, and unique identifier for every research organization in the world. It is jointly managed by [DataCite](https://datacite.org), [Crossref](https://www.crossref.org), and [California Digital Library](https://cdlib.org). Each of these operating organizations provides input on decisions and strategies that support the growth and sustainability of ROR. Our goal is to address the problem of tracking affiliations in research communications. The Technical Community Manager will be a key driver of that change.
 
 The Technical Community Manager will work closely with the small and committed core ROR team, staff from the three operating organizations, and the broader ROR community, to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows. This includes engaging with new and existing ROR adopters and other community stakeholders to understand their workflows and systems, and to guide their implementations and integrations.
 

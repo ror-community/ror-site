@@ -2,8 +2,9 @@
 title = "Joy Owango and Natasha Simons Join ROR Steering Group"
 date = "2023-01-23"
 draft = false
-tags = ["Updates", "Community", "Steering Group", "Governance"]
-categories = ["updates"]
+tags = ["community", "steering group", "governance"]
+categories = ["General Updates"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-couple-sq.jpg"
@@ -35,7 +36,7 @@ The complete current ROR Steering Group cohort for 2023 is:
 - Lautaro Matas, [LA Referencia](https://www.lareferencia.info/)
 - Ritsuko Nakajima, [Japan Science and Technology Agency](https://www.jst.go.jp/) (JST)
 - Joy Owango, [Training Centre in Communication](https://www.tcc-africa.org/) (TCC Africa)
-- Ed Pentz, [Crossref](https://crossref.org) (permanent member)
+- Ed Pentz, [Crossref](https://www.crossref.org) (permanent member)
 - Judy Ruttenberg, [Association of Research Libraries](https://www.arl.org/) (ARL)
 - Kathleen Shearer, [Confederation of Open Access Repositories](https://www.coar-repositories.org/) (COAR)
 - Chris Shillum, [ORCID](https://orcid.org/)

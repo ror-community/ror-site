@@ -2,8 +2,9 @@
 title = "ROR Welcomes Three New Steering Group Members"
 date = "2022-04-11"
 draft = false
-tags = ["Updates", "Community", "Steering Group", "Governance"]
-categories = ["updates"]
+tags = ["Community", "Steering Group", "Governance"]
+categories = ["General Updates"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-crew-sq.jpg"
@@ -22,9 +23,9 @@ The new members of the ROR Steering Group join those who formed the original coh
 -  **Clifford Lynch**, [Coalition for Networked Information](https://cni.org)
 -  **Ritsuko Nakajima**, [Japan Science and Technology Agency](https://ror.org/00097mb19)
 -  **Lautaro Matas***, [LA Referencia](https://www.lareferencia.info/)
--  **Ed Pentz**, [Crossref](https://crossref.org)
+-  **Ed Pentz**, [Crossref](https://www.crossref.org)
 -  **Judy Ruttenberg**, [Association of Research Libraries](https://arl.org)
 -  **Kathleen Shearer***, [Confederation of Open Access Repositories](https://www.coar-repositories.org/)
 -  **Chris Shillum***, [ORCID](https://orcid.org)
 
-In addition to the Steering Group, ROR engages community input and participation through other groups and channels. A larger [community advisory group](https://ror.org/community/), which is open to anyone, meets bimonthly to discuss ROR activities, share implementations and integrations, and give feedback on upcoming work. ROR's [curation advisory board](https://ror.org/governance/#curation-advisory-board) reviews proposed changes to ROR and maintains ROR's curation policies and workflows. A publisher adoption working group brings together those working on or planning ROR integrations in publishing systems.
+In addition to the Steering Group, ROR engages community input and participation through other groups and channels. A larger [community advisory group](https://ror.org/community/), which is open to anyone, meets bimonthly to discuss ROR activities, share implementations and integrations, and give feedback on upcoming work. ROR's [curation advisory board](https://ror.org/registry/#curation-advisory-board) reviews proposed changes to ROR and maintains ROR's curation policies and workflows. A publisher adoption working group brings together those working on or planning ROR integrations in publishing systems.

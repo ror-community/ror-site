@@ -2,8 +2,9 @@
 title = "Schema Scheming: Evolving the ROR Data Model"
 date = "2022-12-14"
 draft = false
-tags = ["Metadata", "Community", "API", "Data", "Schema"]
-categories = ["proposals"]
+tags = ["Metadata", "Community", "API", "Data", "Schema", "feedback"]
+categories = ["Requests"]
+archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/ror-elements-tech-u-kenya.png"
@@ -19,9 +20,9 @@ We've run several calls for feedback in 2022, but here's one you'll definitely w
 
 When [ROR diverged from GRID in March of 2022](https://ror.org/blog/2022-03-17-first-independent-release), it became possible for the first time to make changes to ROR's data model. Our first priority was to handle inactive organizations and other organization status changes, and the community solution, as it turned out, didn't involve any changes to the schema. We did the technical work to implement these organization status changes, and they were [moved into production on December 1st, 2022](https://ror.org/blog/2022-12-07-handling-org-status/). At the same time, knowing that both ROR's data model and its API will need to change in the future, we asked for feedback on a proposal to handle schema and API versioning, and the ROR community agreed on a [set of practices](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit?usp=sharing) meant to make schema and API changes as painless as possible for ROR users.
 
-With that necessary work done, **we are now proposing a number of significant changes to [metadata elements in ROR records](https://ror.readme.io/docs/ror-data-structure)** -- removing some, changing others, adding a few, and generally rationalizing the whole schema. We expect ROR schema 2.0 to be a major overhaul: we think it's best to do a lot of big changes at once and get them over with so that future changes can be less disruptive.
+With that necessary work done, **we are now proposing a number of significant changes to [metadata elements in ROR records](https://ror.readme.io/docs/data-structure)** -- removing some, changing others, adding a few, and generally rationalizing the whole schema. We expect ROR schema 2.0 to be a major overhaul: we think it's best to do a lot of big changes at once and get them over with so that future changes can be less disruptive.
 
-ROR's current top-level [data structure](https://ror.readme.io/docs/ror-data-structure):
+ROR's current top-level [data structure](https://ror.readme.io/docs/data-structure):
 
 {{< figure src="/img/ror-schema-1-0.png" class="blog-figure" alt="ROR data structure with 16 elements including name, id, addresses, etc." >}}
 

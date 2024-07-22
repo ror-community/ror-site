@@ -27,6 +27,8 @@ summaryLength = 20
     search = true
     categories = true
     tags = true
+    archives = true
+
 
 [params.carousel]
     enable = false
@@ -39,6 +41,9 @@ summaryLength = 20
 
 [params.blurb]
     enable = true
+
+[params.announcement]
+    enable = false
 
 [params.homepage_features]
     enable = true
@@ -57,6 +62,12 @@ summaryLength = 20
     enable = false
     title = "Twitter Feed"
     
-[social]
-	twitter = 'ResearchOrgs'    
+[params.social]
+	twitter = 'ResearchOrgs'
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  archive = 'archives'
+
     

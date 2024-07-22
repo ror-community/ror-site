@@ -5,12 +5,12 @@
   <div class="card-body">
     <h3 class="card-title">Categories</h3>
 
-    <ul class="nav nav-pills nav-stacked">
+    <ul class="nav nav-pills nav-stacked categories">
       {{ range $name, $items := .Site.Taxonomies.categories }}
-        {{ if eq ( $.Title | lower ) ( $name | lower ) }}
-          <li><span>{{ $name }} ({{ len $items }})</span></li>
+        {{ if eq ( $.Title | urlize | lower ) ( $name | lower ) }}
+          <li><span>{{ title (replace $name "-" " " ) }} ({{ len $items }})</span></li>
         {{ else }}
-          <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}"><span>{{ $name }} ({{ len $items }})</span></a></li>
+          <li><a href="{{ $.Site.BaseURL }}categories/{{ $name | urlize | lower }}"><span>{{ title (replace $name "-" " " ) }} ({{ len $items }})</span></a></li>
         {{ end }}
       {{ end }}
     </ul>

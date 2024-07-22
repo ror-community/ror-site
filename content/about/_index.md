@@ -7,11 +7,11 @@ aliases = [
     "/governance",
 	"/impact",
 	"/logos",
-	"display-guidelines",
+	"/display-guidelines",
 ]
 +++
 
-{{% toc %}}
+
 
 ## What is ROR?
 
@@ -24,13 +24,13 @@ ROR is the first and only organization identifier that is openly available (CC0 
 ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. [Read more about current ROR integrations](/community#adopters).
 
 
-## Frequently asked questions
+## FAQs
 
 Looking for basic information about ROR? Check out the [frequently asked questions](/about/faqs) for answers to questions about what organizations ROR includes, how ROR relates to other organizational identifiers, how to use ROR, and how information in ROR is added and modified. 
 
 ## Governance model
 
-ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement-2022.pdf) (MOA).
+ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement-2022.pdf) (MOA).
 
 Responsibility for ROR is designed and premised on the following core principles:
 
@@ -55,15 +55,15 @@ ROR's three governing organizations [share collective responsibility](/blog/2022
 
 ROR continues to receive additional investments from [community supporters](/community#supporters). These funds offset operating costs and support time-limited projects.
 
-In line with ROR's commitment to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org) (POSI), ROR will not only use time-limited funds for time-limited projects, and any potential revenue-generation models developed in the future would be based on services, not data.
+In line with ROR's commitment to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org) (POSI), ROR will only use time-limited funds for time-limited projects, and any potential revenue-generation models developed in the future would be based on services, not data.
 
 ## Team
 
 ### Operations team
 
-The ROR operations team is responsible for strategic decision-making about registry resourcing and operations. This team comprises the ROR project lead and a representative from each governing organization.
+The ROR operations team is responsible for strategic decision-making about registry resourcing and operations. This team comprises the ROR Director and a representative from each governing organization.
 
-- [Maria Gould](https://cdlib.org/contact/staff_directory/maria-gould-staff-profile/) (Project Lead), California Digital Library
+- [Maria Gould](https://datacite.org/team.html) (ROR Director), DataCite
 - [John Chodacki](https://cdlib.org/contact/staff_directory/john-chodacki-staff-profile/), California Digital Library
 - [Ed Pentz](https://www.crossref.org/people/ed-pentz/), Crossref
 - [Matt Buys](https://datacite.org/team.html), DataCite
@@ -72,29 +72,25 @@ The ROR operations team is responsible for strategic decision-making about regis
 
 ROR's core team is responsible for all activities related to day-to-day operations and development. 
 
-#### Adam Buttrick, Metadata Curation Lead
+#### Adam Buttrick, Product Manager
 
-Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). As metadata curation lead, Adam coordinates ongoing updates and improvements to the registry and works closely with ROR's community curation advisory board. A librarian and developer based in Los Angeles, USA, Adam previously worked as a data developer for the Getty Conservation Institute, as an implementation manager for OCLC's Metadata Services, and for the University of Michigan's Art, Architecture, and Engineering Library.
+Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team) as Metadata Curation Lead, in which capacity he built and managed ROR's curation processes. Adam is now Product Manager for Persistent Identifiers at the [California Digital Library](https://cdlib.org) and manages product improvements for ROR. A librarian and developer based in Los Angeles, USA, Adam previously worked as an R&D analyst at Crossref, a data developer for the Getty Conservation Institute, an implementation manager for OCLC's Metadata Services, and for the University of Michigan Library.
 
 #### Amanda French, Technical Community Manager
 
-Amanda [joined ROR in June 2022](/blog/2022-06-13-welcome-amanda-french/). Amanda works with ROR's three operating organizations and the broader ROR community to promote and support the adoption of ROR in systems used throughout research and scholarly communications workflows.
-
-A well-known community manager and project director in the digital humanities and scholarly communication sphere, Amanda was most recently Community Lead at The COVID Tracking Project at The Atlantic. Previously, she directed the Mellon-funded project "Resilient Networks for Inclusive Digital Humanities" at the George Washington University Libraries and the Digital Research Services unit at Virginia Tech University Libraries, led the THATCamp unconference initiative at George Mason University's Roy Rosenzweig Center for History and New Media, and was a member of the first cohort of Council on Library and Information Resources (CLIR) Postdoctoral Fellows. 
-
-Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
+Amanda [joined ROR in June 2022](/blog/2022-06-13-welcome-amanda-french/) as Technical Community Manager, charged with promoting and supporting the adoption of ROR in research and scholarly communications systems workflows. Amanda is based at [Crossref](https://crossref.org). A well-known community manager and project director in digital humanities and scholarly communication, Amanda was most recently Community Lead at The COVID Tracking Project at _The Atlantic_. Previously, she directed a Mellon-funded project at the George Washington University Libraries, served as Director of Digital Research Services at Virginia Tech University Libraries, and led the THATCamp unconference initiative at the Roy Rosenzweig Center for History and New Media. Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
 
 #### Liz Krznarich, Technical Lead
 
-Liz [joined the ROR team in late 2020](https://blog.datacite.org/working-at-the-intersection-of-people-and-technology/) as our first Adoption Manager and has developed extensive guidance to support ROR users and integrators, before [stepping into the role of ROR Technical Lead in February 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). Previously, Liz was based at ORCID for 6 years, where she held roles ranging from member support to technical lead. A librarian by training and a software developer by necessity, Liz thrives at the intersection of people, processes and technology. She loves understanding the human and technological aspects of systems and developing solutions that suit both the people and the machines.
+Liz [joined the ROR team in late 2020](https://blog.datacite.org/working-at-the-intersection-of-people-and-technology/) as our first Adoption Manager and has developed extensive guidance to support ROR users and integrators, before [stepping into the role of ROR Technical Lead in February 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-the-ror-team). Liz is based at [DataCite](https://datacite.org). Previously, Liz was based at ORCID for 6 years, where she held roles ranging from member support to technical lead. A librarian by training and a software developer by necessity, Liz thrives at the intersection of people, processes and technology. She loves understanding the human and technological aspects of systems and developing solutions that suit both the people and the machines.
 
-#### Maria Gould, Project Lead
+#### Maria Gould, Director
 
-Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) and led the team that launched the minimum viable registry (MVR) prototype at PIDapalooza in 2019. As project lead, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is based at California Digital Library, where she leads the University of California Curation Center (UC3)'s portfolio of persistent identifier services, including ROR. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS.
+Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) as UC3 Product Manager at the California Digital Library focusing on persistent identifier projects, and in that role she led the team that launched the minimum viable registry (MVR) ROR prototype at PIDapalooza in 2019. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS. As ROR's director, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is [now based at DataCite](https://datacite.org/blog/welcome-maria-gould-datacites-new-product-director/), where she is Director of Product. 
 
-#### Alumni and affiliates
+### Alumni and affiliates
 
-ROR has benefited and continues to benefit from the involvement of many individuals in its early years.
+ROR has benefited from and continues to benefit from the involvement of many individuals. We are especially grateful to those from Crossref, DataCite, and Digital Science who have helped to design, build, and promote ROR. 
 
 - Geoffrey Bilder, Crossref
 - Helena Cousijn, DataCite
@@ -102,6 +98,7 @@ ROR has benefited and continues to benefit from the involvement of many individu
 - Martin Fenner, DataCite
 - Richard Hallett, DataCite
 - Ginny Hendricks, Crossref
+- Jackson Huang, LEADING Fellow
 - Kornelia Korzec, Crossref
 - Suze Kundu, Digital Science
 - Rachael Lammey, Crossref
@@ -112,27 +109,32 @@ ROR has benefited and continues to benefit from the involvement of many individu
 
 ## Impact
 
-More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://tinyurl.com/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
+More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://bit.ly/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
 
-### ROR IDs in Crossref DOI metadata
-The chart below tracks the number of DOIs registered with Crossref that include ROR IDs in metadata over time. The chart begins in May 2022 and is updated by periodically running manual queries of the Crossref API. 
+### ROR IDs in Crossref metadata
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1786924431&amp;format=interactive" width="600" height="400"></iframe>
+<iframe width="1007" height="755" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
 
 See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional statistics.
 
-### ROR IDs in DataCite DOI metadata
-The chart below tracks the number of DOIs registered with DataCite that include ROR IDs in metadata over time. The chart begins in May 2022 and is updated by periodically running manual queries of the DataCite API. 
+### ROR IDs in DataCite metadata
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=674408658&amp;format=interactive" width="600" height="400"></iframe>
+<iframe width="1007" height="755" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=407872696&amp;format=interactive"></iframe>
+
+<iframe width="805" height="603" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1007793902&amp;format=interactive"></iframe>
+
+<iframe width="805" height="603" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=750999640&amp;format=interactive"></iframe>
 
 See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional statistics.
 
 ### ROR in published research
 
- <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4790165%2Fitems%3Fkey%3DtLg7EVAz22c9ckW47DwFkwht%26format%3Dbibtex%26limit%3D100" width="600" height="400"></iframe> 
+<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4790165%2Fitems%3Fkey%3DqWYUkNg8G2tSrs1m5i7SsKOn%26format%3Dbibtex%26limit%3D100" width="1000" height="800"></iframe> 
 
 See the full [ROR Research Zotero bibliography](https://www.zotero.org/groups/4790165/ror_research/library). 
+
+### ROR API usage 
+ROR API usage has seen remarkable increase over time and is a good, if rough, indicator of ROR's increasing adoption. Explore our [public ROR API insights dashboard](https://p.datadoghq.eu/sb/db1aec04-0c1a-11ec-860a-da7ad0900005-7d7c572812608235cca3359ee5ec591a) to see how much people are using our API. 
 
 ## History
 ROR is the culmination of several years of extensive community collaborations to develop a shared vision for a registry of organization identifiers.
@@ -208,7 +210,11 @@ ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/202
 
 ## Logos 
 
-To obtain official versions of the ROR logo, please visit our [display guidelines and logos](https://ror.readme.io/docs/ror-id-display-guidelines-and-logos) page and abide by the usage recommendations there. 
+To obtain official versions of the ROR logo, please visit our [display guidelines and logos](https://ror.readme.io/docs/display) page and abide by the usage recommendations there. 
+
+## Jobs
+
+ROR is a small but growing team. Visit our [jobs](/jobs) page to see current openings. 
 
 {{% callout icon="fa-envelope" %}}
 

@@ -2,9 +2,10 @@
 title = "Case Study: ROR in Caltech Repositories" 
 date = "2023-02-23" 
 draft = false 
-tags = ["Adoption", "Integrations", "Community", "Case Studies"] 
-categories = ["case-studies"] 
-style = "card-plain" 
+tags = ["Adoption", "Integrations", "Community"] 
+categories = ["Case Studies"] 
+archives = ["2023"]
+style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/caltech/caltech-new-logo-sq.png" 
 images = ['/img/blog/caltech/caltech-new-logo-sq.png']
@@ -183,3 +184,9 @@ Great! That's great to hear. Thank you so much, Tom.
 
 ### {{< figure src="/img/blog/caltech/tom-morrell.jpg" class="round-figure" alt="Tom Morrell" >}} Tom Morrell
 Well, thank you. It's been great to chat. 
+
+{{% callout color="green" icon="no-icon" %}}
+
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+
+{{% /callout %}}

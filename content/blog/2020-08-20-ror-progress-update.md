@@ -3,7 +3,8 @@ title = "Sustaining and Strengthening ROR"
 date = "2020-08-20"
 draft = false
 tags = ["Community", "implementation", "sustainability"]
-categories = ["updates"]
+categories = ["General Updates"]
+archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-sq.jpg"
@@ -63,6 +64,6 @@ ROR also has a brand-new [YouTube channel](https://www.youtube.com/channel/UCQBO
 ## Stay connected
 ROR is a community-driven effort and we encourage anyone who is interested to get involved.
 
-You can follow project updates on [Twitter](https://twitter.com/ResearchOrgs) and here on the ROR Blog, and participate in discussions in the [ROR Slack](https://tinyurl.com/ror-slack). If you're working on a ROR integration, check out the [API documentation on Github](https://github.com/ror-community/ror-api).
+You can follow project updates on [Twitter](https://twitter.com/ResearchOrgs) and here on the ROR Blog, and participate in discussions in the ROR Slack. If you're working on a ROR integration, check out the [API documentation on Github](https://github.com/ror-community/ror-api).
 
 The ROR Community Advisory Group holds community calls every other month. Contact [info@ror.org](mailto:info@ror.org) to join this group.

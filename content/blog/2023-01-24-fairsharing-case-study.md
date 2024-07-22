@@ -2,8 +2,9 @@
 title = "Case Study: ROR in FAIRsharing"
 date = "2023-01-24"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies"]
-categories = ["case-studies"]
+tags = ["Adoption", "Integrations", "Community"]
+categories = ["Case Studies"]
+archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/fairsharing/fairsharing-data-readiness.jpg"
@@ -156,7 +157,7 @@ This was a one-time process, but now gets repeated on a smaller scale, I think i
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-That's really fascinating, actually. And I love doing these interviews, because I'm always hearing about new ways to solve different problems. So first of all, that is one thing that we [recommend](https://ror.readme.io/docs/create-affiliation-selection-dropdowntypeahead-widgets#ror-widget-recommendations), that nobody require the entry of a ROR into their system, because there certainly are institutions that are not in ROR that should be, or that are not in ROR because of scope issues, but that are in scope for your system. Oddly enough, you can require an organization without requiring a ROR ID, right, but you're not even requiring organizations, correct?
+That's really fascinating, actually. And I love doing these interviews, because I'm always hearing about new ways to solve different problems. So first of all, that is one thing that we [recommend](https://ror.readme.io/docs/forms), that nobody require the entry of a ROR into their system, because there certainly are institutions that are not in ROR that should be, or that are not in ROR because of scope issues, but that are in scope for your system. Oddly enough, you can require an organization without requiring a ROR ID, right, but you're not even requiring organizations, correct?
 
 ### {{< figure src="/img/blog/fairsharing/allyson-lister.jpg" class="round-figure" alt="Allyson Lister" >}} Allyson Lister
 
@@ -373,6 +374,8 @@ Oh, I should mention that part of the reason we're able to work so effectively w
 
 Well, thank you so much for speaking to me. It was lovely to talk to you.
 
-{{% callout color="dark-grey" icon="no-icon" %}}
-Do you have a comment on or question about this post? Email [amanda@ror.org](mailto:amanda@ror.org) or [get involved](https://ror.readme.io/docs/get-involved) with the ROR community. 
+{{% callout color="green" icon="no-icon" %}}
+
+Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+
 {{% /callout %}}

@@ -3,7 +3,8 @@ title = "Pride in Community: ROR Fundraising Update"
 date = "2019-11-13"
 draft = false
 tags = ["Community", "Sustainability",]
-categories = ["updates"]
+categories = ["General Updates"]
+archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-thick.png"
@@ -15,7 +16,7 @@ ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16
 - [Altum](https://www.altum.com/)
 - [Center for Science and Technology Studies (CWTS), Leiden University](https://www.cwts.nl/)
 - [Curtin University](https://www.curtin.edu.au/)
-- [Dryad](https://datadryad.org)
+- [Dryad](https://datadryad.org/)
 - [eLife](https://elifesciences.org/)
 - [German National Library of Science and Technology (TIB)](https://www.tib.eu/en/)
 

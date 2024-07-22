@@ -2,8 +2,9 @@
 title = "ROR Resources Roundup"
 date = "2021-07-27"
 draft = false
-tags = ["API", "Updates" ]
-categories = ["updates"]
+tags = ["API", "integrations", "resources"]
+categories = ["Technical News"]
+archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-bw-sq.jpg"
@@ -19,7 +20,7 @@ ROR is all grown up and has its very own [support site](https://ror.readme.io)!
 On this site you’ll find:
 
 - [Technical docs](https://ror.readme.io/docs/rest-api) about ROR tools and services
-- [Implementation guides](https://ror.readme.io/docs/map-other-organization-id-types-to-ror) with tips for using these tools/services to address specific use cases
+- [Implementation guides](https://ror.readme.io/docs/mapping) with tips for using these tools/services to address specific use cases
 - Links to relevant code examples in the new [ror-utilities Github repository](https://github.com/ror-community/ror-utilities) and out in the world
 
 If you can’t find what you need or get stuck along the way, please post on the [ROR Tech Support Google Group](https://groups.google.com/a/ror.org/g/ror-api-users) (formerly ROR API Users - we recently changed the name to make it clear that we welcome all sorts of tech questions/discussion).
@@ -36,7 +37,7 @@ An important point to note is that ROR IDs are still considered primarily intern
 
 Curious about who’s using ROR and how they’re using it? Check out our [updated integrations list](/integrations), which includes more details than our previous list as well as options to sort and filter by integration type, status and other facets.
 
-- **Is your integration missing?** Tell us about it via the [integration info form](https://airtable.com/shrQlmqDpXie13ufz)
+- **Is your integration missing?** Tell us about it via the [integration info form](https://bit.ly/ror-integration-form)
 - **Is your integration on the list, but in need of updates?** Let us know at [info@ror.org](mailto:info@ror.org)
 
 [{{< figure src="/img/2021-07-ror-integrations.gif">}}](/integrations)
