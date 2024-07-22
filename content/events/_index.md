@@ -95,7 +95,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ## Past events 
 
 ### ROR Community Call July 2024 
-The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for July 2024](2024-07-16-ror-community-call) includes ...
+The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In the [ROR Community Call for July 2024](2024-07-16-ror-community-call), we hear initial thoughts on adding credentialing to the ROR API, request feedback on a proposal to add additional external identifiers to ROR records, learn about new ROR adoptions, notably DSpace 8, and see presentations from featured integrators the [American Physical Society (APS)](https://aps.org) and [Curvenote](https://curvenote.com).
 
 ### ROR Community Call May 2024 
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for May 2024](2024-05-23-ror-community-call) includes general updates, an update on the April launch of the v2 ROR API and schema, and an overview of publisher identifiers in DataCite's new metadata schema 4.5.
