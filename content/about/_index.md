@@ -216,8 +216,17 @@ To obtain official versions of the ROR logo, please visit our [display guideline
 
 ROR is a small but growing team. Visit our [jobs](/jobs) page to see current openings. 
 
+## Contact us
+
+- General questions: info@ror.org 
+- Technical questions: support@ror.org 
+- Metadata and curation questions: registry@ror.org 
+- Community and outreach questions: community@ror.org 
+
+You can also [book a Zoom meeting](https://calendly.com/ror-chat) with Technical Community Manager Amanda French. 
+
 {{% callout icon="fa-envelope" %}}
 
-Contact <info@ror.org> with any and all questions about ROR. 
+Not sure who to email? Write <info@ror.org> with any and all questions about ROR. 
 
 {{% /callout %}}
