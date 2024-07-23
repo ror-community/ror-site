@@ -15,7 +15,7 @@ description = "The American Physical Society (APS) has become the largest societ
 
 {{< figure src="/img/blog/aps/aps-logo.png" class="featured-figure" alt="APS 125 logo" >}}
 
-The American Physical Society (APS) has become the largest society publisher to adopt ROR. Read the announcement and watch a presentation from APS Lead Data Analyst Arthur Smith given at last week's [ROR Community Call](/events/2024-07-16-ror-community-call). 
+The American Physical Society (APS) has become the largest society publisher to adopt ROR, incorporating it into their manuscript submission process and sending ROR IDs in author affiliation metadata to Crossref. "We've been eagerly supporting ROR for a long time," said APS Lead Data Analyst Arthur Smith. Read the whole announcement and watch Arthur's marvelous presentation about the APS integration from last week's [ROR Community Call](/events/2024-07-16-ror-community-call). 
 
 {{% callout color="green" icon="no-icon" %}} 
 The below is cross-posted from the American Physical Society newsroom. [Read the original announcement.](https://www.aps.org/about/news/2024/07/research-organization-registry)
@@ -43,7 +43,9 @@ Contact the APS Press Office at media@aps.org with questions.
 
 Last week at the [ROR Community Call](/events/2024-07-16-ror-community-call), APS Lead Data Analyst Arthur Smith explained why and how APS adopted ROR IDs for author affiliation identification. 
 
-{{<youtube id="qH1JXbAxbYU" title="Featured ROR integrator American Physical Society" >}}
+{{<youtube id="qH1JXbAxbYU" title="Featured ROR integrator American Physical Society" class="blog-video" >}}
+
+The American Physical Society may be the largest society publisher so far to adopt ROR, but we know they won't be the last. Kudos to APS for helping to lead the way. 
 
 --- 
 
