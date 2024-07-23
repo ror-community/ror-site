@@ -31,6 +31,10 @@ APS also sends ROR identifiers to [Crossref](https://crossref.org), an online re
 
 APS is one of the first publishers to incorporate ROR identifiers in published metadata, demonstrating the society’s commitment to advancing open science.
 
+{{% callout color="green" icon="no-icon" %}} 
+The below is cross-posted from the American Physical Society newsroom. [Read the original announcement.](https://www.aps.org/about/news/2024/07/research-organization-registry)
+{{% /callout %}}
+
 {{% callout icon="fa-envelope" %}} 
 
 Contact the APS Press Office at media@aps.org with questions. 
@@ -49,11 +53,12 @@ The American Physical Society may be the largest society publisher so far to ado
 
 --- 
 
+{{% callout color="orange" icon="fa-bullhorn" %}} 
 
-{{% callout icon="no-icon" %}} 
-
-Tell us about your ROR integration! https://bit.ly/ror-integration-form
+Will you be the next publisher to adopt ROR for author affiliations and funders? [Learn how.](https://ror.readme.io/v2/docs/)
 
 {{% /callout %}}
+
+
 
 
