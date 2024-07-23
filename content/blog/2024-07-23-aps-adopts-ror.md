@@ -7,13 +7,13 @@ categories = ["Adoption News"]
 archives = ["2024"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png"
-thumb = "/img/blog/aps/aps-logo.png" 
-images = ['/img/blog/europepmc/aps/aps-logo.png']
+thumb = "/img/blog/aps/aps-logo.jpg" 
+images = ['/img/blog/europepmc/aps/aps-logo.jpg']
 author = "American Physical Society" 
 description = "The American Physical Society (APS) has become the largest society publisher to adopt Research Organization Registry Identifiers. Institutional metadata in the Physical Review journals are now easier to find, track, and reference — a move that strengthens open science and research transparency."
 +++ 
 
-{{< figure src="/img/blog/aps/aps-logo.png" class="featured-figure" alt="APS 125 logo" >}}
+{{< figure src="/img/blog/aps/aps-logo.jpg" class="featured-figure" alt="APS 125 logo" >}}
 
 The American Physical Society (APS) has become the largest society publisher to adopt ROR, incorporating it into their manuscript submission process and sending ROR IDs in author affiliation metadata to Crossref. "We've been eagerly supporting ROR since before it was ROR," said APS Lead Data Analyst Arthur Smith. Read the whole announcement from APS below, then watch Arthur's marvelous presentation about the APS integration from last week's [ROR Community Call](/events/2024-07-16-ror-community-call). 
 
