@@ -17,7 +17,7 @@ description = "The American Physical Society (APS) has become the largest societ
 
 The American Physical Society (APS) has become the largest society publisher to adopt ROR, incorporating it into their manuscript submission process and sending ROR IDs in author affiliation metadata to Crossref. "We've been eagerly supporting ROR since before it was ROR," said APS Lead Data Analyst Arthur Smith. Read the whole announcement from APS below, then watch Arthur's marvelous presentation about the APS integration from last week's [ROR Community Call](/events/2024-07-16-ror-community-call). 
 
-{{% callout color="green" icon="no-icon" %}} 
+{{% callout color="green" icon="fa-copy" %}} 
 The below is cross-posted from the American Physical Society newsroom. [Read the original announcement.](https://www.aps.org/about/news/2024/07/research-organization-registry)
 {{% /callout %}} 
 
