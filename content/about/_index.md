@@ -227,6 +227,6 @@ You can also [book a Zoom meeting](https://calendly.com/ror-chat) with Technical
 
 {{% callout icon="fa-envelope" %}}
 
-Not sure who to email? Write <info@ror.org> with any and all questions about ROR. 
+Write <info@ror.org> with any and all questions about ROR. 
 
 {{% /callout %}}
