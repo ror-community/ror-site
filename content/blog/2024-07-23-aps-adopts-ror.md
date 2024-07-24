@@ -23,7 +23,7 @@ The below is cross-posted from the American Physical Society newsroom. [Read the
 
 ## American Physical Society Becomes Largest Society Publisher to Adopt Research Organization Registry Identifiers
 
-The [American Physical Society](https://www.aps.org/homepage-launch) has adopted the [Research Organization Registry](https://ror.org) identification system, assigning persistent identifiers to authors' affiliations for every paper published in the Physical Review journals. The action comes as a response to challenges faced by the scientific community regarding metadata tracking.
+The [American Physical Society](https://www.aps.org/homepage-launch) has adopted the [Research Organization Registry](https://ror.org) identification system, assigning persistent identifiers to authors' affiliations for every paper published in the [Physical Review journals](http://journals.aps.org). The action comes as a response to challenges faced by the scientific community regarding metadata tracking.
 
 Researchers, institutions, and libraries alike rely on high quality, accurate metadata to monitor publication output and impact. However, institutional metadata has lacked standardization across the publishing landscape. By assigning openly available ROR persistent identifiers, APS provides a solution to this problem and more. These identifiers will help authors and institutions keep track of the scope of their work.
 
