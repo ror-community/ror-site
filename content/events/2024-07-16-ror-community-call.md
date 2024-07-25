@@ -7,7 +7,7 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In the July Community Call, we hear initial thoughts on adding credentialing to the ROR API, request feedback on a proposal to add additional external identifiers to ROR records, learn about new ROR adoptions, notably DSpace 8, and see presentations from featured integrators  @apsphysics   and Curvenote."
+description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In the July Community Call, we hear initial thoughts on adding credentialing to the ROR API, request feedback on a proposal to add additional external identifiers to ROR records, learn about new ROR adoptions, notably DSpace 8, and see presentations from featured integrators APS and Curvenote."
 +++
 
 ### ROR Community Call July 2024
