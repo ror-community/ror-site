@@ -9,8 +9,6 @@ aliases = [
 "/tutorials"]
 +++
 
-{{% toc %}}
-
 ## What this lesson covers
 
 * Basic features of the ROR API

@@ -6992,12 +6992,21 @@ figure img {
 	text-align: center;
 }
 
-.blog code {
-font-size: small;
-color: #2c2c2c;
-word-break: break-word;
-
+.blog pre code {
+	font-size: small;
+	color: #2c2c2c;
+	word-break: break-word;
 }
+
+.blog blockquote {
+margin: 0 0 1rem 4rem;
+font-size: .95em;
+}
+
+.page-banner h1#page-title {
+font-size: 2.75rem;
+}
+
 
 /* header anchor links */
 
@@ -7093,7 +7102,13 @@ margin-bottom: .5rem;
 
 /* taxonomies */
 
-.taxonomy .page-banner h1, .breadcrumbs li { 
+.taxonomy .page-banner h1, .taxonomy .breadcrumbs li { 
 text-transform: capitalize;
+}
+
+/* page TOCs */
+
+.ror-toc { 
+margin-bottom: 1em;
 }
 

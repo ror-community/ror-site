@@ -26,33 +26,9 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 -->
 
 
-{{% toc %}}
+
 
 ## Upcoming events
-
----
-
-### ROR Community Call July 2024
-- Date: Tuesday, July 16, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-16&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJUkfu6vrDsiHNcT3RAW4YNECmsyd5YzE3Hs" %}} Register for the July Community Call {{% /button %}}
-
----
-
-### DataCite Open Hours July 2024
-- Date: Wednesday, July 17, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-07-17&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: DataCite has two really exciting presentations lined up from DataCite members Dryad and Zenodo, who will be showcasing the work they are doing with ROR IDs in the context of DataCite services and infrastructure. We will also have the chance to hear the latest from our Global Access Fund (GAF) awarded project in Georgia.
-
-{{% button color="green" link="https://datacite.zoom.us/meeting/register/tZArfuyqrTwuHNU-r0CP6GM0NJUOSHOaSxJX#/registration" %}} Register for DataCite Open Hours {{% /button %}}
 
 ---
 
@@ -73,6 +49,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description: ROR team members will be in attendance in person at the annual meeting of FORCE11, which brings together a wide and diverse set of stakeholders from scholarly communications communities. 
 
 {{% button color="green" link="https://force11.org/conference/" %}} Register for FORCE11 {{% /button %}}
+
+---
+
+### Paris Conference on Open Research Information
+- Date: September 23-24, 2024
+- Duration: 1 hour
+- Location: Paris
+- Recorded: No
+- Description: ROR team members will be present at the Paris Conference on Open Research Information. To support signatories of the [Barcelona Declaration](https://barcelona-declaration.org) in fulfilling their commitment to open research information, the Paris Conference on Open Research Information aims to provide a forum for sharing experiences and good practices regarding open research information and to develop a joint roadmap for open research information. 
+
+{{% button color="green" link="https://barcelona-declaration.org/conference" %}} Learn more about the Paris Conference on Open Research Information {{% /button %}}
 
 ---
 
@@ -106,6 +93,9 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### ROR Community Call July 2024 
+The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In the [ROR Community Call for July 2024](2024-07-16-ror-community-call), we hear initial thoughts on adding credentialing to the ROR API, request feedback on a proposal to add additional external identifiers to ROR records, learn about new ROR adoptions, notably DSpace 8, and see presentations from featured integrators the [American Physical Society (APS)](https://aps.org) and [Curvenote](https://curvenote.com).
 
 ### ROR Community Call May 2024 
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for May 2024](2024-05-23-ror-community-call) includes general updates, an update on the April launch of the v2 ROR API and schema, and an overview of publisher identifiers in DataCite's new metadata schema 4.5.

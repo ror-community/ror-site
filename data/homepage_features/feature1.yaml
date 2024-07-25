@@ -1,6 +1,6 @@
 weight: 1
 name: "Use the registry"
 icon: "/img/example-record.png"
-description: "The Research Organization Registry (ROR) includes IDs and metadata for more than 107,000 organizations and counting. Registry data is CC0 and openly available via a search interface, REST API, and data dump. Registry updates are curated through a community process and released at least once a month."
+description: "The Research Organization Registry (ROR) includes IDs and metadata for more than 110,000 organizations and counting. Registry data is CC0 and openly available via a search interface, REST API, and data dump. Registry updates are curated through a community process and released at least once a month."
 link_text: "More"
 link_url: "/registry"
