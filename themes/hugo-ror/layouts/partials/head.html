@@ -8,7 +8,11 @@
   {{ else }}
   <title>{{ .Site.Title }} | {{ .Page.Title }}</title>
   {{ end }}
-   <meta name="description" content="{{ .Site.Params.Description }}" />
+  {{ if .Page.Description }}
+  <meta name="description" content="{{ .Page.Description }}" />
+  {{ else }}
+  <meta name="description" content="{{ .Site.Params.Description }}" />
+  {{ end }}
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, shrink-to-fit=no' name='viewport' />
 
   <!--     Fonts and icons     -->
