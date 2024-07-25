@@ -7008,6 +7008,21 @@ font-size: 2.75rem;
 }
 
 
+@media screen and (max-width:1024px) {
+    .page-banner h1#page-title {
+	font-size: 3vw;
+	line-height: 1.2em;
+}
+}
+
+@media screen and (max-width:480px) {
+    .page-banner h1#page-title {
+	font-size: 5vw;
+	line-height: 1.2em;
+}
+}
+
+
 /* header anchor links */
 
 .ha {

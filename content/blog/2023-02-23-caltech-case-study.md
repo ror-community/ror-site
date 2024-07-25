@@ -2,7 +2,7 @@
 title = "Case Study: ROR in Caltech Repositories" 
 date = "2023-02-23" 
 draft = false 
-tags = ["Adoption", "Integrations", "Community"] 
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews"] 
 categories = ["Case Studies"] 
 archives = ["2023"]
 style = "card-plain"
