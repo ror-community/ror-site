@@ -24,7 +24,7 @@
 									{{ $isLast := eq ($.Scratch.Get "path") $.RelPermalink }}
 									{{ if ne $element "" }}
 										{{ if not $isLast }}
-											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) }}
+											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) ( eq (title ( replace . "-" " ")) "Archives" )}}
 												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>
 											{{ else }}
 												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title }}{{ end }}</a><span>&gt;</span></li>
