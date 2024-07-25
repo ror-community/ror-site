@@ -7007,6 +7007,33 @@ font-size: .95em;
 font-size: 2.75rem;
 }
 
+@media screen and (min-width:320px) {
+    .page-banner h1#page-title {
+	font-size: 7vw;
+	line-height: 1.2em;
+}
+}
+
+@media screen and (min-width:480px) {
+    .page-banner h1#page-title {
+	font-size: 4vw;
+}
+}
+
+@media screen and (min-width:800px) {
+    .page-banner h1#page-title {
+	font-size: 3vw;
+	line-height: 1em;
+}
+}
+
+@media screen and (min-width:1024px) {
+    .page-banner h1#page-title {
+	font-size: 3vw;
+	line-height: 1.2em;
+}
+}
+
 
 /* header anchor links */
 
