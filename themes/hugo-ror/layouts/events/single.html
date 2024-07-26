@@ -43,22 +43,7 @@
             <p><a href="{{ .Params.reglink }}" class="btn btn-sm btn-round green">Register for {{ .Title }}</a></p>				
             {{ else }}
 			{{ end }}
-			
-			{{ if .Params.eventarchives }}
-			<p>{{ .Params.eventarchives }}</p>
-			{{ else }}
-			{{ end }}
-			
-			{{ if .Params.eventcategories }}
-			<p>{{ .Params.eventcategories }}</p>
-			{{ else }}
-			{{ end }}
-			
-			{{ if .Params.eventtags }}
-			<p>{{ .Params.eventtags }}</p>
-			{{ else }}
-			{{ end }}
-							
+								
 				{{ .Content }}
 				            
               </div>                  
