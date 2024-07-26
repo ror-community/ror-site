@@ -1,0 +1,21 @@
+{{ if .Site.Params.widgets.eventcategories }}
+{{ if isset .Site.Taxonomies "eventcategories" }}
+{{ if not (eq (len .Site.Taxonomies.eventcategories) 0) }}
+<div class="card card-plain taxonomy">
+  <div class="card-body">
+    <h3 class="card-title">Categories</h3>
+
+    <ul class="nav nav-pills nav-stacked categories">
+      {{ range $name, $items := .Site.Taxonomies.eventcategories }}
+        {{ if eq ( $.Title | urlize | lower ) ( $name | lower ) }}
+          <li><span>{{ title (replace $name "-" " " ) }} ({{ len $items }})</span></li>
+        {{ else }}
+          <li><a href="{{ $.Site.BaseURL }}eventcategories/{{ $name | urlize | lower }}"><span>{{ title (replace $name "-" " " ) }} ({{ len $items }})</span></a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}
+{{ end }}
+{{ end }}
