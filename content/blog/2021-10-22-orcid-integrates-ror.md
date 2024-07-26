@@ -2,7 +2,7 @@
 title = "ORCID Integrates ROR"
 date = "2021-10-22"
 draft = false
-tags = ["Integrations", "ORCID", "cross-post" ]
+tags = ["Integrations", "ORCID", "Cross-post" ]
 categories = ["Adoption News"]
 archives = ["2021"]
 style = "card-plain"

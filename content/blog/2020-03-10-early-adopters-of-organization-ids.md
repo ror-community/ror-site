@@ -2,7 +2,7 @@
 title = "Early Adopters of Organization Identifiers in DataCite"
 date = "2020-03-10"
 draft = false
-tags = ["community", "implementation", "DataCite", "cross-post"]
+tags = ["Community", "Implementation", "DataCite", "Cross-post"]
 categories = ["Explainers"]
 archives = ["2020"]
 style = "card-plain"
