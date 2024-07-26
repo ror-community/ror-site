@@ -2,7 +2,7 @@
 title = "Open Funder Registry to Transition to ROR (cross-post)"
 date = "2023-09-07"
 draft = false
-tags = ["funders", "metadata", "persistent-identifiers", "pids", "registry", "cross-post" ]
+tags = ["funders", "metadata", "persistent-identifiers", "pids", "registry", "Cross-post" ]
 categories = ["General Updates"]
 archives = ["2023"]
 style = "card-plain"

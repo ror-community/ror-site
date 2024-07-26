@@ -2,7 +2,7 @@
 title = "ROR development update: Building and growing an open registry of organizations"
 date = "2019-07-02"
 draft = false
-tags = ["Implementation", "MVR", "prototype", "GRID"]
+tags = ["Implementation", "MVR", "Prototype", "GRID"]
 categories = ["Technical News"]
 archives = ["2019"]
 style = "card-plain"
