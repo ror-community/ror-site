@@ -16,10 +16,8 @@
 
         <div class="section container">
           <div class="row">
-            <div class="col-md-12" id="event-listing-large">
-            
-            {{ partial "toc.html" . }}
-       
+            <div class="col-md-9" id="event-listing">
+                   
                <h2>{{ .Title }}</h2>
 
                <ul>
@@ -46,7 +44,11 @@
 								
 				{{ .Content }}
 				            
-              </div>                  
+              </div> 
+            <div class="col-md-3">
+              {{ partial "eventsidebar.html" . }}    
+            </div>
+                             
             </div>
           </div>
         </div>
