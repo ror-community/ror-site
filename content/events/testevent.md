@@ -21,21 +21,19 @@ aliases = [""]
 +++
 
 
-<!-- Post-event content template
 
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vRE00QT1Cb6NxhnjD4VM-6hyFADild4O48J8GSCOglT53RyDwIWPh_bqwCdycoYb8H9s8_oLwvx3MQi/pub?start=false&loop=false&delayms=3000)
 
-<iframe src=""></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRE00QT1Cb6NxhnjD4VM-6hyFADild4O48J8GSCOglT53RyDwIWPh_bqwCdycoYb8H9s8_oLwvx3MQi/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
 
 ## Recording 
 
-{{< youtube id="" >}}
+{{< youtube id="K1gfnAqsPTc" >}}
 
 --- 
 
---> 
 
