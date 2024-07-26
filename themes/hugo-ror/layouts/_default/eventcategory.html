@@ -30,14 +30,14 @@
                           {{ end }}
                         {{ end }}
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                          <div class="clearfix post-meta">
-                            <p class="date-comments">
-                                {{ .Date.Format .Site.Params.date_format }}
-                            </p>
-                          </div>
-                          <p class="intro">{{ .Description }}</p>
-                          <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See all event details</a>
-                          </p>
+                          <ul>
+                            <li class="date-comments">
+                                Date: {{ .Date.Format .Site.Params.date_format }}
+                            </li>
+                          <li class="intro">Description: {{ .Description }}</li>
+                          </ul>
+                          <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See all event details</a></p>
+                          <hr />
                         </div>
                     </div>
                 </section>
@@ -50,14 +50,9 @@
             </div>
 
             <div class="col-md-3">
-
-              <!-- *** MENUS AND WIDGETS *** -->
-
               {{ partial "eventsidebar.html" . }}
-
-              <!-- *** MENUS AND FILTERS END *** -->
-
             </div>
+            
           </div>
         </div>
       </section>

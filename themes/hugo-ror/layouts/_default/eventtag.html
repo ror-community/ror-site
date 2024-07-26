@@ -20,7 +20,7 @@
             
               {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
               {{ range $paginator.Pages }}
-              
+
                 <section class="post">
                   <div class="row">
                     <div class="col-md-4">
@@ -37,25 +37,22 @@
                       </div>
                     </div>
                       <div class="col-md-8">
-                        {{ if isset .Params "categories" }}
-                          {{ if gt (len .Params.categories) 0 }}
-                          <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a></strong>
+                        {{ if isset .Params "eventcategories" }}
+                          {{ if gt (len .Params.eventcategories) 0 }}
+                          <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}eventcategories/{{ index .Params.eventcategories 0 | urlize | lower }}">{{ index .Params.eventcategories 0 }}</a></strong>
                           {{ end }}
                         {{ end }}
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                           <div class="clearfix post-meta">
-                            <p class="author-category">
-                              {{ if isset .Params "author" }}
-                                By {{ .Params.author }}
-                              {{ end }}
-                            </p>
+
                             <p class="date-comments">
-                                <a href="{{ .Permalink }}">{{ .Date.Format .Site.Params.date_format }}</a>
+                                {{ .Date.Format .Site.Params.date_format }}
                             </p>
-                          </div>
-                          <p class="intro">{{ .Summary }}</p>
-                          <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round">Continue reading</a>
-                          </p>
+                            
+                          </div>  
+                          <p class="intro">{{ .Description }}</p>
+                          <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See all event details</a></p>
+                          <hr />
                         </div>
                     </div>
                 </section>
@@ -68,16 +65,12 @@
             </div>
 
             <div class="col-md-3">
-
-              <!-- *** MENUS AND WIDGETS *** -->
-
               {{ partial "eventsidebar.html" . }}
-
-              <!-- *** MENUS AND FILTERS END *** -->
-
             </div>
+            
           </div>
         </div>
+        
       </section>
     </div>
 
