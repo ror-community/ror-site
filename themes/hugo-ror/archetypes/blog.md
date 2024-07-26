@@ -12,7 +12,7 @@ images = ['/img/blog/']
 author = "" 
 description = ""
 slug = ""
-aliases = ""
+aliases = [""]
 +++ 
 
 <!-- Commonly used content 
