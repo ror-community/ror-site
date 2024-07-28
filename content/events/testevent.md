@@ -1,6 +1,6 @@
 +++
 title = "Test Event Title" 
-date = "2024-12-12"  
+date = "2024-07-27"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -10,11 +10,12 @@ author = "Research Organization Registry (ROR)"
 eventcategories = ["Webinars"]
 eventarchives = ["2024"]
 eventtags = ["ROR Event", "API", "External Identifiers"]
-enddate = ""
-start = "3pm UTC"
-duration = "1 hour"
-location = "Online"
-recorded = "Yes"
+startdate = 2024-12-12
+enddate = 2024-12-14
+starttime = ""
+duration = ""
+location = "Paris, France"
+recorded = "No"
 description = "Join us at a ROR event."
 reglink = ""
 aliases = [""]
