@@ -18,7 +18,6 @@ location = "Online"
 recorded = "Yes"
 description = "Join us at a ROR event."
 reglink = ""
-aliases = [""]
 +++
 
 

@@ -18,7 +18,6 @@ location = "Paris, France"
 recorded = "No"
 description = "Join us at a ROR event."
 reglink = ""
-aliases = [""]
 +++
 
 
