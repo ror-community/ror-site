@@ -5,7 +5,6 @@ style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
 summaryLength = 20
-buildFuture = true
 
 [params]
 	date_format = "January 2, 2006"
