@@ -7,8 +7,19 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
+eventcategories = [""]
+eventarchives = ["{{now.Year}}"]
+eventtags = ["", "",]
+startdate = []
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = "Call about proposed changes to the ROR metadata schema for schema version 2.0"
+reglink = ""
 +++
+
 
 ## ROR Schema Changes Call
 - Date and time: Thursday, March 16th, 2023 at [2pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Schema+Changes+Call&iso=20230316T14&p1=%3A) (1 hour)

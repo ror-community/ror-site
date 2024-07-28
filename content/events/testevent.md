@@ -7,19 +7,18 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventcategories = ["Webinars"]
-eventarchives = ["2024"]
-eventtags = ["ROR Event", "API", "External Identifiers"]
-startdate = 2024-12-12
-enddate = 2024-12-14
-starttime = ""
-duration = ""
-location = "Paris, France"
-recorded = "No"
+eventcategories = [""]
+eventarchives = ["{{now.Year}}"]
+eventtags = ["", "",]
+startdate = []
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = "Join us at a ROR event."
 reglink = ""
 +++
-
 
 
 ### Materials 

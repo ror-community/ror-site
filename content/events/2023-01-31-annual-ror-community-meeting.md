@@ -7,9 +7,18 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
+eventcategories = [""]
+eventarchives = ["{{now.Year}}"]
+eventtags = ["", "",]
+startdate = []
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = "Annual ROR Community Meeting 2023"
+reglink = ""
 +++
-
 ## Annual ROR Community Meeting
 
 {{< figure src="/img/roring-on-zoom-cropped.png" alt="Screenshot of Zoom screens from participants at 2021 ROR community meeting" caption="A ROR-able moment from the 2021 community meeting">}}

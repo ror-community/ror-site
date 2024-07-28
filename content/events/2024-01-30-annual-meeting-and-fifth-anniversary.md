@@ -7,8 +7,19 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
+eventcategories = [""]
+eventarchives = ["{{now.Year}}"]
+eventtags = ["", "",]
+startdate = []
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = "ROR is turning 5 years old, so we take this opportunity to reflect on the last five years, looking back on where we started and how we got here. We hear about where we've been and where we're going in terms of our community of adopters, our curation activities, and our tech. Most importantly, we also acknowledge ROR community contributors, without whom we’d never have come this far, and we do some brainstorming about what's next. In conclusion: let’s ROR some more in 2024!"
+reglink = ""
 +++
+
 
 ### ROR Annual Community Meeting and Fifth Anniversary Celebration
 - Date: Tuesday, January 30, 2024

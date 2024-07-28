@@ -19,7 +19,6 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 reglink = "https://crossref.zoom.us/meeting/register/tJwqfu-trTIoHdJ3ajeDyN_GVivLRaiRAEwO"
 +++
 
-
 <!-- Post-event content template
 
 ## Materials 

@@ -7,8 +7,19 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
+eventcategories = [""]
+eventarchives = ["{{now.Year}}"]
+eventtags = ["", "",]
+startdate = []
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more."
+reglink = ""
 +++
+
 
 ### ROR Community Call - March 2023
 - Date and time: Tuesday, March 28th, 2023 at [3pm UTC](https://www.timeanddate.com/worldclock/fixedtime.html?msg=ROR+Community+Call+March+2023&iso=20230328T15&p1=1440&ah=1) (1 hour) 

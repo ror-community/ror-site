@@ -7,8 +7,19 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
+eventcategories = [""]
+eventarchives = ["{{now.Year}}"]
+eventtags = ["", "",]
+startdate = []
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = "In the US Federal Guidance and PIDs webinar on December 7, 2023, panelists from ROR, ORCID, Crossref, DataCite and the U.S. Department of Energy’s Office of Scientific and Technical Information discuss guidance memos issued by the U.S. Federal Government that encourage the use of Persistent Identifiers (PIDs). Memos include the 2021 NSPM-33 memo and the 2022 OSTP Public Access memo. Panelists include DOE OSTI's Dr. Carly Robinson, ORCID's Shawna Sadler, ROR's Amanda French, Crossref's Isaac Farley, and DataCite's Xiaoli Chen."
+reglink = ""
 +++
+
 
 ### US Federal Guidance and PIDs 
 - Date: December 7, 2023 

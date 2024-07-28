@@ -8,9 +8,9 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventcategories = [""]
-eventarchives = ["2024"]
+eventarchives = ["{{now.Year}}"]
 eventtags = ["", "",]
-startdate = 2024-11-15
+startdate = []
 enddate = []
 starttime = "3pm UTC"
 duration = "1 hour"
@@ -19,7 +19,6 @@ recorded = "Yes"
 description = "Join us at a ROR event."
 reglink = ""
 +++
-
 
 <!-- Post-event content template
 

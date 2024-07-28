@@ -7,8 +7,19 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
+eventcategories = [""]
+eventarchives = ["{{now.Year}}"]
+eventtags = ["", "",]
+startdate = []
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = "At the ROR annual meeting in January 2024, the Community Showcase featured presentations on how ROR is used in some key global scholarly systems and workflows, including at OpenAlex, 4Science / DSpace-CRIS, ORCID, Springer Nature, US Department of Energy’s Office of Scientific and Technical Information (OSTI), and the ROR Implementation Task Group of the NIH’s Generalist Repository Ecosystem Initiative (GREI)."
+reglink = ""
 +++
+
 
 ### ROR Community Showcase
 - Date: Tuesday, January 30, 2024
