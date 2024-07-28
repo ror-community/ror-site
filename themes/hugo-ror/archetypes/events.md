@@ -1,6 +1,6 @@
 +++
 title = "{{ replace .TranslationBaseName "-" " " }}" 
-date = "{{ .Date | time.Format "2006-01-02" }}"  
+date = "{{ .Date }}"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -10,8 +10,9 @@ author = "Research Organization Registry (ROR)"
 eventcategories = [""]
 eventarchives = ["{{now.Year}}"]
 eventtags = ["", "",]
-enddate = ""
-start = "3pm UTC"
+startdate = []
+enddate = []
+starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
