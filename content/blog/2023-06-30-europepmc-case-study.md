@@ -213,7 +213,7 @@ Yes, in early August 2022, Europe PMC made a very large spike in the DOIs with R
 {{% centered %}}
 <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1786924431&amp;format=interactive" width="600" height="400"></iframe>
 
-_Number of Crossref DOIs with ROR IDs over time. See the full [spreadsheet of ROR DOI statistics](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional data._
+_Number of Crossref DOIs with ROR IDs over time. See the full [spreadsheet of ROR DOI statistics](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubhtml) for API queries and additional data._
 
 {{% /centered %}}
 

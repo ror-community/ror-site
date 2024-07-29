@@ -115,7 +115,7 @@ More and more organizations, systems, and researchers are using ROR every day. S
 
 <iframe width="1007" height="755" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
 
-See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional statistics.
+See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubhtml) for API queries and additional statistics.
 
 ### ROR IDs in DataCite metadata
 
@@ -125,7 +125,7 @@ See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https:
 
 <iframe width="805" height="603" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=750999640&amp;format=interactive"></iframe>
 
-See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional statistics.
+See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubhtml) for API queries and additional statistics.
 
 ### ROR in published research
 
