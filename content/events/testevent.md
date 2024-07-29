@@ -7,16 +7,16 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventcategories = [""]
+eventcategories = ["Testing"]
 eventarchives = ["2024"]
-eventtags = ["", "",]
+eventtags = ["tests"]
 startdate = 2024-12-12
 enddate = 2024-12-14
-starttime = "3pm UTC"
-duration = "1 hour"
-location = "Online"
-recorded = ""
-description = ""
+starttime = ""
+duration = ""
+location = "Paris"
+recorded = "No"
+description = "But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure?"
 reglink = ""
 +++
 

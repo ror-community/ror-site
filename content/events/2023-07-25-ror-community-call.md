@@ -9,20 +9,20 @@ images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventcategories = ["Community Calls"]
 eventarchives = ["2023"]
-eventtags = ["ROR Event", "FRDR", "PKP", "OJS", "funders", "schema", "API"]
+eventtags = ["ROR Event", "FRDR", "PKP", "OJS", "Funders", "Schema", "API", "Community", "Adoption", "Integrations", "Demos" ]
 startdate = 2023-07-25
 enddate = []
 starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. Featured ROR integrators in this call include the Federated Research Data Repository (FRDR) and the Public Knowledge Project / Open Journal Systems (OJS). We hear about new funders for ROR, ROR curation activities, progress on version 2.0 of the ROR metadata schema and API, and progress on ROR adoption."
+description = "Featured ROR integrators in this call include the Federated Research Data Repository (FRDR) and the Public Knowledge Project / Open Journal Systems (OJS). We hear about new funders for ROR, ROR curation activities, progress on version 2.0 of the ROR metadata schema and API, and progress on ROR adoption."
 reglink = ""
 +++
 
 ## Materials
 
-- [Slides from ROR Community Call - July 2023](https://docs.google.com/presentation/d/1T3Nv-HeILw9Yl7HRg39SuT3Chr7kLoV87PqQnnk5xbQ/edit?usp=sharing)
+- [Slides from ROR Community Call - July 2023](https://docs.google.com/presentation/d/e/2PACX-1vRNXGB267S6IZ50X0DNAD_qauN_KCDBWjxftY8H9ekhXlUdlqqj1EwF3w2folOZpwwCL5vECg01Ss50/pub?start=false&loop=false&delayms=3000)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRNXGB267S6IZ50X0DNAD_qauN_KCDBWjxftY8H9ekhXlUdlqqj1EwF3w2folOZpwwCL5vECg01Ss50/embed?start=false&loop=false&delayms=3000" frameborder="0" width="768" height="455" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 

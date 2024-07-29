@@ -9,14 +9,14 @@ images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventcategories = ["Community Calls"]
 eventarchives = ["2023"]
-eventtags = ["ROR Event", "V2", "Schema", "API", "Crossref", "Funders", "DataSalon", "OA.Report" ]
+eventtags = ["ROR Event", "V2", "Schema", "API", "Crossref", "Funders", "DataSalon", "OA.Report", "Community", "Adoption", "Integrations", "Demos" ]
 startdate = 2023-09-28
 enddate = []
 starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this call, we hear about version 2 of the ROR API and schema and how you can help us beta test. We also hear from Rachael Lammey, Director of Product at Crossref, on the Open Funder Registry deprecation in favor of ROR. Featured ROR integration presentations include a talk by Andy Dobson on ROR in DataSalon's MasterVision and PaperStack and a talk by Joe McArthur on ROR in OA.Report."
+description = "In this call, we hear about version 2 of the ROR API and schema and how you can help us beta test. We also hear from Rachael Lammey, Director of Product at Crossref, on the Open Funder Registry deprecation in favor of ROR. Featured ROR integration presentations include a talk by Andy Dobson on ROR in DataSalon's MasterVision and PaperStack and a talk by Joe McArthur on ROR in OA.Report."
 reglink = ""
 +++
 
