@@ -21,12 +21,9 @@
                <h2>{{ .Title }}</h2>
 
                <ul>
-               {{ if .Params.enddate }}
-               <li>Dates: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}</li>
-               {{ else if .Params.startdate }}
-               <li>Date: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}</li>
+               {{ if .Params.startdate }}
+               <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
                {{ else }}
-               <li>Date: {{ .Date | time.Format "Monday, January 2, 2006" }}</li>
                {{ end }}
                {{ if .Params.starttime }}
             	<li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.start }}&d={{ .Date | time.Format "2006-01-02"}}">{{ .Params.starttime }}</a></li>
