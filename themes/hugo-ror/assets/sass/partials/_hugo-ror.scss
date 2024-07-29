@@ -7120,3 +7120,14 @@ margin-bottom: .5rem;
 margin-bottom: 1em;
 }
 
+
+/* Responsive Google Slides */
+iframe[src*="docs.google.com"],
+iframe[src*="google.com/maps"],
+
+{
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+}
+
