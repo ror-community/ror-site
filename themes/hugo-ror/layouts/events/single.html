@@ -30,9 +30,15 @@
                <li>Duration: {{ .Params.duration }}</li>               
                {{ else }}
                {{ end }}
+               {{ if .Params.location}}
                <li>Location: {{ .Params.location }}</li>
+               {{else}}{{end}}
+               {{ if .Params.recorded }}
                <li>Recorded: {{ .Params.recorded }}</li>
+               {{else}}{{end}}
+               {{ if .Description }}
                <li>Description: {{ .Description }}</li>
+               {{else}}{{end}}
                </ul> 
                
                {{ if .Params.reglink }}

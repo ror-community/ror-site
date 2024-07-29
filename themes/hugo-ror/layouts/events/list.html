@@ -48,20 +48,26 @@
 		</h3>
 		
                           
-               <ul>          
-              {{ if .Params.startdate }}
+<ul>
+               {{ if .Params.startdate }}
                <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
                {{ else }}
                {{ end }}
                {{ if .Params.starttime }}
-                <li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Params.startdate }}">{{ .Params.starttime }}</a></li>              
-               <li>Duration: {{ .Params.duration }}</li>
+            	<li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Params.startdate }}">{{ .Params.starttime }}</a></li>
+               <li>Duration: {{ .Params.duration }}</li>               
                {{ else }}
                {{ end }}
+               {{ if .Params.location}}
                <li>Location: {{ .Params.location }}</li>
+               {{else}}{{end}}
+               {{ if .Params.recorded }}
                <li>Recorded: {{ .Params.recorded }}</li>
+               {{else}}{{end}}
+               {{ if .Description }}
                <li>Description: {{ .Description }}</li>
-               </ul> 
+               {{else}}{{end}}
+               </ul>  
 			
 			{{ if .Params.reglink }}
 
