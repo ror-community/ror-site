@@ -10,6 +10,7 @@ author = "Research Organization Registry (ROR)"
 eventcategories = ["Community Calls"]
 eventarchives = ["2024"]
 eventtags = [ "ROR Event", "Community", "Adoption", "Integrations", "Demos", "APS", "Curvenote", "API", "External Identifiers", "DSpace", "Credentialing" ]
+startdate = 2024-07-16
 enddate = ""
 starttime = "3pm UTC"
 duration = "1 hour"
