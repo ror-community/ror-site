@@ -54,7 +54,8 @@
                {{ else }}
                {{ end }}
                {{ if .Params.starttime }}
-            <li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Date | time.Format "2006-01-02"}}">{{ .Params.starttime }}</a></li>                <li>Duration: {{ .Params.duration }}</li>
+                <li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Params.startdate }}">{{ .Params.starttime }}</a></li>              
+               <li>Duration: {{ .Params.duration }}</li>
                {{ else }}
                {{ end }}
                <li>Location: {{ .Params.location }}</li>
