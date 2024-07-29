@@ -1,12 +1,23 @@
 +++
 title = "Intro to the ROR API"
-draft = false
-date = "2022-01-25"
+date = "2023-01-25"
+draft = false 
 banner = "/img/banners/ROR_Banner-grey.jpg"
-aliases = [ 
-"/intro-ror-api",
-"/tutorials/intro-ror-api",
-"/tutorials"]
+thumb = "/img/ror-logo-800.png" 
+images = ['/img/ror-logo-800.png']
+author = "Research Organization Registry (ROR)" 
+eventcategories = ["Annual Meeting"]
+eventarchives = ["2023"]
+eventtags = ["API", "tutorial",]
+startdate = 2023-01-25
+enddate = []
+starttime = ""
+duration = "90 minute"
+location = "Online"
+recorded = "Yes"
+description = "Annual ROR Community Meeting 2023"
+reglink = ""
+aliases = ["/intro-ror-api", "/tutorials/intro-ror-api", "/tutorials"]
 +++
 
 ## What this lesson covers

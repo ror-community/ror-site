@@ -1,6 +1,6 @@
 +++
 title = "ROR Community Call September 2024" 
-date = "2024-09-25"  
+date = "2024-07-28"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -10,7 +10,8 @@ author = "Research Organization Registry (ROR)"
 eventcategories = ["Community Calls"]
 eventtags = ["ROR Event", "Web of Science", "External Identifiers"]
 eventarchives = "2024"
-enddate = ""
+startdate = 2024-09-25
+enddate = []
 starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"

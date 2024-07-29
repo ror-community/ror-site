@@ -1,5 +1,5 @@
 +++
-title = " ROR Community Call - May 2023" 
+title = " ROR Community Call May 2023" 
 date = "2023-05-30" 
 draft = false 
 style = "card-plain" 
@@ -7,8 +7,8 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventcategories = [""]
-eventarchives = ["{{now.Year}}"]
+eventcategories = ["Community Calls"]
+eventarchives = ["2023"]
 eventtags = ["", "",]
 startdate = []
 enddate = []
