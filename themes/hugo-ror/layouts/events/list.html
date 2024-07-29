@@ -36,7 +36,8 @@
 			</h2>
 			
 	{{ $events := where .Site.RegularPages "Type" "events" }}
-	{{ $futureEvents := where $events ".Params.startdate" "gt" now }}
+	{{ $n := now.AddDate 0 0 -1 }}
+	{{ $futureEvents := where $events ".Params.startdate" "gt" $n }}
 
 		
 		{{ if $futureEvents }}
