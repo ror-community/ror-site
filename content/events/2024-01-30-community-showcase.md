@@ -35,7 +35,7 @@ reglink = ""
 	- **Savanna Sims, Information Science Specialist at [Edgewater Federal Solutions](https://www.edgewaterit.com/) / [U.S. Department of Energy Office of Scientific and Technical Information (OSTI)](https://osti.gov)**, talks about a large-scale curation effort undertaken in collaboration with ROR to add and modify ROR records for the [U.S. Department of Energy](https://www.energy.gov/).
 	- **Eric Olson, Product Manager at the [Center for Open Science](cos.io)**, and **Luca Belletti, Senior Product Manager at [Elsevier](https://www.elsevier.com/)**, outline the purpose, focus, and accomplishments of the ROR Implementation Task Group of the NIH's [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative).  
 
-### Materials
+## Materials
 
 _(Not all slides are yet available. The remaining presentations will be added to the deck below as soon as possible.)_
 
@@ -43,6 +43,6 @@ _(Not all slides are yet available. The remaining presentations will be added to
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbffA9JzQvvpoIidKQwTTKqVPKgiWsHY7-jOPFcEjNe0XTXiSzinntVyumzsPPuZGIQeDQpBgV0LeM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### Recording 
+## Recording 
 
 {{< youtube id="oXBgk3YWYUw" title="Community Showcase January 2024 - ROR Annual Meeting 2024" >}}

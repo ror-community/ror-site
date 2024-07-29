@@ -15,13 +15,13 @@ enddate = 2024-12-14
 starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
-recorded = "Yes"
-description = "Join us at a ROR event."
+recorded = ""
+description = ""
 reglink = ""
 +++
 
 
-### Materials 
+## Materials 
 
 - [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vRE00QT1Cb6NxhnjD4VM-6hyFADild4O48J8GSCOglT53RyDwIWPh_bqwCdycoYb8H9s8_oLwvx3MQi/pub?start=false&loop=false&delayms=3000)
 
@@ -29,7 +29,7 @@ reglink = ""
 
 ---
 
-### Recording 
+## Recording 
 
 {{< youtube id="K1gfnAqsPTc" >}}
 
