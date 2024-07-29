@@ -1,5 +1,5 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " }}" 
+title = "{{ replace .TranslationBaseName "-" " " | title }}" 
 date = "{{ .Date }}"  
 draft = "false" 
 style = "card-plain" 
@@ -10,13 +10,13 @@ author = "Research Organization Registry (ROR)"
 eventcategories = [""]
 eventarchives = ["{{now.Year}}"]
 eventtags = ["", "",]
-startdate = {{.Date}}
+startdate = {{ .Date | time.Format "2006-01-02" }}
 enddate = []
-starttime = "3pm UTC"
-duration = "1 hour"
-location = "Online"
-recorded = "Yes"
-description = "Join us at a ROR event."
+starttime = " UTC"
+duration = ""
+location = ""
+recorded = ""
+description = ""
 reglink = ""
 +++
 
