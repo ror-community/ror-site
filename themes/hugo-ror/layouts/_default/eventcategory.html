@@ -31,9 +31,10 @@
                         {{ end }}
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                           <ul>
-                            <li class="date-comments">
-                                Date: {{ .Date.Format .Site.Params.date_format }}
-                            </li>
+              {{ if .Params.startdate }}
+               <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
+               {{ else }}
+               {{ end }}
                           <li class="intro">Description: {{ .Description }}</li>
                           </ul>
                           <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See all event details</a></p>
@@ -64,23 +65,3 @@
     {{ partial "scripts.html" . }}
   </body>
 </html>
-
-
-
-
-<!-- original 
-{{ define "body" }}
-<section>
-  <div>
-    <h1 id="title">{{ .Title }}</h1>
-    <ul>
-    {{ $data := .Data }}
-    {{ range $key, $value := .Data.Terms.ByCount }}
-      <li><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> {{ $value.Count }}</li>
-    {{ end }}
-    </ul>
-  </div>
-</section>
-{{ end }}
-
--->

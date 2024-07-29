@@ -10,7 +10,7 @@
         {{ else if eq .Title "Eventtags"}}
         <h1 id="page-title">Event Tags</h1>
         {{ else }}
-        <h1 id="page-title">{{ .Title }}</h1>
+        <h1 id="page-title">{{ .Title | title }}</h1>
         {{ end }}
       </div>
     </div>

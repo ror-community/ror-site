@@ -16,7 +16,7 @@
 
         <div class="section container">
           <div class="row">
-             <div class="col-md-9">
+            <div class="col-md-9">
             
               {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
               {{ range $paginator.Pages }}
@@ -30,15 +30,15 @@
                           {{ end }}
                         {{ end }}
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                           <div class="clearfix post-meta" style="margin-left:3rem;">
-                            <p class="date-comments">
-                            {{ .Date.Format .Site.Params.date_format }}
-                            </p>
-                          <p class="intro">{{ .Description }}</p>
-							</div>
+                          <ul>
+              {{ if .Params.startdate }}
+               <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
+               {{ else }}
+               {{ end }}
+                          <li class="intro">Description: {{ .Description }}</li>
+                          </ul>
                           <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See all event details</a></p>
                           <hr />
-
                         </div>
                     </div>
                 </section>
@@ -65,23 +65,3 @@
     {{ partial "scripts.html" . }}
   </body>
 </html>
-
-
-
-
-<!-- original 
-{{ define "body" }}
-<section>
-  <div>
-    <h1 id="title">{{ .Title }}</h1>
-    <ul>
-    {{ $data := .Data }}
-    {{ range $key, $value := .Data.Terms.ByCount }}
-      <li><a href="/{{ $data.Plural }}/{{ $value.Name | urlize }}">{{ $value.Name }}</a> {{ $value.Count }}</li>
-    {{ end }}
-    </ul>
-  </div>
-</section>
-{{ end }}
-
--->

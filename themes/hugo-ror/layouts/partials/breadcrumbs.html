@@ -18,7 +18,7 @@
 						<li>Event Tags</li>			
 						
 							{{else if eq ($.Scratch.Get "pagetype") "404" }}
-								<li>{{ $.Title }}</li>
+								<li>{{ $.Title | title }}</li>
 							{{ else }}
 
 								{{ range $index, $element := split .RelPermalink "/" }}
@@ -40,12 +40,12 @@
 												<li><a href='/events/'>Events</a><span>&gt;</span></li>												
 
 											{{ else }}
-												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title }}{{ end }}</a><span>&gt;</span></li>
+												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title | title }}{{ end }}</a><span>&gt;</span></li>
 											{{ end }}
 										
 								
 										{{ else }}
-											<li>{{ $.Title }}</li>
+											<li>{{ $.Title | title }}</li>
 										{{ end }}
 									{{ end }}
 								{{ end }}
