@@ -1,0 +1,23 @@
+{{ if .Site.Params.widgets.eventarchives }}
+{{ if isset .Site.Taxonomies "eventarchives" }}
+{{ if not (eq (len .Site.Taxonomies.eventarchives) 0) }}
+<div class="card card-plain taxonomy">
+  <div class="card-body">
+    <h3 class="card-title">Archives</h3>
+
+    <ul class="nav nav-pills nav-stacked"> 
+    
+              {{ $data := .Site.Taxonomies.eventarchives.Alphabetical.Reverse }}
+              {{ range $data }}
+        {{ if eq ( $.Title | urlize | lower ) ( .Term | lower ) }}
+          <li><span>{{ .Term }} ({{ .Count }})</span></li>
+        {{ else }}
+                    <li><a href="/eventarchives/{{ .Term | urlize }}">{{ .Term }}</a> <span class="blog-count">({{ .Count }})</span></li>
+              {{ end }}
+              {{ end }}
+    </ul>
+  </div>
+</div>
+{{ end }}
+{{ end }}
+{{ end }}

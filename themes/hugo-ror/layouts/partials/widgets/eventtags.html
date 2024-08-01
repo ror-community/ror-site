@@ -1,0 +1,21 @@
+{{ if .Site.Params.widgets.eventtags }}
+{{ if isset .Site.Taxonomies "eventtags" }}
+{{ if not (eq (len .Site.Taxonomies.eventtags) 0) }}
+<div class="card card-plain taxonomy">
+  <div class="card-body">
+    <h3 class="card-title">Tags</h3>
+
+    <ul class="list-unstyled">
+      {{ range $name, $items := .Site.Taxonomies.eventtags }}
+        {{ if eq ( $.Title | urlize | lower ) ( $name | lower ) }}
+          <li><i class="fa-solid fa-tags"></i> <span>{{ $name }}</span></li>
+        {{ else }}
+          <li><a href="{{ $.Site.BaseURL }}eventtags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> <span>{{ $name }}</span></a></li>
+        {{ end }}
+      {{ end }}
+    </ul>
+</div>
+</div>
+{{ end }}
+{{ end }}
+{{ end }}

@@ -2,7 +2,7 @@
 title = "Case Study: ROR in DataSalon's MasterVision and PaperStack"
 date = "2023-05-10"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews"]
+tags = ["Adoption", "Integrations", "Community", "Interviews"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"
