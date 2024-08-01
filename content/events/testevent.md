@@ -1,5 +1,5 @@
 +++
-title = "Test Event Title" 
+title = "Test Event Title past start future end" 
 date = "2024-07-27"  
 draft = "false" 
 style = "card-plain" 
@@ -10,8 +10,8 @@ author = "Research Organization Registry (ROR)"
 eventcategories = ["Testing"]
 eventarchives = ["2024"]
 eventtags = ["tests"]
-startdate = 2024-12-12
-enddate = 2024-12-14
+startdate = 2024-07-30
+enddate = 2024-08-02
 starttime = ""
 duration = ""
 location = "Paris"
