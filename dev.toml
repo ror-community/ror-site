@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Research Organization Registry (ROR)"
-baseurl = "http://localhost:1313"
+baseurl = "http://dev.ror.org"
 style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
