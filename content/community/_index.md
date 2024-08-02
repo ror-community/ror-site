@@ -11,8 +11,6 @@ aliases = [
 ]
 +++
 
-
-
 ## Community values
 ROR is community-supported, community-driven, community-funded open infrastructure.
 
@@ -25,7 +23,7 @@ The wider ROR community includes users and stakeholders from around the world an
 ## Community groups 
 
 ### Community Forum
-The [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community) is the primary way to get involved in ROR. Join the ROR Community Forum to receive announcements and event invitations from ROR, engage with other ROR users, and give feedback on ROR's current projects and future direction. 
+The [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community) is the primary way to get involved in ROR. Join the ROR Community Forum to receive announcements and [event](/events) invitations from ROR, engage with other ROR users, and give feedback on ROR's current projects and future direction. 
 
 ### Technical Forum 
 The [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) is for developers who would like to receive announcements of new data releases and technical changes to ROR and would like to discuss technical topics with other developers using ROR. 
@@ -100,7 +98,7 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 ### Join the ROR community 
 
-Are you using or thinking of using ROR? Would you like to know about what ROR's up to, receive event invitations and announcements, give ROR feedback, and talk to other ROR users? Then join the ROR Community Forum. 
+Are you using or thinking of using ROR? Would you like to know about what ROR's up to, receive [event](/events) invitations and announcements, give ROR feedback, and talk to other ROR users? Then join the ROR Community Forum. 
 
 {{% centered %}}
 
