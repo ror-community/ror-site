@@ -36,8 +36,8 @@
 											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) ( eq (title ( replace . "-" " ")) "Archives" )}}
 												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>		
 												
-										{{else if or "eventcategories" "eventarchives" "eventtags" }}
-												<li><a href='/events/'>Events</a><span>&gt;</span></li>												
+											{{ else if or ( eq (title ( replace . "-" " ")) "Eventcategories" ) ( eq (title ( replace . "-" " ")) "Eventtags" ) ( eq (title ( replace . "-" " ")) "Eventarchives" )}}		
+								<li><a href='/events/'>Events</a><span>&gt;</span></li>												
 
 											{{ else }}
 												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title | title }}{{ end }}</a><span>&gt;</span></li>
