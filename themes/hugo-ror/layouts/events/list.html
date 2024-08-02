@@ -17,16 +17,24 @@
         <div class="section container">
           <div class="row">
             <div class="col-md-9" id="event-listing-medium">
- 
-<div class="ror-toc">
-    <nav id="TableOfContents">
-  <ul>
-    <li><a href="#upcoming-events">Upcoming events</a></li>
-    <li><a href="#calendar">Calendar</a></li>
-    <li><a href="#past-events">Past events</a></li>
-  </ul>
-</nav>
-</div>                               
+             
+			<div class="ror-toc">
+				<nav id="TableOfContents">
+			  <ul>
+				<li><a href="#upcoming-events">Upcoming events</a></li>
+				<li><a href="#calendar">Calendar</a></li>
+				<li><a href="#past-events">Past events</a></li>
+			  </ul>
+			</nav>
+			</div>   
+
+<div>
+<section>
+{{ .Content }}
+</section>
+</div> 
+
+<div>                       
             <section>
             
             <h2 id="upcoming-events">Upcoming events 
@@ -117,6 +125,7 @@
         
             </section>
                      
+            </div>         
             </div>
             <div class="col-md-3" id="event-sidebar">
             

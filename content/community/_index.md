@@ -82,14 +82,6 @@ Looking for a short document to help you or others at your organization understa
 - [ROR for Publishers](https://zenodo.org/doi/10.5281/zenodo.10049191) (4 pages)
 - [ROR for Repositories](https://zenodo.org/doi/10.5281/zenodo.10049153) (13 pages)
 
-## Events 
-ROR-organized events include open bi-monthly Community Calls, Annual Meetings, open hours, webinars, and more that anyone can register for. ROR team members also frequently present at conferences and webinars organized by other groups. All ROR-organized events are always free. 
-
-* See our [events page](/events) to sign up for upcoming events and access materials from [past events](/events#past-events)
-* Read [recaps of past events](/categories/events) on our blog 
-
-We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
-
 ## Supporters {#supporters}
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. Does your organization want to help support ROR financially? 
 
