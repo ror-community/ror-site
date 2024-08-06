@@ -8,7 +8,7 @@ aliases = [
 ]
 +++
 
-{{% toc %}}
+
 
 ## Submitting registry updates
 
@@ -28,7 +28,7 @@ Registry data is updated on a rolling basis. New releases are available at least
 
 If you have more than one request, please submit a separate request form for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact registry@ror.org for assistance. For bulk request processing time, see [How long will it take for my bulk request to be processed?](/about/faqs/#how-long-will-it-take-for-my-bulk-request-to-be-processed)
 
-The curation process is openly available on [GitHub](https://github.com/ror-community/ror-updates). Anyone can follow along with the curation process by visiting the [issues queue](https://github.com/ror-community/ror-updates/issues) of change requests or the  [ROR Updates tracker](https://github.com/ror-community/ror-updates/projects/1).
+The curation process is openly available on [GitHub](https://github.com/ror-community/ror-updates). Anyone can follow along with the curation process by visiting the [issues queue](https://github.com/ror-community/ror-updates/issues) of change requests.
 
 {{% callout icon="no-icon"%}}
 
@@ -109,14 +109,15 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 **Current Curation Advisory Board members**
 
-- Jackson Huang, Educopia
-- Kateřina Janderová, Czech Academy of Sciences
-- Matthias Liffers, Australian Research Data Commons
-- Nick Lundvick, Argonne National Laboratory
-- Carly Robinson, OSTI/DOE
-- Arthur Smith, American Physical Society
-- Shayn Smulyan, Crossref
-- Martin Spenger, LMU Munich
+- Jackson Huang, [Educopia](https://educopia.org)
+- Kateřina Janderová, [Czech Academy of Sciences](https://www.avcr.cz/en/)
+- Matthias Liffers, [Australian Research Data Commons (ARDC)](https://ardc.edu.au/)
+- Nick Lundvick, [Argonne National Laboratory](https://www.anl.gov/)
+- Carole Melzac, [Agence bibliographique de l’enseignement supérieur (ABES)](https://abes.fr/) 
+- Carly Robinson, [U.S. Dept. of Energy Office of Scientific and Technical Information (OSTI)](https://www.osti.gov/)
+- Arthur Smith, [American Physical Society (APS)](https://aps.org)
+- Shayn Smulyan, [Crossref](https://crossref.org)
+- Martin Spenger, [Ludwig-Maximilians-Universität München](https://www.lmu.de/en/)
 
 Read more about the board's activities on [GitHub](https://github.com/ror-community/ror-updates/wiki/ROR-Curation-Advisory-Board-Overview).
 

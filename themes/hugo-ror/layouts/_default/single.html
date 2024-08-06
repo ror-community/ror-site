@@ -14,9 +14,17 @@
        
        {{ partial "breadcrumbs.html" . }}
 
-        <div class="section container">
-          <div class="row">
+        <div class="section container"> 
+          <div class="row">   
             <div class="col-md-12 mr-auto">
+            
+            {{ if ne .Params.type "404" }}
+            
+            {{ partial "toc.html" . }}
+                   
+            {{ else }}
+            {{ end }}       
+            
               <div>
                 {{ .Content }}
               </div>

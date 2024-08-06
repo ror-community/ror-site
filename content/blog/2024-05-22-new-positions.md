@@ -2,7 +2,7 @@
 title = "Change, Continuity, and New Positions on the ROR Team"
 date = "2024-05-22"
 draft = false
-tags = ["jobs", "team"]
+tags = ["Jobs", "Team"]
 categories = ["Team Updates"]
 archives = ["2024"]
 style = "card-plain"

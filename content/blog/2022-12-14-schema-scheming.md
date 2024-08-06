@@ -2,8 +2,8 @@
 title = "Schema Scheming: Evolving the ROR Data Model"
 date = "2022-12-14"
 draft = false
-tags = ["Metadata", "Community", "API", "Data", "Schema"]
-categories = ["Proposals"]
+tags = ["Metadata", "Community", "API", "Data", "Schema", "Feedback"]
+categories = ["Requests"]
 archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"

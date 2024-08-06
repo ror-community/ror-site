@@ -2,7 +2,7 @@
 title = "A New Year at ROR"
 date = "2022-02-14"
 draft = false
-tags = ["annual meeting", "team", "sustainability"]
+tags = ["Annual Meeting", "Team", "Sustainability"]
 categories = ["Event Recaps"]
 archives = ["2022"]
 style = "card-plain"

@@ -2,7 +2,7 @@
 title = "Open Funder Registry to Transition to ROR (cross-post)"
 date = "2023-09-07"
 draft = false
-tags = ["funders", "metadata", "persistent-identifiers", "pids", "registry", "cross-post" ]
+tags = ["funders", "metadata", "persistent-identifiers", "pids", "registry", "Cross-post" ]
 categories = ["General Updates"]
 archives = ["2023"]
 style = "card-plain"
@@ -102,7 +102,7 @@ We face challenges in this transition, too. Of these, we think the largest will 
 
 ### Tell us what you need!
 
-We want to hear from you. You can use our [Community Forum](https://community.crossref.org/) talk to us about the Crossref Funder Registry, and you can [join the ROR Slack](https://tinyurl.com/ror-slack) to talk to the ROR team and community. You can also contact Crossref via our [request form](https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691) or email ROR at [info@ror.org](mailto:info@ror.org), and you can attend online [Crossref events](/events/) and [ROR events](https://ror.org/events) to get updates from us and ask us your questions. 
+We want to hear from you. You can use our [Community Forum](https://community.crossref.org/) talk to us about the Crossref Funder Registry, and you can join the ROR Slack to talk to the ROR team and community. You can also contact Crossref via our [request form](https://support.crossref.org/hc/en-us/requests/new?ticket_form_id=360001642691) or email ROR at [info@ror.org](mailto:info@ror.org), and you can attend online [Crossref events](/events/) and [ROR events](https://ror.org/events) to get updates from us and ask us your questions. 
 
 One of the major messages we're already hearing from funders and publishers is expressed in [yesterday's post on open funding metadata](https://www.crossref.org/blog/open-funding-metadata-community-workshop-report/): "While many concluded that there was still a long way to go to solve the many technical challenges related to funding metadata, attendees were unanimous on its importance." We look forward to beginning this important work together.
 
