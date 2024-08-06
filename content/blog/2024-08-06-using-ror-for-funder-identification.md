@@ -28,11 +28,11 @@ DataCite's API shows that **nearly one-third of DataCite DOIs with an identifier
 
 {{< figure src="/img/blog/use-case-funders/datacite-funder-ids-by-type.png" alt="Funder identifiers by ID type in DataCite"  caption="DataCite records that have a value in <code>fundingReferences.funderIdentifier</code> as of July 15, 2024, broken down by <code>fundingReferences.funderIdentifier.Type</code>. See [ROR DOI stats](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubhtml) spreadsheet for queries and data." >}}
 
-Another factor that has driven early adoption of ROR for funder identification in repository systems is the U.S. National Institutes of Health (NIH) [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative), whose primary aim is to develop "a common set of cohesive and consistent capabilities, services, metrics, and social infrastructure across generalist repositories" so that NIH-funded researchers can more easily discover and share their research data. Seven generalist repository systems are participating: [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/), [Figshare](https://figshare.com), [Mendeley Data](https://data.mendeley.com), the [Open Science Framework (OSF)](https://osf.io), and [Vivli](https://vivli.org). All seven have [agreed to implement ROR for author affiliations](https://medium.com/@blog-grei/kicking-off-greis-third-year-b8709ab45a48), and some have also taken the opportunity to implement ROR for funder identification sooner rather than later. Dryad, Figshare, Zenodo, and Vivli implemented ROR to identify funders in 2023; Dataverse and OSF are actively planning to use ROR for funders soon, and Mendeley Data will do so at some point in the future. When data repositories use ROR as a standard funder identifier, it enables all funders, including the NIH, to track research datasets resulting from their funding more easily. 
+Another factor that has driven early adoption of ROR for funder identification in repository systems is the U.S. National Institutes of Health (NIH) [Generalist Repository Ecosystem Initiative (GREI)](https://datascience.nih.gov/data-ecosystem/generalist-repository-ecosystem-initiative), whose primary aim is to develop "a common set of cohesive and consistent capabilities, services, metrics, and social infrastructure across generalist repositories" so that NIH-funded researchers can more easily discover and share their research data. Seven generalist repository systems are participating: [Dataverse](https://dataverse.org/), [Dryad](https://datadryad.org/stash), [Figshare](https://figshare.com), [Mendeley Data](https://data.mendeley.com), the [Open Science Framework (OSF)](https://osf.io), and [Vivli](https://vivli.org). All seven have [agreed to implement ROR for author affiliations](https://medium.com/@blog-grei/kicking-off-greis-third-year-b8709ab45a48), and some have also taken the opportunity to implement ROR for funder identification sooner rather than later. Dryad, Figshare, Zenodo, and Vivli implemented ROR to identify funders in 2023; Dataverse and OSF are actively planning to use ROR for funders soon, and Mendeley Data will do so at some point in the future. When data repositories use ROR as a standard funder identifier, it enables all funders, including the NIH, to track research datasets resulting from their funding more easily. 
 
 DataCite's API shows that all but one of top five providers of ROR IDs for funders are GREI participants: Dryad, Zenodo, and Figshare together have registered over 100,000 DOIs that use ROR IDs in funding references. An additional repository operated by the Leibniz Institute DSMZ, [StrainInfo](https://straininfo.dsmz.de/) (a collection of data about microorganisms and cell cultures), has used ROR IDs for funder identification in over 300,000 DataCite DOIs.
 
-{{< figure src="/img/blog/use-case-funders/datacite-funder-ids-by-client.png" alt="Funder IDs by client in DataCite" caption="DataCite's API shows the top providers of ROR IDs in funding references. Note that `figshare.ars` includes [figshare.com](figshare.com), Figshare+, and other Figshare repositories. Query: `https://api.datacite.org/dois?query=fundingReferences.funderIdentifierType:ROR&page[size]=0`" >}}
+{{< figure src="/img/blog/use-case-funders/datacite-funder-ids-by-client.png" alt="Funder IDs by client in DataCite" caption="DataCite's API shows the top providers of ROR IDs in funding references. Note that `figshare.ars` includes figshare.com, Figshare+, and other Figshare repositories. Query: `https://api.datacite.org/dois?query=fundingReferences.funderIdentifierType:ROR&page[size]=0`" class="blog-figure" >}}
 
 Let's take a look at each of these systems to see how they've implemented ROR for funders. 
 
@@ -117,7 +117,7 @@ Thus, while StrainInfo is currently responsible for the largest number of DOI re
 
 The systems reviewed here are by no means the only ones using ROR IDs to identify funders.  Here's an alphabetical list of additional systems that are currently using ROR IDs for funder identification:
 
-* [CHORUS Dashboard and Reporting Services](https://chorusaccess.org)
+* [CHORUS Dashboard and Reporting Services](https://www.chorusaccess.org)
 * [ChronosHub Open Access Management Platform](https://chronoshub.io/)
 * [DOE Award DOI Service](https://www.osti.gov/award-doi-service/)
 * [DSpace 8](https://wiki.lyrasis.org/display/DSDOC8x/DSpace+8.x+Documentation)
@@ -125,7 +125,7 @@ The systems reviewed here are by no means the only ones using ROR IDs to identif
 * [FAIRsharing](https://fairsharing.org)
 * [Genomes OnLine Database (GOLD)](https://gold.jgi.doe.gov/index)
 * [Japan Link Center (JALC)](https://japanlinkcenter.org/)
-* [MasterVision and PaperStack by DataSalon](https://www.datasalon.com)
+* [MasterVision and PaperStack by DataSalon](https://www.datasalon.com/web/index.htm)
 * [OA.Report](https://oa.report)
 * [OpenAlex](https://openalex.org)
 * [ORCID](https://orcid.org)
