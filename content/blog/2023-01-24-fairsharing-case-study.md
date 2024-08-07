@@ -2,7 +2,7 @@
 title = "Case Study: ROR in FAIRsharing"
 date = "2023-01-24"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews", "FAIRsharing"]
+tags = ["Adoption", "Integrations", "Community", "Interviews", "FAIRsharing"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"

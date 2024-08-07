@@ -2,7 +2,7 @@
 title = "Case Study: ROR at Rockefeller University Press and Silverchair" 
 date = "2023-03-20" 
 draft = false 
-tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews", "Rockefeller University Press", "Silverchair"] 
+tags = ["Adoption", "Integrations", "Community", "Interviews", "Rockefeller University Press", "Silverchair"] 
 categories = ["Case Studies"] 
 archives = ["2023"]
 style = "card-plain" 
