@@ -2,7 +2,7 @@
 title = "Case Study: ROR in Scholastica Products"
 date = "2023-03-30"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Interviews"]
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Interviews", "Scholastica"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"

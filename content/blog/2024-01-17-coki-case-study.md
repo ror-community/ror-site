@@ -2,7 +2,7 @@
 title = "Case Study: The Curtin Open Knowledge Initiative and ROR"
 date = "2024-01-17"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Open Access", "Interviews"]
+tags = ["Adoption", "Integrations", "Community", "Case Studies", "Open Access", "Interviews", "COKI"]
 categories = ["Case Studies"]
 archives = ["2024"]
 style = "card-plain"

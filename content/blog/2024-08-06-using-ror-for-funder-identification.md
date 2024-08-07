@@ -2,7 +2,7 @@
 title = "Using ROR for Funder Identification" 
 date = "2024-08-06"
 draft = false 
-tags = ["funders", "adoption", "integrations", "implementation", "dryad"] 
+tags = ["Funders", "Adoption", "Integrations", "Implementation", "GREI", "DataCite", "Dryad", "Zenodo", "InvenioRDM", "CaltechData", "Figshare", "StrainInfo"] 
 categories = ["Use Cases"] 
 archives = ["2024"]
 style = "card-plain" 
