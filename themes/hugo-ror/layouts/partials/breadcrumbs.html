@@ -11,11 +11,8 @@
 						{{ if eq .Title "Eventarchives"}}
 						<li>Event Archives</li>
 						
-						{{ else if eq .Title "Eventcategories"}}
-						<li>Event Categories</li>
-
-						{{ else if eq .Title "Eventtags"}}
-						<li>Event Tags</li>			
+						{{ else if eq .Title "Eventtypes"}}
+						<li>Event Types</li>		
 						
 							{{else if eq ($.Scratch.Get "pagetype") "404" }}
 								<li>{{ $.Title | title }}</li>
@@ -36,7 +33,7 @@
 											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) ( eq (title ( replace . "-" " ")) "Archives" )}}
 												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>		
 												
-											{{ else if or ( eq (title ( replace . "-" " ")) "Eventcategories" ) ( eq (title ( replace . "-" " ")) "Eventtags" ) ( eq (title ( replace . "-" " ")) "Eventarchives" )}}		
+											{{ else if or ( eq (title ( replace . "-" " ")) "Eventtypes" ) ( eq (title ( replace . "-" " ")) "Eventarchives" )}}		
 								<li><a href='/events/'>Events</a><span>&gt;</span></li>												
 
 											{{ else }}

@@ -20,16 +20,16 @@
             
               {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
               {{ range ($paginator.Pages.ByParam "startdate").Reverse }}
-              
+
                 <section class="post">
                   <div class="row">
                       <div class="col-md-12">
-                        {{ if isset .Params "eventcategories" }}
-                          {{ if gt (len .Params.eventcategories) 0 }}
-                          <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}eventcategories/{{ index .Params.eventcategories 0 | urlize | lower }}">{{ index .Params.eventcategories 0 }}</a></strong>
+                        {{ if isset .Params "eventtypes" }}
+                          {{ if gt (len .Params.eventtypes) 0 }}
+                          <strong class="category-link">{{ index .Params.eventtypes 0 }}</strong>
                           {{ end }}
                         {{ end }}
-                        <h2><a href="{{ .Permalink }}">{{ .Title | title }}</a></h2>
+                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                           <ul>
               {{ if .Params.startdate }}
                <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
