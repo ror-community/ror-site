@@ -29,15 +29,28 @@
                           <strong class="category-link">{{ index .Params.eventtypes 0 }}</strong>
                           {{ end }}
                         {{ end }}
-                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                          <ul>
-              {{ if .Params.startdate }}
+                        <h3 class="event-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+			   <ul>
+               {{ if .Params.startdate }}
                <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
                {{ else }}
                {{ end }}
-                          <li class="intro">Description: {{ .Description }}</li>
-                          </ul>
-                          <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See all event details</a></p>
+               {{ if .Params.starttime }}
+            	<li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Params.startdate }}">{{ .Params.starttime }}</a></li>
+               <li>Duration: {{ .Params.duration }}</li>               
+               {{ else }}
+               {{ end }}
+               {{ if .Params.location}}
+               <li>Location: {{ .Params.location }}</li>
+               {{else}}{{end}}
+               {{ if .Params.recorded }}
+               <li>Recorded: {{ .Params.recorded }}</li>
+               {{else}}{{end}}
+               {{ if .Description }}
+               <li>Description: {{ .Description }}</li>
+               {{else}}{{end}}
+               </ul>
+                          <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See event details</a></p>
                           <hr />
                         </div>
                     </div>

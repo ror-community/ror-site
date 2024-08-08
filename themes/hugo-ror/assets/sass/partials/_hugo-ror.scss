@@ -7121,7 +7121,13 @@ margin-bottom: 1em;
 }
 
 
-/* Responsive Google Slides */
+/* event styles */
+
+h3.event-title { 
+	margin-top: 0; 
+}
+
+/* responsive Google slides and maps */
 iframe[src*="docs.google.com"],
 iframe[src*="google.com/maps"],
 

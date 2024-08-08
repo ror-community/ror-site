@@ -28,14 +28,14 @@
 			</nav>
 			</div>   
 
-<div>
-<section>
-{{ .Content }}
-</section>
-</div> 
+		<div class="row">
+		<section class="post">
+		{{ .Content }}
+		</section>
+		</div> 
 
-<div>                       
-            <section>
+		<div class="row">                       
+            <section class="post">
             
             <h2 id="upcoming-events">Upcoming events 
             <a href="#upcoming-events"> 
@@ -50,13 +50,18 @@
 	{{ $upcomingEvents := union $futureEvents $currentEvents }}
 		
 		{{ if $upcomingEvents }}
-		
 		{{ range $upcomingEvents.ByParam "startdate" }}
 		
-		<h3><a href="{{.RelPermalink}}">{{.Title}}</a></h3>
 		
+		{{ if isset .Params "eventtypes" }}
+            {{ if gt (len .Params.eventtypes) 0 }}
+             <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}eventtypes/{{ index .Params.eventtypes 0 | urlize | lower }}">{{ index .Params.eventtypes 0 }}</a></strong>
+             {{ end }}
+        {{ end }}
+
+		<h3 class="event-title"><a href="{{.RelPermalink}}">{{.Title}}</a></h3>
                           
-<ul>
+			   <ul>
                {{ if .Params.startdate }}
                <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
                {{ else }}
@@ -95,6 +100,8 @@
 		{{ end }}
 
             </section>    
+</div>
+<div> 
             
             <section>            
 			<h2 id="calendar">Calendar
@@ -115,12 +122,16 @@
   			</a>
             </h2>
             
-<p>Browse our <a href="/eventarchives">event archives</a> and the list below to see more events ROR has participated in, with links to slides and recordings where available.</p>
+<p>Browse our <a href="/eventarchives">event archives</a> and the list below to see more events ROR has participated in, with slides and recordings where available. For events from 2019-2022, some events and event materials might be unavailable.</p>
 
 <ul>
 <li><h3><a href="/eventarchives/2024">ROR events 2024</a></h3></li>
 <li><h3><a href="/eventarchives/2023">ROR events 2023</a></h3></li>
-<li><h3><a href="https://airtable.com/app3WaI1eI0QkIssR/shraBgs4xLlsBCboZ">ROR events since 2019</a></h3></li>
+<li><h3><a href="/eventarchives/2022">ROR events 2022</a></h3></li>
+<li><h3><a href="/eventarchives/2021">ROR events 2021</a></h3></li>
+<li><h3><a href="/eventarchives/2020">ROR events 2020</a></h3></li>
+<li><h3><a href="/eventarchives/2019">ROR events 2019</a></h3></li>
+
 </ul>
         
             </section>
