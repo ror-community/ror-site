@@ -28,7 +28,7 @@ summaryLength = 20
     categories = true
     tags = true
     archives = true
-    eventcategories = true
+    eventtypes = true
     eventtags = true
     eventarchives = true
 
@@ -71,6 +71,6 @@ summaryLength = 20
   category = 'categories'
   tag = 'tags'
   archive = 'archives'
-  eventcategory = 'eventcategories'
+  eventtype = 'eventtypes'
   eventtag = 'eventtags'
   eventarchive = 'eventarchives'
