@@ -2,7 +2,7 @@
 title = "Case Study: OpenAlex, ROR, and Machine Learning Models"
 date = "2023-09-13"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Machine Learning", "Interviews"]
+tags = ["Adoption", "Integrations", "Community", "Machine Learning", "Interviews", "OpenAlex"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"
