@@ -29,7 +29,7 @@ buildFuture = true
     categories = true
     tags = true
     archives = true
-    eventcategories = true
+    eventtypes = true
     eventtags = true
     eventarchives = true
 
@@ -72,7 +72,7 @@ buildFuture = true
   category = 'categories'
   tag = 'tags'
   archive = 'archives'
-  eventcategory = 'eventcategories'
+  eventtype = 'eventtypes'
   eventtag = 'eventtags'
   eventarchive = 'eventarchives'
   
