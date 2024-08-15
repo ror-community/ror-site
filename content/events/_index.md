@@ -32,15 +32,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### FORCE11 Annual Conference
-- Date: Thursday, August 1 - Saturday, August 3
-- Location: Los Angeles, CA
-- Description: ROR team members will be in attendance in person at the annual meeting of FORCE11, which brings together a wide and diverse set of stakeholders from scholarly communications communities. 
-
-{{% button color="green" link="https://force11.org/conference/" %}} Register for FORCE11 {{% /button %}}
-
----
-
 ### Paris Conference on Open Research Information
 - Date: September 23-24, 2024
 - Duration: 1 hour
@@ -53,8 +44,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ### ROR Community Call September 2024 
-- Date: Wednesday, September 25, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-09-25&tz2=UTC)
+- Date: Wednesday, September 26, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-09-26&tz2=UTC)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
