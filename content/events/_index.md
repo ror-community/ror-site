@@ -31,6 +31,15 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ## Upcoming events
 
 ---
+### FAIR Facilities and Instruments
+- Dates: Tuesday, September 20 - Thursday, September 22
+- Location: Tallahassee, FL
+- Description: ROR will be in attendance at the summer 2024 workshop of the FAIR Facilities and Instruments research coordination network, which works to advance the standardization and adoption of Persistent Identifiers (PIDs) for research facilities and instruments nationally.
+
+{{% button color="green" link="https://ncar.github.io/FAIR-Facilities-Instruments/" %}} Learn more about FAIR Facilities and Instruments {{% /button %}}
+
+
+---
 
 ### Paris Conference on Open Research Information
 - Date: September 23-24, 2024
