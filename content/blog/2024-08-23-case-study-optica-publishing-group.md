@@ -60,7 +60,7 @@ Tell us about Optica Publishing Group. When was it founded, what does it do, and
 
 ### {{< figure src="/img/blog/optica/sasha-schwarzman.jpg" class="round-figure" alt="Sasha Schwarzman" >}} Sasha Schwarzman 
 
-[Optica](https://www.optica.org) was founded in 1916 as the Optical Society of America, and the first issue of the [Journal of the Optical Society of America](https://opg.optica.org/josa/browse.cfm) was published in 1917. In 2021, the organization's name was changed to Optica to reflect the society’s global membership, and Optica Publishing Group became its publishing arm.
+[Optica](https://www.optica.org) was founded in 1916 as the Optical Society of America, and the first issue of the [Journal of the Optical Society of America](https://opg.optica.org/josa/browse.cfm) was published in 1917. In 2021, the organization's name was changed to Optica to reflect the society’s global membership, and [Optica Publishing Group](https://opg.optica.org/) became its publishing arm.
 
 
 ### {{< figure src="/img/blog/optica/chris-iannicello.jpg" class="round-figure" alt="Chris Iannicello" >}} Chris Iannicello
