@@ -299,7 +299,7 @@ One particular challenge is dealing with Chinese funders. Funders there change r
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
 
-Yes, that's been a priority for us. As you know, in our March community call we had [a presentation from Jackson Huang](https://youtu.be/jRic-l8Nivs?si=EzZQ4VWc56FeibIq&t=1112), who was a LEADING Fellow with us and is now a member of our Curation Board, and who is a native Chinese speaker who's done some work on that. The focus wasn't specifically on funders; but more like Chinese-language organizations in ROR generally. 
+Yes, that's been a priority for us. As you know, in our March community call we had [a presentation from Jackson Huang](https://youtu.be/jRic-l8Nivs?si=EzZQ4VWc56FeibIq&t=1112), who was a LEADING Fellow with us and is now a member of our Curation Board, and who is a Chinese speaker who's done some work on that. The focus wasn't specifically on funders; but more like Chinese-language organizations in ROR generally. 
 
 What else would you like to say about ROR, or about the Optica Publishing Group, or about metadata, or about anything at all?
 
