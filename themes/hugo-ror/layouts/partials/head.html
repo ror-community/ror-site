@@ -44,21 +44,27 @@
   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />
 
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
+  
+  {{ if eq .Site.BaseURL "https://ror.org/" }}
 
-  <!-- Piwik 
-  <script type="text/javascript">
-  var _paq = _paq || [];
-  _paq.push(["setDomains", [".www.ror.community",".www.ror.community"]]);
+<!-- Matomo -->
+<script>
+  var _paq = window._paq = window._paq || [];
+  /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+  _paq.push(["setDomains", ["*.ror.org"]]);
   _paq.push(['trackPageView']);
   _paq.push(['enableLinkTracking']);
   (function() {
-  var u="//crossref.piwikpro.com/";
-  _paq.push(['setTrackerUrl', u+'piwik.php']);
-  _paq.push(['setSiteId', 19]);
-  var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
-  g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+    var u="https://crossref.matomo.cloud/";
+    _paq.push(['setTrackerUrl', u+'matomo.php']);
+    _paq.push(['setSiteId', '30']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.async=true; g.src='https://cdn.matomo.cloud/crossref.matomo.cloud/matomo.js'; s.parentNode.insertBefore(g,s);
   })();
-  </script>
-  <noscript><p><img src="//crossref.piwikpro.com/piwik.php?idsite=19" style="border:0;" alt="" /></p></noscript>
-   End Piwik Code -->
+</script>
+<!-- End Matomo Code -->
+
+  {{ else }}
+  {{ end }}
+
 </head>
