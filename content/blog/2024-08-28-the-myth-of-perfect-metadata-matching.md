@@ -1,6 +1,6 @@
 +++ 
 title = "The Myth of Perfect Metadata Matching (cross-post)" 
-date = "2024-08-27"
+date = "2024-08-28"
 draft = false 
 tags = ["Matching", "Cross-post", "Metadata"] 
 categories = ["Explainers"] 
