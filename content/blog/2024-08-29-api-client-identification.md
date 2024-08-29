@@ -56,19 +56,9 @@ Any additional revisions to ROR’s API are out of scope for this proposal, but 
 
 In keeping with ROR’s objective of maintaining low barriers to entry, two options for identifying API clients have been developed. Both approaches involve providing an additional URL parameter or request header with each API request. Neither of these approaches are intended to provide authentication or authorization, therefore values provided are not secret and can be passed and stored as plain text. **Full details of the proposed changes, pros and cons, privacy considerations, examples, and implementation timing are available [in the proposal draft](https://bit.ly/ror-client-id-proposal).** 
 
-## Questions to consider
-
-* Does either proposed approach above present a significant barrier to your use (or your customers’ use) of the ROR API?
-
-* Which approach do you prefer?
-
-* How much lead time would be needed for you/your organization to implement changes needed to support including an additional parameter with either an email address or API key in your ROR API requests?
-
-* Are there other approaches you would suggest?
-
 ## Giving feedback 
 
-To give feedback, please visit the [proposal document](https://bit.ly/ror-client-id-proposal) and suggest changes to the text or add comments in the margin by **October 4th, 2024**. We'll give a summary of the responses and discuss implementation at the [ROR Community Call in November](https://ror.org/events/#ror-community-call-november-2024). 
+To give feedback, please visit the [proposal document](https://bit.ly/ror-client-id-proposal) and suggest changes to the text or add comments in the margin by **October 4th, 2024**. Feedback about the "Questions to consider" noted in the document is particularly appreciated. We'll give a summary of the responses and discuss implementation at the [ROR Community Call in November](https://ror.org/events/#ror-community-call-november-2024). 
 
 Let us know what you think! We appreciate your time and all that you do to help us make ROR the best service it can be. 
 
