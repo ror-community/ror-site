@@ -56,25 +56,6 @@ Any additional revisions to ROR’s API are out of scope for this proposal, but 
 
 In keeping with ROR’s objective of maintaining low barriers to entry, two options for identifying API clients have been developed. Both approaches involve providing an additional URL parameter or request header with each API request. Neither of these approaches are intended to provide authentication or authorization, therefore values provided are not secret and can be passed and stored as plain text. **Full details of the proposed changes, pros and cons, privacy considerations, examples, and implementation timing are available [in the proposal draft](https://bit.ly/ror-client-id-proposal).** 
 
-### Option 1: mailto parameter
-
-API users include a `mailto` parameter in the URL of each request with a contact email address as the value, e.g., `https://api.ror.org/organizations?mailto=liz@ror.org`
-
-For requests that include the `mailto` parameter (with an email address as its value), a rate limit of 2000 requests per 5 minutes is applied. For requests that do not include the `mailto` parameter, or include the `mailto` parameter with a value that is not an email address, a rate limit of 50 requests per 5 minutes is applied. 
-
-### Option 2: API key parameter
-
-API users register for an API key via a public UI form (no login). Users are required to supply a contact email address; additional fields such as name, organization and ROR use case are optional. 
-
-Key is generated immediately upon form submission, displayed in the UI and also sent to the email address supplied by the user.
-Email addresses supplied at registration are used only to contact API users for support and troubleshooting purposes. Email addresses supplied at registration are not used for any other purpose and are not shared outside of ROR technical infrastructure.
-
-To keep support burden low, there is no “reset” or “recover” key functionality. Users can generate a new key at any time by submitting the registration form again. Initially, there will be no hard limit on the number of keys that can be generated with a single email address, however, we may impose a limit in the future if issues arise.
-
-API users include an api_key parameter in the URL of each request with the key value they received, e.g., `https://api.ror.org/organizations?api_key=XXXXXXXXXXXXXX.` API key value is not secret and is used only to differentiate the user from other users. 
-
-For requests that include the `api_key` parameter (with a valid key as its value), a rate limit of 2000 requests per 5 minutes is applied. For requests that do not include the `api_key` parameter, or include the `api_key` parameter with a value that is not a valid key, a rate limit of 50 requests per 5 min is applied. 
-
 ## Questions to consider
 
 * Does either proposed approach above present a significant barrier to your use (or your customers’ use) of the ROR API?
