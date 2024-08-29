@@ -19,7 +19,7 @@ We're looking for your feedback on a [draft proposal for managing ROR API client
 
 {{% /callout %}}
 
-{{< figure src="/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg" class="featured-figure" alt="Door knocker of house in Portugal. Photo by Sven Finger on Unsplash." >}}
+{{< figure src="/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg" class="featured-figure" alt="Lion-shaped door knocker from a house in Portugal. Photo by Sven Finger on Unsplash." >}}
 
 Since ROR’s launch in 2019, the ROR API has been provided at no cost and with no registration or credentials required. While requiring no registration or identification reduces barriers to entry, it makes managing the health and stability of the API challenging amid constant and growing use.
 
