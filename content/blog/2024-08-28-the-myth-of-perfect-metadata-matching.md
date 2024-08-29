@@ -19,7 +19,7 @@ The third blog post about metadata matching by ROR’s Adam Buttrick and Crossre
 
 {{% callout color="green" icon="no-icon" %}}
 
-The below is cross-posted from the Crossref blog. [Read the original post.](http://crossref.org/blog/2024-08-27-the-myth-of-perfect-metadata-matching/) 
+The below is cross-posted from the Crossref blog. [Read the original post.](http://crossref.org/blog/the-myth-of-perfect-metadata-matching/) 
 
 {{% /callout %}} 
 
