@@ -31,7 +31,7 @@ For more information about curation, read more on the [registry web page](https:
 
 {{% callout icon="fa-envelope" %}}
 
-Questions? Contact info@ror.org. 
+Questions? Contact registry@ror.org. 
 
 {{% /callout %}}
 
