@@ -17,7 +17,7 @@ description = "We are thrilled to introduce a new member of the ROR pride: Riley
 
 We are thrilled to introduce a new member of the ROR pride: Riley Marsh joined the ROR team in August as our new Metadata Manager.
 
-As Metadata Manager, Riley will support the day-to-day activities of curating the ROR registry, including triaging incoming requests and processing changes for new registry releases. Riley will work closely with ROR’s Curation Advisory Board to maintain ROR’s metadata policies and practices as well as working to understand and support various community use cases that might influence ROR's curation processes and procedures. Based at [Crossref](https://crossref.org), which is one of ROR’s three operating organizations, Riley will also contribute to metadata schema development activities on the Crossref side. 
+As Metadata Manager, Riley will support the day-to-day activities of curating the ROR registry, including triaging incoming requests and processing changes for new registry releases. Riley will work closely with ROR’s [Curation Advisory Board](https://ror.org/registry/#curation-advisory-board) to maintain ROR’s metadata policies and practices as well as working to understand and support various community use cases that might influence ROR's curation processes and procedures. Based at [Crossref](https://crossref.org), which is one of ROR’s three operating organizations, Riley will also contribute to metadata schema development activities on the Crossref side. 
 
 Riley brings a strong background to this work, most recently having worked at Tulane University Libraries in the Digital Scholarship & Initiatives department, supporting digital collections, electronic theses and dissertations, and various digitization projects across campus and beyond. 
 
@@ -31,7 +31,7 @@ For more information about curation, read more on the [registry web page](https:
 
 {{% callout icon="fa-envelope" %}}
 
-Questions? Contact info@ror.org. 
+Questions? Contact registry@ror.org. 
 
 {{% /callout %}}
 
