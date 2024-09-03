@@ -1,6 +1,6 @@
 +++ 
 title = "Welcome Riley Marsh, Metadata Manager" 
-date = "2024-08-30T16:29:03-04:00"
+date = "2024-09-03"
 draft = false 
 tags = ["Team", "Metadata", "Curation", "Crossref"] 
 categories = ["Team Updates"] 
