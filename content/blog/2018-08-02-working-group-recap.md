@@ -25,12 +25,11 @@ First, I would like to summarize all of the work that has gone into this project
   available to the community for public comment:
 - Organization Identifier Project: A Way Forward ([PDF](https://doi.org/10.5438/2906))
 - Organization Identifier Provider Landscape ([PDF](https://doi.org/10.5438/4716))
-- Technical Considerations for an Organization Identifier Registry ([PDF]
-  (https://doi.org/10.5438/7885))
+- Technical Considerations for an Organization Identifier Registry ([PDF](https://doi.org/10.5438/7885))
 - A [Working Group](https://orcid.org/content/organization-identifier-working-group) worked
   throughout 2017 and voted to approve a set of recommendations and principles for 'governance' and 'product':
-- [Governance Recommendations]    (https://figshare.com/articles/ORG_ID_WG_Governance_Principles_and_Recommendations/5402002/1)
-- [Product Principles and Recommendations] (https://figshare.com/articles/ORG_ID_WG_Product_Principles_and_Recommendations/5402047/1)
+- [Governance Recommendations](https://figshare.com/articles/ORG_ID_WG_Governance_Principles_and_Recommendations/5402002/1)
+- [Product Principles and Recommendations](https://figshare.com/articles/ORG_ID_WG_Product_Principles_and_Recommendations/5402047/1)
 - We then put out a [Request for Information](https://doi.org/10.23640/07243.5458162.v1)
   that sought expressions of interest from organizations to be involved in implementing and running an organization identifier registry.
 - There was a really good response to the RFI; reviewing the responses and thinking about
