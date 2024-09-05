@@ -10,13 +10,14 @@ author = "Research Organization Registry (ROR)"
 eventtypes = [""]
 eventarchives = ["{{now.Year}}"]
 eventtags = ["", "",]
-startdate = {{ .Date | time.Format "2006-01-02" }}
+startdate = 2006-01-02
 enddate = []
 starttime = " UTC"
 duration = ""
 location = ""
 recorded = ""
 description = ""
+website = ""
 reglink = ""
 +++
 
