@@ -11,6 +11,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 +++
 
 <!-- 
+
 ### 
 - Date: 
 - Time: [ UTC]()
@@ -26,6 +27,13 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 -->
 
 ## Upcoming events
+
+### Association of Learned and Professional Society Publishers (ALPSP)
+- Date: September 11-13, 2024
+- Location: Manchester, UK 
+- Description: ROR is honored to be one of four finalists for the [ALPSP Award for Innovation in Publishing](https://www.alpsp.org/events/alpsp-awards/the-alpsp-award-for-innovation-in-publishing-2024/)! We're not able to be there in person, but ROR will present a pre-recorded lightning talk at ALPSP about our contributions to scholarly publishing. 
+
+{{% button color="green" link="https://alpsp.cventevents.com/event/2409AIC-home" %}} Register for ALPSP {{% /button %}}
 
 ---
 
@@ -49,6 +57,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJwqfu-trTIoHdJ3ajeDyN_GVivLRaiRAEwO" %}} Register for the September Community Call {{% /button %}}
+
+---
+
+### New Features for Organization Information in DSpace with ROR
+- Date: Thursday, October 3, 2024
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-10-03&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: In this session, we'll hear about how and why 4Science incorporated ROR, the Research Organization Registry, into both DSpace-CRIS and DSpace 8 in order to improve the quality of organization metadata in both systems.
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMlceyurT8jE9NJ_oJhzw0exAQ-WZf1PlF9" %}} Register for New Features for Organization Information in DSpace with ROR {{% /button %}}
 
 ---
 
