@@ -17,6 +17,7 @@ duration = ""
 location = "Portland, OR"
 recorded = ""
 description = "ROR is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. In this talk, we describe the aims of ROR, share the first prototype, and explain how the community can get involved in the next stages of the project."
+website = "https://opencon-cascadia.github.io/"
 reglink = ""
 +++
 

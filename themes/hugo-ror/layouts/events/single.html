@@ -39,6 +39,9 @@
                {{ if .Description }}
                <li>Description: {{ .Description }}</li>
                {{else}}{{end}}
+               {{ if .Params.website }}
+               <li>Event website: <a href="{{ .Params.website }}">{{ .Params.website }}</a></li>
+               {{else}}{{end}}
                </ul> 
                
                {{ if .Params.reglink }}
