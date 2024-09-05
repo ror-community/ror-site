@@ -1,0 +1,30 @@
++++
+title = "ROR Community Call March 2019" 
+date = "2024-09-05T17:53:51-04:00"  
+draft = "false" 
+style = "card-plain" 
+banner = "/img/banners/ROR_Banner-grey.jpg" 
+thumb = "/img/events/ror-logo-800.png" 
+images = ['/img/events/ror-logo-800.png']
+author = "Research Organization Registry (ROR)" 
+eventtypes = ["Community Calls"]
+eventarchives = ["2019"]
+eventtags = ["", "",]
+startdate = 2019-03-21
+enddate = []
+starttime = ""
+duration = "1 hour"
+location = "Online"
+recorded = ""
+description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more."
+website = ""
+reglink = ""
++++
+
+## Materials 
+
+- [Slides from event](https://docs.google.com/presentation/d/1T0cceRVT1EWk4yl6j3y6WmqzEucvBHhRvoHYkDj6ejI/pub?start=false&loop=false&delayms=3000)
+
+<iframe src="https://docs.google.com/presentation/d/1T0cceRVT1EWk4yl6j3y6WmqzEucvBHhRvoHYkDj6ejI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
+
