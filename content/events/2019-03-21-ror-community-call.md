@@ -16,7 +16,7 @@ starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = ""
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more."
+description = "In this inaugural call for the ROR Community Advisory Group, we give an update on the project, invite feedback on policy questions, and go over next steps for ROR."
 website = ""
 reglink = ""
 +++
