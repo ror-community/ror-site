@@ -18,8 +18,9 @@
           <div class="row">
             <div class="col-md-9">
             
-              {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
-              {{ range ($paginator.Pages.ByParam "startdate").Reverse }}
+	{{ $sortedPages := (.Pages.ByParam "startdate").Reverse }}
+	{{ $paginator := .Paginate $sortedPages }}
+	{{ range $index, $page := $paginator.Pages }}
 
                 <section class="post">
                   <div class="row">
