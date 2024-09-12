@@ -1,5 +1,5 @@
 +++
-title = "csv,conf 2019" 
+title = "csv,conf" 
 date = "2024-09-06T13:15:27-04:00"  
 draft = "false" 
 style = "card-plain" 
