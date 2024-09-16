@@ -28,14 +28,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### Association of Learned and Professional Society Publishers (ALPSP)
-- Date: September 11-13, 2024
-- Location: Manchester, UK 
-- Description: ROR is honored to be one of four finalists for the [ALPSP Award for Innovation in Publishing](https://www.alpsp.org/events/alpsp-awards/the-alpsp-award-for-innovation-in-publishing-2024/)! We're not able to be there in person, but ROR will present a pre-recorded lightning talk at ALPSP about our contributions to scholarly publishing. 
-
-{{% button color="green" link="https://alpsp.cventevents.com/event/2409AIC-home" %}} Register for ALPSP {{% /button %}}
-
----
 
 ### Paris Conference on Open Research Information
 - Date: September 23-24, 2024
