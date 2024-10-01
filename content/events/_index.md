@@ -28,30 +28,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-
-### Paris Conference on Open Research Information
-- Date: September 23-24, 2024
-- Duration: 1 hour
-- Location: Paris
-- Recorded: No
-- Description: ROR team members will be present at the Paris Conference on Open Research Information. To support signatories of the [Barcelona Declaration](https://barcelona-declaration.org) in fulfilling their commitment to open research information, the Paris Conference on Open Research Information aims to provide a forum for sharing experiences and good practices regarding open research information and to develop a joint roadmap for open research information. 
-
-{{% button color="green" link="https://barcelona-declaration.org/conference" %}} Learn more about the Paris Conference on Open Research Information {{% /button %}}
-
----
-
-### ROR Community Call September 2024 
-- Date: Thursday, September 26, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-09-26&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJwqfu-trTIoHdJ3ajeDyN_GVivLRaiRAEwO" %}} Register for the September Community Call {{% /button %}}
-
----
-
 ### New Features for Organization Information in DSpace with ROR
 - Date: Thursday, October 3, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-10-03&tz2=UTC)
@@ -95,6 +71,9 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### ROR Community Call September 2024 
+The [ROR Community Call for September 2024](2024-09-26-ror-community-call) includes general updates about events, honors, and recent blog posts; an introduction to our new Metadata Manager Riley Marsh; a description of our request for feedback on identifying clients of the ROR API, and reports on our call for feedback on adding new external identifiers to ROR records. Guest presenters include representatives of the Office of the Government of the Czech Republic, who explain how ROR helps them track their nation's research output, and the Director of Content for [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/) from ‪Clarivate‬, who gives us a preview of the ROR features in Web of Science coming in October 2024. 
 
 ### ROR Community Call July 2024 
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In the [ROR Community Call for July 2024](2024-07-16-ror-community-call), we hear initial thoughts on adding credentialing to the ROR API, request feedback on a proposal to add additional external identifiers to ROR records, learn about new ROR adoptions, notably DSpace 8, and see presentations from featured integrators the [American Physical Society (APS)](https://aps.org) and [Curvenote](https://curvenote.com).
