@@ -28,16 +28,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### New Features for Organization Information in DSpace with ROR
-- Date: Thursday, October 3, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-10-03&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: In this session, we'll hear about how and why 4Science incorporated ROR, the Research Organization Registry, into both DSpace-CRIS and DSpace 8 in order to improve the quality of organization metadata in both systems.
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMlceyurT8jE9NJ_oJhzw0exAQ-WZf1PlF9" %}} Register for New Features for Organization Information in DSpace with ROR {{% /button %}}
-
 ---
 
 ### Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians
@@ -72,17 +62,30 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
+### New Features for Organization Information in DSpace with ROR
+In [New Features for Organization Information in DSpace with ROR](2024-10-03-ror-in-dspace), a webinar co-hosted with [4Science](https://4science.com), we hear about how and why 4Science incorporated ROR, the Research Organization Registry, into both DSpace-CRIS and DSpace 8 in order to improve the quality of organization metadata in both systems.
+
+---
+
 ### ROR Community Call September 2024 
 The [ROR Community Call for September 2024](2024-09-26-ror-community-call) includes general updates about events, honors, and recent blog posts; an introduction to our new Metadata Manager Riley Marsh; a description of our request for feedback on identifying clients of the ROR API, and reports on our call for feedback on adding new external identifiers to ROR records. Guest presenters include representatives of the Office of the Government of the Czech Republic, who explain how ROR helps them track their nation's research output, and the Director of Content for [Web of Science](https://clarivate.com/products/scientific-and-academic-research/research-discovery-and-workflow-solutions/webofscience-platform/) from ‪Clarivate‬, who gives us a preview of the ROR features in Web of Science coming in October 2024. 
+
+---
 
 ### ROR Community Call July 2024 
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In the [ROR Community Call for July 2024](2024-07-16-ror-community-call), we hear initial thoughts on adding credentialing to the ROR API, request feedback on a proposal to add additional external identifiers to ROR records, learn about new ROR adoptions, notably DSpace 8, and see presentations from featured integrators the [American Physical Society (APS)](https://aps.org) and [Curvenote](https://curvenote.com).
 
+---
+
 ### ROR Community Call May 2024 
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for May 2024](2024-05-23-ror-community-call) includes general updates, an update on the April launch of the v2 ROR API and schema, and an overview of publisher identifiers in DataCite's new metadata schema 4.5.
 
+---
+
 ### ROR Community Call March 2024
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The [ROR Community Call for March 2024](2024-03-26-ror-community-call) includes an update on v2 of the ROR API and schema, a summary of a special project to improve our coverage of Chinese organizations, new and notable ROR adoptions, and an update on Crossref's work on the transition from the Open Funder Registry to ROR.
+
+---
 
 ### Why We All Need Good Funding Metadata
 
