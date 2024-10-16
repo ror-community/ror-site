@@ -7,7 +7,7 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-description = "Join us at a ROR event."
+description = "The ROR Community Call for September 2024 includes general updates about events, honors, and recent blog posts; an introduction to our new Metadata Manager Riley Marsh; a description of our request for feedback on identifying clients of the ROR API, and reports on our call for feedback on adding new external identifiers to ROR records. Guest presenters include representatives of the Office of the Government of the Czech Republic, who explain how ROR helps them track their nation's research output, and the Director of Content for Web of Science from ‪Clarivate‬, who gives us a preview of the ROR features in Web of Science coming in October 2024."
 +++
 
 ### ROR Community Call September 2024 
@@ -16,7 +16,7 @@ description = "Join us at a ROR event."
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. 
+- Description: The ROR Community Call for September 2024 includes general updates about events, honors, and recent blog posts; an introduction to our new Metadata Manager Riley Marsh; a description of our request for feedback on identifying clients of the ROR API, and reports on our call for feedback on adding new external identifiers to ROR records. Guest presenters include representatives of the Office of the Government of the Czech Republic, who explain how ROR helps them track their nation's research output, and the Director of Content for Web of Science from ‪Clarivate‬, who gives us a preview of the ROR features in Web of Science coming in October 2024. 
 
 ### Materials
 
