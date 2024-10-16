@@ -10,12 +10,12 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/curvenote/curvenote-logo.png" 
 images = ['/img/blog/curvenote/curvenote-logo.png']
 author = "Amanda French" 
-description = "Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo."
+description = "In this interview with Curvenote founder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and effortlessly integrate structured metadata into beautiful, richly connected, and highly interactive publications and portfolios."
 +++ 
 
 {{< figure src="/img/blog/curvenote/curvenote-logo.png" class="featured-figure" alt="Curvenote logo" >}}
 
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. 
+In this interview with Curvenote founder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and effortlessly integrate structured metadata into beautiful, richly connected, and highly interactive publications and portfolios. 
 
 {{% callout color="green" icon="no-icon" %}}
 
@@ -42,7 +42,7 @@ Curvenote is a "What You See Is What You Get" ([WYSIWYG](https://www.merriam-web
 
 We've done some really exciting integrations with ROR, as well as with [ORCIDs](https://orcid.org) and [DOIs](https://doi.org) and [RRIDs](https://rrid.site/). For instance, one thing we're thinking about is that as authors are writing, instead of having a citation manager where you're copying the name and the title and the year into your text as a text-only citation, you just copy in the persistent identifier and then it automatically queries all of the scholarly databases against that citation for you. And then you get a very beautiful site that you can publish out of that. I use the word "site" rather than "journal article," because I think one of the things that is difficult for scientists to do is to have a portfolio of their work. When you're using the publishing ecosystem, your work is scattered all around the place. It's really difficult to show all of the papers and articles and blog posts all in one collection on a landing page on your website. 
 
-We're also elevating a lot of scientific computational work by letting people show off interactive [Jupyter Notebooks](https://jupyter.org/). I think by bringing all this a little bit closer together and into the scientist's control, you can experiment a lot more with how you're presenting your work. You can push on things  reproducibility and interactive apps that are educational rather than focusing only on novelty in the scientific paper sense. What we're trying to make possible is the ability to continually update that project, that paper, that article, that blog post, and to make sure there's good metadata throughout that entire process such that it's actually integrated into the scholarly ecosystem.
+We're also elevating a lot of scientific computational work by letting people show off interactive [Jupyter Notebooks](https://jupyter.org/). I think by bringing all this a little bit closer together and into the scientist's control, you can experiment a lot more with how you're presenting your work. You can push on things reproducibility and interactive apps that are educational rather than focusing only on novelty in the scientific paper sense. What we're trying to make possible is the ability to continually update that project, that paper, that article, that blog post, and to make sure there's good metadata throughout that entire process such that it's actually integrated into the scholarly ecosystem.
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
   
