@@ -81,15 +81,15 @@ Looking for a short document to help you or others at your organization understa
 - [ROR for Repositories](https://zenodo.org/doi/10.5281/zenodo.10049153) (13 pages)
 
 ## Supporters {#supporters}
-ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. Does your organization want to help support ROR financially? 
+ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. 
 
 {{% centered %}}
 
-{{% button color="green" link="/sustain" %}} Become a ROR sustaining supporter {{% /button %}}
+{{% button color="green" link="/sustain" %}} Sign up to support ROR {{% /button %}}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="520" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
-[See the complete list of ROR sustaining supporters.](https://bit.ly/ror-sustainers)
+[See the complete list of ROR supporters.](https://bit.ly/ror-sustainers)
 
 {{% /centered %}}
 
