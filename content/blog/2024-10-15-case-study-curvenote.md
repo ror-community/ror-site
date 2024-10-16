@@ -10,12 +10,12 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/curvenote/curvenote-logo.png" 
 images = ['/img/blog/curvenote/curvenote-logo.png']
 author = "Amanda French" 
-description = "In this interview with Curvenote founder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and effortlessly integrate structured metadata into beautiful, richly connected, and highly interactive publications and portfolios."
+description = "In this interview with Curvenote founder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and easily use structured metadata to create fully connected and highly interactive publications and portfolios."
 +++ 
 
 {{< figure src="/img/blog/curvenote/curvenote-logo.png" class="featured-figure" alt="Curvenote logo" >}}
 
-In this interview with Curvenote founder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and effortlessly integrate structured metadata into beautiful, richly connected, and highly interactive publications and portfolios. 
+In this interview with Curvenote founder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and easily use structured metadata to create fully connected and highly interactive publications and portfolios.
 
 {{% callout color="green" icon="no-icon" %}}
 
