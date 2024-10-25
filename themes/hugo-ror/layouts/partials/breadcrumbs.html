@@ -8,8 +8,14 @@
 					<ul class="breadcrumbs">
 						<li><a href="{{ .Site.BaseURL }}">Home</a>{{ if not (eq .Permalink "/")  }}<span>&gt;</span>{{ end }}</li>
 						
-							{{ if eq ($.Scratch.Get "pagetype") "404" }}
-								<li>{{ $.Title }}</li>
+						{{ if eq .Title "Eventarchives"}}
+						<li>Event Archives</li>
+						
+						{{ else if eq .Title "Eventtypes"}}
+						<li>Event Types</li>		
+						
+							{{else if eq ($.Scratch.Get "pagetype") "404" }}
+								<li>{{ $.Title | title }}</li>
 							{{ else }}
 
 								{{ range $index, $element := split .RelPermalink "/" }}
@@ -25,12 +31,18 @@
 									{{ if ne $element "" }}
 										{{ if not $isLast }}
 											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) ( eq (title ( replace . "-" " ")) "Archives" )}}
-												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>
+												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>		
+												
+											{{ else if or ( eq (title ( replace . "-" " ")) "Eventtypes" ) ( eq (title ( replace . "-" " ")) "Eventarchives" )}}		
+								<li><a href='/events/'>Events</a><span>&gt;</span></li>												
+
 											{{ else }}
-												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title }}{{ end }}</a><span>&gt;</span></li>
+												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title | title }}{{ end }}</a><span>&gt;</span></li>
 											{{ end }}
+										
+								
 										{{ else }}
-											<li>{{ $.Title }}</li>
+											<li>{{ $.Title | title }}</li>
 										{{ end }}
 									{{ end }}
 								{{ end }}

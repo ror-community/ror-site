@@ -1,18 +1,18 @@
 +++ 
-title = "{{replace .TranslationBaseName "-" " "}}" 
-date = "{{.Date}}"
-draft = false 
-tags = ["", ""] 
-categories = [""] 
-archives = ["{{now.Year}}"]
+title = "Title" 
+date ="Date"
+draft = true 
+tags = ["Tag1", "Tag2"] 
+categories = ["Category"] 
+archives = ["Year"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
-author = "" 
-description = ""
-slug = ""
-aliases = [""]
+author = "Research Organization Registry (ROR)" 
+description = "Description"
+slug = "slug"
+aliases = ["aliases"]
 +++ 
 
 <!-- Commonly used content 

@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body class='taxonomy'>
+    <div class="wrapper" id="all">
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      <section class="section section-banner" id="content">
+
+       {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
+
+        <div class="section container">
+          <div class="row">
+            <div class="col-md-9">
+            
+              {{ $paginator := .Paginate (where .Data.Pages "Type" "events") }}
+              {{ range ($paginator.Pages.ByParam "startdate").Reverse }}
+
+                <section class="post">
+                  <div class="row">
+                      <div class="col-md-12">
+                        {{ if isset .Params "eventtypes" }}
+                          {{ if gt (len .Params.eventtypes) 0 }}
+                          <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}eventtypes/{{ index .Params.eventtypes 0 | urlize | lower }}">{{ index .Params.eventtypes 0 }}</a></strong>
+                          {{ end }}
+                        {{ end }}
+                        <h3 class="event-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+			   <ul>
+               {{ if .Params.startdate }}
+               <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
+               {{ else }}
+               {{ end }}
+               {{ if .Params.starttime }}
+            	<li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Params.startdate }}">{{ .Params.starttime }}</a></li>
+               <li>Duration: {{ .Params.duration }}</li>               
+               {{ else }}
+               {{ end }}
+               {{ if .Params.location}}
+               <li>Location: {{ .Params.location }}</li>
+               {{else}}{{end}}
+               {{ if .Params.recorded }}
+               <li>Recorded: {{ .Params.recorded }}</li>
+               {{else}}{{end}}
+               {{ if .Description }}
+               <li>Description: {{ .Description }}</li>
+               {{else}}{{end}}
+               </ul>
+                          <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See all event details</a></p>
+                          <hr />
+                        </div>
+                    </div>
+                </section>
+              {{ end }}
+              
+              
+              {{ partial "pagination.html" . }}
+              
+                            
+            </div>
+
+            <div class="col-md-3">
+              {{ partial "eventsidebar.html" . }}
+            </div>
+            
+          </div>
+        </div>
+      </section>
+    </div>
+
+    {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

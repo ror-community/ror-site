@@ -1,13 +1,29 @@
 +++
 title = "Intro to the ROR API"
-draft = false
-date = "2022-01-25"
+date = "2023-01-25"
+draft = false 
 banner = "/img/banners/ROR_Banner-grey.jpg"
-aliases = [ 
-"/intro-ror-api",
-"/tutorials/intro-ror-api",
-"/tutorials"]
+thumb = "/img/ror-logo-800.png" 
+images = ['/img/ror-logo-800.png']
+author = "Research Organization Registry (ROR)" 
+eventtypes = ["Workshops"]
+eventarchives = ["2023"]
+eventtags = ["ROR Event", "API", "Tutorials"]
+startdate = 2023-02-01
+enddate = []
+starttime = ""
+duration = "90 minutes"
+location = "Online"
+recorded = "Yes"
+description = "This introductory workshop on querying the ROR API was given at the ROR Annual Meeting in 2023."
+reglink = ""
+aliases = ["/intro-ror-api", "/tutorials/intro-ror-api", "/tutorials"]
 +++
+
+
+## Recording
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Lf0z5ob_J9Y?si=I0Y8Af8waZ6HC_Nw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## What this lesson covers
 
