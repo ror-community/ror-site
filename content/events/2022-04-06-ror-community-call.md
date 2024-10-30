@@ -1,5 +1,5 @@
 +++
-title = "ROR Community Call October 2022" 
+title = "ROR Community Call April 2022" 
 date = "2024-09-05T19:26:40-04:00"  
 draft = "false" 
 style = "card-plain" 
@@ -10,7 +10,7 @@ author = "Research Organization Registry (ROR)"
 eventtypes = ["Community Calls"]
 eventarchives = ["2022"]
 eventtags = ["", "",]
-startdate = 2022-10-19
+startdate = 2022-04-06
 enddate = []
 starttime = ""
 duration = ""

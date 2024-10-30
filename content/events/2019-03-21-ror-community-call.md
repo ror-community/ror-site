@@ -15,7 +15,7 @@ enddate = []
 starttime = ""
 duration = "1 hour"
 location = "Online"
-recorded = ""
+recorded = "Yes"
 description = "In this inaugural call for the ROR Community Advisory Group, we give an update on the project, invite feedback on policy questions, and go over next steps for ROR."
 website = ""
 reglink = ""
@@ -23,8 +23,6 @@ reglink = ""
 
 ## Materials 
 
-- [Slides from event](https://docs.google.com/presentation/d/1T0cceRVT1EWk4yl6j3y6WmqzEucvBHhRvoHYkDj6ejI/pub?start=false&loop=false&delayms=3000)
-
-<iframe src="https://docs.google.com/presentation/d/1T0cceRVT1EWk4yl6j3y6WmqzEucvBHhRvoHYkDj6ejI/embed?start=false&loop=false&delayms=3000" frameborder="0" width="1280" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. 
 
 
