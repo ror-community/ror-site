@@ -8,14 +8,14 @@ images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Workshops"]
 eventarchives = ["2023"]
-eventtags = ["API", "Tutorials"]
+eventtags = ["API", ]
 startdate = 2023-02-01
 enddate = []
 starttime = ""
 duration = "90 minutes"
 location = "Online"
 recorded = "Yes"
-description = "This introductory workshop on querying the ROR API was given at the ROR Annual Meeting in 2023."
+description = "This introductory workshop on querying the ROR API, part of the ROR Annual Meeting in 2023, teaches participants basic features of the ROR API, elements of a ROR record, and how to construct queries with the ?query parameter."
 reglink = ""
 aliases = ["/intro-ror-api", "/tutorials/intro-ror-api", "/tutorials"]
 +++

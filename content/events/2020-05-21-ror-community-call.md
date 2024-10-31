@@ -16,7 +16,7 @@ starttime = ""
 duration = ""
 location = ""
 recorded = ""
-description = "In this meeting of the ROR Community Advisory Group. we report on outreach efforts including the first “Intro to ROR” webinar and the launch of a ROR  YouTube channel. Development and curation updates include a new technical lead, improved metadata handling from GRID, and ongoing work on ORCID integration, with plans to streamline bulk submission of organizations to ROR. Community updates highlight efforts like mapping ROR IDs at the US DOE and integrating ROR into OJS journals, with discussions on validating ROR IDs through additional metadata. Lastly, a publisher implementation group is forming, and timelines for Crossref and ORCID integrations are being set."
+description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. In the May 2020 meeting, we hear reports on outreach efforts, including the first “Intro to ROR” webinar and the launch of a ROR  YouTube channel. Development and curation updates include a new technical lead, improved metadata handling from GRID, and ongoing work on ORCID integration, with plans to streamline bulk submission of organizations to ROR. Community updates highlight efforts such as mapping ROR IDs at the US DOE and integrating ROR into OJS journals, with discussions about validating ROR IDs through additional metadata. Lastly, a publisher implementation group is forming, and timelines for Crossref and ORCID integrations are being set."
 website = ""
 reglink = ""
 +++

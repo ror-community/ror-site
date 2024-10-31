@@ -9,14 +9,14 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Conferences"]
 eventarchives = ["2019"]
-eventtags = ["", "",]
+eventtags = ["CSVconf", ]
 startdate = 2019-05-08
 enddate = []
 starttime = ""
 duration = ""
 location = "Portland, OR"
 recorded = "Yes"
-description = "ROR is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. In this session, we'll introduce you to ROR and explain why it's important."
+description = "ROR is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. In this session, we introduce you to ROR and explain why it's important."
 website = "https://csvconf.com/2019/"
 reglink = ""
 +++
