@@ -15,7 +15,7 @@ enddate = 2024-08-03
 starttime = ""
 duration = ""
 location = "Los Angeles, CA"
-description = "ROR team members will be in attendance in person at the annual meeting of FORCE11, which brings together a wide and diverse set of stakeholders from scholarly communications communities."
+description = "ROR team members are attending the in-person annual meeting of FORCE11, which brings together a wide and diverse set of stakeholders from scholarly communications communities."
 reglink = "https://force11.org/conference/"
 +++
 

@@ -9,14 +9,14 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Conferences"]
 eventarchives = ["2019"]
-eventtags = ["PIDapalooza", "",]
+eventtags = ["PIDapalooza", ]
 startdate = 2019-01-24
 enddate = []
 starttime = ""
 duration = ""
 location = "Dublin, Ireland"
 recorded = ""
-description = "ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. We are building open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata and we just released a working prototype that's ready for people to use. Join us for a fun and interactive session exploring the challenges with organizational identifiers and how ROR is addressing them."
+description = "ROR is the Research Organization Registry, a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. We are building open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata, and we've just released a working prototype that's ready for people to use. Join us for a fun and interactive session exploring the challenges with organizational identifiers and how ROR is addressing them."
 reglink = ""
 +++
 

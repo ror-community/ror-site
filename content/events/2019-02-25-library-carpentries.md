@@ -9,14 +9,14 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Webinars"]
 eventarchives = ["2019"]
-eventtags = ["", "",]
+eventtags = ["Library Carpentry", ]
 startdate = 2019-02-25
 enddate = []
 starttime = ""
 duration = ""
 location = "Online"
 recorded = ""
-description = "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world."
+description = "The Research Organization Registry (ROR) is a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. In this talk, we introduce ROR to the Library Carpentry community."
 website = ""
 reglink = ""
 +++

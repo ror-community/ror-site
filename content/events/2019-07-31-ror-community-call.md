@@ -13,10 +13,10 @@ eventtags = ["DataCite", "Crossref", "GRID", "PIDapalooza", ]
 startdate = 2019-07-31
 enddate = []
 starttime = ""
-duration = ""
-location = ""
-recorded = ""
-description = "In this ROR Community Advisory Group meeting, we give updates on GRID synchronization, making ROR available as in a JSON data dump, and the forthcoming proposal on ROR in the Crossref metadata schema. We ask people to save the date of January 28, 2020 for PIDapalooza in Lisbon and remind people to sign and share the statement of support for ROR. ROR's three experimental working groups are set to start meeting in June: Outreach, Policy, and Implementation / Adoption."
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
+description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. The July 2019 meeting includes updates on GRID synchronization, making ROR available as in a JSON data dump, and the forthcoming proposal on ROR in the Crossref metadata schema. Outreach activities include attending the next PIDapalooza in Lisbon and asking for signatures on the statement of support for ROR. ROR's three experimental working groups are set to start meeting in June: Outreach, Policy, and Implementation / Adoption."
 website = ""
 reglink = ""
 +++

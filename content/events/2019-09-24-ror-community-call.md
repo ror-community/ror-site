@@ -13,10 +13,10 @@ eventtags = ["DataCite", "Crossref", "GRID", "CHORUS", "OSTI", "EMBL-EBI", "UC D
 startdate = 2019-09-24
 enddate = []
 starttime = ""
-duration = ""
-location = ""
-recorded = ""
-description = "In this ROR Community Advisory Group meeting, we hear about the progress on ROR in DataCite's metadata schema, in GRID records, and in Crossref's metadata schema. CHORUS, OSTI DOE, UC Davis, EMBL-EBI, and the British Library report on various ROR adoption and outreach efforts. We also discuss the volume of requests for changes to ROR and discuss our proposal for a community curation board."
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
+description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. The September 2019 meeting includes updates on the progress of ROR in DataCite's metadata schema, in GRID records, and in Crossref's metadata schema. CHORUS, OSTI DOE, UC Davis, EMBL-EBI, and the British Library report on various ROR adoption and outreach efforts. Additional topics include the volume of requests for changes to ROR and the proposal for a ROR community curation board."
 website = ""
 reglink = ""
 +++
