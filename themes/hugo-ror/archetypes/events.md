@@ -9,14 +9,15 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["{{now.Year}}"]
-eventtags = ["", "",]
-startdate = {{ .Date | time.Format "2006-01-02" }}
+eventtags = ["", "", ]
+startdate = 2006-01-02
 enddate = []
-starttime = " UTC"
+starttime = ""
 duration = ""
 location = ""
 recorded = ""
 description = ""
+website = ""
 reglink = ""
 +++
 
