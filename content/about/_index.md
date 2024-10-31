@@ -30,7 +30,7 @@ Looking for basic information about ROR? Check out the [frequently asked questio
 
 ## Governance model
 
-ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement-2022.pdf) (MOA).
+ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf) (MOA).
 
 Responsibility for ROR is designed and premised on the following core principles:
 
@@ -78,7 +78,7 @@ Adam [joined ROR in January 2022](/blog/2022-02-14-new-year-at-ror/#changes-on-t
 
 #### Amanda French, Technical Community Manager
 
-Amanda [joined ROR in June 2022](/blog/2022-06-13-welcome-amanda-french/) as Technical Community Manager, charged with promoting and supporting the adoption of ROR in research and scholarly communications systems workflows. Amanda is based at [Crossref](https://crossref.org). A well-known community manager and project director in digital humanities and scholarly communication, Amanda was most recently Community Lead at The COVID Tracking Project at _The Atlantic_. Previously, she directed a Mellon-funded project at the George Washington University Libraries, served as Director of Digital Research Services at Virginia Tech University Libraries, and led the THATCamp unconference initiative at the Roy Rosenzweig Center for History and New Media. Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
+Amanda [joined ROR in June 2022](/blog/2022-06-13-welcome-amanda-french/) as Technical Community Manager, charged with promoting and supporting the adoption of ROR in research and scholarly communications systems workflows. Amanda is based at [Crossref](https://crossref.org) and works remotely from the Research Triangle area in North Carolina. A well-known community manager and project director in digital humanities and scholarly communication, Amanda was most recently Community Lead at The COVID Tracking Project at _The Atlantic_. Previously, she directed a Mellon-funded project at the George Washington University Libraries, served as Director of Digital Research Services at Virginia Tech University Libraries, and led the THATCamp unconference initiative at the Roy Rosenzweig Center for History and New Media. Email Amanda at [amanda@ror.org](mailto:amanda@ror.org) or [book a 30-minute meeting](https://calendly.com/ror-chat) if you have any questions about ROR and want to talk to a person. 
 
 #### Liz Krznarich, Technical Lead
 
@@ -87,6 +87,10 @@ Liz [joined the ROR team in late 2020](https://blog.datacite.org/working-at-the-
 #### Maria Gould, Director
 
 Maria [joined ROR in November 2018](https://cdlib.org/cdlinfo/2018/11/14/maria-gould-joins-cdl-as-uc3-product-manager/) as UC3 Product Manager at the California Digital Library focusing on persistent identifier projects, and in that role she led the team that launched the minimum viable registry (MVR) ROR prototype at PIDapalooza in 2019. Prior to joining ROR and CDL, Maria was a scholarly communication librarian at UC Berkeley and led documentation and training activities at PLOS. As ROR's director, Maria is responsible for coordinating ROR operations and developing ROR's strategic vision. Maria is [now based at DataCite](https://datacite.org/blog/welcome-maria-gould-datacites-new-product-director/), where she is Director of Product. 
+
+#### Riley Marsh, Metadata Manager 
+
+Riley [joined ROR in August 2024](/blog/2024-09-03-welcome-riley-marsh) as Metadata Manager, in which role she supports the day-to-day activities of curating the ROR registry, including triaging incoming requests, processing changes for new registry releases, and working closely with ROR’s Curation Advisory Board. Riley is based at [Crossref](https://crossref.org) and also contributes to Crossref metadata schema development activities. Previously, Riley worked as a children’s school librarian before joining the Digital Scholarship & Initiatives department at Tulane University Libraries, where she worked with university's Digital Collections, Electronic Theses and Dissertations Archive, and various digitization projects involving partners across campus and beyond. Riley works remotely from New Orleans, Louisiana. 
 
 ### Alumni and affiliates
 
@@ -111,7 +115,7 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 
 More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://bit.ly/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
 
-### ROR IDs in Crossref metadata
+### ROR IDs in Crossref metadata 
 
 <iframe width="1007" height="755" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
 
@@ -119,11 +123,9 @@ See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https:
 
 ### ROR IDs in DataCite metadata
 
-<iframe width="1007" height="755" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=407872696&amp;format=interactive"></iframe>
+<iframe width="1007" height="675" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=407872696&amp;format=interactive"></iframe>
 
-<iframe width="805" height="603" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1007793902&amp;format=interactive"></iframe>
-
-<iframe width="805" height="603" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=750999640&amp;format=interactive"></iframe>
+<iframe width="1005" height="621" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=522112742&amp;format=interactive"></iframe>
 
 See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubhtml) for API queries and additional statistics.
 
