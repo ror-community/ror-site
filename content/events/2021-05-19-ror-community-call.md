@@ -9,14 +9,14 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2021"]
-eventtags = ["", "", ]
+eventtags = ["OA Switchboard", ]
 startdate = 2021-05-19
 enddate = []
 starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = ""
+description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. In the May 2021 Community Advisory Group meeting, reports are given on the publication of the ROR display guidelines, the API users' group, and the Adoption working group. The OA Switchboard gives an update on its use of ROR, and we ask for feedback on exposing additional metadata in the UI."
 website = ""
 reglink = ""
 +++

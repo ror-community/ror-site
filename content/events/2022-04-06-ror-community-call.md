@@ -16,7 +16,7 @@ starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = ""
+description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more."
 reglink = ""
 +++
 

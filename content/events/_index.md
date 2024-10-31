@@ -7,17 +7,7 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventtypes = [""]
-eventarchives = [""]
-eventtags = ["", "", ]
-startdate = 2006-01-02
-enddate = []
-starttime = ""
-duration = "1 hour"
-location = "Online"
-recorded = "Yes"
-description = ""
-reglink = ""
+description = "Research Organization Registry (ROR) upcoming and past events."
 +++
 
 {{% callout icon="no-icon" color="green" %}}
