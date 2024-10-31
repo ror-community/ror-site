@@ -45,7 +45,7 @@
                </ul> 
  
  			{{ $n := now.AddDate 0 0 -1 }}
- 			{{ if ge .Params.startdate $n }} 
+ 			{{ if and (.Params.reglink) (ge .Params.startdate $n) }} 
  			
             <p><a href="{{ .Params.reglink }}" class="btn btn-sm btn-round green">Register for {{ .Title }}</a></p>				
             {{ else }}
