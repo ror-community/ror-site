@@ -9,13 +9,13 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2022"]
-eventtags = ["", "",]
+eventtags = ["", "", ]
 startdate = 2022-10-19
 enddate = []
 starttime = ""
-duration = ""
-location = ""
-recorded = ""
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
 description = ""
 reglink = ""
 +++
