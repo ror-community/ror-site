@@ -10,7 +10,7 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/matching-how-good/string-id-matching-crown.png" 
 images = ['/img/blog/matching-how-good/string-id-matching-crown.png']
 author = "Dominika Tkaczyk and Adam Buttrick" 
-description = "TKTKTK"
+description = "The fourth blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk explains how to measure the quality of different matching strategies with an evaluation dataset and metrics."
 +++ 
 
 
