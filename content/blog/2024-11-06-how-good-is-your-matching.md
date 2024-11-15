@@ -14,7 +14,7 @@ description = "The fourth blog post about metadata matching by ROR’s Adam Butt
 +++ 
 
 
-{{< figure src="/img/blog/matching-how-good/string-id-matching-crown.png" alt="" class="featured-figure" >}}
+{{< figure src="/img/blog/matching-how-good/string-id-matching-crown.png" alt="An elaborate crown on top of the words string = id on a bright blue background" class="featured-figure" >}}
 
 The fourth blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk explains how to measure the quality of different matching strategies with an evaluation dataset and metrics. 
 
