@@ -60,13 +60,6 @@ summaryLength = 20
     enable = true
     title = "News and Updates"
 
-[params.twitter_feed]
-    enable = false
-    title = "Twitter Feed"
-    
-[params.social]
-	twitter = 'ResearchOrgs' 
-
 [taxonomies]
   category = 'categories'
   tag = 'tags'
