@@ -44,6 +44,12 @@ We've done some really exciting integrations with ROR, as well as with [ORCIDs](
 
 We're also elevating a lot of scientific computational work by letting people show off interactive [Jupyter Notebooks](https://jupyter.org/). I think by bringing all this a little bit closer together and into the scientist's control, you can experiment a lot more with how you're presenting your work. You can push on things like reproducibility and interactive apps that are educational rather than focusing only on novelty in the scientific paper sense. What we're trying to make possible is the ability to continually update that project, that paper, that article, that blog post, and to make sure there's good metadata throughout that entire process such that it's actually integrated into the scholarly ecosystem.
 
+{{% centered %}} 
+
+{{< figure src="/img/blog/curvenote/curvenote-demo.gif" alt="Demonstration of richly-linked and interactive scientific content in Curvenote." caption="Demonstration of richly-linked and interactive scientific content in Curvenote." >}}
+
+{{% /centered %}} 
+
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
 Would it be fair to say that Curvenote is a digital-first platform?
@@ -108,7 +114,7 @@ There are different ways to publish MyST sites. We have a publishing system for 
  
 The [North Carolina School of Science and Mathematics](https://www.ncssm.edu/) is also using Curvenote -- that's **high school students** learning about ORCIDs, RORs, and DOIs for the first time! There's a teacher there who wanted his students to be able to have a breath of fresh air in the science ecosystem and to learn what it would be like for them to publish in six years. And that means they're publishing immediately. They're getting DOIs, they have ORCIDs, they have a [ROR](https://ror.org/03zbydc22)! Their work is born open access, and it's born with reproducibility, and it's born with the datasets integrated. It's just so cool. Their journal is called [The Morganton Scientific](https://morgantonscientific.ncssm.edu/).
 
-{{< figure src="/img/blog/curvenote/ncssm-morganton-scientific.png" alt="The North Carolina School of Science and Mathematics showcases student research in The Morganton Scientific, powered by Curvenote." caption="The North Carolina School of Science and Mathematics showcases student research in The Morganton Scientific, powered by Curvenote." >}}
+{{< figure src="/img/blog/curvenote/ncssm-morganton-scientific.png" class="blog-figure" alt="The North Carolina School of Science and Mathematics showcases student research in The Morganton Scientific, powered by Curvenote." caption="NCSSM showcases student research in Curvenote-powered The Morganton Scientific." >}}
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
