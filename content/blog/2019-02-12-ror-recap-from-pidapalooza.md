@@ -20,7 +20,6 @@ In another session, California Digital Library's Maria Gould and Daniella Lowenb
 We also heard ROR referenced in several other sessions during the course of the conference, from Carolyn Grant's "[Implementation of Organizational IDs in NASA's ADS Abstract Service](https://zenodo.org/record/2548887#.XFiSNM9KjOQ)" to Arthur Smith's "[Who Moved My Institution: A PID Integration Story](https://zenodo.org/record/2547997#.XFn1Ic9KjOQ)" to the British Library's "[From Standard to Community Resource: A View on ISNIs and ORG IDs](https://zenodo.org/record/2549228#.XFiSJM9KjOQ)."
 
 Mentions of ROR at PIDapalooza extended to the virtual sphere as well, with a number of enthusiastic reactions on Twitter:
-{{< tweet user="ldodds" id="1088066135705243648" >}}
 {{< tweet user="nicolekearney" id="1088401881964134401" >}}
 
 A common theme in PIDapalooza sessions and in surrounding discussions was the power and value of interconnecting PIDs and the importance of ensuring that new identifiers like ROR map to other identifiers in use across systems and platforms. To which we say, we concur! The PIDapalooza community is working on many important and inspiring projects and we're excited to be in this space together.
