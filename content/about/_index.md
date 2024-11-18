@@ -117,9 +117,9 @@ More and more organizations, systems, and researchers are using ROR every day. S
 
 ### ROR IDs in Crossref metadata 
 
-<iframe width="1007" height="755" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
+<iframe width="911" height="713" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
 
-See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
+See the full spreadsheet tracking [ROR IDs in DOI and ORCID records](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
 
 ### ROR IDs in DataCite metadata
 
@@ -127,7 +127,16 @@ See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https:
 
 <iframe width="1005" height="621" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=522112742&amp;format=interactive"></iframe>
 
-See the full spreadsheet tracking [ROR IDs in Crossref and DataCite DOIs](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
+<iframe width="1005" height="621" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1742126470&amp;format=interactive"></iframe>
+
+See the full spreadsheet tracking [ROR IDs in DOI and ORCID records](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
+
+### ROR IDs in ORCID metadata
+
+<iframe width="906" height="678" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1984170310&amp;format=interactive"></iframe>
+
+See the full spreadsheet tracking [ROR IDs in DOI and ORCID records](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
+
 
 ### ROR in published research
 
