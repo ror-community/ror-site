@@ -35,7 +35,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 
 ## Calendar
-<iframe class="airtable-embed" src="https://airtable.com/embed/app3WaI1eI0QkIssR/shraObtoQx8xwEKT8?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="840" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="750" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 ## Past events 
 
