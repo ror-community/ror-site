@@ -1,6 +1,6 @@
 +++
 title = "ROR Community Call November 2024" 
-date = "2024-07-29T14:03:19-04:00"  
+date = "2024-11-21T11:20:01-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -9,33 +9,31 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2024"]
-eventtags = ["ROR Event", "Community", "Adoption", "Integrations", "Demos" ]
+eventtags = ["OpenAlex", "MESR", "GCIS", ]
 startdate = 2024-11-20
 enddate = []
-starttime = "3pm UTC"
+starttime = "4pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more."
-reglink = "https://crossref.zoom.us/meeting/register/tJ0ocO6sqD0tE9xR63qXxTe6KKnZroWRiCY8"
+description = "In the ROR Community Call for November 2024, we hear updates from the ROR team on domains and link checking in ROR, projects to increase regional coverage of Japanese and Portuguese organizations, implementation of schema v2.1, deprecation of schema and API v1, and the deployment of client identification on the ROR API. We also see demos of two featured ROR integrations: the MESR / OpenAlex Works Magnet that enables the community to submit organization corrections to OpenAlex, and the Global Change Information System (GCIS) of the USGCRP."
+website = ""
+reglink = ""
 +++
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vS_JtL8bo__wDM7BeV9NRnyeC9Obqei4kqOYF3LiIUb3hjiMgJccqZxIvHNKSkPvItgxj5Qg9A7mRxg/pub?start=false&loop=false&delayms=3000)
 
-<iframe src=""></iframe>
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_JtL8bo__wDM7BeV9NRnyeC9Obqei4kqOYF3LiIUb3hjiMgJccqZxIvHNKSkPvItgxj5Qg9A7mRxg/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ---
 
 ## Recording 
 
-{{< youtube id="" >}}
+{{< youtube id="z9Onl3dcoxs" >}}
 
 --- 
 
---> 
 
