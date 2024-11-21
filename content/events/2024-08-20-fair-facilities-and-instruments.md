@@ -9,14 +9,14 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Workshops"]
 eventarchives = ["2024"]
-eventtags = ["External Event", "FAIR", "Facilities", "Instruments", "PIDs" ]
+eventtags = ["FAIR", "Facilities", "Instruments", "PIDs" ]
 startdate = 2024-08-20
 enddate = 2024-08-22
 starttime = ""
 duration = ""
 location = "Tallahassee, FL"
 recorded = ""
-description = "ROR will be in attendance at the summer 2024 workshop of the FAIR Facilities and Instruments research coordination network, which works to advance the standardization and adoption of Persistent Identifiers (PIDs) for research facilities and instruments nationally."
+description = "ROR attends the summer 2024 workshop of the FAIR Facilities and Instruments research coordination network, which works to advance the standardization and adoption of Persistent Identifiers (PIDs) for research facilities and instruments nationally."
 reglink = "https://ncar.github.io/FAIR-Facilities-Instruments/"
 +++
 

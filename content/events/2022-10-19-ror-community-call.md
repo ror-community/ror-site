@@ -1,6 +1,6 @@
 +++
-title = "ROR Community Call September 2024" 
-date = "2024-07-28"  
+title = "ROR Community Call October 2022" 
+date = "2024-09-05T19:26:40-04:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -8,17 +8,18 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
-eventtags = ["Web of Science", "External Identifiers", ""]
-eventarchives = "2024"
-startdate = 2024-09-25
+eventarchives = ["2022"]
+eventtags = ["", "", ]
+startdate = 2022-10-19
 enddate = []
-starttime = "3pm UTC"
+starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
-reglink = "https://crossref.zoom.us/meeting/register/tJwqfu-trTIoHdJ3ajeDyN_GVivLRaiRAEwO"
+description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more."
+reglink = ""
 +++
+
 
 <!-- Post-event content template
 
@@ -37,3 +38,4 @@ reglink = "https://crossref.zoom.us/meeting/register/tJwqfu-trTIoHdJ3ajeDyN_GViv
 --- 
 
 --> 
+

@@ -9,14 +9,14 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Workshops"]
 eventarchives = ["2024"]
-eventtags = ["External Event", "FSCI", "FORCE11", "API", "Crossref", "DataCite" ]
+eventtags = ["FSCI", "FORCE11", "API", "Crossref", "DataCite" ]
 startdate = 2024-07-23
 enddate = 2024-07-26
 starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "This FORCE11 Scholarly Communications Institute (FSCI) virtual course, co-taught by Technical Community Managers from Crossref, DataCite, and ROR, will introduce participants to the basics of querying the APIs of open metadata services. The course will be suitable for beginners who are not familiar with API queries and want to learn more about 'how the sausage is made' in browser-based tools such as OpenAlex, CHORUS, The Lens, Dimensions, and Web of Science."
+description = "This FORCE11 Scholarly Communications Institute (FSCI) virtual course, co-taught by Technical Community Managers from Crossref, DataCite, and ROR, introduces participants to the basics of querying the APIs of open metadata services. The course is suitable for beginners who are not familiar with API queries and want to learn more about 'how the sausage is made' in browser-based tools such as OpenAlex, CHORUS, The Lens, Dimensions, and Web of Science."
 reglink = ""
 +++
 

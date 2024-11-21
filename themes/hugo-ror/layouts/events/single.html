@@ -39,10 +39,14 @@
                {{ if .Description }}
                <li>Description: {{ .Description }}</li>
                {{else}}{{end}}
+               {{ if .Params.website }}
+               <li>Event website: <a href="{{ .Params.website }}">{{ .Params.website }}</a></li>
+               {{else}}{{end}}
                </ul> 
-               
-               {{ if .Params.reglink }}
-               
+ 
+ 			{{ $n := now.AddDate 0 0 -1 }}
+ 			{{ if and (.Params.reglink) (ge .Params.startdate $n) }} 
+ 			
             <p><a href="{{ .Params.reglink }}" class="btn btn-sm btn-round green">Register for {{ .Title }}</a></p>				
             {{ else }}
 			{{ end }}
