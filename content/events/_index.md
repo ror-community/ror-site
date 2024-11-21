@@ -33,6 +33,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Location: Online
 - Description: We'll be holding four sessions over the course of two days to reflect on ROR in 2024, discuss timely topics and trends, and celebrate ROR's community members. Save the dates, and check back here for more information to be announced!
 
+---
+
 
 ## Past events 
 
