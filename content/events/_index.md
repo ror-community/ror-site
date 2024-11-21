@@ -34,9 +34,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Description: We'll be holding four sessions over the course of two days to reflect on ROR in 2024, discuss timely topics and trends, and celebrate ROR's community members. Save the dates, and check back here for more information to be announced!
 
 
-## Calendar
-<iframe class="airtable-embed" src="https://airtable.com/embed/app3WaI1eI0QkIssR/shraObtoQx8xwEKT8?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="840" style="background: transparent; border: 1px solid #ccc;"></iframe>
-
 ## Past events 
 
 ### ROR Community Call November 2024 
@@ -44,7 +41,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 In the [ROR Community Call for November 2024](2024-11-20-ror-community-call), we hear updates from the ROR team on domains and link checking in ROR, projects to increase regional coverage of Japanese and Portuguese organizations, implementation of schema v2.1, deprecation of schema and API v1, and the deployment of client identification on the ROR API. We also see demos of two featured ROR integrations: the MESR / OpenAlex Works Magnet that enables the community to submit organization corrections to OpenAlex, and the Global Change Information System (GCIS) of the USGCRP. 
 
 ---
-
 
 ### Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians
 The ACRL Choice / LibTech Insights webinar [Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians](2024-11-07-open-affiliation-metadata) includes speakers from both ROR and OpenAlex. Analyzing an institution’s research outputs helps research libraries align their collections strategies with community needs, estimate their previous and future spends on article processing charges (APCs), understand the impact of transformative agreements, and much more. Yet this analysis has remained difficult because researcher institution affiliation metadata is often captured in publications as unstandardized plain text, while both affiliation identifiers and databases that link publications to institutions have often been proprietary. In this webinar, we will go over recent innovations in open research metadata that are disrupting this model and explain what librarians can do both to get the data they need and to improve their own institution’s data in downstream research intelligence tools.
