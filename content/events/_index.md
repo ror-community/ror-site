@@ -28,39 +28,28 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
----
-
-### Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians
-- Date: Thursday, November 7, 2024
-- Time: [7pm UTC](https://dateful.com/time-zone-converter?t=7pm&d=2024-11-07&tz2=Coordinated-Universal-Time-UTC)
-- Duration: 1 hour
+### ROR Annual Community Meeting 
+- Dates: February 4-5, 2024 
 - Location: Online
-- Recorded: Yes
-- Description: This ACRL Choice webinar includes speakers from both ROR and OpenAlex. Analyzing an institution’s research outputs helps research libraries align their collections strategies with community needs, estimate their previous and future spends on article processing charges (APCs), understand the impact of transformative agreements, and much more. Yet this analysis has remained difficult because researcher institution affiliation metadata is often captured in publications as unstandardized plain text, while both affiliation identifiers and databases that link publications to institutions have often been proprietary. In this webinar, we will go over recent innovations in open research metadata that are disrupting this model and explain what librarians can do both to get the data they need and to improve their own institution’s data in downstream research intelligence tools.
+- Description: We'll be holding four sessions over the course of two days to reflect on ROR in 2024, discuss timely topics and trends, and celebrate ROR's community members. Save the dates, and check back here for more information to be announced!
 
-{{% button color="green" link="https://www.choice360.org/webinars/open-affiliation-metadata-how-recent-innovations-help-libraries-and-librarians/" %}} Register for Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians {{% /button %}}
-
----
-
-
-### ROR Community Call November 2024 
-- Date: Wednesday, November 20, 2024
-- Time: [4pm UTC](https://dateful.com/time-zone-converter?t=4pm&d=2024-11-20&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
-
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJ0ocO6sqD0tE9xR63qXxTe6KKnZroWRiCY8" %}} Register for the November Community Call {{% /button %}}
-
----
 
 ## Calendar
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrjqvdkFSDJuhr31?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="733" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<iframe class="airtable-embed" src="https://airtable.com/embed/app3WaI1eI0QkIssR/shrKwMqhnhAeMeDaM?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="850" style="background: transparent; border: 1px solid #ccc;"></iframe>
+
+## Past events 
+
+### ROR Community Call November 2024 
+
+In the [ROR Community Call for November 2024](2024-11-20-ror-community-call), we hear updates from the ROR team on domains and link checking in ROR, projects to increase regional coverage of Japanese and Portuguese organizations, implementation of schema v2.1, deprecation of schema and API v1, and the deployment of client identification on the ROR API. We also see demos of two featured ROR integrations: the MESR / OpenAlex Works Magnet that enables the community to submit organization corrections to OpenAlex, and the Global Change Information System (GCIS) of the USGCRP. 
 
 ---
 
-## Past events 
+
+### Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians
+The ACRL Choice / LibTech Insights webinar [Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians](2024-11-07-open-affiliation-metadata) includes speakers from both ROR and OpenAlex. Analyzing an institution’s research outputs helps research libraries align their collections strategies with community needs, estimate their previous and future spends on article processing charges (APCs), understand the impact of transformative agreements, and much more. Yet this analysis has remained difficult because researcher institution affiliation metadata is often captured in publications as unstandardized plain text, while both affiliation identifiers and databases that link publications to institutions have often been proprietary. In this webinar, we will go over recent innovations in open research metadata that are disrupting this model and explain what librarians can do both to get the data they need and to improve their own institution’s data in downstream research intelligence tools.
+
+---
 
 ### New Features for Organization Information in DSpace with ROR
 In [New Features for Organization Information in DSpace with ROR](2024-10-03-ror-in-dspace), a webinar co-hosted with [4Science](https://4science.com), we hear about how and why 4Science incorporated ROR, the Research Organization Registry, into both DSpace-CRIS and DSpace 8 in order to improve the quality of organization metadata in both systems.
