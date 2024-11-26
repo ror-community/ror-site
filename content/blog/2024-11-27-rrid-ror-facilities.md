@@ -20,7 +20,7 @@ This blog post explores the difference between "core facilities" in RRID and "fa
 
 ## What is RRID and what is its scope? 
 
-RRIDs help identify a wide variety of resources which are **inputs to experiments**, especially biomedical experiments. Examples of resources identified by RRID:
+RRIDs (Research Resource Identifiers) help identify a wide variety of resources which are **inputs to experiments**, especially biomedical experiments. Examples of resources identified by RRID:
 
 * Antibodies 
 * BioSamples
@@ -38,7 +38,7 @@ RRIDs started in 2014 as an agreement between 25 journal editors to improve how 
 
 ## What is ROR and what is its scope?
 
-ROR IDs help identify **research organizations**, defined as "any organization that is involved in research," including organizations that produce, fund, facilitate, manage, and publish research as well as organizations that educate or employ researchers. Examples of research organizations identified by ROR: 
+ROR (Research Organization Registry) IDs help identify **research organizations**, defined as "any organization that is involved in research," including organizations that produce, fund, facilitate, manage, and publish research as well as organizations that educate or employ researchers. Examples of research organizations identified by ROR: 
 
 * Archives
 * Colleges and universities
