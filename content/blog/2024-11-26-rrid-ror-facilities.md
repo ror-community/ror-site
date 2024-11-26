@@ -131,7 +131,7 @@ RRIDs are usually added to the main text of the manuscript; they are present in 
 
 
 
-ORCID records also [accept RRIDs](https://info.orcid.org/documentation/workflows/research-resources-workflow/), enabling data to be harvested from or sent to an individual researcher’s ORCID profile, which means that analysts can examine ORCID data for RRIDs. [RRIDs are proposed for inclusion in the next DataCite metadata schema](https://datacite.org/blog/metadata-schema-rfc-march_2024/), which means that one day analysts will also be able to look for RRIDs in DataCite data. 
+ORCID records also [accept RRIDs](https://info.orcid.org/ufaqs/what-information-does-a-research-resource-item-contain/), enabling data to be harvested from or sent to an individual researcher’s ORCID profile, which means that analysts can examine ORCID data for RRIDs. [RRIDs are proposed for inclusion in the next DataCite metadata schema](https://datacite.org/blog/metadata-schema-rfc-march_2024/), which means that one day analysts will also be able to look for RRIDs in DataCite data. 
 
 
 ### How to use ROR 
