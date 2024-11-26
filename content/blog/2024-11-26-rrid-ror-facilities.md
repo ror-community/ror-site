@@ -2,7 +2,7 @@
 title = "Understanding RRID and ROR for Facilities" 
 date = "2024-11-26T14:51:10-05:00"
 draft = false 
-tags = ["RRID", "Facilities"] 
+tags = ["RRID", "Facilities", "Cross-post"] 
 categories = ["Explainers"] 
 archives = ["2024"]
 style = "card-plain" 
@@ -17,6 +17,13 @@ aliases = [ "/blog/2024-11-27-rrid-ror-facilities" ]
 {{< figure src="/img/blog/rrid-ror/iconmonstr-flask-9-240.png" class="featured-figure" alt="Icon Monster flask" >}}
 
 This blog post explores the difference between "core facilities" in RRID and "facilities" in ROR and provides guidance for those who run facilities on how to effectively use these identifiers.
+
+{{% callout color="green" icon="no-icon" %}}
+
+This post is [cross-posted on RRIDs.org](https://www.rrids.org/news/2024/11/26/understanding-rrid-and-ror-for-facilities). 
+
+{{% /callout %}}
+
 
 ## What is RRID and what is its scope? 
 
