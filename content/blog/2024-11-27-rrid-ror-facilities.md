@@ -17,7 +17,7 @@ aliases = [ "/blog/2024-11-26-rrid-ror-facilities" ]
 {{< figure src="/img/blog/rrid-ror/iconmonstr-flask-9-240.png" class="featured-figure" alt="Icon Monster flask" >}}
 
 
-In the rapidly evolving landscape of academic research, clear identification of entities such as research outputs, people, organizations, and resources is crucial. What about cases where it isn't clear which persistent identifier to use for a given entity? This blog post explores the difference between "core facilities" in RRID and "facilities" in ROR and provides guidance for those who run facilities on how to effectively use these identifiers.
+This blog post explores the difference between "core facilities" in RRID and "facilities" in ROR and provides guidance for those who run facilities on how to effectively use these identifiers.
 
 ## What is RRID and what is its scope? 
 
