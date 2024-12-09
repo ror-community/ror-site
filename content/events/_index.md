@@ -28,10 +28,44 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Annual Community Meeting 
-- Dates: February 4-5, 2024 
+### ROR Annual Community Meeting 2025 - Community Update
+- Date: February 4, 2025
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2025-02-04)
+- Duration: 1 hour
 - Location: Online
-- Description: We'll be holding four sessions over the course of two days to reflect on ROR in 2024, discuss timely topics and trends, and celebrate ROR's community members. Save the dates, and check back here for more information to be announced!
+- Recorded: Yes
+- Description: In our annual Community Update, we’ll reflect on what ROR accomplished in 2024 and what's ahead for ROR in 2025. Most importantly, we’ll also be acknowledging ROR community contributors, without whom we’d never have come this far. If you only attend one ROR meeting this year, make it this one. 
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMlc-GupzgvHNZCDGfw6wMy7w1oQfxgMNVJ" %}} Register for the ROR Annual Community Update 2025{{% /button %}}
+
+### ROR Annual Community Meeting 2025 - Community Drop-in
+- Date: February 4, 2025
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2025-02-04)
+- Duration: 1 hour
+- Location: Online
+- Recorded: No
+- Description: The ROR team will stay online for an hour after the Community Update session for an unrecorded and informal chat with registered participants. Ask us anything, or just socialize!  
+
+### ROR Annual Community Meeting 2025 - National PID Policies and Practices
+- Date: February 5, 2025
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2025-02-05)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: Governments are increasingly realizing the need for clean and consistent metadata for scholarly publications so that their nation's research can be better tracked and analyzed. In this session, we'll hear about efforts in several different countries to make persistent identifiers such as ROR a key part of national research strategy. 
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMscOiqqzgiHN2Xcdk6zcUNZpGnWJYoR_on" %}} Register for National PID Policies and Practices {{% /button %}}
+
+### ROR Annual Community Meeting 2025 - Successes and Opportunities for ROR in the Asia-Pacific Region
+- Date: February 6, 2025
+- Time: [1am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1am&d=2025-02-06)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: In this Asia-Pacific-focused session, we'll give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who will share their current or planned implementations of ROR, and answer questions from participants. If you're located in Asia, Australia, or New Zealand and are interested in ROR, then this session is for you. 
+
+{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJUof--pqzIrHNz4c54CEH6J_pw_4MEDH-Ju" %}} Register for Successes and Opportunities for ROR in the APAC Region {{% /button %}}
+
 
 ## Calendar
 
@@ -39,8 +73,10 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
-### ROR Community Call November 2024 
+### Advancing Open Science: The Barcelona Declaration and Open Metadata
+At the [Advancing Open Science event held in Vilnius](2024-12-06-advancing-open-science-vilnius), participants discuss the most important developments in open science and research information in Europe and Lithuania. The keynote speaker, Prof. Ludo Waltman (Leiden University, The Netherlands), presents the Barcelona Declaration, a document highlighting the importance of open access to research information. Recent Lithuanian open access policy priorities and their impact on the national research ecosystem are presented, and representatives from the university alliances Arqus, Transform4Europe and ERUA share their experiences and practical solutions in promoting open science. Discussions also explore how to make the process of sharing scientific information more efficient, including tools such as the Research Organization Registry (ROR).
 
+### ROR Community Call November 2024 
 In the [ROR Community Call for November 2024](2024-11-20-ror-community-call), we hear updates from the ROR team on domains and link checking in ROR, projects to increase regional coverage of Japanese and Portuguese organizations, implementation of schema v2.1, deprecation of schema and API v1, and the deployment of client identification on the ROR API. We also see demos of two featured ROR integrations: the MESR / OpenAlex Works Magnet that enables the community to submit organization corrections to OpenAlex, and the Global Change Information System (GCIS) of the USGCRP. 
 
 ---
