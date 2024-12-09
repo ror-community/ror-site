@@ -28,7 +28,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Annual Community Meeting 2025 - Community Update
+### ROR Annual Community Meeting 2025: Community Update
 - Date: February 4, 2025
 - Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2025-02-04)
 - Duration: 1 hour
@@ -38,7 +38,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMlc-GupzgvHNZCDGfw6wMy7w1oQfxgMNVJ" %}} Register for the ROR Annual Community Update 2025{{% /button %}}
 
-### ROR Annual Community Meeting 2025 - Community Drop-in
+### ROR Annual Community Meeting 2025: Community Drop-in
 - Date: February 4, 2025
 - Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2025-02-04)
 - Duration: 1 hour
@@ -46,7 +46,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Recorded: No
 - Description: The ROR team will stay online for an hour after the Community Update session for an unrecorded and informal chat with registered participants. Ask us anything, or just socialize!  
 
-### ROR Annual Community Meeting 2025 - National PID Policies and Practices
+### ROR Annual Community Meeting 2025: National PID Policies and Practices
 - Date: February 5, 2025
 - Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2025-02-05)
 - Duration: 1 hour
@@ -56,7 +56,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMscOiqqzgiHN2Xcdk6zcUNZpGnWJYoR_on" %}} Register for National PID Policies and Practices {{% /button %}}
 
-### ROR Annual Community Meeting 2025 - Successes and Opportunities for ROR in the Asia-Pacific Region
+### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
 - Date: February 6, 2025
 - Time: [1am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1am&d=2025-02-06)
 - Duration: 1 hour
