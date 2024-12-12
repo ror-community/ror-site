@@ -13,16 +13,18 @@ author = "Clarivate and ROR"
 description = "Web of Science Core Collection™ from Clarivate™ now includes Research Organization Registry (ROR) identifiers for the benefit of the global research community."
 +++ 
 
+{{< figure src="/img/blog/clarivate/Clarivate_Logo.png" class="featured-figure" alt="" >}}
+
 
 We are pleased to announce that [Web of Science Core Collection™](https://clarivate.com/academia-government/scientific-and-academic-research/research-discovery-and-referencing/web-of-science/web-of-science-core-collection/) now includes Research Organization Registry (ROR) identifiers. Users of the Web of Science™ can search for publications associated with an institution by using a ROR ID, and ROR IDs are available in organization profiles. In addition, [Web of Science API Expanded](https://developer.clarivate.com/apis/wos) now also exposes ROR IDs in query responses, making it easier for automated tools to retrieve standardized organization information and analyze research by institution. 
 
-"ROR is a trusted source of institutional identifiers and metadata that is being widely adopted across the scholarly communications landscape, " notes ROR Director Maria Gould. "ROR's open and carefully curated dataset and our robust and easy-to-use tools make it ideally suited for a range of implementations aimed at normalizing institutional data, and we're pleased that ROR is being integrated into discovery services like the Web of Science to enrich institutional models and support key user needs."
+"ROR is a trusted source of institutional identifiers and metadata that is being widely adopted across the scholarly communications landscape," notes ROR Director Maria Gould. "ROR's open and carefully curated dataset and our robust and easy-to-use tools make it ideally suited for a range of implementations aimed at normalizing institutional data, and we're pleased that ROR is being integrated into discovery services like the Web of Science to enrich institutional models and support key user needs."
 
 [Clarivate™](https://clarivate.com) has long supported ROR as a community-led solution to the pressing challenge in scholarly publishing of variant affiliation names for the same organizations. The new ROR features in the Web of Science, developed in response to customer feedback, are only the first phase of ROR adoption for Clarivate. Now that more and more academic publishers are beginning to use ROR, Web of Science plans in the future to collect ROR IDs for researchers' affiliations directly from publisher metadata, thus lessening and perhaps one day even eliminating the problem of nonstandard research affiliation information. 
 
 Learn more about this ROR integration from the [Web of Science release notes](https://clarivate.com/academia-government/release-notes/web-of-science/web-of-science-november-7-2024-release-notes/) and a presentation given at the September 2024 ROR Community Call by Tilla Edmunds, Director of Web of Science Content Management at Clarivate. <br /><br />
 
-{{< youtube id="TwCVr9D7EVgmrkiX" title="ROR in Web of Science presentation at ROR Community Call September 2024" >}}<br /><br /> 
+{{< youtube id="_z1lcsd_osc" title="ROR in Web of Science presentation at ROR Community Call September 2024" >}}<br /><br /> 
 
 {{% callout icon="fa-envelope" %}} 
 
