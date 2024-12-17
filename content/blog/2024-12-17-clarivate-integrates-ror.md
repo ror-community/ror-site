@@ -1,6 +1,6 @@
 +++ 
 title = "Clarivate Integrates ROR" 
-date = "2024-12-12T10:49:54-05:00"
+date = "2024-12-17T07:49:54-05:00"
 draft = false 
 tags = ["Clarivate", "Web of Science"] 
 categories = ["Adoption News"] 
