@@ -12,7 +12,7 @@ summaryLength = 20
 	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. ROR aims to provide a persistent identifier (PID) for every research organization in the world, just as ORCID provides persistent identifiers for researchers and DOIs provide persistent identifiers for research outputs. All ROR data is open on the web and public domain via CC0, and the ROR dataset and API are free to use.'
 	title = 'Research Organization Registry (ROR)'
   	images = ['/img/ror-logo-800.png']
-  	  	
+  	
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
@@ -28,9 +28,6 @@ summaryLength = 20
     categories = true
     tags = true
     archives = true
-    eventtypes = true
-    eventtags = true
-    eventarchives = true
 
 [params.carousel]
     enable = false
@@ -64,6 +61,7 @@ summaryLength = 20
   category = 'categories'
   tag = 'tags'
   archive = 'archives'
-  eventtype = 'eventtypes'
-  eventtag = 'eventtags'
-  eventarchive = 'eventarchives'
+  
+
+	
+	

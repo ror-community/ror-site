@@ -11,6 +11,8 @@ aliases = [
 ]
 +++
 
+
+
 ## Community values
 ROR is community-supported, community-driven, community-funded open infrastructure.
 
@@ -23,7 +25,7 @@ The wider ROR community includes users and stakeholders from around the world an
 ## Community groups 
 
 ### Community Forum
-The [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community) is the primary way to get involved in ROR. Join the ROR Community Forum to receive announcements and [event](/events) invitations from ROR, engage with other ROR users, and give feedback on ROR's current projects and future direction. 
+The [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community) is the primary way to get involved in ROR. Join the ROR Community Forum to receive announcements and event invitations from ROR, engage with other ROR users, and give feedback on ROR's current projects and future direction. 
 
 ### Technical Forum 
 The [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) is for developers who would like to receive announcements of new data releases and technical changes to ROR and would like to discuss technical topics with other developers using ROR. 
@@ -80,6 +82,14 @@ Looking for a short document to help you or others at your organization understa
 - [ROR for Publishers](https://zenodo.org/doi/10.5281/zenodo.10049191) (4 pages)
 - [ROR for Repositories](https://zenodo.org/doi/10.5281/zenodo.10049153) (13 pages)
 
+## Events 
+ROR-organized events include open bi-monthly Community Calls, Annual Meetings, open hours, webinars, and more that anyone can register for. ROR team members also frequently present at conferences and webinars organized by other groups. All ROR-organized events are always free. 
+
+* See our [events page](/events) to sign up for upcoming events and access materials from [past events](/events#past-events)
+* Read [recaps of past events](/categories/events) on our blog 
+
+We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
+
 ## Supporters {#supporters}
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. 
 
@@ -98,7 +108,7 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 ### Join the ROR community 
 
-Are you using or thinking of using ROR? Would you like to know about what ROR's up to, receive [event](/events) invitations and announcements, give ROR feedback, and talk to other ROR users? Then join the ROR Community Forum. 
+Are you using or thinking of using ROR? Would you like to know about what ROR's up to, receive event invitations and announcements, give ROR feedback, and talk to other ROR users? Then join the ROR Community Forum. 
 
 {{% centered %}}
 
