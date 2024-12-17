@@ -72,6 +72,10 @@ And, of course, as always, we held our regular bi-monthly online [Community Call
 
 We give our heartfelt thanks to all of you who have supported ROR this year by sharing your thoughts, asking us questions, doing the work at your own organizations, making financial contributions, and in a hundred other ways demonstrating that you understand the value of ROR not just for your own benefit, but for the benefit of the entire research information ecosystem. We look forward to collaborating with you in 2025. 
 
+{{% callout icon="fa-envelope" %}} 
+Write us at info@ror.org with any comments or questions.
+{{% /callout %}}
+
 <!-- Commonly used content 
 
 {{< figure src="/img/blog/" class="featured-figure" alt="" >}}
