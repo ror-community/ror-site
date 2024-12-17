@@ -52,7 +52,7 @@ Repository systems have been particularly quick to adopt ROR for funder identifi
 {{< figure src="/img/blog/use-case-funders/ror-inveniordm.png" alt="Documentation of the ROR-based funder model and award lookup in InvenioRDM, the open source system that runs Zenodo" caption="Documentation of the ROR-based funder model and award lookup in InvenioRDM, the open source system that runs Zenodo." >}}
 
 
-## ROR maintains global coverage of research organizations and scales curation capacity
+## ROR expands global coverage of research organizations and scales curation capacity
 
 We pride ourselves at ROR on providing a registry with truly global coverage that takes an international perspective on research organizations and information systems. In 2024, we undertook several initiatives aimed at improving regional coverage of organizations, while at the same time experiencing organic growth from Mexico, France, and Indonesia. We also called for community feedback on [a proposal to add additional external identifier mappings](https://bit.ly/ror-proposal-external-ids-draft) to ROR records, including regional identifiers such as the European PIC code, which many ROR users have said they would find useful. In 2025, we plan to complete our evaluation of potential new external identifiers and then add them to ROR records.
 
@@ -62,19 +62,28 @@ More generally, we have processed over 8,000 curation requests in 2024, a 44% in
 
 With the release of v2, ROR records now also include a place to store a language code in all name fields and a new field for an organization's top-level domains (e.g., `madeira.gov.pt` instead of `https://www.madeira.gov.pt`), and in 2024 we carefully populated these new, empty elements with accurate values for thousands of records, further enriching ROR's metadata and making it of even greater value to the global research information community. 
 
-## ROR's community activities
+## ROR's community activities highlight broad engagement
 
 ROR's community activities in 2024 included publishing pieces on various topics of interest. For instance, ROR and Crossref collaborated on a [blog post series explaining various aspects of automatic metadata matching](/tags/matching/) that proved very popular and has even been [adapted into French](https://punktokomo.abes.fr/2024/12/04/anatomie-des-alignements-a-labes-ou-metaphore-des-chaussettes-episode-3-3/) by Carole Melzac of ABES. Merci, Carole! We also published additional [case studies](/categories/case-studies) with ROR users and a [guide to RRID and ROR for facilities](/blog/2024-11-26-rrid-ror-facilities/).
 
 ROR also participated in and co-organized several global [events](https://ror.org/events) both in person and online, notably a webinar co-organized with 4Science on [New Features for Organization Information in DSpace with ROR](/events/2024-10-03-ror-in-dspace/), a session at PIDFest on [Curation and Community: Setting Metadata Policies at ROR](https://repozitar.techlib.cz/entities/publication/5c93a23a-61c9-403a-9635-cf9a442747fd), and an ACRL Choice / LibTech Insights webinar in collaboration with OpenAlex on [Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians](/events/2024-11-07-open-affiliation-metadata/). 
 
-And, of course, as always, we held our regular bi-monthly online [Community Calls](https://www.youtube.com/watch?v=z9Onl3dcoxs&list=PL4n_Cvd0PpoEBWyZMiwb2ImVQCy4Zpchk) featuring demos and presentations by adopters as well as engaging discussion about future directions. If you're making a New Year's resolution to get more involved with ROR in 2025, we encourage you to [join the ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community) (now 376 members strong!) to receive notifications of upcoming Community Calls as well as other news and event announcements. 
+And, of course, as always, we held our regular bi-monthly online [Community Calls](https://www.youtube.com/watch?v=z9Onl3dcoxs&list=PL4n_Cvd0PpoEBWyZMiwb2ImVQCy4Zpchk) featuring demos and presentations by adopters as well as engaging discussion about future directions. If you're making a New Year's resolution to get more involved with ROR in 2025, we encourage you to [join the ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community) (now 376 members strong!) to receive notifications of upcoming Community Calls as well as other news and event announcements. Save the dates, too, for ROR's Annual Community Meeting on February 4th and 5th, 2025 – [registration is open now](https://ror.org/events) for four terrific sessions over the course of two days.
 
 We give our heartfelt thanks to all of you who have supported ROR this year by sharing your thoughts, asking us questions, doing the work at your own organizations, making financial contributions, and in a hundred other ways demonstrating that you understand the value of ROR not just for your own benefit, but for the benefit of the entire research information ecosystem. We look forward to collaborating with you in 2025. 
 
 {{% callout icon="fa-envelope" %}} 
 Write us at info@ror.org with any comments or questions.
 {{% /callout %}}
+
+{{% callout icon="fa-comment" color="green" %}} 
+Get involved by joining the [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community).
+{{% /callout %}}
+
+{{% callout icon="fa-calendar-days" color="mustard" %}} 
+Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5, 2025.
+{{% /callout %}}
+
 
 <!-- Commonly used content 
 
