@@ -2,7 +2,16 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 mr-auto">
-        <h1 id="page-title">{{ .Title }}</h1>
+        
+        {{ if eq .Title "Eventarchives" }}
+        <h1 id="page-title">Event Archives</h1>
+        {{ else if eq .Title "eventtypes"}}
+        <h1 id="page-title">Event Categories</h1>
+        {{ else if eq .Title "Eventtags"}}
+        <h1 id="page-title">Event Tags</h1>
+        {{ else }}
+        <h1 id="page-title">{{ .Title | title }}</h1>
+        {{ end }}
       </div>
     </div>
   </div>

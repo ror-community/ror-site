@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body class='{{ with .File }}{{ path.Dir (.File.Path) }}{{ end }}'>
+    <div class="wrapper" id="all">
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      <section class="section section-banner" id="content">
+
+       {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
+
+        <div class="section container">
+          <div class="row">
+            <div class="col-md-9" id="event-listing-medium">
+             
+			<div class="ror-toc">
+				<nav id="TableOfContents">
+			  <ul>
+				<li><a href="#upcoming-events">Upcoming events</a></li>
+				<li><a href="#calendar">Calendar</a></li>
+			  </ul>
+			</nav>
+			</div>   
+
+		<div class="row">
+		<section class="post">
+		{{ .Content }}
+		</section>
+		</div> 
+
+		<div class="row">                       
+            <section class="post">
+            
+            <h2 id="upcoming-events">Upcoming events 
+            <a href="#upcoming-events"> 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="ha ha-link" width="16" height="16"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z"/></svg>
+			</a>
+			</h2>
+			
+	{{ $events := where .Site.RegularPages "Type" "events" }}
+	{{ $n := now.AddDate 0 0 -1 }}
+	{{ $futureEvents := where $events ".Params.startdate" "gt" $n }}
+	{{ $currentEvents := where $events ".Params.enddate" "gt" $n }}
+	{{ $upcomingEvents := union $futureEvents $currentEvents }}
+		
+		{{ if $upcomingEvents }}
+		{{ range $upcomingEvents.ByParam "startdate" }}
+		
+		
+		{{ if isset .Params "eventtypes" }}
+            {{ if gt (len .Params.eventtypes) 0 }}
+             <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}eventtypes/{{ index .Params.eventtypes 0 | urlize | lower }}">{{ index .Params.eventtypes 0 }}</a></strong>
+             {{ end }}
+        {{ end }}
+
+		<h3 class="event-title"><a href="{{.RelPermalink}}">{{.Title}}</a></h3>
+                          
+			   <ul>
+               {{ if .Params.startdate }}
+               <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
+               {{ else }}
+               {{ end }}
+               {{ if .Params.starttime }}
+            	<li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Params.startdate }}">{{ .Params.starttime }}</a></li>
+               <li>Duration: {{ .Params.duration }}</li>               
+               {{ else }}
+               {{ end }}
+               {{ if .Params.location}}
+               <li>Location: {{ .Params.location }}</li>
+               {{else}}{{end}}
+               {{ if .Params.recorded }}
+               <li>Recorded: {{ .Params.recorded }}</li>
+               {{else}}{{end}}
+               {{ if .Description }}
+               <li>Description: {{ .Description }}</li>
+               {{else}}{{end}}
+               </ul>  
+			
+			{{ if .Params.reglink }}
+
+            <p><a href="{{ .Params.reglink }}" class="btn btn-sm btn-round green">Register for {{ .Title }}</a></p>
+            
+            {{ else }}
+            {{ end }}
+
+              <hr />
+          
+            {{ end }}
+
+		{{ else }}
+		
+		<p>There are no upcoming events right now.</p>
+		
+		{{ end }}
+
+            </section>    
+</div>
+<div> 
+            
+            <section>            
+			<h2 id="calendar">Calendar
+			 <a href="#calendar">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" class="ha ha-link" width="16" height="16"><path d="M579.8 267.7c56.5-56.5 56.5-148 0-204.5c-50-50-128.8-56.5-186.3-15.4l-1.6 1.1c-14.4 10.3-17.7 30.3-7.4 44.6s30.3 17.7 44.6 7.4l1.6-1.1c32.1-22.9 76-19.3 103.8 8.6c31.5 31.5 31.5 82.5 0 114L422.3 334.8c-31.5 31.5-82.5 31.5-114 0c-27.9-27.9-31.5-71.8-8.6-103.8l1.1-1.6c10.3-14.4 6.9-34.4-7.4-44.6s-34.4-6.9-44.6 7.4l-1.1 1.6C206.5 251.2 213 330 263 380c56.5 56.5 148 56.5 204.5 0L579.8 267.7zM60.2 244.3c-56.5 56.5-56.5 148 0 204.5c50 50 128.8 56.5 186.3 15.4l1.6-1.1c14.4-10.3 17.7-30.3 7.4-44.6s-30.3-17.7-44.6-7.4l-1.6 1.1c-32.1 22.9-76 19.3-103.8-8.6C74 372 74 321 105.5 289.5L217.7 177.2c31.5-31.5 82.5-31.5 114 0c27.9 27.9 31.5 71.8 8.6 103.9l-1.1 1.6c-10.3 14.4-6.9 34.4 7.4 44.6s34.4 6.9 44.6-7.4l1.1-1.6C433.5 260.8 427 182 377 132c-56.5-56.5-148-56.5-204.5 0L60.2 244.3z"/></svg>
+			</a>
+			</h2>            
+
+<iframe class="airtable-embed" src="https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="750" style="background: transparent; border: 1px solid #ccc;"></iframe>
+<hr />
+            </section>
+         
+            </div>         
+            </div>
+            <div class="col-md-3" id="event-sidebar">
+            
+            {{ partial "eventsidebar" . }}
+            
+            </div>
+            
+
+          </div>
+        </div>
+      </section>
+    </div>
+
+    {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

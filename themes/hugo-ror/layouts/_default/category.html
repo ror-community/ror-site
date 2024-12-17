@@ -39,10 +39,10 @@
                       <div class="col-md-8">
                         {{ if isset .Params "categories" }}
                           {{ if gt (len .Params.categories) 0 }}
-                          <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a></strong>
+                          <strong><a class="category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 | title }}</a></strong>
                           {{ end }}
                         {{ end }}
-                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                        <h2><a href="{{ .Permalink }}">{{ .Title | title }}</a></h2>
                           <div class="clearfix post-meta">
                             <p class="author-category">
                               {{ if isset .Params "author" }}
