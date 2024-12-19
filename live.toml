@@ -5,6 +5,7 @@ style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
 summaryLength = 20
+copyright = "All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication https://creativecommons.org/publicdomain/zero/1.0/. All other content on ror.org is licensed under the Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/."
 
 [params]
 	date_format = "January 2, 2006"
@@ -12,6 +13,10 @@ summaryLength = 20
 	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. ROR aims to provide a persistent identifier (PID) for every research organization in the world, just as ORCID provides persistent identifiers for researchers and DOIs provide persistent identifiers for research outputs. All ROR data is open on the web and public domain via CC0, and the ROR dataset and API are free to use.'
 	title = 'Research Organization Registry (ROR)'
   	images = ['/img/ror-logo-800.png']
+
+[params.author]  	
+  	email = 'support@ror.org'
+  	name = 'Research Organization Registry (ROR)'
 
 [markup]
   [markup.goldmark]
@@ -28,7 +33,6 @@ summaryLength = 20
     categories = true
     tags = true
     archives = true
-
 
 [params.carousel]
     enable = false
