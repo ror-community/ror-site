@@ -1,5 +1,5 @@
 +++
-title = "Metadata Matching 101: What Is It and Why Do We Need It? (cross-post)"
+title = "Metadata Matching 101: What Is It and Why Do We Need It?"
 date = "2024-05-16"
 draft = false
 tags = ["Funders", "Curation", "Data", "Machine learning", "Matching", "Cross-post"]

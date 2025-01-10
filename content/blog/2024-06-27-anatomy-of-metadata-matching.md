@@ -1,5 +1,5 @@
 +++
-title = "The Anatomy of Metadata Matching (cross-post)"
+title = "The Anatomy of Metadata Matching"
 date = "2024-06-27"
 draft = false
 tags = ["Funders", "Curation", "Data", "Machine learning", "Matching", "Cross-post"]

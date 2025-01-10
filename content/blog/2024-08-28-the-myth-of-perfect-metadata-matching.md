@@ -1,5 +1,5 @@
 +++ 
-title = "The Myth of Perfect Metadata Matching (cross-post)" 
+title = "The Myth of Perfect Metadata Matching" 
 date = "2024-08-28"
 draft = false 
 tags = ["Matching", "Cross-post", "Metadata"] 
