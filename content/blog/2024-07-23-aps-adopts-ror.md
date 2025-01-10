@@ -1,5 +1,5 @@
 +++ 
-title = "American Physical Society Becomes Largest Society Publisher to Adopt ROR (cross-post)" 
+title = "American Physical Society Becomes Largest Society Publisher to Adopt ROR" 
 date = "2024-07-23" 
 draft = false 
 tags = ["Adoption", "Integrations", "Community", "Cross-post", "APS"] 
