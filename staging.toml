@@ -14,7 +14,7 @@ copyright = "All ROR IDs and metadata are provided under the Creative Commons CC
 	title = 'Research Organization Registry (ROR)'
   	images = ['/img/ror-logo-800.png']
 
-[params.author]  	
+[author]  	
   	email = 'support@ror.org'
   	name = 'Research Organization Registry (ROR)'  	
 
