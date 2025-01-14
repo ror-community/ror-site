@@ -5,7 +5,10 @@ style = "turquoise"
 theme = "hugo-ror"
 pluralizelisttitles = "false"
 summaryLength = 20
+<<<<<<< HEAD
 copyright = "All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication https://creativecommons.org/publicdomain/zero/1.0/. All other content on ror.org is licensed under the Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/."
+=======
+>>>>>>> staging
 
 [params]
 	date_format = "January 2, 2006"
@@ -14,28 +17,28 @@ copyright = "All ROR IDs and metadata are provided under the Creative Commons CC
 	title = 'Research Organization Registry (ROR)'
   	images = ['/img/ror-logo-800.png']
 
+<<<<<<< HEAD
 [params.author]  	
   	email = 'support@ror.org'
   	name = 'Research Organization Registry (ROR)'
 
+=======
+>>>>>>> staging
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [markup.tableOfContents]
-   endLevel = 2
-   ordered = false
-   startLevel = 2     
+    endLevel = 2
+    ordered = false
+    startLevel = 2       
 
 [params.widgets]
     search = true
     categories = true
     tags = true
     archives = true
-    eventtypes = true
-    eventtags = true
-    eventarchives = true
 
 [params.carousel]
     enable = false
@@ -50,7 +53,7 @@ copyright = "All ROR IDs and metadata are provided under the Creative Commons CC
     enable = true
 
 [params.announcement]
-    enable = false 
+    enable = false   
 
 [params.homepage_features]
     enable = true
@@ -67,9 +70,6 @@ copyright = "All ROR IDs and metadata are provided under the Creative Commons CC
 
 [taxonomies]
   category = 'categories'
-  tag = 'tags'
+  tag = 'tags'	
   archive = 'archives'
-  eventtype = 'eventtypes'
-  eventtag = 'eventtags'
-  eventarchive = 'eventarchives'
-  
+	

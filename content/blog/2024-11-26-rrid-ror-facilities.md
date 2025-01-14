@@ -116,7 +116,7 @@ In the same paper, the authors also acknowledge support from the DNA Sequencing 
 
 {{< figure src="/img/blog/rrid-ror/rrid-acknowledgments.png" class="blog-figure" alt="Acknowledgements of support from core facilities in the article https://doi.org/10.1038/s41375-021-01491-z, best tracked with RRID" caption="Acknowledgements of support from core facilities in the article https://doi.org/10.1038/s41375-021-01491-z, best tracked with RRID">}}
 
-In short, then, **RRIDs identify inputs to experiments and help track core facility acknowledgements while ROR IDs identify organizations and help track contributor affiliations**. 
+In short, then, **RRIDs help track core facility acknowledgements while ROR IDs help track contributor affiliations**. 
 
 Let's look now at how to use RRID and ROR. 
 

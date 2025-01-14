@@ -7114,26 +7114,16 @@ font-size: .8em;
 margin-bottom: .5rem;
 }
 
+
+/* taxonomies */
+
+.taxonomy .page-banner h1, .taxonomy .breadcrumbs li { 
+text-transform: capitalize;
+}
+
 /* page TOCs */
 
 .ror-toc { 
 margin-bottom: 1em;
-}
-
-
-/* event styles */
-
-h3.event-title { 
-	margin-top: 0; 
-}
-
-/* responsive Google slides and maps */
-iframe[src*="docs.google.com"],
-iframe[src*="google.com/maps"],
-
-{
-  width: 100%;
-  height: auto;
-  aspect-ratio: 16 / 9;
 }
 

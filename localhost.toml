@@ -33,9 +33,6 @@ copyright = "All ROR IDs and metadata are provided under the Creative Commons CC
     categories = true
     tags = true
     archives = true
-    eventtypes = true
-    eventtags = true
-    eventarchives = true
 
 [params.carousel]
     enable = false
@@ -69,6 +66,7 @@ copyright = "All ROR IDs and metadata are provided under the Creative Commons CC
   category = 'categories'
   tag = 'tags'
   archive = 'archives'
-  eventtype = 'eventtypes'
-  eventtag = 'eventtags'
-  eventarchive = 'eventarchives'
+  
+
+	
+	
