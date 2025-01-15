@@ -127,7 +127,7 @@ Stay up-to-date on the latest ROR news and opportunities for feedback and involv
 
 - Follow [ROR on Mastodon](https://mastodon.social/@ResearchOrgs)
 
-- Follow [ROR on BlueSky](https://bsky.app/profile/researchorgs.bsky.social)
+- Follow [ROR on Bluesky](https://bsky.app/profile/researchorgs.bsky.social)
 
 - Follow [ROR on YouTube](https://youtube.com/@ResearchOrgs)
 
