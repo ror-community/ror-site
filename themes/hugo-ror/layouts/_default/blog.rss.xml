@@ -33,8 +33,8 @@
       {{ with .Params.Author }}<dc:creator>{{.}}</dc:creator>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
-      <content:encoded>{{ .Content | html }}</content:encoded>
-    </item>
+{{ with .Content }}<content:encoded> {{ `<![CDATA[` | safeHTML }} {{ . | safeHTML }} {{ `]]>` | safeHTML }} </content:encoded>{{ end }}
+	</item>
     {{ end }}
   </channel>
 </rss>
