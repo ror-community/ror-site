@@ -48,7 +48,7 @@ enableRobotsTXT = true
     enable = true
 
 [params.announcement]
-    enable = false 
+    enable = true 
 
 [params.homepage_features]
     enable = true
