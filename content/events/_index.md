@@ -52,17 +52,28 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: Governments are increasingly realizing the need for clean and consistent metadata for scholarly publications so that their nation's research can be better tracked and analyzed. In this session, we'll hear about efforts in several different countries to make persistent identifiers such as ROR a key part of national research strategy. 
+- Description: Governments are increasingly realizing the need for clean and consistent metadata for scholarly publications so that their nation's research can be better tracked and analyzed. In this session, we'll hear about efforts in several different countries to make persistent identifiers such as ROR a key part of national research strategy and national research tracking. 
+	- **Rachel Kotarski of the [University of Chicago Libraries](https://www.lib.uchicago.edu/)** will compare PID policies in the UK with the forthcoming initiative to develop a [US National PID Strategy](https://niso.org/press-releases/niso-approves-working-group-develop-us-national-pid-strategy).
+	- **Michal Nekorjak and Taras Hrendaš with the [Office of the Government of the Czech Republic](https://vlada.gov.cz/en/urad-vlady/)** will explain their work to collect and analyze data about Czechoslovakian research. 
+	- **Steffi Genderjahn of the [Helmholtz Open Science Office](https://os.helmholtz.de/)** will report on the activities of [PID Network Deutschland](https://www.pid-network.de/en/). 
+	- **Washington Segundo of [IBICT](https://www.gov.br/ibict/pt-br)** will demonstrate and discuss the national CRIS system of Brazil, [BrCRIS](https://brcris.ibict.br/).
+	- **Michelle Doran of Ireland's [National Open Research Forum](https://dri.ie/norf/)** will discuss a recent report on [Recommendations and Roadmap for an Irish National PID Strategy](https://doi.org/10.7486/DRI.sn00qt29n).
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMscOiqqzgiHN2Xcdk6zcUNZpGnWJYoR_on" %}} Register for National PID Policies and Practices {{% /button %}}
 
 ### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
+
 - Date: February 6, 2025
 - Time: [1am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1am&d=2025-02-06)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: In this Asia-Pacific-focused session, we'll give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who will share their current or planned implementations of ROR, and answer questions from participants. If you're located in Asia, Australia, or New Zealand and are interested in ROR, then this session is for you. 
+- Description: In this Asia-Pacific-focused session, we'll give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who will share their current or planned implementations of ROR, provide regional perspectives, and answer questions from participants. If you're located in Asia, Australia, or New Zealand and are interested in ROR, then this session is for you. 
+	- **Amanda French, Technical Community Manager, ROR**, will give a brief introduction to ROR. 
+	- **Aaron Ballagh, Director of Product**, [The Lens](https://lens.org), will demonstrate how ROR is used to enable searching and browsing by institution in discovery tool The Lens.   
+	- **Brietta Pike, Journals Publisher at [CSIRO Publishing](https://www.publish.csiro.au/)**, will discuss plans to use ROR for author affiliations in CSIRO publications.   
+	- **Scott Edmunds, Editor in Chief at [GigaScience Press](https://www.gigasciencepress.org/)**, will explain how and why ROR is added to XML in GigaScience Press publications. 
+	- **Masatsura Igami, Director, Center for S&T Foresight and Indicators, [NISTEP](https://www.nistep.go.jp/en/)**, supported by Natsuo Onodera, Affiliated Fellow, NISTEP, will present a report on their work to link the NISTEP Organization Name Directory / NISTEP Dictionary to ROR. 
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJUof--pqzIrHNz4c54CEH6J_pw_4MEDH-Ju" %}} Register for Successes and Opportunities for ROR in the APAC Region {{% /button %}}
 
