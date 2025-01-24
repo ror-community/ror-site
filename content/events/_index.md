@@ -34,7 +34,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: In our annual Community Update, we’ll reflect on what ROR accomplished in 2024 and what's ahead for ROR in 2025. Most importantly, we’ll also be acknowledging ROR community contributors, without whom we’d never have come this far. If you only attend one ROR meeting this year, make it this one. 
+- Description: In our annual Community Update, we’ll reflect on what ROR accomplished in 2024, discuss what's ahead for ROR in 2025, and invite your thoughts on areas of future focus. Most importantly, we’ll also be acknowledging ROR community contributors, without whom we’d never have come this far. If you only attend one ROR meeting this year, make it this one. 
 
 {{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMlc-GupzgvHNZCDGfw6wMy7w1oQfxgMNVJ" %}} Register for the ROR Annual Community Update 2025{{% /button %}}
 
@@ -68,7 +68,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: In this Asia-Pacific-focused session, we'll give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who will share their current or planned implementations of ROR, provide regional perspectives, and answer questions from participants. If you're located in Asia, Australia, or New Zealand and are interested in ROR, then this session is for you. 
+- Description: In this Asia-Pacific-focused session, we'll give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who will share their current or planned implementations of ROR, provide regional perspectives, and answer questions from participants. If you're located in the Asia-Pacific region or are just interested in updates from that region, then this session is for you. 
 	- **Amanda French, Technical Community Manager, ROR**, will give a brief introduction to ROR. 
 	- **Aaron Ballagh, Director of Product**, [The Lens](https://lens.org), will demonstrate how ROR is used to enable searching and browsing by institution in discovery tool The Lens.   
 	- **Brietta Pike, Journals Publisher at [CSIRO Publishing](https://www.publish.csiro.au/)**, will discuss plans to use ROR for author affiliations in CSIRO publications.   
