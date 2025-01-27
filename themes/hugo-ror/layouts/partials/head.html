@@ -8,8 +8,10 @@
   {{ else }}
   <title>{{ .Site.Title }} | {{ .Page.Title }}</title>
   {{ end }}
-  {{ if .Page.Description }}
-  <meta name="description" content="{{ .Page.Description }}" />
+  {{ if .Params.Description }}
+  <meta name="description" content="{{ .Params.Description }}" />
+  {{ else if .Description }}
+  <meta name="description" content="{{ .Description }}" />
   {{ else }}
   <meta name="description" content="{{ .Site.Params.Description }}" />
   {{ end }}
