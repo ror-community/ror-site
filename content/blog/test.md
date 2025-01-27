@@ -10,7 +10,7 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/" 
 images = ['/img/blog/']
 author = "" 
-description = "This is the description."
+description = "This is the blog post description."
 +++ 
 
 This is the blog post text.
