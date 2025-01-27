@@ -2,7 +2,7 @@
 title = "Org ID: a recap and a hint of things to come"
 date = "2018-08-02"
 draft = false
-tags = ["Communication", "Working Group"]
+tags = ["Communication", "Working Group", "Cross-post"]
 categories = ["General Updates"]
 archives = ["2018"]
 style = "card-plain"
