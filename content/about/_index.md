@@ -34,7 +34,7 @@ Looking for basic information about ROR? Check out our frequently asked question
 {{% button color="green" link="/about/faqs" %}} Read FAQs about ROR {{% /button %}} 
 
 
-## Governance model
+## Governance
 
 ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a Memorandum of Agreement (MOA).
 
