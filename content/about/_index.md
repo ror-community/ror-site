@@ -20,7 +20,7 @@ The Research Organization Registry (ROR) is a global, community-led registry of 
 
 Organizations are not static entities. They change their names, merge, split, shut down, and re-emerge, and this makes it difficult to connect research organizations to research outputs and researchers. A persistent identifier for research organizations makes this easier.
 
-ROR is the first and only organization identifier that is openly available (CC0 data available via an open REST API and public data dump), specifically focused on identifying affiliations in scholarly metadata, developed as a community initiative to meet community use cases, and designed to be integrated into open scholarly infrastructure. It is the default identifier supported in Crossref DOI metadata, DataCite DOI metadata, and ORCID.
+ROR is the first and only organization identifier that is openly available (CC0 data available via an open REST API and public data dump), specifically focused on identifying affiliations in scholarly metadata, developed as a community initiative to meet community use cases, and designed to be integrated into open scholarly infrastructure. It is the default identifier supported in [Crossref](https://crossref.org) DOI metadata, [DataCite](https://datacite.org) DOI metadata, and [ORCID](https://orcid.org).
 
 ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. 
 
@@ -56,7 +56,7 @@ ROR’s day-to-day financial activities are administered by the Crossref account
 ## Business model
 There are no fees to access and use ROR. ROR data is freely and openly available without any restrictions under the Creative Commons CC0 1.0 Universal Public Domain dedication. ROR code is openly available on GitHub under a MIT License.
 
-ROR's three governing organizations share collective responsibilityfor operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
+ROR's three governing organizations share collective responsibility for operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
 
 Additional investments from [community supporters](/community#supporters) help offset operating costs and support time-limited projects.
 
