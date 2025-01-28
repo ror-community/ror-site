@@ -21,16 +21,21 @@ Organizations are not static entities. They change their names, merge, split, sh
 
 ROR is the first and only organization identifier that is openly available (CC0 data available via an open REST API and public data dump), specifically focused on identifying affiliations in scholarly metadata, developed as a community initiative to meet community use cases, and designed to be integrated into open scholarly infrastructure. It is the default identifier supported in Crossref DOI metadata, DataCite DOI metadata, and ORCID.
 
-ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. [Read more about current ROR integrations](/community#adopters).
+ROR is used in journal publishing systems, data repositories, funder and grant management platforms, open access workflows, and other research infrastructure components to disambiguate institutional affiliations, improve discovery and tracking of research outputs by affiliation, and facilitate OA publishing workflows, among other use cases. 
+
+{{% button color="green" link="/community#adopters" %}} Read about current ROR integrations {{% /button %}}
 
 
 ## FAQs
 
-Looking for basic information about ROR? Check out the [frequently asked questions](/about/faqs) for answers to questions about what organizations ROR includes, how ROR relates to other organizational identifiers, how to use ROR, and how information in ROR is added and modified. 
+Looking for basic information about ROR? Check out our frequently asked questions for answers to questions about what kinds of organizations ROR includes, how ROR relates to other organizational identifiers, how to use ROR, and how information in ROR is added and modified. 
+
+{{% button color="green" link="/about/faqs" %}} Read FAQs about ROR {{% /button %}} 
+
 
 ## Governance model
 
-ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf) (MOA).
+ROR is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org). The three ROR governing organizations collectively assume and share responsibility for ROR governance, operations, resourcing, and decision-making. These responsibilities are defined in a Memorandum of Agreement (MOA).
 
 Responsibility for ROR is designed and premised on the following core principles:
 
@@ -40,23 +45,30 @@ Responsibility for ROR is designed and premised on the following core principles
 - ROR cannot be governed by, purchased by, controlled by or sold to a commercial entity.
 - The ROR governing organizations agree to not transfer control of any aspect of ROR or the ROR system to a commercial entity.
 
+{{% button color="green" link="/documents/ROR-Memorandum-of-Agreement.pdf" %}} Read the Memorandum of Agreement {{% /button %}}
+
 ## Financials
 ROR’s day-to-day financial activities are administered by the Crossref accounting team on behalf of ROR. Crossref is responsible for holding all shared ROR funds in a designated bank account. ROR has full access to and authority over its funds. Financial processes are described in full in the [ROR Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
 
-{{% button color="green" link="/" %}} ROR Financial Reports {{% /button %}}
+{{% button color="green" link="/" %}} Read more about ROR financials{{% /button %}}
 
 ## Business model
 There are no fees to access and use ROR. ROR data is freely and openly available without any restrictions under the Creative Commons CC0 1.0 Universal Public Domain dedication. ROR code is openly available on GitHub under a MIT License.
 
 ROR's three governing organizations share collective responsibilityfor operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
 
-{{% callout color="grey" icon="fa-book" %}}
-[Read more about our journey to sustainability on the ROR blog.](/blog/2022-10-10-strengthening-sustainability)
-{{% /callout %}}
-
 Additional investments from [community supporters](/community#supporters) help offset operating costs and support time-limited projects.
 
 In line with ROR's commitment to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org) (POSI), ROR only uses time-limited funds for time-limited projects, and any potential revenue-generation models developed in the future would be based on services, not data.
+
+During its startup years (2019-2022) ROR operated on a mixed funding model that included:
+
+- In-kind support from the ROR governing organizations
+- Contributions from [supporting organizations](/community#supporters)
+- Grants ([Institute for Museum and Library Services](https://www.imls.gov/grants/awarded/lg-246305-ols-20) and the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031172))
+
+{{% button color="green" link="/blog/2022-10-10-strengthening-sustainability" %}} Read more about ROR's journey to sustainability {{% /button %}}
+
 
 ## Team
 
@@ -112,15 +124,22 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 - Paul Vierkant, DataCite
 - Sarala Wimalaratne, DataCite
 
+### Jobs 
+
+ROR is a small but growing team. Visit our jobs page to see current openings. 
+
+{{% button color="green" link="/jobs" %}} See current job opportunities at ROR {{% /button %}}
+
+
 ## Impact
 
-More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://bit.ly/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and see how else we're measuring ROR's impact below.
+More and more organizations, systems, and researchers are using ROR every day. See the list of [who's integrating ROR](https://bit.ly/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and learn how else we're measuring ROR's impact below.
 
 ### ROR IDs in Crossref metadata 
 
 <iframe width="911" height="713" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
 
-See the full spreadsheet tracking [ROR IDs in DOI and ORCID records](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
+{{% button color="green" link="https://bit.ly/ror-doi-orcid-stats" %}} See the spreadsheet of ROR IDs in DOI and ORCID records {{% /button %}}
 
 ### ROR IDs in DataCite metadata
 
@@ -130,23 +149,26 @@ See the full spreadsheet tracking [ROR IDs in DOI and ORCID records](https://bit
 
 <iframe width="1005" height="621" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1742126470&amp;format=interactive"></iframe>
 
-See the full spreadsheet tracking [ROR IDs in DOI and ORCID records](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
+{{% button color="green" link="https://bit.ly/ror-doi-orcid-stats" %}} See the spreadsheet of ROR IDs in DOI and ORCID records {{% /button %}}
 
 ### ROR IDs in ORCID metadata
 
 <iframe width="906" height="678" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1984170310&amp;format=interactive"></iframe>
 
-See the full spreadsheet tracking [ROR IDs in DOI and ORCID records](https://bit.ly/ror-doi-orcid-stats) for API queries and additional statistics.
+{{% button color="green" link="https://bit.ly/ror-doi-orcid-stats" %}} See the spreadsheet of ROR IDs in DOI and ORCID records {{% /button %}}
 
 
 ### ROR in published research
 
 <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4790165%2Fitems%3Fkey%3DqWYUkNg8G2tSrs1m5i7SsKOn%26format%3Dbibtex%26limit%3D100" width="1000" height="800"></iframe> 
 
-See the full [ROR Research Zotero bibliography](https://www.zotero.org/groups/4790165/ror_research/library). 
+{{% button color="green" link="https://www.zotero.org/groups/4790165/ror_research/library" %}} See the ROR Research Zotero bibliography {{% /button %}}
 
 ### ROR API usage 
-ROR API usage has seen remarkable increase over time and is a good, if rough, indicator of ROR's increasing adoption. Explore our [public ROR API insights dashboard](https://p.datadoghq.eu/sb/db1aec04-0c1a-11ec-860a-da7ad0900005-7d7c572812608235cca3359ee5ec591a) to see how much people are using our API. 
+ROR API usage has seen remarkable increase over time and is a good, if rough, indicator of ROR's increasing adoption. Explore our public ROR API insights dashboard to see how people are using our API. 
+
+{{% button color="green" link="https://p.datadoghq.eu/sb/db1aec04-0c1a-11ec-860a-da7ad0900005-7d7c572812608235cca3359ee5ec591a" %}} See the public ROR API insights dashboard{{% /button %}}
+
 
 ## History
 ROR is the culmination of several years of extensive community collaborations to develop a shared vision for a registry of organization identifiers.
@@ -224,11 +246,9 @@ ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/202
 
 ## Logos 
 
-To obtain official versions of the ROR logo, please visit our [display guidelines and logos](https://ror.readme.io/docs/display) page and abide by the usage recommendations there. 
+To obtain official versions of the ROR logo, please first visit our display guidelines page and read the usage recommendations there. 
 
-## Jobs
-
-ROR is a small but growing team. Visit our [jobs](/jobs) page to see current openings. 
+{{% button color="green" link="https://ror.readme.io/docs/display" %}} See ROR's display guidelines {{% /button %}}
 
 ## Contact us
 
@@ -237,7 +257,10 @@ ROR is a small but growing team. Visit our [jobs](/jobs) page to see current ope
 - Metadata and curation questions: registry@ror.org 
 - Community and outreach questions: community@ror.org 
 
-You can also [book a Zoom meeting](https://calendly.com/ror-chat) with Technical Community Manager Amanda French. 
+You can also book a Zoom meeting with Technical Community Manager Amanda French. 
+
+{{% button color="green" link="https://calendly.com/ror-chat" %}} Book a Zoom meeting to discuss ROR {{% /button %}}
+
 
 {{% callout icon="fa-envelope" %}}
 
