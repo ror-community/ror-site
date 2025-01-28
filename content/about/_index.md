@@ -40,22 +40,23 @@ Responsibility for ROR is designed and premised on the following core principles
 - ROR cannot be governed by, purchased by, controlled by or sold to a commercial entity.
 - The ROR governing organizations agree to not transfer control of any aspect of ROR or the ROR system to a commercial entity.
 
-ROR's day-to-day financial activities are administered by the Crossref accounting team on behalf of ROR. Crossref is responsible for holding all shared ROR funds in a designated bank account. ROR has full access to and authority over its funds. Financial reports are shared with the ROR Steering Group and made available to the broader community.
+## Financials
+ROR’s day-to-day financial activities are administered by the Crossref accounting team on behalf of ROR. Crossref is responsible for holding all shared ROR funds in a designated bank account. ROR has full access to and authority over its funds. Financial processes are described in full in the [ROR Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
+
+{{% button color="green" link="/" %}} ROR Financial Reports {{% /button %}}
 
 ## Business model
-There are no fees to access and use ROR. ROR data is freely and openly available without any restrictions under the Creative Commons CC0 1.0 Universal Public Domain dedication. ROR code is openly available on Github under a MIT License.
+There are no fees to access and use ROR. ROR data is freely and openly available without any restrictions under the Creative Commons CC0 1.0 Universal Public Domain dedication. ROR code is openly available on GitHub under a MIT License.
 
-During its startup years (2019--2022) ROR has been operated on a mixed funding model that includes:
+ROR's three governing organizations share collective responsibilityfor operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
 
-- In-kind support from the ROR governing organizations
-- Contributions from [supporting organizations](/community#supporters)
-- Grants ([Institute for Museum and Library Services](https://www.imls.gov/grants/awarded/lg-246305-ols-20) and the [National Science Foundation](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031172))
+{{% callout color="grey" icon="fa-book" %}}
+[Read more about our journey to sustainability on the ROR blog.](/blog/2022-10-10-strengthening-sustainability)
+{{% /callout %}}
 
-ROR's three governing organizations [share collective responsibility](/blog/2022-10-10-strengthening-sustainability) for operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
+Additional investments from [community supporters](/community#supporters) help offset operating costs and support time-limited projects.
 
-ROR continues to receive additional investments from [community supporters](/community#supporters). These funds offset operating costs and support time-limited projects.
-
-In line with ROR's commitment to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org) (POSI), ROR will only use time-limited funds for time-limited projects, and any potential revenue-generation models developed in the future would be based on services, not data.
+In line with ROR's commitment to the [Principles of Open Scholarly Infrastructure](https://openscholarlyinfrastructure.org) (POSI), ROR only uses time-limited funds for time-limited projects, and any potential revenue-generation models developed in the future would be based on services, not data.
 
 ## Team
 
@@ -210,6 +211,8 @@ ROR became one of the first adopters of the [Principles of Open Scholarly Infras
 In July 2021, GRID [announced plans to sunset its public data and officially pass the torch to ROR](/blog/2021-07-12-ror-grid-the-way-forward/).
 
 Crossref [announced support for ROR IDs](https://www.crossref.org/blog/some-rip-roring-news-for-affiliation-metadata/) in its DOI metadata schema in July 2021.
+
+GRID published its [final public dataset](https://doi.org/10.6084/m9.figshare.16685428) in September 2021.
 
 ORCID [announced its integration with ROR](https://info.orcid.org/add-research-institution-identifiers-with-ror/) in October 2021.
 
