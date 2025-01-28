@@ -161,7 +161,7 @@ More and more organizations, systems, and researchers are using ROR every day. S
 
 ### ROR in published research
 
-<iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fapi.zotero.org%2Fgroups%2F4790165%2Fitems%3Fkey%3DqWYUkNg8G2tSrs1m5i7SsKOn%26format%3Dbibtex%26limit%3D100" width="1000" height="800"></iframe> 
+ <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Fresearchorgs%2F4790165" width="1000" height="800"></iframe> 
 
 {{% button color="green" link="https://www.zotero.org/groups/4790165/ror_research/library" %}} See the ROR Research Zotero bibliography {{% /button %}}
 
