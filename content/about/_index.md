@@ -1,6 +1,7 @@
 +++
 title = "About"
 draft = false
+author = "Research Organization Registry (ROR)"
 date = "2017-08-16"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 aliases = [
@@ -50,7 +51,7 @@ Responsibility for ROR is designed and premised on the following core principles
 ## Financials
 ROR’s day-to-day financial activities are administered by the Crossref accounting team on behalf of ROR. Crossref is responsible for holding all shared ROR funds in a designated bank account. ROR has full access to and authority over its funds. Financial processes are described in full in the [ROR Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf).
 
-{{% button color="green" link="/" %}} Read more about ROR financials{{% /button %}}
+{{% button color="green" link="/about/financials" %}} Read more about ROR financials{{% /button %}}
 
 ## Business model
 There are no fees to access and use ROR. ROR data is freely and openly available without any restrictions under the Creative Commons CC0 1.0 Universal Public Domain dedication. ROR code is openly available on GitHub under a MIT License.
