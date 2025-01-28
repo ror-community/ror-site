@@ -8,7 +8,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
-videos = ['""]
+videos = []
 author = "" 
 description = ""
 +++ 
