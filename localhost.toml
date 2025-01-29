@@ -17,8 +17,8 @@ enableRobotsTXT = true
   	dateFormatAtomFeed = "2006-01-02T15:04:05-07:00"
 	dateFormatTag = "2006"
 	feedUUID = "https://ror.org"
-	icon = "https://github.com/ror-community/ror-logos/blob/main/ror-icon-rbg-32.png"
-	logo = "https://raw.githubusercontent.com/ror-community/ror-logos/main/ror-icon-rgb.svg"
+	icon = "/img/favicon.ico"
+	logo = "/img/ror-logo-800.png"
 	mainSections = ["blog"]
 
 [author]  	
