@@ -4,11 +4,11 @@ date = "2024-03-27"
 draft = true 
 tags = ["", ""] 
 categories = [""] 
+archives = [""]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
-videos = ['""]
 author = "" 
 description = ""
 +++ 
