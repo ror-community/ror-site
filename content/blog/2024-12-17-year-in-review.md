@@ -87,22 +87,20 @@ Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5,
 
 <!-- Commonly used content 
 
-{{< figure src="/img/blog/" class="featured-figure" alt="" >}}
+<!-- {{< figure src="/img/blog/" class="featured-figure" alt="" >}} -->
 
 
-{{% callout color="green" icon="fa-info" %}} 
+<!-- {{% callout color="green" icon="fa-info" %}} 
 
 {{% /callout %}}
-
-
-{{< figure src="/img/blog/" class="blog-figure" alt="" >}}
-
-
-{{< youtube id="" title="" >}}
-
-
-{{% callout icon="fa-envelope" %}} 
-Write us at info@ror.org with any comments or questions.
-{{% /callout %}} 
-
 -->
+
+<!-- {{< figure src="/img/blog/" class="blog-figure" alt="" >}} -->
+
+
+<!-- {{< youtube id="XXX" title="" >}} -->
+
+
+<!-- {{% callout icon="fa-envelope" %}} 
+Write us at info@ror.org with any comments or questions.
+{{% /callout %}} -->

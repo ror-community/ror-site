@@ -21,7 +21,7 @@ enableRobotsTXT = true
 	logo = "/img/ror-logo-800.png"
 	mainSections = ["blog"]
 
-[author]  	
+[params.author]  	
   	email = 'support@ror.org'
   	name = 'Research Organization Registry (ROR)'
   
