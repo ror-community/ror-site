@@ -8,7 +8,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
   <title>{{ .Site.Title }}</title>
   {{ with .Site.Params.Description }}<subtitle>{{ .  }}</subtitle>{{ end }}
-  {{ with .Site.Author.name }}
+  {{ with .Site.Params.Author.name }}
   <author>
     <name>{{ . }}</name>
     <uri>{{ $.Site.BaseURL }}</uri>
