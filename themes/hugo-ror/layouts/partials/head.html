@@ -34,7 +34,7 @@
 
   <!-- sass built file -->
   {{ $sass := resources.Get "sass/main.scss" }}
-	{{ $style := $sass | resources.ToCSS (dict "targetPath" "/css/hugo-ror.css") }}
+	{{ $style := $sass | css.Sass (dict "targetPath" "/css/hugo-ror.css") }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}">
 
   <!-- google material font -->
