@@ -22,7 +22,7 @@ description = ""
 
 {{< figure src="/img/blog/" class="blog-figure" alt="" >}}
 
-{{< youtube id="" title="" >}}
+{{< youtube id="XXX" title="" >}}
 
 {{% callout icon="fa-envelope" %}} 
 Write us at support@ror.org with any comments or questions.
