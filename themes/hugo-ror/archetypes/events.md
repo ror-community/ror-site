@@ -34,7 +34,7 @@ reglink = ""
 
 ## Recording 
 
-{{< youtube id="" >}}
+{{< youtube id="XXX" >}}
 
 --- 
 
