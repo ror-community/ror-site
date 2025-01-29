@@ -30,11 +30,11 @@ enableRobotsTXT = true
     suffixes = ["xml"]
 
 [outputs]
-  home = ["RSS", "HTML"]
-  page = ["ATOM", "RSS", "HTML"]
-  section = ["ATOM", "RSS", "HTML"]
-  taxonomy = ["ATOM", "RSS", "HTML"]
-  term = ["ATOM", "RSS", "HTML"]
+  home = ["ATOM", "RSS", "HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [outputFormats]
   [outputFormats.ATOM]

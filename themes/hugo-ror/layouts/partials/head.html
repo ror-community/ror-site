@@ -44,11 +44,7 @@
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
-  
-    {{ with .OutputFormats.Get "atom" }}
-    {{ printf `<link rel="%s" type="%s" href="%s" title="%s"/>` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
-    {{ else }}
-{{ end }}
+  <link rel="alternate" href="{{ "/feed.xml" | absURL }}" type="application/atom+xml" title="{{ .Site.Title }}"/>
   
   {{ if eq .Site.BaseURL "https://ror.org/" }}
 
