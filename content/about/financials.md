@@ -75,11 +75,3 @@ People power open infrastructure, and ROR is no different. The majority (87%) of
 
 ---
 
-
-{{% callout color="grey" icon="fa-envelope" %}} 
-
-Questions? Write info@ror.org. 
-
-{{% /callout %}}
-
-
