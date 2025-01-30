@@ -8,7 +8,7 @@ archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/orcid-id-icon.png"
-author = "Tom Demeranville, Paula Demain, and Dan Dineen"
+authors = [ "Tom Demeranville", "Paula Demain", "Dan Dineen" ]
 +++
 
 _This is a guest post by the [ORCID](https://orcid.org) team that was originally published on the ORCID blog. See the original post [here](https://info.orcid.org/add-research-institution-identifiers-with-ror/)._

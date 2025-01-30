@@ -8,7 +8,7 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/ror-elements-tech-u-kenya.png"
-author = "Amanda French and Liz Krzarnich"
+authors = [ "Amanda French", "Liz Krzarnich" ]
 +++
 
 {{% callout color="green" icon="no-icon" %}} 
