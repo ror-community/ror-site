@@ -44,11 +44,9 @@
                         {{ end }}
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                           <div class="clearfix post-meta">
-                            <p class="author-category">
-                              {{ if isset .Params "author" }}
-                                By {{ .Params.author }}
-                              {{ end }}
-                            </p>
+
+		{{ partial "authors.html" . }}
+
                             <p class="date-comments">
                                 <a href="{{ .Permalink }}">{{ .Date.Format .Site.Params.date_format }}</a>
                             </p>

@@ -1,6 +1,0 @@
-<p class="author">
-{{ $author := index .Site.Data.authors (.Params.author | default "default") }}
-{{- if $author -}}
-<p>{{ .fullname }}</p>
-{{- end -}}
-</p>

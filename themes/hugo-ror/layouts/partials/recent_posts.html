@@ -29,12 +29,8 @@
                             <div class="content">                                
                                 <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                 <p class="intro">{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}</p>
-                                <p class="author-category">
-                                    {{ with .Params.author }}
-                                    By <strong>{{ . }}</strong>
-                                    {{ end }}
-                                    on {{ .Date.Format .Site.Params.date_format }}
-                                </p>
+
+{{ partial "authors.html" . }}
                                 <p class="read-more">
                                     <a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">Continue reading</a>
                                 </p>
