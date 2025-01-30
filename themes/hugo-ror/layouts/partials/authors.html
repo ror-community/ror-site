@@ -1,0 +1,11 @@
+<p class="author">
+	{{ if isset .Params "authors" }}
+	By {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}{{ $author }}{{ end }}
+
+    {{ else if .Params.author }}
+     By {{ .Params.author }}
+          
+    {{ else }}
+     By {{ .Site.Author.name }}
+    {{ end }}
+</p>

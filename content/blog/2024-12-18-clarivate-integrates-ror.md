@@ -9,7 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/clarivate/Clarivate_Logo.png" 
 images = ['/img/blog/clarivate/Clarivate_Logo.png']
-author = "Clarivate and ROR" 
+author = "Clarivate"
+authors = ["Clarivate", "ROR Core Team"]  
 description = "Web of Science Core Collection™ from Clarivate™ now includes Research Organization Registry (ROR) identifiers for the benefit of the global research community."
 +++ 
 
