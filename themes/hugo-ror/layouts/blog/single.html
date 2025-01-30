@@ -17,7 +17,7 @@
         <div class="section container">
           <div class="row">
             <div class="col-md-9" id="blog-post">
-              <p class="author">{{ if .Params.author }}By {{ .Params.author }} | {{ end }}{{ .Date.Format .Site.Params.date_format }}</p>
+              <p class="author">{{ if .Params.author }}By {{ .Params.author }} | {{ end }}{{ .Date.Format "January 2, 2006" }}</p>
               <div id="post-content">
                 {{ .Content }}
               </div>
