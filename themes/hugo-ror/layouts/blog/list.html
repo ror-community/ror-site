@@ -48,7 +48,7 @@
        {{ partial "authors.html" . }}
 
                             <p class="date-comments">
-                                <a href="{{ .Permalink }}">{{ .Date.Format .Site.Params.date_format }}</a>
+                                {{ .Date.Format "January 2, 2006" }}
                             </p>
                           </div>
 							<p class="intro">{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}</p>                          

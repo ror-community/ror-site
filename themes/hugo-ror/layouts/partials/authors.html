@@ -1,4 +1,4 @@
-<p class="author-category">
+<p class="author">
 	{{ if isset .Params "authors" }}
 	By {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}{{ $author }}{{ end }}
 

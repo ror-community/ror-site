@@ -15,12 +15,12 @@ aliases = [
 * Elements of a ROR record
 * Constructing queries with the `?query` parameter
 
-{{% callout color="mustard" icon="no-icon" %}}
+{{< callout color="mustard" icon="no-icon" >}}
 
 ### Heads up! Changes are coming in late 2023. 
 Please note that this tutorial applies only to the current version of the ROR API and data structure. In late 2023, we are [planning to release version 2 of both the ROR API and the ROR JSON metadata schema](https://ror.org/blog/2022-12-14-schema-scheming/). Comments are open through **February 5, 2023** on our [proposed changes to the ROR schema](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit?usp=sharing) -- we'd be grateful for your feedback! 
 
-{{% /callout %}}
+{{< /callout >}}
 
 ## Preparation
 This lesson assumes you have a basic familiarity with APIs (Application Programming Interfaces) and with JSON. 
@@ -38,25 +38,25 @@ Open the following links in your browser. We will be using them during this tuto
 
 When users enter organization names as text, they do so in different ways, including with different spellings or in different languages. Organization names then become messy and inconsistent, which can lead to problems with searching, browsing, and exchanging organizational information. 
 
-{{% centered %}}
-{{% figure src="/img/tutorials/cracow-inconsistent-affiliations.gif" %}}
-{{% /centered %}}
+{{< centered >}}
+{{< figure src="/img/tutorials/cracow-inconsistent-affiliations.gif" >}}
+{{< /centered >}}
 
 One of the most common uses of the ROR API is to use it to power a "typeahead" widget in a form, so that when a user (for instance, the author of a scholarly article) is asked to enter an organization name, they will be offered a list of standardized organization names to choose from rather than having to type the complete name out. The system can then store all the information in the ROR record associated with the ROR identifier, not just a single text string. 
 
 Try our [demos of ROR-powered typeaheads](https://ror-community.github.io/ror-typeahead-demos/), see the [code for our typeahead demos](https://github.com/ror-community/ror-typeahead-demos), and read our [documentation on how to build your own typeaheads](https://ror.readme.io/docs/forms).
 
-{{% centered %}}
-{{% figure src="/img/tutorials/cracow-ror-typeahead.gif" %}}
-{{% /centered %}}
+{{< centered >}}
+{{< figure src="/img/tutorials/cracow-ror-typeahead.gif" >}}
+{{< /centered >}}
 
 When organization data is consistent, organizations such as the Cracow (or Kraków!) University of Economics can be confident of finding the research output produced by their researchers. 
 
-{{% centered %}}
-<a href="https://en.wikipedia.org/wiki/Krak%C3%B3w_University_of_Economics">{{% figure src="/img/tutorials/Krakow_University_of_Economics.jpg" %}}</a>
+{{< centered >}}
+<a href="https://en.wikipedia.org/wiki/Krak%C3%B3w_University_of_Economics">{{< figure src="/img/tutorials/Krakow_University_of_Economics.jpg" >}}</a>
 
 [https://en.wikipedia.org/wiki/Krak%C3%B3w_University_of_Economics](https://en.wikipedia.org/wiki/Krak%C3%B3w_University_of_Economics)
-{{% /centered %}}
+{{< /centered >}}
 
 ## About the ROR API
 
@@ -72,10 +72,10 @@ See https://ror.readme.io/docs/rest-api for full documentation of the ROR API.
 - You can **install and run the ROR API locally** in Docker. See the README at https://github.com/ror-community/ror-api for instructions. 
 - We strongly encourage ROR API users to sign up for the **[ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech)** in order to receive infrequent (two or three times a month) updates by email about changes to the ROR registry and API. 
 
-{{% callout color="orange" icon="no-icon" %}}
+{{< callout color="orange" icon="no-icon" >}}
 ### Consider whether you need to use the live ROR API
 The ROR API received about 14 million requests per month in 2022, up from about 6 million per month in 2021 and 3 million per month in 2020. While ROR has maintained 100% uptime throughout this period of growth, please be mindful that many others use this service and there is no service-level agreement (SLA). If your use case requires a large number of daily queries, guaranteed uptime, or a very fast response rate, we recommend that you run the ROR API locally or use the ROR data dump.
-{{% /callout  %}}
+{{< /callout  >}}
 
 
 
@@ -84,29 +84,29 @@ The ROR API received about 14 million requests per month in 2022, up from about 
 ### The ROR ID
 The basic unit of the ROR registry is the ROR ID, which is in the form `https://ror.org/0262te083`. The ROR ID is the unique identifier for a ROR record containing basic information about a research organization. See https://ror.readme.io/docs/identifier for more information about how ROR IDs are constructed. 
 
-{{% centered %}}
-{{% figure src="/img/tutorials/cracow-cue-ror-ui.png" width="70%" %}}
+{{< centered >}}
+{{< figure src="/img/tutorials/cracow-cue-ror-ui.png" width="70%" >}}
 
 [https://ror.org/0262te083](https://ror.org/0262te083)
-{{% /centered %}}
+{{< /centered >}}
 
 The ROR API can be used to [retrieve a single ROR ID](https://ror.readme.io/docs/api-single) by entering a URL in the form `https://api.ror.org/organizations/https://ror.org/0262te083` in your browser. (You can use cURL in a command-line interface if you prefer.) 
 
-{{% centered %}}
-{{% figure src="/img/tutorials/cracow-cue-ror-json.png"  width="70%" %}}
+{{< centered >}}
+{{< figure src="/img/tutorials/cracow-cue-ror-json.png"  width="70%" >}}
 
 [https://api.ror.org/organizations/0262te083](https://api.ror.org/organizations/0262te083)
 
-{{% /centered %}}
+{{< /centered >}}
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Exercises: Explore the ROR registry using the ROR search interface and the ROR API in a web browser. 
 
 - Go to the ROR registry search interface at https://ror.org/search and look up a few organizations using the ROR search interface. 
 - Then look up the ROR IDs of a few organizations using the ROR API in your browser by entering `https://api.ror.org/organizations/[some ROR ID]` in the URL bar, e.g., https://api.ror.org/organizations/https://ror.org/0262te083
 
-{{% /callout %}}
+{{< /callout >}}
 
 ### ROR data structure
 
@@ -124,10 +124,10 @@ There are currently **[16 top-level elements](https://ror.readme.io/docs/data-st
 	- `external_ids`
 - Deprecated fields
 	- `email_address`, `ip_addresses`
-{{% centered %}}
-{{% figure src="/img/tutorials/ror-metadata-elements.png" width="85%" %}}
+{{< centered >}}
+{{< figure src="/img/tutorials/ror-metadata-elements.png" width="85%" >}}
 
-{{% /centered %}}
+{{< /centered >}}
 
 
 ## Using the ROR API
@@ -163,7 +163,7 @@ The `?query` parameter of the ROR API is the recommended parameter for building 
 
 Note that the ROR [search interface](https://ror.org/search) uses the `?query` parameter of the ROR API, as does the [organization search at DataCite Commons](https://commons.datacite.org/ror.org?query=*). These search tools, therefore, will return zero results for searches on values that are not stored in these fields, such as an organization's website: https://api.ror.org/organizations?query=www.oberlin.edu 
 
-{{% callout color="grey" icon="no-icon" %}}
+{{< callout color="grey" icon="no-icon" >}}
 ### Demonstrations: Simple queries for organization names and identifiers
 
 - A single term in an organization's name: ```https://api.ror.org/organizations?query=Mickiewicz```
@@ -178,9 +178,9 @@ Note that the ROR [search interface](https://ror.org/search) uses the `?query` p
 
 Note that it is advisable to surround query searches for GRID IDs with quotation marks because the string "grid", which is a necessary part of the GRID ID, will match acronyms and name terms in other organizational records.  
   
-{{% /callout %}}
+{{< /callout >}}
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 ### Exercises: Searching for organization names and identifiers
 
 - Use the ROR API to search for a single term in an organization's name. 
@@ -189,7 +189,7 @@ Note that it is advisable to surround query searches for GRID IDs with quotation
 - Use the ROR API to search for an organization name in a non-English language. 
 - Use the ROR API to search for an organization by its GRID ID, ISNI ID, Wikidata ID, or Funder Registry ID. 
 
-{{% /callout %}}
+{{< /callout >}}
 
 ## Filtering results
 
@@ -208,7 +208,7 @@ The syntax of a filter is `filter=[filter]:[value]`, and filters can be combined
 
 Remember too that **searches by default show only records whose status is active**. You can use individual filters to show inactive organizations or withdrawn records, but you can also add the parameter `?all_status` to any query to include records of any status. If a query includes both `filter=status:[value]` and `all_status parameters`, the `filter=status:[value]` will take precedent. 
 
-{{% callout color="grey" icon="no-icon" %}}
+{{< callout color="grey" icon="no-icon" >}}
 ### Demonstrations: Filtering results by status, type, and country
 
 - Filter the whole ROR registry to show only records whose status is "withdrawn": ```https://api.ror.org/organizations?filter=status:Withdrawn```
@@ -222,10 +222,10 @@ Remember too that **searches by default show only records whose status is active
 - The same search filtered by country name: ```https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt```
 - The same search filtered by both country name and organization type: ```https://api.ror.org/organizations?query=Astrophysics&filter=country.country_code:pt,types:Facility```
   
-{{% /callout %}}
+{{< /callout >}}
 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 ### Exercises: Filtering search results
 
 - Filter a ROR API query by status. 
@@ -234,13 +234,13 @@ Remember too that **searches by default show only records whose status is active
 - Filter a ROR API query by country name. 
 - Combine two or more filters together in a ROR API query. 
 
-{{% /callout %}}
+{{< /callout >}}
 
 ## Sample code  
 
 - Look at and try out some Python scripts that search the ROR API available in the [ror-utilities GitHUb repository](https://github.com/ror-community/ror-utilities) -- or contribute your own!
 
-{{% callout color="grey" icon="no-icon" %}}
+{{< callout color="grey" icon="no-icon" >}}
 
 ### Demonstration: The ROR API query used in a Python script
 
@@ -248,7 +248,7 @@ The script at https://github.com/ror-community/ror-utilities/blob/main/general-s
 
 ```search_term = '"' + input_id + '"'```
 
-{{% /callout %}}
+{{< /callout >}}
 
 - You can also explore this [list of codebases on GitHub](https://github.com/stars/amandafrench/lists/github-list-of-ror-users) that use ROR.
 
@@ -257,8 +257,8 @@ The script at https://github.com/ror-community/ror-utilities/blob/main/general-s
 - ROR Technical Forum - https://groups.google.com/a/ror.org/g/ror-tech 
 - ROR Support - support@ror.org 
 
-{{% callout color="dark-grey" icon="no-icon" %}}
+{{< callout color="dark-grey" icon="no-icon" >}}
 
 Got a question or comment about this tutorial or the ROR API? Email support@ror.org. 
 
-{{% /callout %}}
+{{< /callout >}}

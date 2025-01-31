@@ -30,7 +30,11 @@
                                 <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
                                 <p class="intro">{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}</p>
 
-{{ partial "authors.html" . }}
+       {{ partial "authors.html" . }}
+
+                            <p class="date-comments">
+                                {{ .Date.Format "January 2, 2006" }}
+                            </p>
                                 <p class="read-more">
                                     <a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">Continue reading</a>
                                 </p>
