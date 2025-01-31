@@ -49,8 +49,8 @@ ROR wouldn't be ROR without the community behind it. We express our sincere grat
 
 Here's to 2023, and to ROR-ing more in 2024! 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Contact us at <info@ror.org> with any questions or comments.
 
-{{% /callout %}}
+{{< /callout >}}

@@ -45,11 +45,8 @@
                         <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
                           <div class="clearfix post-meta">
 
-       {{ partial "authors.html" . }}
+       {{ partial "authors-date.html" . }}
 
-                            <p class="date-comments">
-                                {{ .Date.Format "January 2, 2006" }}
-                            </p>
                           </div>
 							<p class="intro">{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}</p>                          
 							<p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round">Continue reading</a>

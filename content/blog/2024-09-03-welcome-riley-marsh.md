@@ -29,10 +29,10 @@ As a reminder, anyone can suggest registry additions and updates via [this form]
 
 For more information about curation, read more on the [registry web page](https://ror.org/registry/) and in the [ror-updates GitHub repository](https://github.com/ror-community/ror-updates?tab=readme-ov-file#ror-updates). 
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Questions? Contact registry@ror.org. 
 
-{{% /callout %}}
+{{< /callout >}}
 
 
