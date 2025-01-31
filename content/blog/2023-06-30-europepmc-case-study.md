@@ -15,7 +15,7 @@ description = "Michael Parkin, data scientist at EMBL-EBI who helps maintain Eur
 
 Michael Parkin, data scientist at EMBL-EBI who helps maintain Europe PMC, explains why and how ROR  helps with assessing funding impact and tracking researcher collaborations.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 "As I mentioned, we can disseminate these ROR IDs, because we've added them to our own API. When you look at a grant record programmatically, you'll see the ROR ID as part of that API response. And they are added to the Wellcome grant DOI metadata as well, so that's another nice way of making this available to others. I'm a data scientist, so I love that. The more data the better. It's great to have that kind of information so that people like me can come along afterwards and do some cool stuff that you wouldn't be able to do otherwise."
@@ -26,7 +26,7 @@ Michael Parkin, data scientist at EMBL-EBI who helps maintain Europe PMC, explai
 
 -- Michael Parkin, Data Scientist, Content, EMBL-EBI
 
-{{% /callout %}}
+{{< /callout >}}
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -210,11 +210,11 @@ PubMed has supported ORCIDs for quite a few years now. **For now, on the ROR com
 
 Yes, in early August 2022, Europe PMC made a very large spike in the DOIs with ROR IDs in Crossref.
 
-{{% centered %}}
+{{< centered >}}
 
 {{< figure src="/img/blog/europepmc/crossref-ror-ids-june-2023.png" alt="" caption="Number of Crossref records with ROR IDs over time. See the full [spreadsheet of ROR DOI statistics](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional data." >}}
 
-{{% /centered %}}
+{{< /centered >}}
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
@@ -338,10 +338,10 @@ Thank you so much for you being such a big supporter of ROR in general, and for 
 
 My pleasure. Thanks for your time.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 See also the [press release](https://www.eurekalert.org/news-releases/984137) about Europe PMC's incorporation of ROR into its Grant Finder. Contact <community@ror.org> with any questions.
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

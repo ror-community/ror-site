@@ -50,21 +50,22 @@ The ROR Steering Group is a small advisory body composed of the [ROR Operations 
 ## Who's using ROR {#adopters} 
 Many scholarly communication systems are already using ROR, and many others are working on integrating ROR. Listed below are the latest known ROR adopters -- if your system's integration of ROR does not appear on the list, please let us know.
 
-{{% centered %}}
-{{% button color="green" link="https://bit.ly/ror-integration-form" %}}Tell us about your ROR integration {{% /button %}}
+{{< centered >}}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrM876d6Koi1UONe?backgroundColor=cyan&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="550" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{{< button color="green" link="https://bit.ly/ror-integration-form" >}}Tell us about your ROR integration {{< /button >}}
+
+{{<iframe "https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrM876d6Koi1UONe?backgroundColor=cyan&viewControls=on" >}}
 
 See the [complete list of known ROR integrations.](https://bit.ly/ror-integrations)
 
-{{% /centered %}}
+{{< /centered >}}
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
  
 ### Case Studies
 To learn more about why organizations and systems are deciding to use ROR and how they approached the work of integrating ROR, read in-depth interviews with ROR adopters in the [Case Studies](/categories/case-studies) series on our blog.
 
-{{% /callout %}}
+{{< /callout >}}
 
 ## Why ROR? 
 Looking for a short document to help you or others at your organization understand why you should adopt ROR? Read and share one or more of the below PDF documents from the [ROR Community Materials](https://zenodo.org/communities/ror-community-materials) collection. 
@@ -93,15 +94,17 @@ We are also happy to schedule free custom webinars and tutorials for your team: 
 ## Supporters {#supporters}
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. 
 
-{{% centered %}}
+{{< centered >}}
 
-{{% button color="green" link="/sustain" %}} Sign up to support ROR {{% /button %}}
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt?backgroundColor=red&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="800" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{{< button color="green" link="/sustain" >}} Sign up to support ROR {{< /button >}}
+
+{{<iframe "https://airtable.com/embed/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt?backgroundColor=red&viewControls=on" >}}
+
 
 [See the complete list of ROR supporters.](https://bit.ly/ror-sustainers)
 
-{{% /centered %}}
+{{< /centered >}}
 
 
 ## Get involved
@@ -110,11 +113,11 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 Are you using or thinking of using ROR? Would you like to know about what ROR's up to, receive event invitations and announcements, give ROR feedback, and talk to other ROR users? Then join the ROR Community Forum. 
 
-{{% centered %}}
+{{< centered >}}
 
-{{% button color="green" link="https://groups.google.com/a/ror.org/g/ror-community" %}} Join the ROR Community Forum {{% /button %}}
+{{< button color="green" link="https://groups.google.com/a/ror.org/g/ror-community" >}} Join the ROR Community Forum {{< /button >}}
 
-{{% /centered %}}
+{{< /centered >}}
 
 You can also join the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) if you are a developer who would like to receive announcements of new data releases and technical changes to ROR and would like to discuss technical topics with other developers using ROR. 
 
@@ -147,8 +150,8 @@ Stay up-to-date on the latest ROR news and opportunities for feedback and involv
 
 At ROR, we want all community interactions to be welcoming, collegial, safe, and productive for everyone involved. To that end, we have adopted a [Code of Conduct](/community/code-of-conduct) that frames our expectations for community interactions in all ROR-managed spaces. 
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Contact <community@ror.org> with questions about getting involved with ROR. 
 
-{{% /callout %}}
+{{< /callout >}}

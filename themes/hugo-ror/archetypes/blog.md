@@ -17,14 +17,14 @@ description = ""
 
 {{< figure src="/img/blog/" class="featured-figure" alt="" >}}
 
-{{% callout color="green" icon="fa-info" %}} 
-{{% /callout %}}
+{{< callout color="green" icon="fa-info" >}} 
+{{< /callout >}}
 
 {{< figure src="/img/blog/" class="blog-figure" alt="" >}}
 
 {{< youtube id="XXX" title="" >}}
 
-{{% callout icon="fa-envelope" %}} 
+{{< callout icon="fa-envelope" >}} 
 Write us at support@ror.org with any comments or questions.
-{{% /callout %}} 
+{{< /callout >}} 
 -->

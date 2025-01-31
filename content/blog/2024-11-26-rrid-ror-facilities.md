@@ -18,11 +18,11 @@ aliases = [ "/blog/2024-11-27-rrid-ror-facilities" ]
 
 This blog post explores the difference between "core facilities" in RRID and "facilities" in ROR and provides guidance for those who run facilities on how to effectively use these identifiers.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 This post is [cross-posted on RRIDs.org](https://www.rrids.org/news/2024/11/26/understanding-rrid-and-ror-for-facilities). 
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 ## What is RRID and what is its scope? 
@@ -162,8 +162,8 @@ ROR is the preferred organization identifier for contributor affiliations in ORC
 
 The use of persistent identifier systems like RRID and ROR is essential for the effective management and recognition of research facilities. Implementing these identifiers will not only streamline operations but also foster collaboration and transparency in research. Using these identifiers can help facilities of various kinds enhance their visibility, track their impact more effectively, and contribute to the larger academic community. 
 
-{{% callout color="green" icon="fa-envelope" %}}
+{{< callout color="green" icon="fa-envelope" >}}
 
 Questions? Contact [support@ror.org](mailto:support@ror.org).
 
-{{% /callout %}}
+{{< /callout >}}

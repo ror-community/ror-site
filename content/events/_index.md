@@ -20,7 +20,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Recorded: 
 - Description: 
 
-{{% button color="green" link="" %}} Register {{% /button %}}
+{{< button color="green" link="" >}} Register {{< /button >}}
 
 ---
 
@@ -36,7 +36,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Recorded: Yes
 - Description: In our annual Community Update, we’ll reflect on what ROR accomplished in 2024, discuss what's ahead for ROR in 2025, and invite your thoughts on areas of future focus. Most importantly, we’ll also be acknowledging ROR community contributors, without whom we’d never have come this far. If you only attend one ROR meeting this year, make it this one. 
 
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMlc-GupzgvHNZCDGfw6wMy7w1oQfxgMNVJ" %}} Register for the ROR Annual Community Update 2025{{% /button %}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/tJMlc-GupzgvHNZCDGfw6wMy7w1oQfxgMNVJ" >}} Register for the ROR Annual Community Update 2025{{< /button >}}
 
 ### ROR Annual Community Meeting 2025: Community Drop-in
 - Date: February 4, 2025
@@ -59,7 +59,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 	- **Washington Segundo of [IBICT](https://www.gov.br/ibict/pt-br)** will demonstrate and discuss the national CRIS system of Brazil, [BrCRIS](https://brcris.ibict.br/).
 	- **Michelle Doran of Ireland's [National Open Research Forum](https://dri.ie/norf/)** will discuss a recent report on [Recommendations and Roadmap for an Irish National PID Strategy](https://doi.org/10.7486/DRI.sn00qt29n).
 
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJMscOiqqzgiHN2Xcdk6zcUNZpGnWJYoR_on" %}} Register for National PID Policies and Practices {{% /button %}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/tJMscOiqqzgiHN2Xcdk6zcUNZpGnWJYoR_on" >}} Register for National PID Policies and Practices {{< /button >}}
 
 ### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
 
@@ -75,7 +75,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 	- **Scott Edmunds, Editor in Chief at [GigaScience Press](https://www.gigasciencepress.org/)**, will explain how and why ROR is added to XML in GigaScience Press publications. 
 	- **Masatsura Igami, Director, Center for S&T Foresight and Indicators, [NISTEP](https://www.nistep.go.jp/en/)**, supported by Natsuo Onodera, Affiliated Fellow, NISTEP, will present a report on their work to link the NISTEP Organization Name Directory / NISTEP Dictionary to ROR. 
 
-{{% button color="green" link="https://crossref.zoom.us/meeting/register/tJUof--pqzIrHNz4c54CEH6J_pw_4MEDH-Ju" %}} Register for Successes and Opportunities for ROR in the APAC Region {{% /button %}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/tJUof--pqzIrHNz4c54CEH6J_pw_4MEDH-Ju" >}} Register for Successes and Opportunities for ROR in the APAC Region {{< /button >}}
 
 
 ## Calendar

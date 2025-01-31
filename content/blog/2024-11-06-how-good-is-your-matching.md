@@ -19,11 +19,11 @@ description = "The fourth blog post about metadata matching by ROR’s Adam Butt
 The fourth blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk explains how to measure the quality of different matching strategies with an evaluation dataset and metrics. 
 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/how-good-is-your-matching/) 
 
-{{% /callout %}} 
+{{< /callout >}} 
 
 
 In our [previous blog post](/blog/2024-08-28-the-myth-of-perfect-metadata-matching/) in this [series](/tags/matching), we explained why no metadata matching strategy can return perfect results. Thankfully, however, this does not mean that it's impossible to know anything about the quality of matching. Indeed, we can (and should!) measure how close (or far) we are from achieving perfection with our matching. Read on to learn how this can be done!
@@ -105,8 +105,8 @@ To summarise, to avoid falling prey to misleading sales pitches or silly quizzes
 
 Now that we've covered how to evaluate effectively, we can move on to some other aspects of metadata matching. Our next blog post will take a final, more holistic view of matching, exploring some complementary considerations to all of the preceding. Stay tuned for more!
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Questions? Contact adam@ror.org. 
 
-{{% /callout %}} 
+{{< /callout >}} 

@@ -15,7 +15,7 @@ description = "Scholastica has incorporated ROR IDs into its Peer Review System,
 
 [Scholastica](https://scholasticahq.com/), a journal publishing technology solutions provider, has incorporated ROR IDs into its Peer Review System, Production Service, and Open Access Publishing Platform. In this interview with Cory Schires, Scholastica co-founder and CTO, we discuss the two phases of ROR implementation, the pros and cons of displaying ROR IDs, what makes sense about ROR's level of granularity, and the importance of reliable APIs.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -27,7 +27,7 @@ description = "Scholastica has incorporated ROR IDs into its Peer Review System,
 
 -- Cory Schires, Co-founder and Chief Technology Officer, Scholastica
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 
@@ -270,8 +270,8 @@ Yes, it is! Well, thanks for talking with me, Cory. It was nice to chat.
 I appreciate your time. Thanks for involving me. Happy to be doing this for ROR.
 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}
