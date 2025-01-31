@@ -51,8 +51,6 @@ In short, metadata matching gives us a more complete picture of [the research ne
 
 {{< figure src="/img/blog/matching101/matching-101-relationships.png" alt="Example relationships in the scholarly record" class="blog-figure" >}}
 
-<br />
-
 These relationships are very powerful. They provide important context for any entity, whether it is a research output, a funder, a research institution, or an author. Imagine for a moment the scholarly record without any such relationships, where all bibliographic references, affiliations (institution names and addresses), and funding information (funder names and grant titles) are provided as unstructured strings only. In such a world, how would you calculate the number of times a particular research paper was cited? How would you get a list of research outputs supported by a specific funder? It would be incredibly challenging to navigate, summarise, and describe research activities, especially considering the scale. Thankfully, these and many other questions can be answered thanks to metadata matching that discovers relationships between entities in the scholarly record.
 
 There are two primary ways we can use metadata matching in our workflows: as semi-automated tools that help users look up the appropriate identifiers or as fully automated processes that enrich the metadata in various scholarly databases.

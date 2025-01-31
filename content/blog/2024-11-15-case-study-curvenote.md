@@ -185,7 +185,6 @@ It's very smart to connect to things like Jupyter -- tools that people use all t
 Yeah. There's a great TED talk called "How to Start a Movement." It's a dance party. The take-home there is that you need to join the things that are already existing and put your effort behind them. It takes a different kind of leadership to join these movements rather than start your own thing.
 
 {{< youtube id="V74AxCqOTvg" title="How to start a movement | Derek Sivers" >}}
-<br />
 
 This is very much our approach, to reinforce existing communities, to bring new experiences to life inside of those and be that strengthening and connecting tissue. I think that's somewhat lacking in how scientists experience the scholarly ecosystem in their day to day work. They have DOIs, they use Google Scholar, they see the list of papers that cite them, but they don't have that direct connection to adding metadata in the way that they should. It should be tangible. They should get a hit of dopamine.
 

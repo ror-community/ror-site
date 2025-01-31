@@ -134,13 +134,13 @@ Yes! I happened to see the [ROR ID for York Minster](https://ror.org/01m3vxn57) 
 
 That's a lovely cathedral, actually.
 
-{{< figure src="/img/blog/europepmc/York_Minster_Cathedral.jpg" alt="York Minster, North Yorkshire - from the City Walls, 2013, JackPeasePhotography, CC BY 2.0, via Wikimedia Commons" caption="York Minster, North Yorkshire - from the City Walls, 2013, JackPeasePhotography, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons, <https://commons.wikimedia.org/wiki/File:York_Minster,_North_Yorkshire_-_from_the_City_Walls_(32513880464).jpg>" >}}
+{{< figure src="/img/blog/europepmc/York_Minster_Cathedral.jpg" alt="York Minster, North Yorkshire - from the City Walls, 2013, JackPeasePhotography, CC BY 2.0, via Wikimedia Commons" caption="York Minster, North Yorkshire - from the City Walls, 2013, JackPeasePhotography, CC BY 2.0, via Wikimedia Commons." >}}
 
 So there's a real spread of organizations, and the data comes to us through spreadsheets. Some of our funders are relatively small organizations, perhaps with a small number of staff, and anything overly technical is not going to be fit for purpose. We have a spreadsheet where they can fill out all the grant details, and one of the columns of the spreadsheet is the organization that the PI is at, and over the last decade and a half, there's been a lot of variation in the way that those affiliations get listed. We've had the University of Cambridge spelled in about eight different ways, with those including lowercase, uppercase, commas in different places. On our system, if you type "Cambridge," into the auto-complete menu, you get six or seven variations of "Cambridge University," so "the University of Cambridge," "Cambridge, comma, University." It's terrible.
 
 So what we were looking for is a way to normalize those. This is probably a very classic use case of ROR here. We've wanted to do this for a very long time, actually. This is not a new problem. It gets increasingly worse as time goes by and funders find new ways to write different names for universities and such. We wanted to combine these all, and attaching these affiliations to a ROR ID is a really, really neat way of doing it. On the one hand we get a PID, which is wonderful, something we can share with others and disseminate. But also you have a very well curated registry, which happens to provide a suitable single affiliation name. I think it's called the primary name in ROR, but we call it internally the “official” name. And, as you know, the ROR registry gets updated. I imagine if some university decides "Actually, I prefer if you use the Spanish spelling of our name," that would be updated, and we'd incorporate that into our system.
 
-{{< figure src="/img/blog/europepmc/europe-pmc-grant-finder-ror.png" alt="Screenshot of ROR affiliation picker in Europe PMC grant form" caption="Selecting an affiliation based on ROR integration in Europe PMC Grant Finder" >}}
+{{< figure src="/img/blog/europepmc/europe-pmc-grant-finder-ror.png" alt="Screenshot of ROR affiliation picker in Europe PMC grant form." caption="Selecting an affiliation based on ROR integration in Europe PMC Grant Finder." >}}
 
 What we've been working on is taking our very, very long list of institution names in Europe PMC grant data, many of which are copies of the same institute, just spelled differently, and matching them to ROR IDs. We use the ROR API to do that. We have our machine learning model for publications, but the grant data is a little different. It's a little bit more straightforward, actually, because these institution text strings tend to just be the institution name, whereas in publications you get postcodes, countries, cities... Sometimes you get two affiliations merged together in the same bit of text. Luckily for us, with Europe PMC grant data, it's usually just something as simple as "the University of Cambridge".
 
@@ -212,7 +212,7 @@ Yes, in early August 2022, Europe PMC made a very large spike in the DOIs with R
 
 {{< centered >}}
 
-{{< figure src="/img/blog/europepmc/crossref-ror-ids-june-2023.png" alt="" caption="Number of Crossref records with ROR IDs over time. See the full [spreadsheet of ROR DOI statistics](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional data." >}}
+{{< figure src="/img/blog/europepmc/crossref-ror-ids-june-2023.png" alt="Number of Crossref records with ROR IDs over time." caption="Number of Crossref records with ROR IDs over time. See the full [spreadsheet of ROR DOI statistics](https://docs.google.com/spreadsheets/d/1RKc4HM2K3mXvlMuQt-pR4xXgQiOC2B8rMuaddBqEaMg/edit?usp=sharing) for API queries and additional data." >}}
 
 {{< /centered >}}
 
@@ -260,7 +260,7 @@ Right, and none of that is true. Anyone can submit a form and request a change t
 
 With 105,000 records and more, we would have to have a lot more manpower, I think, to manage 105,000 accounts. But it is interesting. I sometimes wonder what we'd do if we had an edit war between requesters over information in a record. As far as I know, we've never had that. We have a curation team that evaluates everything on the merits. Is this a good change? Is this accurate? And we get good advice from others, as well, and the curation team makes the ultimate decisions.
 
-But sometimes I wonder what we'd do if there were competing authorities suggesting what the official name of an organization should be, for instance. We are doing a lot of that, you know. You mentioned as an example earlier changing the primary name in the <name> element in a ROR record to the name in another language. And we've been doing a lot of that, because in the data we inherited, most of those names were in English, and so we get a lot of "Hey, we are a Spanish university, can we have our primary name in Spanish?" And we're happy to do that.
+But sometimes I wonder what we'd do if there were competing authorities suggesting what the official name of an organization should be, for instance. We are doing a lot of that, you know. You mentioned as an example earlier changing the primary name in the `name` element in a ROR record to the name in another language. And we've been doing a lot of that, because in the data we inherited, most of those names were in English, and so we get a lot of "Hey, we are a Spanish university, can we have our primary name in Spanish?" And we're happy to do that.
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 

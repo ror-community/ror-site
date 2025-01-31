@@ -30,9 +30,13 @@ Are you planning to integrate ROR? [Learn how.](https://ror.readme.io/v2/docs/)
 
 {{< /callout >}}
 
-Learn more about this ROR integration from the [Web of Science release notes](https://clarivate.com/academia-government/release-notes/web-of-science/web-of-science-november-7-2024-release-notes/) and a presentation given at the September 2024 ROR Community Call by Tilla Edmunds, Director of Web of Science Content Management at Clarivate. <br /><br />
+Learn more about this ROR integration from the [Web of Science release notes](https://clarivate.com/academia-government/release-notes/web-of-science/web-of-science-november-7-2024-release-notes/) and a presentation given at the September 2024 ROR Community Call by Tilla Edmunds, Director of Web of Science Content Management at Clarivate. 
 
-{{< youtube id="_z1lcsd_osc" title="ROR in Web of Science presentation at ROR Community Call September 2024" >}}<br />
+---
+
+{{< youtube id="_z1lcsd_osc" title="ROR in Web of Science presentation at ROR Community Call September 2024" >}}
+
+---
 
 
 {{< callout icon="fa-envelope" >}} 
