@@ -37,11 +37,21 @@
     <published>{{ .Date.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</published>
     <updated>{{ .Lastmod.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</updated>
     
-    {{ with .Params.Author }}
-    <author>
-      <name>{{ . }}</name>
-    </author>
-    {{ end }}
+	{{ if isset .Params "authors" }}
+	{{ range $author := .Params.authors }}
+	<author>
+		<name>{{ $author }}</name>
+	</author>
+	{{ end }}
+    {{ else if .Params.author }}
+	<author>
+		<name>{{ . }}</name>
+	</author>         
+    {{ else }}
+	<author>
+		<name>{{ .Site.Params.Author.name }}</name>
+	</author>	
+	{{ end }}
 
     <content type="html" xml:base="{{ .Site.BaseURL }}" xml:lang="en">
       {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
