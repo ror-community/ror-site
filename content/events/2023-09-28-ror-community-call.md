@@ -22,9 +22,8 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 
 - [Slides from ROR Community Call - September 2023](https://docs.google.com/presentation/d/e/2PACX-1vQz6UqlYIH85yDaKvGav8kClUj8kCWhYFmJyGzpEEXPHEJPQJHiRg4T8LWUFg1MsS4gc4zXyARBhXU4/pub?start=false&loop=false&delayms=3000)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQz6UqlYIH85yDaKvGav8kClUj8kCWhYFmJyGzpEEXPHEJPQJHiRg4T8LWUFg1MsS4gc4zXyARBhXU4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQz6UqlYIH85yDaKvGav8kClUj8kCWhYFmJyGzpEEXPHEJPQJHiRg4T8LWUFg1MsS4gc4zXyARBhXU4/embed?start=false&loop=false&delayms=3000" >}}
 
 ### Recording 
 
 {{< youtube id="Zei9m3AhdFk" title="ROR Community Call September 2023" >}}
-

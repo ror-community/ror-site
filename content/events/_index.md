@@ -80,7 +80,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Calendar
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" frameborder="0" onmousewheel="" width="100%" height="750" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
 
@@ -185,5 +185,5 @@ Four years and four sessions at the [ROR Annual Community Meeting 2023](2023-01-
 ### More past events
 Browse the list below to see more events ROR has participated in, with links to slides and recordings where available.
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shraBgs4xLlsBCboZ?backgroundColor=purple&viewControls=on" frameborder="0" onmousewheel="" width="100%" height="1000" style="background: transparent; border: 1px solid #ccc;"></iframe>
+{{< iframe "https://airtable.com/embed/shraBgs4xLlsBCboZ?backgroundColor=purple&viewControls=on" >}}
 

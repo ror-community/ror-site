@@ -23,7 +23,7 @@ description = "In the US Federal Guidance and PIDs webinar on December 7, 2023, 
 
 - [Slides from US Federal Guidance and PIDs webinar](https://docs.google.com/presentation/d/1JjTcJELkIja_2yVQX2II3Z-ghc4ZniRdzIi9UB3KQCc/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQJvEwW1nctrQwhwB4r3Wu7QzaVlrmYc3djACqGPKHZ8NQX38NMXinBQa-YnnHs61atHLIShCUKEfi4/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQJvEwW1nctrQwhwB4r3Wu7QzaVlrmYc3djACqGPKHZ8NQX38NMXinBQa-YnnHs61atHLIShCUKEfi4/embed?start=false&loop=false&delayms=3000" >}}
 
 ### Recording 
 
