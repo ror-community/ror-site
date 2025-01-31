@@ -256,9 +256,9 @@ ROR is updated on a rolling basis. New registry releases are published on [GitHu
 
 ***
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Contact <support@ror.org> with other questions about ROR. 
 
-{{% /callout %}}
+{{< /callout >}}
  

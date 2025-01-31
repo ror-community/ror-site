@@ -30,10 +30,10 @@ Said ROR Project Lead Maria Gould of the California Digital Library, "Europe PMC
 See also the Crossref news release, "[Europe PMC integrates ROR into its Grant Finder](https://www.eurekalert.org/news-releases/984137)." 
 
 
-{{% callout color="green" icon="no-icon" %}} 
+{{< callout color="green" icon="no-icon" >}} 
 
 - [Contact helpdesk@europepmc.org](helpdesk@europepmc.org) for further information about Europe PMC's use of ROR.
 - [Contact Amanda French](mailto:community@ror.org), ROR Technical Community Manager, for more information about ROR.
 - Register for an upcoming [ROR Community Call or other event](/events) to hear about integrations like these and more.
 
-{{% /callout %}} 
+{{< /callout >}} 

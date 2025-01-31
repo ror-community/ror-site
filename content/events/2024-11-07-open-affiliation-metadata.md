@@ -35,7 +35,7 @@ reglink = ""
 
 - [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vTgPAQCI29OT4yBzGhyenjy-ttTBfhl5otCmzl-JKEtMYcJ-QBxPX7Drs-ZD0IN-2Wze9-3aKQE6fr2/pub?start=false&loop=false&delayms=3000)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTgPAQCI29OT4yBzGhyenjy-ttTBfhl5otCmzl-JKEtMYcJ-QBxPX7Drs-ZD0IN-2Wze9-3aKQE6fr2/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTgPAQCI29OT4yBzGhyenjy-ttTBfhl5otCmzl-JKEtMYcJ-QBxPX7Drs-ZD0IN-2Wze9-3aKQE6fr2/embed?start=false&loop=false&delayms=3000" >}}
 
 ---
 

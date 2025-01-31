@@ -72,17 +72,17 @@ And, of course, as always, we held our regular bi-monthly online [Community Call
 
 We give our heartfelt thanks to all of you who have supported ROR this year by sharing your thoughts, asking us questions, doing the work at your own organizations, making financial contributions, and in a hundred other ways demonstrating that you understand the value of ROR not just for your own benefit, but for the benefit of the entire research information ecosystem. We look forward to collaborating with you in 2025. 
 
-{{% callout icon="fa-envelope" %}} 
+{{< callout icon="fa-envelope" >}} 
 Write us at info@ror.org with any comments or questions.
-{{% /callout %}}
+{{< /callout >}}
 
-{{% callout icon="fa-comment" color="green" %}} 
+{{< callout icon="fa-comment" color="green" >}} 
 Get involved by joining the [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community).
-{{% /callout %}}
+{{< /callout >}}
 
-{{% callout icon="fa-calendar-days" color="mustard" %}} 
+{{< callout icon="fa-calendar-days" color="mustard" >}} 
 Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5, 2025.
-{{% /callout %}}
+{{< /callout >}}
 
 
 <!-- Commonly used content 
@@ -90,9 +90,9 @@ Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5,
 <!-- {{< figure src="/img/blog/" class="featured-figure" alt="" >}} -->
 
 
-<!-- {{% callout color="green" icon="fa-info" %}} 
+<!-- {{< callout color="green" icon="fa-info" >}} 
 
-{{% /callout %}}
+{{< /callout >}}
 -->
 
 <!-- {{< figure src="/img/blog/" class="blog-figure" alt="" >}} -->
@@ -101,6 +101,6 @@ Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5,
 <!-- {{< youtube id="XXX" title="" >}} -->
 
 
-<!-- {{% callout icon="fa-envelope" %}} 
+<!-- {{< callout icon="fa-envelope" >}} 
 Write us at info@ror.org with any comments or questions.
-{{% /callout %}} -->
+{{< /callout >}} -->

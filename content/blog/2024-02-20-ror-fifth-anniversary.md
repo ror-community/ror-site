@@ -69,7 +69,7 @@ Hope to see you all throughout 2024 and at the next annual meeting in 2025.
 {{< figure src="/img/blog/recap2024/lets-ror-some-more-in-2024.png" class="blog-figure" alt="Thank you! Let's ROR some more in 2024!" >}}
 
 
-{{% callout color="grey" icon="no-icon" %}}
+{{< callout color="grey" icon="no-icon" >}}
 ### Previous recaps of ROR annual community meetings 
 
 - [2023 - ROR Turns Four](/blog/2023-02-13-ror-turns-four/)
@@ -78,10 +78,10 @@ Hope to see you all throughout 2024 and at the next annual meeting in 2025.
 - [2020 - ROR-ing Together in Portugal](/blog/2020-02-10-ror-ing-in-portugal) 
 - [2019 - Hear us ROR!](/blog/2019-02-10-announcing-first-ror-prototype/)
 
-{{% /callout %}}
+{{< /callout >}}
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Want to present at a ROR community meeting? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

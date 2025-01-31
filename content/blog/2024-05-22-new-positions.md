@@ -29,10 +29,10 @@ As of this month, long-time Metadata Curation Lead Adam Buttrick has left his po
 
 All of these developments reflect how ROR continues to stabilize and mature, and they underscore the importance of continuing to grow the team to support ongoing needs as ROR evolves. At the same time, we fully intend to keep our operations small and nimble in order to stay focused on key objectives and remain flexible enough to adapt to future changes. 
 
-{{% callout color="grey" icon="fa-envelope" %}}
+{{< callout color="grey" icon="fa-envelope" >}}
 
 Questions? Contact info@ror.org. See also ROR's [jobs page](/jobs).
 
-{{% /callout %}}
+{{< /callout >}}
 
 Photo by [Jansen Yang](https://unsplash.com/@sens_design) on [Unsplash](https://unsplash.com/photos/concrete-man-beside-lion-statue-QtVRBR2QrfI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

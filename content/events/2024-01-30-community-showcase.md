@@ -30,7 +30,7 @@ _(Not all slides are yet available. The remaining presentations will be added to
 
 - [Slides](https://docs.google.com/presentation/d/1Uz5c1TejkcLr475EJ_pEr6TyqoZsKERRJ8oJ_syZJGY/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTbffA9JzQvvpoIidKQwTTKqVPKgiWsHY7-jOPFcEjNe0XTXiSzinntVyumzsPPuZGIQeDQpBgV0LeM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTbffA9JzQvvpoIidKQwTTKqVPKgiWsHY7-jOPFcEjNe0XTXiSzinntVyumzsPPuZGIQeDQpBgV0LeM/embed?start=false&loop=false&delayms=3000" >}}
 
 ### Recording 
 

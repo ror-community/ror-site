@@ -76,9 +76,9 @@ Just as in the previous view, the pie chart on the left shows that a majority of
 
 In addition, while the preceding chart shows the number of funder assertions in DataCite records that _could_ be matched to a ROR ID, the data on the actual number of funder assertions in DataCite records that _currently use_ a ROR ID is also impressive. About 1.5 million DataCite records cite a funder in the `fundingReferences` element, and over 1.3 million of those also include connection metadata in the form of an identifier for that funder. As of this writing, the largest proportion of those 1.3 million funder identifiers are Funder IDs at 883,098 uses. ROR, however, is the next most commonly used identifier at 357,568 uses. 
 
-{{% centered %}}
+{{< centered >}}
 {{< figure src="/img/blog/funder-overlap/datacite-funder-ids-chart.png" class="" alt="" caption="ROR DOI stats, available [on the ROR website](https://ror.org/about#impact). See also the discussion of these statistics [during the September ROR Community Call](https://ror.org/events/2023-09-28-ror-community-call)."  >}} 
-{{% /centered %}}
+{{< /centered >}}
 
 
 **Clearly, then, ROR is ready to take on the work that the Open Funder Registry is currently doing with regard to funding data in Crossref and DataCite records.**
@@ -122,11 +122,11 @@ Meanwhile, if you have questions or comments about ROR and the Open Funder Regis
 [^4]: [Crossref API Funder Registry "work-count" and "descendant-work-count" for the U.S. National Science Foundation](http://api.crossref.org/funders/100000001)
 
 
-{{% callout color="grey" icon="fa-envelope" %}}
+{{< callout color="grey" icon="fa-envelope" >}}
 
 Contact community@ror.org with any and all questions.  
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 

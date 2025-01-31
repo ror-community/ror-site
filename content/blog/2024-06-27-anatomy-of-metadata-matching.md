@@ -15,11 +15,11 @@ description = "The second blog post about metadata matching by ROR's Adam Buttri
 
 The second blog post about metadata matching by ROR's Adam Buttrick and Crossref's Dominika Tkaczyk describes some basic matching-related terminology and the components of a matching process, then poses some typical product questions to consider when developing or integrating matching solutions. Read more about this important work here and in other posts in the [matching](/tags/matching/) series. 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 **The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/the-anatomy-of-metadata-matching//)**  
 
-{{% /callout %}}
+{{< /callout >}}
 
 In our [previous blog post about metadata matching](/blog/2024-05-16-metadata-matching-101-cross-post/), we discussed what it is and why we need it (tl;dr: to discover more relationships within the scholarly record). Here, we will describe some basic matching-related terminology and the components of a matching process. We will also pose some typical product questions to consider when developing or integrating matching solutions.
 
@@ -166,9 +166,9 @@ If you are waiting for an answer to these questions, we unfortunately must disap
 
 Did you notice any other subtleties related to metadata matching and its concerns? Are there other non-obvious questions that should be considered when planning to develop or integrate metadata matching strategies? Let us know—we’d love to hear from you!
 
-{{% callout color="grey" icon="fa-envelope" %}}
+{{< callout color="grey" icon="fa-envelope" >}}
 
 Questions? Contact adam@ror.org.
 
-{{% /callout %}}
+{{< /callout >}}
 

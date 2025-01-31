@@ -16,11 +16,11 @@ aliases =  [ '/blog/2023-09-07-open-funder-registry-transition-ror-cross-post/' 
 
 Crossref has announced a long-term plan to deprecate the Open Funder Registry and merge it with ROR in order to make workflows more efficient for all concerned. ROR and Crossref are working closely together on this important initiative, and we're happy to answer any questions that users of the Funder Registry may have. Feel free to write info@ror.org, [book a meeting with Amanda French](https://calendly.com/ror-chat), or attend a [ROR event](/events) if you'd like to learn more.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 **The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror)**  
 
-{{% /callout %}}
+{{< /callout >}}
 
 ---
 
@@ -115,11 +115,11 @@ One of the major messages we're already hearing from funders and publishers is e
 [^6]: [DataCite API Funder ID in funding reference](https://api.datacite.org/dois?query=fundingReferences.funderIdentifierType:%22Crossref%20Funder%20ID%22&page[size]=0)
 [^7]: [DataCite API ROR ID in funding reference](https://api.datacite.org/dois?query=fundingReferences.funderIdentifierType:ROR&page[size]=0)
 
-{{% callout color="grey" icon="fa-envelope" %}}
+{{< callout color="grey" icon="fa-envelope" >}}
 
 Contact info@ror.org with any and all questions.  
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 

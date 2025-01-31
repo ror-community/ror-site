@@ -13,11 +13,11 @@ author = "ROR Core Team"
 description = "Today, we are delighted to announce the launch of version 2 of the ROR schema and API! This new version of our schema and API will serve as a rock-solid foundation for everything ROR users want to accomplish now and in the future."
 +++
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 **Today, we are delighted to announce the launch of version 2 of the ROR schema and API! This new version of our schema and API will serve as a rock-solid foundation for everything ROR users want to accomplish now and in the future.** 
 
-{{% /callout %}}
+{{< /callout >}}
 
 Today marks a red-letter (teal-letter?) day for ROR: the official public launch of **version 2 of the ROR schema and API**! Version 2 of ROR, developed and beta-tested over many months with [the generous input and help of the ROR community](https://ror.readme.io/docs/feedback-docs), is more streamlined and more powerful than version 1, including some restructuring that will make ROR data easier to manage and use and some new fields that ROR users have been asking for. Read on to find out more. 
 
@@ -46,7 +46,7 @@ Here's a synopsis of what's new and improved.
 
 * The **ROR web search** at [https://ror.org/search](https://ror.org/search) now uses version 2 of the ROR API, and we've taken the opportunity to make a few improvements. Organization names are now identified by type and language so that it's more apparent what's an alias, what's an acronym, and what's in an alternate script. Additionally, each individual landing page for a ROR record now includes a link to the JSON view of the record, which enables users to see the underlying data behind the interface. 
 
-{{% callout color="mustard" icon="no-icon" %}}
+{{< callout color="mustard" icon="no-icon" >}}
 
 Not all new fields and subfields in version 2 of ROR have values yet, but we expect to add most or all of this information by the end of Q2 2024, proceeding carefully in order to ensure that added values are accurate.  
 
@@ -58,28 +58,28 @@ Not all new fields and subfields in version 2 of ROR have values yet, but we exp
 
 The **funder** organization type has not yet been added to funder records. 
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 ## Compare a v1 record with a v2 record
 
 Compare the ROR record for Victoria University in ROR v1 with the ROR record for Victoria University in ROR v2 to see the improvements we've made in the metadata. 
 
-{{% centered %}}
+{{< centered >}}
 
 Victoria University, ROR v1
 
 {{< figure src="/img/ror-v1-victoria-university.png" alt="The version 1 ROR record for Victoria University" caption="The version 1 ROR record for Victoria University" >}}
 
-{{% /centered %}}
+{{< /centered >}}
 
-{{% centered %}}
+{{< centered >}}
 
 Victoria University, ROR v2
 
 {{< figure src="/img/ror-v2-victoria-university.png" alt="The version 2 ROR record for Victoria University" caption="The version 2 ROR record for Victoria University" >}}
 
-{{% /centered %}}
+{{< /centered >}}
 
 
 ## What's new - more details
@@ -100,8 +100,8 @@ If you'd like to participate in future ROR developments, please get involved wit
 * Join the ROR Slack 
 * Attend a [ROR community call or other event](/events)
 
-{{% callout color="light-grey" icon="fa-envelope" %}}
+{{< callout color="light-grey" icon="fa-envelope" >}}
 
 Want help switching to ROR version 2 or integrating it into your system for the first time? Email [support@ror.org](mailto:support@ror.org) with any questions or book a meeting with ROR Technical Community Manager Amanda French at [https://calendly.com/ror-chat](https://calendly.com/ror-chat).  
 
-{{% /callout %}}
+{{< /callout >}}

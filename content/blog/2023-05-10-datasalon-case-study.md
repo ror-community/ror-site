@@ -15,7 +15,7 @@ description = "In January of 2022, DataSalon announced a full integration of ROR
 
 In January of 2022, DataSalon [announced a full integration of ROR](https://www.datasalon.com/web/downloads/press/PR_ROR.pdf) into its scholarly publishing analytics products [MasterVision](https://www.datasalon.com/web/features/dashboards.htm) and [PaperStack](https://www.datasalon.com/web/features/paperstack.htm). DataSalon's Client Services Director Andy Dobson sat down with us to tell us all about how they draw on fifteen years of data experience to match organizational affiliations in publisher data to ROR IDs.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -27,7 +27,7 @@ In January of 2022, DataSalon [announced a full integration of ROR](https://www.
 
 -- Andy Dobson, Client Services Director, DataSalon
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 
@@ -370,8 +370,8 @@ Great. Well, thank you so much again for doing this with us, Andy.
 
 Thank you for the opportunity.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}
