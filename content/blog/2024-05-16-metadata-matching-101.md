@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/matching101/yellow-matching-thumb.png"
 images = ['/img/blog/matching101/yellow-matching-thumb.png']
-author = "Dominika Tkaczyk and Adam Buttrick"
+authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it, and why we devote so much effort to this problem."
 aliases = "blog/2024-05-16-metadata-matching-101-cross-post/"
 +++

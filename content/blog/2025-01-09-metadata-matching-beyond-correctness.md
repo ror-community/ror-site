@@ -9,7 +9,6 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/matching-correctness/matching-strategy-criteria.png" 
 images = ['/img/blog/matching-correctness/matching-strategy-criteria.png']
-author = "Dominika Tkaczyk"
 authors = ["Dominika Tkaczyk", "Adam Buttrick"] 
 description = "The fifth and final blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk outlines a set of pragmatic criteria for making decisions about metadata matching."
 +++ 
