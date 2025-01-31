@@ -45,7 +45,7 @@
 	{{ end }}
     {{ else if .Params.author }}
 	<author>
-		<name>{{ . }}</name>
+		<name>{{ .Params.author }}</name>
 	</author>         
     {{ else }}
 	<author>
