@@ -24,21 +24,25 @@ Tilla Edmunds, Director of Web of Science Content Management at Clarivate, said 
 
 [Clarivate™](https://clarivate.com) has long supported ROR as a community-led solution to the pressing challenge in scholarly publishing of variant affiliation names for the same organizations. The new ROR features in the Web of Science, developed in response to customer feedback, are only the first phase of ROR adoption for Clarivate. Now that more and more academic publishers are beginning to use ROR, Web of Science plans in the future to collect ROR IDs for researchers' affiliations directly from publisher metadata, thus lessening and perhaps one day even eliminating the problem of nonstandard research affiliation information. 
 
-{{% callout color="orange" icon="fa-bullhorn" %}} 
+{{< callout color="orange" icon="fa-bullhorn" >}} 
 
 Are you planning to integrate ROR? [Learn how.](https://ror.readme.io/v2/docs/)
 
-{{% /callout %}}
+{{< /callout >}}
 
-Learn more about this ROR integration from the [Web of Science release notes](https://clarivate.com/academia-government/release-notes/web-of-science/web-of-science-november-7-2024-release-notes/) and a presentation given at the September 2024 ROR Community Call by Tilla Edmunds, Director of Web of Science Content Management at Clarivate. <br /><br />
+Learn more about this ROR integration from the [Web of Science release notes](https://clarivate.com/academia-government/release-notes/web-of-science/web-of-science-november-7-2024-release-notes/) and a presentation given at the September 2024 ROR Community Call by Tilla Edmunds, Director of Web of Science Content Management at Clarivate. 
 
-{{< youtube id="_z1lcsd_osc" title="ROR in Web of Science presentation at ROR Community Call September 2024" >}}<br />
+---
+
+{{< youtube id="_z1lcsd_osc" title="ROR in Web of Science presentation at ROR Community Call September 2024" >}}
+
+---
 
 
-{{% callout icon="fa-envelope" %}} 
+{{< callout icon="fa-envelope" >}} 
 
 Contact support@ror.org or newsroom@clarivate.com with questions.
 
-{{% /callout %}} 
+{{< /callout >}} 
 
 

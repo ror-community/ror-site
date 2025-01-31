@@ -15,7 +15,7 @@ description = "Justin Barrett, Lead Machine Learning Engineer for OpenAlex at Ou
 
 Justin Barrett, Lead Machine Learning Engineer for OpenAlex at OurResearch, talks with ROR Technical Community Manager Amanda French and ROR Curation Lead Adam Buttrick about using ROR both as an identifier for institutions in OpenAlex and as a dataset for training machine learning models that enrich OpenAlex metadata.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -27,7 +27,7 @@ Justin Barrett, Lead Machine Learning Engineer for OpenAlex at OurResearch, talk
 
 -- Justin Barrett, Machine Learning Engineer, OurResearch
 
-{{% /callout %}}
+{{< /callout >}}
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -369,8 +369,8 @@ I am probably the most excited about this interview, of all the readers!
 
 Thank you very much.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

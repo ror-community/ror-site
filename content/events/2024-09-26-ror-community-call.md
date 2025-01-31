@@ -22,7 +22,7 @@ description = "The ROR Community Call for September 2024 includes general update
 
 * [Slides from ROR Community Call - September 2024](https://docs.google.com/presentation/d/e/2PACX-1vQvRnibhUnfXGd30ZEa9CVz-Zz5adozqUJDRQmWNtMKeF3zRtnpsZmjp4V4fM0beOTsjMWe6rde6D6e/pub?start=false&loop=false&delayms=3000)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQvRnibhUnfXGd30ZEa9CVz-Zz5adozqUJDRQmWNtMKeF3zRtnpsZmjp4V4fM0beOTsjMWe6rde6D6e/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> 
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQvRnibhUnfXGd30ZEa9CVz-Zz5adozqUJDRQmWNtMKeF3zRtnpsZmjp4V4fM0beOTsjMWe6rde6D6e/embed?start=false&loop=false&delayms=3000" >}} 
 
 ### Recording 
 

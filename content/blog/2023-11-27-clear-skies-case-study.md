@@ -18,7 +18,7 @@ Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research in
 
  
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -32,7 +32,7 @@ Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research in
 
  
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
@@ -264,8 +264,8 @@ That's great. Well, thank you for speaking with me.
 
 Cool. Thanks. Bye.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

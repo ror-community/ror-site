@@ -23,7 +23,7 @@ description = "In New Features for Organization Information in DSpace with ROR, 
 
 * [Slides from New Features for Organization Information in DSpace with ROR](https://docs.google.com/presentation/d/e/2PACX-1vQF2VnGBIYuJrdqopaFnBZw_iInUGOYnbDe-scH7PNpJyTughHEZXM2nULUEH5WiQQPGOcYPNa7dPHC/pub?start=false&loop=false&delayms=3000)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQF2VnGBIYuJrdqopaFnBZw_iInUGOYnbDe-scH7PNpJyTughHEZXM2nULUEH5WiQQPGOcYPNa7dPHC/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQF2VnGBIYuJrdqopaFnBZw_iInUGOYnbDe-scH7PNpJyTughHEZXM2nULUEH5WiQQPGOcYPNa7dPHC/embed?start=false&loop=false&delayms=3000" >}}
 
 ### Recording 
 

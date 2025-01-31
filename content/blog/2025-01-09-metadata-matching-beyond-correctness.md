@@ -17,11 +17,11 @@ description = "The fifth and final blog post about metadata matching by ROR’s 
 
 The fifth and final blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk outlines a set of pragmatic criteria for making decisions about metadata matching. 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/metadata-matching-beyond-correctness/) 
 
-{{% /callout %}} 
+{{< /callout >}} 
 
 In our [previous entry](/blog/2024-11-06-how-good-is-your-matching/) in this [series](/tags/matching), we explained that thorough evaluation is key to understanding a matching strategy's performance. While evaluation is what allows us to assess the correctness of matching, choosing the best matching strategy is, unfortunately, not as simple as selecting the one that yields the best matches. Instead, these decisions usually depend on weighing multiple factors based on your particular circumstances. This is true not only for metadata matching, but for [many technical choices](https://www.wired.com/2012/04/netflix-prize-costs/) that require navigating trade-offs. In this blog post, the last one in the metadata matching series, we outline a subjective set of criteria we would recommend you consider when making decisions about matching. 
 
@@ -103,9 +103,9 @@ When multiple strategies appear viable, the selection process becomes more nuanc
 
 This concludes our [series on metadata matching](/tags/matching), where we described the conceptual, product, and technical aspects of matching and its applications. We hope this overview was instructive and helps you to make better decisions about the use of matching in your own tools and services!
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Questions? Contact adam@ror.org. 
 
-{{% /callout %}} 
+{{< /callout >}} 
 
