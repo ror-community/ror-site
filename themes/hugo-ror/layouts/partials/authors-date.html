@@ -1,7 +1,11 @@
 <p class="author">
-	{{ if isset .Params "authors" }}
-	By {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}{{ $author }}{{ end }}
 
+	{{ if .Params.authors }}
+	
+	{{ $authors := .Params.authors }}
+	
+	By {{ delimit $authors ", " " and " }}
+	
     {{ else if .Params.author }}
      By {{ .Params.author }}
           
