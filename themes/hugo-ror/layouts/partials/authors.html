@@ -1,13 +1,30 @@
 <p class="author">
-	{{ if isset .Params "authors" }}
-	By {{ range $index, $author := .Params.authors }}{{ if gt $index 0 }}, {{ end }}{{ $author }}{{ end }}
 
+	{{ if .Params.authors }}
+	
+	{{ $authors := .Params.authors }}
+	
+	By {{ delimit $authors ", " " and " }}
+	
     {{ else if .Params.author }}
      By {{ .Params.author }}
           
     {{ else }}
      By {{ .Site.Author.name }}
 	{{ end }}
-	
 	| {{ .Date.Format "January 2, 2006" }}
 </p>
+
+
+
+<!--
+
+<p class="author">Amanda French <a href="https://orcid.org/0000-0002-4325-1809"><img src="/img/ORCID-iD_icon_vector.svg" alt="ORCID logo"/></a> <a href="https://ror.org/02twcfp32"><img src="/img/ror-icon-rbg-24.png" alt="ROR logo"/></a>, 
+Adam Buttrick <a href="https://orcid.org/0000-0002-4325-1809"><img src="/img/ORCID-iD_icon_vector.svg" alt="ORCID logo"/></a> <a href="https://ror.org/02twcfp32"><img src="/img/ror-icon-rbg-24.png" alt="ROR logo"/></a>, 
+Maria Gould <a href="https://orcid.org/0000-0002-4325-1809"><img src="/img/ORCID-iD_icon_vector.svg" alt="ORCID logo"/></a> <a href="https://ror.org/02twcfp32"><img src="/img/ror-icon-rbg-24.png" alt="ROR logo"/></a>, Liz Krznarich <a href="https://orcid.org/0000-0002-4325-1809"><img src="/img/ORCID-iD_icon_vector.svg" alt="ORCID logo"/></a> <a href="https://ror.org/02twcfp32"><img src="/img/ror-icon-rbg-24.png" alt="ROR logo"/></a>, and Riley Marsh <a href="https://orcid.org/0000-0002-4325-1809"><img src="/img/ORCID-iD_icon_vector.svg" alt="ORCID logo"/></a> <a href="https://ror.org/02twcfp32"><img src="/img/ror-icon-rbg-24.png" alt="ROR logo"/></a>
+
+| {{ .Date.Format "January 2, 2006" }}
+
+</p>
+
+-->
