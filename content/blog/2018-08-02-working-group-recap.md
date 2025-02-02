@@ -8,7 +8,7 @@ archives = ["2018"]
 style = "card-plain"
 banner = "/img/banners/city-ban.jpg"
 thumb = "/img/banners/city-square.jpg"
-author = "John Chodacki"
+authors = ["John Chodacki"]
 description = "An update on the progress of the Org ID initiative led by California Digital Library, Crossref, DataCite, and ORCID."
 +++
 

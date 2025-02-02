@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/aps/aps-logo.png" 
 images = ['/img/blog/aps/aps-logo.png']
-author = "American Physical Society" 
+authors = ["American Physical Society"] 
 description = "The American Physical Society (APS) has become the largest society publisher to adopt Research Organization Registry Identifiers. Institutional metadata in the Physical Review journals are now easier to find, track, and reference — a move that strengthens open science and research transparency."
 +++ 
 

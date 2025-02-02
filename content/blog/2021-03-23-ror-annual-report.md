@@ -8,7 +8,7 @@ archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-bw-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ROR is a specific type of identifier and a specific type of initiative that does not always fit neatly into pre-defined notions and categories. The registry’s focus on providing an open, noncommercial, and community-driven solution to the problem of identifying research organization affiliations sets it apart from similar types of organization identifiers. The collaborative nature of ROR’s approach also sets it apart from other types of identifier providers and infrastructure organizations.

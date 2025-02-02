@@ -8,7 +8,7 @@ archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-thick.png"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ROR [launched a fundraising campaign in October](https://ror.org/blog/2019-10-16-help-sustain-ror/) to call on community stakeholders to pitch in toward supporting ROR’s long-term sustainability. While the overall goal of this campaign is to raise $175,000 from community supporters over the next two years, we set an initial target of $75,000 by the end of 2019. In our fourth full week of the campaign, we are excited to announce that we have so far raised $13,500 in contributions from six different supporting organizations. We are grateful to these early supporters for getting us started off on the right foot!

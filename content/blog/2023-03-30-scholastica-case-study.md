@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg"
 images = ['https://scholasticahq.com/app/presskit/scholastica_logo_files/vertical-vector.svg']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "Scholastica has incorporated ROR IDs into its Peer Review System, Production Service, and Open Access Publishing Platform. In this interview with Cory Schires, Scholastica co-founder and CTO, we discuss the two phases of ROR implementation, the pros and cons of displaying ROR IDs, what makes sense about ROR's level of granularity, and the importance of reliable APIs."
 +++
 

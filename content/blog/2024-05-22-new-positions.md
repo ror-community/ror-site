@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg"
 images = ['/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg']
-author = "ROR Leadership Team"
+authors = ["ROR Leadership Team"]
 description = "ROR Curation Lead Adam Buttrick is staying at ROR but moving from Crossref to CDL, which means there's a new position to fill at Crossref. Read more about the Metadata Manager position and consider applying yourself!"
 +++
 

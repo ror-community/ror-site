@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/use-case-funders/ror-for-funders.png" 
 images = ['/img/blog/use-case-funders/ror-for-funders.png']
-author = "Amanda French" 
+authors = ["Amanda French"] 
 description = "Several widely used scholarly systems are using ROR IDs to identify and disambiguate funders. In this post, we’ll give you a glimpse of how and why these systems use ROR IDs for funder identifiers."
 +++ 
 
