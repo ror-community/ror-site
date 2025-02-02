@@ -1,16 +1,22 @@
-<p class="author">
+{{ if .Params.authors }}
+{{ range $index, $author := .Params.authors }}
+<p class="author">{{ $author }}
 
-	{{ if .Params.authors }}
-	
-	{{ $authors := .Params.authors }}
-	
-	By {{ delimit $authors ", " " and " }}
-	
-    {{ else if .Params.author }}
-     By {{ .Params.author }}
-          
-    {{ else }}
-     By {{ .Site.Author.name }}
-	{{ end }}
-	| {{ .Date.Format "January 2, 2006" }}
-</p>
+<p>
+{{ end }}
+{{ end }}
+
+
+{{ $data := .Site.Data.authors.authors }}
+
+{{ range where $data "fullname" "Amanda French" }}
+<p class="author">{{ .fullname }}<p>
+
+    <ul>
+      <li>{{ .orcid }}</li> 
+      <li>{{ .affiliation }}</li>
+      <li>{{ .ror }}</li>    
+  </ul>
+
+{{ end }}
+

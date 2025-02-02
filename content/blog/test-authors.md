@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
-authors = ["Amanda French", "Maria Gould"]
+authors = ["Amanda French", "Maria Gould"] 
 description = "Hi there"
 +++ 
 
