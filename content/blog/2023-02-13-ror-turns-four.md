@@ -8,7 +8,7 @@ archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-crew-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 Four years ago, ROR was first [introduced to the world](/blog/2019-02-10-announcing-first-ror-prototype) at an open community meeting the day before PIDapalooza. 

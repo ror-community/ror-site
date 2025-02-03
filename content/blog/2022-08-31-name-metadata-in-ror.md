@@ -8,7 +8,7 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-statue-sq.jpg"
-author = "Adam Buttrick and Maria Gould"
+authors = [ "Adam Buttrick", "Maria Gould" ] 
 +++
 
 The ROR registry includes unique IDs and associated metadata records for 100,000+ research organizations. Each one of these organizations has at least one name. Some of them have multiple names (one even has 15)! Organization names in ROR appear in 120 different languages and counting.

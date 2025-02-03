@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/openalex/OpenAlex-logo.png"
 images = ['img/blog/openalex/OpenAlex-logo.png']
-author = "Amanda French, Adam Buttrick"
+authors = ["Amanda French", "Adam Buttrick"]
 description = "Justin Barrett, Lead Machine Learning Engineer for OpenAlex at OurResearch, talks with ROR Technical Community Manager Amanda French and ROR Curation Lead Adam Buttrick about using ROR in OpenAlex both as an identifier for institutions and as a dataset for training machine learning models."
 +++
 

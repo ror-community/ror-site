@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/funder-overlap/overlap-blank-charts.png"
 images = ['/img/blog/funder-overlap/overlap-blank-charts.png']
-author = "Amanda French, Adam Buttrick"
+authors = ["Amanda French", "Adam Buttrick"]
 description = "ROR is ready to take on the important work that the Open Funder Registry has been doing: identifying research funders in a clean, consistent, comprehensive, and interoperable way. This post compares both registries and provides data showing that most of the Open Funder Registry records that see the most use already have equivalent records in ROR."
 +++
 

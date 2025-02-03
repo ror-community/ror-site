@@ -1,0 +1,17 @@
+<p class="author">
+
+	{{ if .Params.authors }}
+	
+	{{ $authors := .Params.authors }}
+	
+	By {{ delimit $authors ", " " and " }}
+	
+    {{ else if .Params.author }}
+     By {{ .Params.author }}
+          
+    {{ else }}
+     By {{ .Site.Params.author.name }}
+	{{ end }}
+</p>
+
+<p class="date-comments">{{ .Date.Format "January 2, 2006" }}</p>

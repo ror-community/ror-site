@@ -8,7 +8,7 @@ archives = ["2018"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lions-square.jpg"
-author = "California Digital Library, DataCite, Crossref, and Digital Science"
+authors = [ "California Digital Library", "DataCite", "Crossref", "Digital Science" ]
 +++
 
 Earlier this year, the Org ID Working Group [wrapped up](/blog/2018-08-02-working-group-recap) their work. There was a lot of talk about governance, with options discussed for creating an entirely new independent organization; and/or having a looser group of stakeholders. After several months of discussion following the January stakeholder meeting in Girona, Spain, there was still no easy answer to the governance question. It's especially tough when getting down to details like timelines, hosting, staffing, and of course, funding. Our organizations each had to question whether we are truly capable of taking a leading role and really commit, having the will and agility to implement the outcomes of the Working Group.

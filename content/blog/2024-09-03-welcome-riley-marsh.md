@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/lion-closeup-1200.jpg" 
 images = ['/img/lion-closeup-1200.jpg']
-author = "Maria Gould" 
+authors = ["Maria Gould"] 
 description = "We are thrilled to introduce a new member of the ROR pride: Riley Marsh joined the ROR team in August as our new Metadata Manager."
 +++ 
 

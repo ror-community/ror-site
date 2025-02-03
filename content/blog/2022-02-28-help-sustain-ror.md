@@ -8,7 +8,7 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-silhouette-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ## **ROR begins a new round of community fundraising**

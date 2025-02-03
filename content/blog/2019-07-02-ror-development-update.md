@@ -8,7 +8,7 @@ archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/building-banner.jpg"
 thumb = "/img/banners/building-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ROR is an open registry for every research organization in the world, aiming to solve the problem of identifying which organizations are affiliated with which research outputs. [When the ROR MVR (minimum viable registry) launched in January](https://ror.org/blog/2019-02-10-announcing-first-ror-prototype/), the registry included records for 91,000+ organizations, each with a unique ROR ID.

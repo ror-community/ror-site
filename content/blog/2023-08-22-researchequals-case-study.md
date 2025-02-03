@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/researchequals/libscie-logomark-300-square.png"
 images = ['/img/blog/researchequals/libscie-logomark-1200-rectangle.png']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "Chris Hartgerink, the founder of Liberate Science, discusses why and how they integrated ROR into the modular publishing platform ResearchEquals for author affiliations in user profiles and Crossref DOIs and explains why they live streamed all eight hours of the work."
 +++
 

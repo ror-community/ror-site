@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/recap2023/circular_arrow-teal_02.png"
 images = ['/img/blog/recap2023/circular_arrow-teal_02.png']
-author = "Maria Gould"
+authors = ["Maria Gould"]
 description = "As we near the end of 2023, we are taking a moment to reflect on what has been another significant year for ROR."
 +++
 

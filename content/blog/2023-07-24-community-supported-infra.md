@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-ball-statue-sq.jpg"
 images = ['/img/lion-ball-statue-sq.jpg']
-author = "Maria Gould"
+authors = ["Maria Gould"]
 description = ""
 +++
 
