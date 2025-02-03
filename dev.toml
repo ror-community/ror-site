@@ -13,20 +13,42 @@ enableRobotsTXT = true
 	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research organizations. ROR aims to provide a persistent identifier (PID) for every research organization in the world, just as ORCID provides persistent identifiers for researchers and DOIs provide persistent identifiers for research outputs. All ROR data is open on the web and public domain via CC0, and the ROR dataset and API are free to use.'
 	title = 'Research Organization Registry (ROR)'
   	images = ['/img/ror-logo-800.png']
+  	dateFormatAtomFeed = "2006-01-02T15:04:05-07:00"
+	dateFormatTag = "2006"
+	feedUUID = "https://ror.org"
+	icon = "/img/favicon.ico"
+	logo = "/img/ror-logo-800.png"
+	mainSections = ["blog"]
 
 [params.author]  	
   	email = 'support@ror.org'
   	name = 'Research Organization Registry (ROR)'
+  
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]
 
+[outputs]
+  home = ["ATOM", "RSS", "HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[outputFormats]
+  [outputFormats.ATOM]
+    mediaType = "application/atom+xml"
+    baseName  = "feed"    	
+  	  	
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-
+      
 [markup.tableOfContents]
     endLevel = 2
     ordered = false
-    startLevel = 2       
+    startLevel = 2        
 
 [params.widgets]
     search = true
@@ -47,7 +69,7 @@ enableRobotsTXT = true
     enable = true
 
 [params.announcement]
-    enable = true   
+    enable = true 
 
 [params.homepage_features]
     enable = true
@@ -64,7 +86,7 @@ enableRobotsTXT = true
 
 [taxonomies]
   category = 'categories'
-  tag = 'tags'	
+  tag = 'tags'
   archive = 'archives'
   authors = 'authors'
-	
+  
