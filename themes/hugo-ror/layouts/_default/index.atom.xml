@@ -52,7 +52,7 @@
 	{{ end }}
 
     <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
-      {{ printf "<![CDATA[%s]]>" .Content | transform.XMLEscape | safeHTML }}
+      {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
     </content>
     <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
     {{ if .Description }} {{ .Description | plainify }} {{ else }} {{ .Summary | plainify }} {{ end }}
