@@ -5,8 +5,8 @@
   {{- end -}}
 {{- end -}}
 {{ print "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
-<feed xmlns="http://www.w3.org/2005/Atom" xmlns:webfeeds="http://webfeeds.org/rss/1.0">
-  <title>{{ .Site.Title }}</title>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>{{ .Site.Title }}</title>
   {{ with .Site.Params.Description }}<subtitle>{{ .  }}</subtitle>{{ end }}
   {{ with .Site.Params.Author.name }}
   <author>
@@ -21,8 +21,6 @@
   {{ range .AlternativeOutputFormats }}
   {{ printf `<link rel="alternate" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.LanguageCode | safeHTML }}
   {{ end }}
-  {{ with .Site.LanguageCode }} 
-  <language>{{.}}</language>{{end}}
   <generator uri="https://gohugo.io">Hugo {{ .Site.Hugo.Version }}</generator>  
   {{ with .Site.Params.icon }}<icon>{{ . | absURL }}</icon>{{ end }}
   {{ with .Site.Params.logo }}<logo>{{ . | absURL }}</logo>{{ end }}
@@ -30,8 +28,8 @@
   <updated>{{ now.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</updated>
   {{ with .Site.Params.icon96 }}<webfeeds:icon>{{ . | absURL }}</webfeeds:icon>{{ end }}
   {{ range $pages }}
-  <entry>
-    <title>{{ .Title }}</title>    
+  <entry {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    <title {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>{{ .Title }}</title>    
     <link rel="alternate" href="{{ .Permalink }}"/>
     <id>{{ .Permalink }}</id>
     <published>{{ .Date.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</published>
@@ -53,11 +51,11 @@
 	</author>	
 	{{ end }}
 
-    <content type="html" xml:base="{{ .Site.BaseURL }}" xml:lang="en">
+    <content type="xhtml" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
       {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
     </content>
-    <summary type="text/html" xml:base="{{ .Site.BaseURL }}" xml:lang="en">
-    {{ if .Description }} {{ .Description | html }} {{ else }} {{ .Summary | html }} {{ end }}
+    <summary type="text" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    {{ if .Description }} {{ .Description | plainify }} {{ else }} {{ .Summary | plainify }} {{ end }}
     </summary>
   </entry>
   {{ end }}
