@@ -8,7 +8,7 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/city-ban.jpg"
 thumb = "/img/fireworks-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ## **The ROR registry has grown!**

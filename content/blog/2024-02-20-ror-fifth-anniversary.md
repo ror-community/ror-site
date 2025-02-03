@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/recap2024/maria-roring.png"
 images = ['img/blog/recap2024/maria-roring.png']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "The ROR Community turned out in force for our 2024 annual community meeting. Here are the highlights from ROR's fifth anniversary celebration, a community showcase of ROR users, and a panel on the importance of funding metadata."
 +++
 

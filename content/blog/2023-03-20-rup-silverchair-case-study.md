@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/rup/rup-silverchair-logos-sq.png" 
 images = ['/img/blog/rup/rup-silverchair-logos.png']
-author = "Amanda French" 
+authors = ["Amanda French"] 
 description = "Rockefeller University Press has incorporated ROR into many aspects of their workflow, and their platform provider Silverchair was there to help. This case study is based on the presentation about this integration given at the December 2022 ROR Community Call."
 +++ 
 

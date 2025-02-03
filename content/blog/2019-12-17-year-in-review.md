@@ -8,7 +8,7 @@ archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 *Flashback to one year ago, December 2018*:

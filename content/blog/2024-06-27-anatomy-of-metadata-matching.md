@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/matching-anatomy/yellow-matching-figure-02.png"
 images = ['/img/blog/matching-anatomy/yellow-matching-figure-02.png']
-author = "Dominika Tkaczyk and Adam Buttrick"
+authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "The second blog post about metadata matching by ROR's Adam Buttrick and Crossref's Dominika Tkaczyk describes some basic matching-related terminology and the components of a matching process, then poses some typical product questions to consider when developing or integrating matching solutions."
 +++
 

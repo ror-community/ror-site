@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/datasalon/datasalon-logo-image.png"
 images = ['/img/blog/datasalon/datasalon-logo-image.png']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "In January of 2022, DataSalon announced a full integration of ROR into its scholarly publishing analytics products MasterVision and PaperStack. DataSalon's Client Services Director Andy Dobson sat down with us to tell us all about how they draw on fifteen years of data experience to match organizational affiliations in publisher data to ROR IDs."
 +++
 

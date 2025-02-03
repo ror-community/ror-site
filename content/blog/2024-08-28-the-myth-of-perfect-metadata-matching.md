@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/matching-perfect/false-positives-negatives.png" 
 images = ['/img/blog/matching-perfect/false-positives-negatives.png']
-author = "Dominika Tkaczyk and Adam Buttrick" 
+authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this post, we discuss a few common myths about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders."
 +++ 
 

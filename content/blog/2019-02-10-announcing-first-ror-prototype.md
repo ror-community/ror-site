@@ -8,7 +8,7 @@ archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/pride-of-lions-us.jpg"
 thumb = "/img/banners/pride-of-lions-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 What has hundreds of heads, 91,000 affiliations, and roars like a lion? If you guessed the Research Organization Registry community, you'd be absolutely right!

@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "https://assets.crossref.org/logo/crossref-logo-200.svg"
 images = ['/img/crossref-social.png']
-author = "Amanda French, Ginny Hendricks, Rachael Lammey, Fabienne Michaud, Maria Gould"
+authors = ["Amanda French", "Ginny Hendricks", "Rachael Lammey", "Fabienne Michaud", "Maria Gould"]
 description = "Crossref has announced a long-term plan to deprecate the Open Funder Registry and merge it with ROR in order to make workflows more efficient for all concerned. ROR and Crossref are working closely together on this important initiative."
 aliases =  [ '/blog/2023-09-07-open-funder-registry-transition-ror-cross-post/' ]
 +++

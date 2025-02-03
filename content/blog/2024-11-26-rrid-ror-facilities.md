@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/rrid-ror/iconmonstr-flask-9-240.png" 
 images = ['/img/blog/rrid-ror/iconmonstr-flask-9-240.png']
-author = "Anita Bandrowski (RRID) and Amanda French (ROR)" 
+authors = ["Anita Bandrowski", "Amanda French"] 
 description = "This blog post explores the difference between 'core facilities' in RRID and 'facilities' in ROR and provides guidance for those who run facilities on how to effectively use these identifiers."
 aliases = [ "/blog/2024-11-27-rrid-ror-facilities" ]
 +++ 

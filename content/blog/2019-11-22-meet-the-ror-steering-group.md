@@ -8,7 +8,7 @@ archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/icon-compass.png"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ROR is thrilled to announce that we are welcoming new members to the [ROR Steering Group](https://ror.org/about/#steering-group). The group now consists of the following members:

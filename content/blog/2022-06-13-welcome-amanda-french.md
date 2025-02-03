@@ -8,7 +8,7 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/amanda.jpeg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 We are thrilled to introduce a new member of the ROR pride: [Amanda French](https://amandafrench.net) has joined ROR as our full-time Technical Community Manager.
