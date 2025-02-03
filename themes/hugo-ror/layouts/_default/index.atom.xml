@@ -7,7 +7,7 @@
 {{ print "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>{{ .Site.Title }}</title>
-  {{ with .Site.Params.Description }}<subtitle>{{ .  }}</subtitle>{{ end }}
+  {{ with .Site.Params.Description }}<subtitle xml:lang="en-us">{{ . }}</subtitle>{{ end }}
   {{ with .Site.Params.Author.name }}
   <author>
     <name>{{ . }}</name>
@@ -51,10 +51,10 @@
 	</author>	
 	{{ end }}
 
-    <content type="xhtml" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
-      {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
+    <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+      {{ printf "<![CDATA[%s]]>" .Content | transform.XMLEscape | safeHTML }}
     </content>
-    <summary type="text" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
     {{ if .Description }} {{ .Description | plainify }} {{ else }} {{ .Summary | plainify }} {{ end }}
     </summary>
   </entry>
