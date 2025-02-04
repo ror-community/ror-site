@@ -34,27 +34,16 @@
     <id>{{ .Permalink }}</id>
     <published>{{ .Date.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</published>
     <updated>{{ .Lastmod.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</updated>
-    
-	{{ if isset .Params "authors" }}
-	{{ range $author := .Params.authors }}
-	<author>
-		<name>{{ $author }}</name>
-	</author>
-	{{ end }}
-    {{ else if .Params.author }}
-	<author>
-		<name>{{ .Params.author }}</name>
-	</author>         
-    {{ else }}
-	<author>
-		<name>{{ .Site.Params.Author.name }}</name>
-	</author>	
-	{{ end }}
-
-    <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+{{- range .GetTerms "authors" }}
+        <author>
+          <name>{{ .Page.Title }}</name>
+          {{ with .Page.Params.orcid }}<uri>{{ . }}</uri>{{ end }}
+        </author>
+      {{- end }}
+    <content type="xhtml" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
       {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
     </content>
-    <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    <summary type="xhtml" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
     {{ if .Description }} {{ .Description | plainify }} {{ else }} {{ .Summary | plainify }} {{ end }}
     </summary>
   </entry>
