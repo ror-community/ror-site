@@ -40,10 +40,10 @@
           {{ with .Page.Params.orcid }}<uri>{{ . }}</uri>{{ end }}
         </author>
       {{- end }}
-    <content type="xhtml" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
       {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
     </content>
-    <summary type="xhtml" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
     {{ if .Description }} {{ .Description | plainify }} {{ else }} {{ .Summary | plainify }} {{ end }}
     </summary>
   </entry>
