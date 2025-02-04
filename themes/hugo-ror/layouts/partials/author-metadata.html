@@ -1,17 +1,10 @@
-<p class="author">
+{{- range .GetTerms "authors" }} 
 
-	{{ if .Params.authors }}
-	
-	{{ $authors := .Params.authors }}
-	
-	By {{ delimit $authors ", " " and " }}
-	
-    {{ else if .Params.author }}
-     By {{ .Params.author }}
-          
-    {{ else }}
-     By {{ .Site.Params.author.name }}
-	{{ end }}
-	
-	| {{ .Date.Format "January 2, 2006" }}
-</p>
+<ul class="blogauthors">
+  <li class="blogauthor">{{ .Page.Title }}
+  {{ with .Page.Params.orcid }} <a href="{{ . }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }}
+  {{ with .Page.Params.ror }} <a href="{{ . }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }}
+  </li>
+</ul>         
+
+{{- end }}
