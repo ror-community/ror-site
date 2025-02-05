@@ -7146,3 +7146,37 @@ margin-bottom: 1em;
   	border: 1px solid gray;
 }
 
+/* blog authors with metadata on single posts */
+
+.blogauthors {
+    list-style: none;
+    margin: 0; 
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.blogauthor {
+    margin: 0 0.3rem 0 0;
+    font-family:AH-Bold;
+    line-height: 1.75em;
+}
+
+.blogauthor:nth-of-type(n + 2):not(:last-child) {
+  &::before {
+    content: ", ";
+  }
+}
+
+.blogauthor:last-child {
+  &::before {
+    content: " and ";
+  }
+}
+
+.blogauthor:first-child {
+  &::before {
+    content: "By ";
+  }
+}
+

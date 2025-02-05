@@ -1,10 +1,15 @@
-{{- range .GetTerms "authors" }} 
-
 <ul class="blogauthors">
-  <li class="blogauthor">{{ .Page.Title }}
+{{ range .GetTerms "authors" }} 
+  <li class="blogauthor"><a href="/authors/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a>
   {{ with .Page.Params.orcid }} <a href="{{ . }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }}
   {{ with .Page.Params.ror }} <a href="{{ . }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }}
-  </li>
-</ul>         
+  {{ with .Page.Params.link }} <a href="{{ . }}"><img src=""></a>{{ end }}
+  </li> 
 
-{{- end }}
+{{ end }}
+
+</ul>
+
+<span class="single-date">{{ .Date.Format "January 2, 2006" }}</span>
+
+<hr />

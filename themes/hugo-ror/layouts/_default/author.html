@@ -16,8 +16,10 @@
 
         <div class="section container">
           <div class="row">
-            <div class="col-md-12">           
-            <section>
+            <div class="col-md-9">
+
+
+             <section>
                        <p>Hi I'm the author template</p>
                        
                        <h2>{{ .Title }}</h2>
@@ -33,15 +35,48 @@
                        
 
 		  {{ .Content }}
-		  {{ range .Data.Terms.ByCount }}
-			<h3><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</h3>
-			<ul>
-			  {{ range .WeightedPages }}
-				<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-			  {{ end }}
-			</ul>
-		  {{ end }}
+		  
+
 			</section>
+                            
+<section>             
+                    		 
+                    		 
+            <h2>{{ .Title }}'s posts</h2>
+
+            
+              {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
+              {{ range $paginator.Pages }}
+              
+
+
+                <section class="post">
+                  <div class="row">
+                      <div class="col-md-12">
+<h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
+{{ partial "authors-date.html" . }}
+                        </div>
+                    </div>
+                </section>
+              {{ end }}
+              
+              
+              {{ partial "pagination.html" . }}
+              
+                            
+            </section>
+
+ 
+                            
+            </div>
+
+            <div class="col-md-3">
+
+              <!-- *** MENUS AND WIDGETS *** -->
+
+              {{ partial "sidebar.html" . }}
+
+              <!-- *** MENUS AND FILTERS END *** -->
 
             </div>
           </div>
