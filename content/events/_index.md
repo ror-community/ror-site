@@ -53,7 +53,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Location: Online
 - Recorded: Yes
 - Description: Governments are increasingly realizing the need for clean and consistent metadata for scholarly publications so that their nation's research can be better tracked and analyzed. In this session, we'll hear about efforts in several different countries to make persistent identifiers such as ROR a key part of national research strategy and national research tracking. 
-	- **Rachel Kotarski of the [University of Chicago Libraries](https://www.lib.uchicago.edu/)** will compare PID policies in the UK with the forthcoming initiative to develop a [US National PID Strategy](https://niso.org/press-releases/niso-approves-working-group-develop-us-national-pid-strategy).
+	- **Rachael Kotarski of the [University of Chicago Libraries](https://www.lib.uchicago.edu/)** will compare PID policies in the UK with the forthcoming initiative to develop a [US National PID Strategy](https://niso.org/press-releases/niso-approves-working-group-develop-us-national-pid-strategy).
 	- **Michal Nekorjak and Taras Hrendaš with the [Office of the Government of the Czech Republic](https://vlada.gov.cz/en/urad-vlady/)** will explain their work to collect and analyze data about Czechoslovakian research. 
 	- **Steffi Genderjahn of the [Helmholtz Open Science Office](https://os.helmholtz.de/)** will report on the activities of [PID Network Deutschland](https://www.pid-network.de/en/). 
 	- **Washington Segundo of [IBICT](https://www.gov.br/ibict/pt-br)** will demonstrate and discuss the national CRIS system of Brazil, [BrCRIS](https://brcris.ibict.br/).
