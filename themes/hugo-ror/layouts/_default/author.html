@@ -19,18 +19,20 @@
             <div class="col-md-9">
 
 
-             <section>
-                       <p>Hi I'm the author template</p>
-                       
+             <section>                       
                        <h2>{{ .Title }}</h2>
                        
                        {{ if .Params.orcid }}
-                       <p>ORCID: {{ .Params.orcid }}</p>
+                       <p>ORCID: <a href="{{ .Params.orcid }}">{{ .Params.orcid }}</a></p>
                        {{ end }}
                        
                         {{ if .Params.affiliation }}
                        <p>Affiliation: {{ .Params.affiliation }}{{ if .Params.ror }} - 
                        {{ .Params.ror }}{{ end }}</p>
+                       {{ end }}
+                       
+                       {{ if .Params.link }}
+                       <p>Link: <a href="{{ .Params.link }}">{{ .Title }}</a></p>
                        {{ end }}
                        
 
@@ -42,27 +44,24 @@
 <section>             
                     		 
                     		 
-            <h3>{{ .Title }}'s posts</h3>
+<hr />
 
+              <h3>{{ .Title }}'s posts</h3>
             
-              {{ $paginator := .Paginate (where .Data.Pages "Type" "blog") }}
-              {{ range $paginator.Pages }}
-              
-
+              {{ $authorposts := where .Data.Pages "Type" "blog" }}
+              {{ range $authorposts }}          
 
                 <section class="post">
                   <div class="row">
                       <div class="col-md-12">
-<h4><a href="{{ .Permalink }}">{{ .Title }}</a></h4>
-{{ partial "authors-date.html" . }}
+                      <ul>
+                      <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "Jan 02, 2006" }}</li>
+                      </ul>
+
                         </div>
                     </div>
                 </section>
-              {{ end }}
-              
-              
-              {{ partial "pagination.html" . }}
-              
+              {{ end }}              
                             
             </section>
 
