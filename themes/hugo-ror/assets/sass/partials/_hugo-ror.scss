@@ -7155,47 +7155,31 @@ margin-bottom: 1em;
 /* blog authors with metadata on single posts */ 
 
 .blogauthors {
-    list-style: none;
-    margin: 0; 
-    padding: 0;
-    display: flex;
+    display: inline;
     flex-wrap: wrap;
     float: left; 
-}
-
-.blogauthor {
-    margin: 0 0.3rem 0 0;
+    max-width: 75%; 
     font-family:AH-Bold;
     line-height: 1.75em;
+    padding: 0;
+    margin: 0;
 }
 
-.blogauthor:nth-of-type(n + 2):not(:last-child) {
-  &::before {
-    content: ", ";
-  }
-}
-
-.blogauthor:last-child {
-  &::before {
-    content: " and ";
-  }
-}
-
-.blogauthor:first-child {
-  &::before {
-    content: "By ";
-  }
+.iconlink:hover { 
+	opacity: 70%;
+	text-decoration:none;
 }
 
 .blogdate { 
-display: inline; 
-float: right;
-font-family:AH-Bold;
+	display: inline; 
+	float: right;
+	font-family:AH-Bold;
 }
 
-.fa-link {
-color: grey;
+.fa-arrow-up-right-from-square {
+	color: grey;
 }
+
 
 /* author page */
 

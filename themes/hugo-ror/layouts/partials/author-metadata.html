@@ -1,35 +1,36 @@
 <div class="clearfix">
 
-{{ $blogdate := time.AsTime .Date }}
+{{- $blogdate := time.AsTime .Date }}
 
-<ul class="blogauthors">
-{{ range .GetTerms "authors" }} 
+<span class="blogauthors">
+By 
+{{- range $index, $author := .GetTerms "authors" }}
+{{- if gt $index 0 }}, {{- end }} 
 
-  <li class="blogauthor"><a href="/authors/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a>
+  <a href="/authors/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a>
 
-{{ with .Page.Params.orcid }} <a href="{{ . }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }}
+{{- with .Page.Params.orcid }}<a href="{{ . }}" class="iconlink"> <img src="/img/ORCID-iD_icon_vector.svg"></a>{{- end }}
   
-{{ if .Page.Params.affiliation2start }}
-	{{ $affdate := time.AsTime .Page.Params.affiliation2start }}
-	{{ if $blogdate.After $affdate }} 
-			{{ with .Page.Params.ror2 }}<a href="{{ . }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }}
-	{{ else }} 
-	{{ if $blogdate.Before $affdate }}		
-			{{ with .Page.Params.ror }}<a href="{{ . }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }}
-	{{ end }}
-	{{ end }}
+{{- if .Page.Params.affiliation2start }}
+	{{- $affdate := time.AsTime .Page.Params.affiliation2start }}
+	{{- if $blogdate.After $affdate }} 
+			{{- with .Page.Params.ror2 }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>{{- end }}
+	{{- else }} 
+	{{- if $blogdate.Before $affdate }}		
+			{{- with .Page.Params.ror }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>{{- end }}
+	{{- end }}
+	{{- end }}
 
-{{ else if .Page.Params.ror }}
-<a href="{{ .Page.Params.ror }}"><img src="/img/ror-icon-rgb.svg"></a>
-{{ end }}
+{{- else if .Page.Params.ror }}
+<a href="{{- .Page.Params.ror }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>
+{{- end }}
 
-{{ with .Page.Params.link }} <a href="{{ . }}"><i class="fa-solid fa-link"></i></a>{{ end }}
-  </li> 
+{{- with .Page.Params.link }}<a href="{{- . }}" class="iconlink"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>{{- end }}
 
-{{ end }}
+{{- end -}}
 
-</ul>
+</span>
 
-<span class="blogdate">{{ .Date.Format "January 2, 2006" }}</span>
+<span class="blogdate">{{- .Date.Format "January 2, 2006" }}</span>
 
 </div>

@@ -22,10 +22,10 @@
              <section>                       
                        <h2>{{ .Title }}</h2>
                        
-                       <p>{{ if .Params.orcid }}<a href="{{ .Params.orcid }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }} 
-                       {{ if .Params.affiliation2start }}<a href="{{ .Params.ror2 }}"><img src="/img/ror-icon-rgb.svg"></a>
-                       {{ else if .Params.ror }}<a href="{{ .Params.ror }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }} 
-                       {{ if .Params.link }}<a href="{{ .Params.link }}"><i class="fa-solid	fa-link"></i></a>{{ end }}</p>
+                       <p>{{ if .Params.orcid }}<a href="{{ .Params.orcid }}" class="iconlink"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }} 
+                       {{ if .Params.affiliation2start }}<a href="{{ .Params.ror2 }}" class="iconlink"><img src="/img/ror-icon-rgb.svg"></a>
+                       {{ else if .Params.ror }}<a href="{{ .Params.ror }}" class="iconlink"><img src="/img/ror-icon-rgb.svg"></a>{{ end }} 
+                       {{ if .Params.link }}<a href="{{ .Params.link }}" class="iconlink"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>{{ end }}</p>
                        
 		  {{ .Content }}
 		  
