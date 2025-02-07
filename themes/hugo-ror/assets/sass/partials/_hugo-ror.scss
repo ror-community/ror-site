@@ -7022,6 +7022,12 @@ font-size: 2.75rem;
 }
 }
 
+/* jumbotron */ 
+
+.jumbotron { 
+	padding: .75em 0 .75em 0;
+}
+
 
 /* header anchor links */
 
@@ -7146,7 +7152,7 @@ margin-bottom: 1em;
   	border: 1px solid gray;
 }
 
-/* blog authors with metadata on single posts */
+/* blog authors with metadata on single posts */ 
 
 .blogauthors {
     list-style: none;
@@ -7154,6 +7160,7 @@ margin-bottom: 1em;
     padding: 0;
     display: flex;
     flex-wrap: wrap;
+    float: left; 
 }
 
 .blogauthor {
@@ -7180,3 +7187,18 @@ margin-bottom: 1em;
   }
 }
 
+.blogdate { 
+display: inline; 
+float: right;
+font-family:AH-Bold;
+}
+
+.fa-link {
+color: grey;
+}
+
+/* author page */
+
+.medium-text { 
+font-size:medium; 
+} 

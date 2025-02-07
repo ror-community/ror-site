@@ -1,15 +1,31 @@
+<div class="clearfix">
+
+{{ $blogdate := time.AsTime .Date }}
+
 <ul class="blogauthors">
 {{ range .GetTerms "authors" }} 
+
   <li class="blogauthor"><a href="/authors/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a>
-  {{ with .Page.Params.orcid }} <a href="{{ . }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }}
-  {{ with .Page.Params.ror }} <a href="{{ . }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }}
-  {{ with .Page.Params.link }} <a href="{{ . }}"><img src=""></a>{{ end }}
+
+{{ with .Page.Params.orcid }} <a href="{{ . }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }}
+  
+{{ if .Page.Params.affiliation2start }}
+	{{ $affdate := time.AsTime .Page.Params.affiliation2start }} 
+	{{ if $blogdate.After $affdate }} <a href="{{ .Page.Params.ror2 }}"><img src="/img/ror-icon-rgb.svg"></a>
+	{{ else if $blogdate.Before $affdate }} <a href="{{ .Page.Params.ror }}"><img src="/img/ror-icon-rgb.svg"></a>
+	{{ end }}
+
+{{ else if .Page.Params.ror }}
+<a href="{{ .Page.Params.ror }}"><img src="/img/ror-icon-rgb.svg"></a>
+{{ end }}
+
+{{ with .Page.Params.link }} <a href="{{ . }}"><i class="fa-solid fa-link"></i>{{ end }}
   </li> 
 
 {{ end }}
 
 </ul>
 
-<span class="single-date">{{ .Date.Format "January 2, 2006" }}</span>
+<span class="blogdate">{{ .Date.Format "January 2, 2006" }}</span>
 
-<hr />
+</div>

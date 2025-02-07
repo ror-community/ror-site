@@ -22,20 +22,11 @@
              <section>                       
                        <h2>{{ .Title }}</h2>
                        
-                       {{ if .Params.orcid }}
-                       <p>ORCID: <a href="{{ .Params.orcid }}">{{ .Params.orcid }}</a></p>
-                       {{ end }}
+                       <p>{{ if .Params.orcid }}<a href="{{ .Params.orcid }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }} 
+                       {{ if .Params.affiliation2start }}<a href="{{ .Params.ror2 }}"><img src="/img/ror-icon-rgb.svg"></a>
+                       {{ else if .Params.ror }}<a href="{{ .Params.ror }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }} 
+                       {{ if .Params.link }}<a href="{{ .Params.link }}"><i class="fa-solid	fa-link"></i></a>{{ end }}</p>
                        
-                        {{ if .Params.affiliation }}
-                       <p>Affiliation: {{ .Params.affiliation }}{{ if .Params.ror }} - 
-                       {{ .Params.ror }}{{ end }}</p>
-                       {{ end }}
-                       
-                       {{ if .Params.link }}
-                       <p>Link: <a href="{{ .Params.link }}">{{ .Title }}</a></p>
-                       {{ end }}
-                       
-
 		  {{ .Content }}
 		  
 
@@ -52,21 +43,23 @@
               {{ range $authorposts }}          
 
                 <section class="post">
-                  <div class="row">
+                  <div class="shortcode-row">
                       <div class="col-md-12">
-                      <ul>
-                      <li><a href="{{ .Permalink }}">{{ .Title }}</a> - {{ .Date.Format "Jan 02, 2006" }}</li>
-                      </ul>
-
-                        </div>
+                      <div class="medium-text">
+                      <div class="col-md-3">
+                      {{ .Date.Format "Jan 02, 2006" }}
+                      </div>
+                      <div class="col-md-9">
+                   <a href="{{ .Permalink }}">{{ .Title }}</a>
+                      </div>
+                      </div>
+                      </div>
                     </div>
                 </section>
               {{ end }}              
                             
             </section>
-
- 
-                            
+                                    
             </div>
 
             <div class="col-md-3">

@@ -2,9 +2,19 @@
 title = "Maria Gould" 
 draft = false
 layout = "author"
-orcid =  ""
-affiliation = "DataCite"
-ror = "https://ror.org/04wxnsj81"
-bio = "Hi there, I'm Maria Gould"
+orcid =  "https://orcid.org/0000-0002-2916-3423"
+affiliation = "California Digital Library"
+affiliation2 = "DataCite"
+affiliation2start = "2024-01-23"
+ror = "https://ror.org/03yrm5c26"
+ror2 = "https://ror.org/04wxnsj81"
+link = ""
+bio = ""
 avatar = ""
+jobtitle = ""
 +++ 
+
+
+Affiliation November 2018 - January 2024: California Digital Library
+
+Affiliation January 2024 - present: DataCite

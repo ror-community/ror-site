@@ -8,4 +8,5 @@ ror = ""
 link = "/about/#core-team"
 bio = ""
 avatar = ""
+jobtitle = ""
 +++ 
