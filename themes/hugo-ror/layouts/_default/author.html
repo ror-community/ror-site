@@ -16,32 +16,59 @@
 
         <div class="section container">
           <div class="row">
-            <div class="col-md-12">           
-            <section>
-                       <p>Hi I'm the author template</p>
-                       
+            <div class="col-md-9">
+
+
+             <section>                       
                        <h2>{{ .Title }}</h2>
                        
-                       {{ if .Params.orcid }}
-                       <p>ORCID: {{ .Params.orcid }}</p>
-                       {{ end }}
+                       <p>{{ if .Params.orcid }}<a href="{{ .Params.orcid }}" class="iconlink"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }} 
+                       {{ if .Params.affiliation2start }}<a href="{{ .Params.ror2 }}" class="iconlink"><img src="/img/ror-icon-rgb.svg"></a>
+                       {{ else if .Params.ror }}<a href="{{ .Params.ror }}" class="iconlink"><img src="/img/ror-icon-rgb.svg"></a>{{ end }} 
+                       {{ if .Params.link }}<a href="{{ .Params.link }}" class="iconlink"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>{{ end }}</p>
                        
-                        {{ if .Params.affiliation }}
-                       <p>Affiliation: {{ .Params.affiliation }}{{ if .Params.ror }} - 
-                       {{ .Params.ror }}{{ end }}</p>
-                       {{ end }}
-                       
-
 		  {{ .Content }}
-		  {{ range .Data.Terms.ByCount }}
-			<h3><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</h3>
-			<ul>
-			  {{ range .WeightedPages }}
-				<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-			  {{ end }}
-			</ul>
-		  {{ end }}
+		  
+
 			</section>
+                            
+<section>             
+                    		 
+                    		 
+<hr />
+
+              <h3>{{ .Title }}'s posts</h3>
+            
+              {{ $authorposts := where .Data.Pages "Type" "blog" }}
+              {{ range $authorposts }}          
+
+                <section class="post">
+                  <div class="shortcode-row">
+                      <div class="col-md-12">
+                      <div class="medium-text">
+                      <div class="col-md-3">
+                      {{ .Date.Format "Jan 02, 2006" }}
+                      </div>
+                      <div class="col-md-9">
+                   <a href="{{ .Permalink }}">{{ .Title }}</a>
+                      </div>
+                      </div>
+                      </div>
+                    </div>
+                </section>
+              {{ end }}              
+                            
+            </section>
+                                    
+            </div>
+
+            <div class="col-md-3">
+
+              <!-- *** MENUS AND WIDGETS *** -->
+
+              {{ partial "sidebar.html" . }}
+
+              <!-- *** MENUS AND FILTERS END *** -->
 
             </div>
           </div>

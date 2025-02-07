@@ -1,17 +1,36 @@
-<p class="author">
+<div class="clearfix">
 
-	{{ if .Params.authors }}
-	
-	{{ $authors := .Params.authors }}
-	
-	By {{ delimit $authors ", " " and " }}
-	
-    {{ else if .Params.author }}
-     By {{ .Params.author }}
-          
-    {{ else }}
-     By {{ .Site.Params.author.name }}
-	{{ end }}
-	
-	| {{ .Date.Format "January 2, 2006" }}
-</p>
+{{- $blogdate := time.AsTime .Date }}
+
+<span class="blogauthors">
+By 
+{{- range $index, $author := .GetTerms "authors" }}
+{{- if gt $index 0 }}, {{- end }} 
+
+  <a href="/authors/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a>
+
+{{- with .Page.Params.orcid }}<a href="{{ . }}" class="iconlink"> <img src="/img/ORCID-iD_icon_vector.svg"></a>{{- end }}
+  
+{{- if .Page.Params.affiliation2start }}
+	{{- $affdate := time.AsTime .Page.Params.affiliation2start }}
+	{{- if $blogdate.After $affdate }} 
+			{{- with .Page.Params.ror2 }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>{{- end }}
+	{{- else }} 
+	{{- if $blogdate.Before $affdate }}		
+			{{- with .Page.Params.ror }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>{{- end }}
+	{{- end }}
+	{{- end }}
+
+{{- else if .Page.Params.ror }}
+<a href="{{- .Page.Params.ror }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>
+{{- end }}
+
+{{- with .Page.Params.link }}<a href="{{- . }}" class="iconlink"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>{{- end }}
+
+{{- end -}}
+
+</span>
+
+<span class="blogdate">{{- .Date.Format "January 2, 2006" }}</span>
+
+</div>

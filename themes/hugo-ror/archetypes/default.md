@@ -1,5 +1,5 @@
 +++ 
-title = "{{replace .TranslationBaseName "-" " "}}" 
+title = "{{title (replace .TranslationBaseName "-" " ")}}" 
 date = "{{.Date}}"
 author = "Research Organization Registry (ROR)" 
 draft = false 
