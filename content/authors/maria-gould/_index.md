@@ -13,8 +13,3 @@ bio = ""
 avatar = ""
 jobtitle = ""
 +++ 
-
-
-Affiliation November 2018 - January 2024: California Digital Library
-
-Affiliation January 2024 - present: DataCite

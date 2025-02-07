@@ -37,7 +37,9 @@
 {{- range .GetTerms "authors" }}
         <author>
           <name>{{ .Page.Title }}</name>
-          {{ with .Page.Params.orcid }}<uri>{{ . }}</uri>{{ end }}
+          {{ if .Page.Params.orcid }}<uri>{{ .Page.Params.orcid }}</uri>
+          {{ else if .Page.Params.ror }}<uri>{{ .Page.Params.ror }}</uri>
+          {{ else if .Page.Params.link }}<uri>{{ .Page.Params.link }}</uri>{{ end }}
         </author>
       {{- end }}
     <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>

@@ -15,7 +15,3 @@ jobtitle = ""
 +++ 
 
 
-Affiliation January 2022 - May 2024: Crossref
-
-Affiliation May 2024 - present: California Digital Library 
-
