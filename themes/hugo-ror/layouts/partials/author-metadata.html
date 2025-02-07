@@ -10,9 +10,13 @@
 {{ with .Page.Params.orcid }} <a href="{{ . }}"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }}
   
 {{ if .Page.Params.affiliation2start }}
-	{{ $affdate := time.AsTime .Page.Params.affiliation2start }} 
-	{{ if $blogdate.After $affdate }} <a href="{{ .Page.Params.ror2 }}"><img src="/img/ror-icon-rgb.svg"></a>
-	{{ else if $blogdate.Before $affdate }} <a href="{{ .Page.Params.ror }}"><img src="/img/ror-icon-rgb.svg"></a>
+	{{ $affdate := time.AsTime .Page.Params.affiliation2start }}
+	{{ if $blogdate.After $affdate }} 
+			{{ with .Page.Params.ror2 }}<a href="{{ . }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }}
+	{{ else }} 
+	{{ if $blogdate.Before $affdate }}		
+			{{ with .Page.Params.ror }}<a href="{{ . }}"><img src="/img/ror-icon-rgb.svg"></a>{{ end }}
+	{{ end }}
 	{{ end }}
 
 {{ else if .Page.Params.ror }}
