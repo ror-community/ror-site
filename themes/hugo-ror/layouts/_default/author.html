@@ -29,7 +29,7 @@
                        <p>{{ .Params.rorname }}:{{end }}{{ if .Params.ror }} <a href="{{ .Params.ror }}" class="iconlink" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}
                        
                        {{ if .Params.link }}
-                       <p>{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" class="iconlink" aria-label="View link"><i class="fa-solid fa-arrow-up-right-from-square" alt="Link icon"></i> {{ .Params.link }}</a></p>{{ end }}
+                       <p>{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" class="iconlink" aria-label="View link"> {{ .Params.link }}</a></p>{{ end }}
                        
 		  {{ .Content }}
 		  
