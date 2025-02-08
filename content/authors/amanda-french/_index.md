@@ -8,5 +8,3 @@ rorname = "Crossref"
 ror = "https://ror.org/02twcfp32"
 link = ""
 +++ 
-
-
