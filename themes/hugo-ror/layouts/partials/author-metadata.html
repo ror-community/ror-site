@@ -9,23 +9,23 @@ By
 
   <a href="/authors/{{ .Page.Title | urlize }}">{{ .Page.Title }}</a>
 
-{{- with .Page.Params.orcid }}<a href="{{ . }}" class="iconlink"> <img src="/img/ORCID-iD_icon_vector.svg"></a>{{- end }}
+{{- with .Page.Params.orcid }}<a href="{{ . }}" class="iconlink"> <img src="/img/ORCID-iD_icon_vector.svg" alt="{{ . }}" title="{{ . }}" /></a>{{- end }}
   
 {{- if .Page.Params.affiliation2start }}
 	{{- $affdate := time.AsTime .Page.Params.affiliation2start }}
 	{{- if $blogdate.After $affdate }} 
-			{{- with .Page.Params.ror2 }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>{{- end }}
+			{{- with .Page.Params.ror2 }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg" alt="{{ . }}" title ="{{ . }}"/></a>{{- end }}
 	{{- else }} 
 	{{- if $blogdate.Before $affdate }}		
-			{{- with .Page.Params.ror }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>{{- end }}
+			{{- with .Page.Params.ror }}<a href="{{- . }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg" alt="{{ . }}" title="{{ . }}"/></a>{{- end }}
 	{{- end }}
 	{{- end }}
 
 {{- else if .Page.Params.ror }}
-<a href="{{- .Page.Params.ror }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"></a>
+<a href="{{- .Page.Params.ror }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"  alt="{{ . }}" title="{{ . }}" /></a>
 {{- end }}
 
-{{- with .Page.Params.link }}<a href="{{- . }}" class="iconlink"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>{{- end }}
+{{- with .Page.Params.link }}<a href="{{- . }}" class="iconlink"> <i class="fa-solid fa-arrow-up-right-from-square" alt="{{ . }}" title="{{ . }}"></i></a>{{- end }}
 
 {{- end -}}
 

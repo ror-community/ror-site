@@ -22,10 +22,20 @@
              <section>                       
                        <h2>{{ .Title }}</h2>
                        
-                       <p>{{ if .Params.orcid }}<a href="{{ .Params.orcid }}" class="iconlink"><img src="/img/ORCID-iD_icon_vector.svg"></a>{{ end }} 
-                       {{ if .Params.affiliation2start }}<a href="{{ .Params.ror2 }}" class="iconlink"><img src="/img/ror-icon-rgb.svg"></a>
-                       {{ else if .Params.ror }}<a href="{{ .Params.ror }}" class="iconlink"><img src="/img/ror-icon-rgb.svg"></a>{{ end }} 
-                       {{ if .Params.link }}<a href="{{ .Params.link }}" class="iconlink"> <i class="fa-solid fa-arrow-up-right-from-square"></i></a>{{ end }}</p>
+                       {{ if .Params.orcid }}
+                       <p>ORCID: <a href="{{ .Params.orcid }}" class="iconlink"><img src="/img/ORCID-iD_icon_vector.svg"  alt="{{ . }}" title="{{ . }}" /> {{ .Params.orcid}}</a></p>{{ end }}
+                       
+                       {{ if .Params.rorname2 }}
+                       <p>{{ .Params.rorname2 }}:{{ end }}{{ if .Params.ror2 }} <a href="{{ .Params.ror2 }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"  alt="{{ . }}" title="{{ . }}" /> {{ .Params.ror2 }}</a>
+                       {{ if .Params.affiliation2start }}
+                       {{ $as := time.AsTime .Params.affiliation2start }}
+                        (from {{ time.Format "January 02, 2006" $as }}){{end}}</p>{{ end }}
+                       
+                       {{ if .Params.rorname }}
+                       <p>{{ .Params.rorname }}:{{end }}{{ if .Params.ror }} <a href="{{ .Params.ror }}" class="iconlink"><img src="/img/ror-icon-rgb.svg" alt="{{ . }}" title="{{ . }}" /> {{ .Params.ror }}</a></p>{{ end }}
+                       
+                       {{ if .Params.link }}
+                       <p>{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" class="iconlink"><i class="fa-solid fa-arrow-up-right-from-square" alt="{{ . }}" title="{{ . }}" ></i> {{ .Params.link }}</a></p>{{ end }}
                        
 		  {{ .Content }}
 		  
