@@ -23,10 +23,20 @@
                        <h2>{{ .Title }}</h2>
                        
                        {{ if .Params.orcid }}
-                       <p>ORCID: <a href="{{ .Params.orcid }}" class="iconlink" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" title="{{ . }}" /> {{ .Params.orcid}}</a></p>{{ end }}
+                       <p><a href="{{ .Params.orcid }}" class="iconlink" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" title="{{ . }}" /> {{ .Params.orcid}}</a></p>{{ end }}
                        
+                       {{ if eq .Params.type "person" }}                     
                        {{ if .Params.rorname }}
-                       <p>{{ .Params.rorname }}:{{end }}{{ if .Params.ror }} <a href="{{ .Params.ror }}" class="iconlink" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}
+                       <p>{{ .Title }} is affiliated with {{ .Params.rorname }}{{ end }}{{ if .Params.ror }}: <a href="{{ .Params.ror }}" class="iconlink" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}
+                      
+                      {{ else if eq .Params.type "organization" }}
+						{{ if .Params.rorname }}
+                       <p>The ROR ID for {{ .Params.rorname }} is {{ if .Params.ror }}<a href="{{ .Params.ror }}" class="iconlink" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}{{ end }}                    
+                      
+                      {{ else }}
+                      {{ if .Params.ror }}
+                       <p> <a href="{{ .Params.ror }}" class="iconlink" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}                       
+                       {{ end }}                                         
                        
                        {{ if .Params.link }}
                        <p>{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" class="iconlink" aria-label="View link"> {{ .Params.link }}</a></p>{{ end }}
