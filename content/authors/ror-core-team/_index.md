@@ -6,7 +6,4 @@ orcid =  ""
 rorname = ""
 ror = ""
 link = "https://ror.org/about/#core-team"
-bio = ""
-avatar = ""
-jobtitle = ""
 +++ 

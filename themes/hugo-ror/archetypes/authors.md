@@ -6,8 +6,5 @@ orcid =  ""
 rorname = ""
 ror = ""
 link = ""
-bio = ""
-avatar = ""
-jobtitle = ""
 +++ 
 

@@ -4,14 +4,8 @@ draft = false
 layout = "author"
 orcid =  "https://orcid.org/0000-0002-4325-1809"
 rorname = "Crossref"
-rorname2 = ""
-affiliation2start = ""
 ror = "https://ror.org/02twcfp32"
-ror2 = ""
 link = ""
-bio = ""
-avatar = ""
-jobtitle = ""
 +++ 
 
 
