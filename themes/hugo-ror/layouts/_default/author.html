@@ -23,19 +23,19 @@
                        <h2>{{ .Title }}</h2>
                        
                        {{ if .Params.orcid }}
-                       <p>ORCID: <a href="{{ .Params.orcid }}" class="iconlink"><img src="/img/ORCID-iD_icon_vector.svg"  alt="{{ . }}" title="{{ . }}" /> {{ .Params.orcid}}</a></p>{{ end }}
+                       <p>ORCID: <a href="{{ .Params.orcid }}" class="iconlink" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" title="{{ . }}" /> {{ .Params.orcid}}</a></p>{{ end }}
                        
                        {{ if .Params.rorname2 }}
-                       <p>{{ .Params.rorname2 }}:{{ end }}{{ if .Params.ror2 }} <a href="{{ .Params.ror2 }}" class="iconlink"> <img src="/img/ror-icon-rgb.svg"  alt="{{ . }}" title="{{ . }}" /> {{ .Params.ror2 }}</a>
+                       <p>{{ .Params.rorname2 }}:{{ end }}{{ if .Params.ror2 }} <a href="{{ .Params.ror2 }}" class="iconlink" aria-label="View ROR record"> <img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror2 }}</a>
                        {{ if .Params.affiliation2start }}
                        {{ $as := time.AsTime .Params.affiliation2start }}
                         (from {{ time.Format "January 02, 2006" $as }}){{end}}</p>{{ end }}
                        
                        {{ if .Params.rorname }}
-                       <p>{{ .Params.rorname }}:{{end }}{{ if .Params.ror }} <a href="{{ .Params.ror }}" class="iconlink"><img src="/img/ror-icon-rgb.svg" alt="{{ . }}" title="{{ . }}" /> {{ .Params.ror }}</a></p>{{ end }}
+                       <p>{{ .Params.rorname }}:{{end }}{{ if .Params.ror }} <a href="{{ .Params.ror }}" class="iconlink" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}
                        
                        {{ if .Params.link }}
-                       <p>{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" class="iconlink"><i class="fa-solid fa-arrow-up-right-from-square" alt="{{ . }}" title="{{ . }}" ></i> {{ .Params.link }}</a></p>{{ end }}
+                       <p>{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" class="iconlink" aria-label="View link"><i class="fa-solid fa-arrow-up-right-from-square" alt="Link icon"></i> {{ .Params.link }}</a></p>{{ end }}
                        
 		  {{ .Content }}
 		  
