@@ -28,7 +28,7 @@ reglink = ""
 
 - [Slides from event]()
 
-<iframe src=""></iframe>
+{{< iframe "XXX" >}}
 
 ---
 
