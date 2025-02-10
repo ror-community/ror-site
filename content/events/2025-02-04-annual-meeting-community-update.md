@@ -29,21 +29,19 @@ reglink = ""
 - Recorded: Yes
 - Description: In our annual Community Update, we reflect on what ROR accomplished in 2024, discuss what's ahead for ROR in 2025, and invite your thoughts on areas of future focus. Most importantly, we also be acknowledging ROR community contributors, without whom we’d never have come this far. 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vSZjzQ72i4W8yiPR0c-bdr-5LjU3cwsac4WoeId8wTr4MH50qkAXpXIGyax6TkWDNsbh4gbn01FOzRS/pub?start=false&loop=false&delayms=3000)
 
-<iframe src=""></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vSZjzQ72i4W8yiPR0c-bdr-5LjU3cwsac4WoeId8wTr4MH50qkAXpXIGyax6TkWDNsbh4gbn01FOzRS/embed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="Smluc94gTaE" >}}
 
 --- 
 
---> 
+
 

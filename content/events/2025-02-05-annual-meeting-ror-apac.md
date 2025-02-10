@@ -37,21 +37,18 @@ reglink = ""
 
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQNfYOCpuVg7PHENio2JJFbedMM1E8q5wPAkVGZTmDkEP8WUto8mcb3llXPgiXY2xT2q-irtX90D2bV/pub?start=false&loop=false&delayms=3000)
 
-<iframe src=""></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQNfYOCpuVg7PHENio2JJFbedMM1E8q5wPAkVGZTmDkEP8WUto8mcb3llXPgiXY2xT2q-irtX90D2bV/embed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="G6jefhDZ3tQ" >}}
 
 --- 
 
---> 
 

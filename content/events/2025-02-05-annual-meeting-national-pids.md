@@ -40,15 +40,15 @@ reglink = ""
 
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQUEfGm7g1guf70GhlKNpH4RjJPkG0_iSjHSflUjf6cjWYqqIaJqmRx-cbZN85xFXJ-5lcV9vF78IU4/pub?start=false&loop=false&delayms=3000)
 
-<iframe src=""></iframe>
+{{<iframe "https://docs.google.com/presentation/d/e/2PACX-1vQUEfGm7g1guf70GhlKNpH4RjJPkG0_iSjHSflUjf6cjWYqqIaJqmRx-cbZN85xFXJ-5lcV9vF78IU4/embed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="W-vTrd_xfZM" >}}
 
 --- 
 
