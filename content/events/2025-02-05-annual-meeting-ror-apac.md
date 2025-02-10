@@ -21,7 +21,6 @@ website = ""
 reglink = ""
 +++
 
-
 ### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
 
 - Date: February 6, 2025
