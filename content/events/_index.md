@@ -22,60 +22,77 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="" >}} Register {{< /button >}}
 
+{{< button color="green" link="" >}} See event description and materials {{< /button >}}
+
+
 ---
 
 -->
 
 ## Upcoming events
 
-### ROR Annual Community Meeting 2025: Community Update
-- Date: February 4, 2025
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2025-02-04)
+### ROR Community Call March 2025
+
+- Date: Thursday, March 20, 2025
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-03-20&tz2=UTC)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: In our annual Community Update, we’ll reflect on what ROR accomplished in 2024, discuss what's ahead for ROR in 2025, and invite your thoughts on areas of future focus. Most importantly, we’ll also be acknowledging ROR community contributors, without whom we’d never have come this far. If you only attend one ROR meeting this year, make it this one. 
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more
 
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/tJMlc-GupzgvHNZCDGfw6wMy7w1oQfxgMNVJ" >}} Register for the ROR Annual Community Update 2025{{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/WHPcM_WBQo6rsZW8ibdRvg" >}} Register for the ROR Community Call March 2025 {{< /button >}}
 
-### ROR Annual Community Meeting 2025: Community Drop-in
-- Date: February 4, 2025
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2025-02-04)
-- Duration: 1 hour
-- Location: Online
-- Recorded: No
-- Description: The ROR team will stay online for an hour after the Community Update session for an unrecorded and informal chat with registered participants. Ask us anything, or just socialize!  
 
-### ROR Annual Community Meeting 2025: National PID Policies and Practices
-- Date: February 5, 2025
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm&d=2025-02-05)
+### ROR Community Call May 2025
+
+- Date: Wednesday, May 21, 2025
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-05-21&tz2=UTC)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: Governments are increasingly realizing the need for clean and consistent metadata for scholarly publications so that their nation's research can be better tracked and analyzed. In this session, we'll hear about efforts in several different countries to make persistent identifiers such as ROR a key part of national research strategy and national research tracking. 
-	- **Rachael Kotarski of the [University of Chicago Libraries](https://www.lib.uchicago.edu/)** will compare PID policies in the UK with the forthcoming initiative to develop a [US National PID Strategy](https://niso.org/press-releases/niso-approves-working-group-develop-us-national-pid-strategy).
-	- **Michal Nekorjak and Taras Hrendaš with the [Office of the Government of the Czech Republic](https://vlada.gov.cz/en/urad-vlady/)** will explain their work to collect and analyze data about Czechoslovakian research. 
-	- **Steffi Genderjahn of the [Helmholtz Open Science Office](https://os.helmholtz.de/)** will report on the activities of [PID Network Deutschland](https://www.pid-network.de/en/). 
-	- **Washington Segundo of [IBICT](https://www.gov.br/ibict/pt-br)** will demonstrate and discuss the national CRIS system of Brazil, [BrCRIS](https://brcris.ibict.br/).
-	- **Michelle Doran of Ireland's [National Open Research Forum](https://dri.ie/norf/)** will discuss a recent report on [Recommendations and Roadmap for an Irish National PID Strategy](https://doi.org/10.7486/DRI.sn00qt29n).
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more
 
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/tJMscOiqqzgiHN2Xcdk6zcUNZpGnWJYoR_on" >}} Register for National PID Policies and Practices {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/EHMdwZY6RnWW5mfCHnFcXQ" >}} Register for the ROR Community Call May 2025 {{< /button >}}
 
-### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
 
-- Date: February 6, 2025
-- Time: [1am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1am&d=2025-02-06)
+### ROR Community Call July 2025
+
+- Date: Thursday, July 16, 2025
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-07-16&tz2=UTC)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: In this Asia-Pacific-focused session, we'll give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who will share their current or planned implementations of ROR, provide regional perspectives, and answer questions from participants. If you're located in the Asia-Pacific region or are just interested in updates from that region, then this session is for you. 
-	- **Amanda French, Technical Community Manager, ROR**, will give a brief introduction to ROR. 
-	- **Aaron Ballagh, Director of Product**, [The Lens](https://lens.org), will demonstrate how ROR is used to enable searching and browsing by institution in discovery tool The Lens.   
-	- **Brietta Pike, Journals Publisher at [CSIRO Publishing](https://www.publish.csiro.au/)**, will discuss plans to use ROR for author affiliations in CSIRO publications.   
-	- **Scott Edmunds, Editor in Chief at [GigaScience Press](https://www.gigasciencepress.org/)**, will explain how and why ROR is added to XML in GigaScience Press publications. 
-	- **Masatsura Igami, Director, Center for S&T Foresight and Indicators, [NISTEP](https://www.nistep.go.jp/en/)**, supported by Natsuo Onodera, Affiliated Fellow, NISTEP, will present a report on their work to link the NISTEP Organization Name Directory / NISTEP Dictionary to ROR. 
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more
 
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/tJUof--pqzIrHNz4c54CEH6J_pw_4MEDH-Ju" >}} Register for Successes and Opportunities for ROR in the APAC Region {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/JxkoFB_pQHuvQ2M1QE0z3w" >}} Register for the ROR Community Call July 2025 {{< /button >}}
+
+
+### ROR Community Call September 2025
+
+- Date: Tuesday, September 16, 2025
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-09-16&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/LvOKrEEPRQKwHjGakF64eA" >}} Register for the ROR Community Call September 2025 {{< /button >}}
+
+
+### ROR Community Call November 2025
+
+- Date: Wednesday, November 19, 2025
+- Time: [4pm UTC](https://dateful.com/time-zone-converter?t=4pm&d=2025-11-19&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/iNEkJoBCRzyqhbCXXMrT5w" >}} Register for the ROR Community Call November 2025 {{< /button >}}
+
+
+
+{{< button color="green" link="" >}} See event description and materials {{< /button >}}
 
 
 ## Calendar
@@ -84,8 +101,30 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
+
+### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
+February 5, 2025 
+
+
+
+---
+
+### ROR Annual Community Meeting 2025: National PID Policies and Practices
+February 5, 2025
+
+
+---
+
+### ROR Annual Community Meeting 2025: Community Update
+
+
+
+---
+
 ### Advancing Open Science: The Barcelona Declaration and Open Metadata
 At the [Advancing Open Science event held in Vilnius](2024-12-06-advancing-open-science-vilnius), participants discuss the most important developments in open science and research information in Europe and Lithuania. The keynote speaker, Prof. Ludo Waltman (Leiden University, The Netherlands), presents the Barcelona Declaration, a document highlighting the importance of open access to research information. Recent Lithuanian open access policy priorities and their impact on the national research ecosystem are presented, and representatives from the university alliances Arqus, Transform4Europe and ERUA share their experiences and practical solutions in promoting open science. Discussions also explore how to make the process of sharing scientific information more efficient, including tools such as the Research Organization Registry (ROR).
+
+---
 
 ### ROR Community Call November 2024 
 In the [ROR Community Call for November 2024](2024-11-20-ror-community-call), we hear updates from the ROR team on domains and link checking in ROR, projects to increase regional coverage of Japanese and Portuguese organizations, implementation of schema v2.1, deprecation of schema and API v1, and the deployment of client identification on the ROR API. We also see demos of two featured ROR integrations: the MESR / OpenAlex Works Magnet that enables the community to submit organization corrections to OpenAlex, and the Global Change Information System (GCIS) of the USGCRP. 
