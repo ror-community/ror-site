@@ -89,4 +89,7 @@ enableRobotsTXT = true
   tag = 'tags'
   archive = 'archives'
   authors = 'authors'
-      
+  eventarchive = 'eventarchives'  
+  eventtype = 'eventtypes'
+  eventtag = 'eventtags'
+  
