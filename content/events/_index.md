@@ -29,3 +29,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 -->
 
+{{% callout icon="no-icon" color="green" %}}
+
+**Get involved with ROR by coming to the next [Community Call!](/eventtypes/community-calls)**
+
+{{% /callout %}}
