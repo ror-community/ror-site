@@ -26,6 +26,10 @@
 										{{ if not $isLast }}
 											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) ( eq (title ( replace . "-" " ")) "Archives" )}}
 												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>
+												
+											{{ else if or ( eq (title ( replace . "-" " ")) "Eventtypes" ) ( eq (title ( replace . "-" " ")) "Eventarchives" )}}		
+								<li><a href='/events/'>Events</a><span>&gt;</span></li>
+																				
 											{{ else }}
 												<li><a href='{{ $.Scratch.Get "path" }}'>{{ with $.Site.GetPage "section" ($.Scratch.Get "relURL") }}{{ .Title }}{{ end }}</a><span>&gt;</span></li>
 											{{ end }}
