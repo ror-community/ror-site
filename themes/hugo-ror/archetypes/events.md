@@ -1,5 +1,5 @@
 +++
-title = "{{ title (replace .TranslationBaseName "-" " ")}}" 
+title = "{{ title (replace .TranslationBaseName "-" " ") }}" 
 date = "{{ .Date }}"  
 draft = "false" 
 style = "card-plain" 
