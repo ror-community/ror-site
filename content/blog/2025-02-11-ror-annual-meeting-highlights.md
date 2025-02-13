@@ -7,15 +7,16 @@ categories = ["Event Recaps"]
 archives = ["2025"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png" 
-thumb = "/img/blog/" 
-images = ['/img/blog/']
+thumb = "/img/kinderen-met-whelp-nationaal-archieef.png" 
+images = ['/img/kinderen-met-whelp-nationaal-archieef.png']
 authors = ["Amanda French"] 
 description = ""
 +++ 
 
+{{< figure src="/img/kinderen-met-whelp-nationaal-archieef.png" class="featured-figure" alt="Nationaal Archief, Kinderen Met Welp / Children Holding Whelp, 2011, photo from Flickr." >}}
+
 <!-- Commonly used content 
 
-{{< figure src="/img/blog/" class="featured-figure" alt="" >}}
 
 {{< callout color="green" icon="fa-info" >}} 
 {{< /callout >}}
