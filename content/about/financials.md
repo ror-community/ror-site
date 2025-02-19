@@ -16,7 +16,7 @@ In line with ROR’s commitment to openness and transparency, and in order to pr
 The Crossref accounting team administers ROR’s financial operations on behalf of ROR. Financial processes are described in full in the [ROR Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf). Accounting periods are for calendar years. Accounting currency is the US Dollar (USD). 
 
 
-## 2023 report
+## 2023
 
 In total, it cost $607,810 to operate ROR in 2023. This is fairly consistent with the past couple of years, and we therefore budgeted a similar amount for 2024.
 
@@ -45,9 +45,9 @@ People power open infrastructure, and ROR is no different. The majority (87%) of
 
 ---
 
-## 2024 projection
+## 2024
 
-| 2024 budget by funding source (in USD) (mid-year projection) |
+| 2024 forecast by funding source (in USD) |
 |---|---|---|---|---|---|
 |   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
 | Personnel (salary & benefits)  |   | 85,293  |  160,056 | 198,276  | **443,625**  |
@@ -60,9 +60,9 @@ People power open infrastructure, and ROR is no different. The majority (87%) of
 
 ---
 
-## 2025 projection
+## 2025
 
-| 2025 budget by funding source (in USD) (projected) |
+| 2025 budget by funding source (in USD) |
 |---|---|---|---|---|---|
 |   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
 | Personnel (salary & benefits)  |   | 127,764  | 160,056  | 226,200  | **514,020**  |
