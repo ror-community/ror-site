@@ -19,7 +19,7 @@ It's been six years since the [initial launch of ROR](https://ror.org/blog/2019-
 
 ## Reflecting on 2024 and planning for 2025
 
-ROR Director Maria Gould began this year's "state of ROR" Community Update session by reflecting on the core values of openness and community that led to the creation of ROR and that continue to guide ROR today. She then gave a general overview of how these values are realized in ROR's operations and governance.
+ROR Director Maria Gould began this year's "state of ROR" **Community Update** session by reflecting on the core values of openness and community that led to the creation of ROR and that continue to guide ROR today. She then gave a general overview of how these values are realized in ROR's operations and governance.
 
 ROR Product Lead Adam Buttrick and ROR Metadata Manager Riley Marsh reported on ROR data curation activities. In 2024, we added more than 4,000 new records to ROR and enhanced existing records with language tags and organization domains. Areas of focus for ROR's data in 2025 include improving regional coverage for countries such as Japan and Portugal, adding new external identifiers to ROR records, and improving coverage of funders, scholarly societies, and publishers.
 
@@ -34,7 +34,7 @@ During the session, participants told us about their recent and forthcoming work
 
 ## Learning how different countries use and encourage persistent identifiers
 
-The National PID Policies and Practices panel included perspectives from the UK, the US, Czechia, Germany, Brazil, and Ireland. Rachael Kotarski, formerly with the British Library and now with the University of Chicago, mentioned that one key difference between the UK's work to form a national persistent identifier strategy and the US's nascent efforts to do the same is that the US is less focused on research assessment than the UK, so the key driving force in the US tends to be the minimum requirements by national funders for persistent identifier support in repositories.
+The **National PID Policies and Practices** panel included perspectives from the UK, the US, Czechia, Germany, Brazil, and Ireland. Rachael Kotarski, formerly with the British Library and now with the University of Chicago, mentioned that one key difference between the UK's work to form a national persistent identifier strategy and the US's nascent efforts to do the same is that the US is less focused on research assessment than the UK, so the key driving force in the US tends to be the minimum requirements by national funders for persistent identifier support in repositories.
 
 Taras Hrendaš of the Office of the Government of the Czech Republic explained the methodology behind their annual evaluation of Czech research statistics, which they derive using a combination of data from their national CRIS system (IS VaVaI) and data from Web of Science. Institutional affiliation incoherence is a major problem for their data analysis, so the incorporation of ROR into the Web of Science will be a tremendous help for next year's analysis.
 
@@ -48,7 +48,7 @@ Finally, Michelle Doran of Ireland's National Open Research Forum gave an overvi
 
 ## Focusing on the Asia-Pacific region
 
-The session on "Successes and Opportunities for ROR in the Asia-Pacific Region" was itself a definite success, and we plan to hold more APAC-focused sessions in APAC-friendly time slots in the future. Even though some clever folks in the Asia-Pacific region have already realized the value of ROR, there's clearly lots of room to increase awareness and adoption of ROR in the Asia-Pacific region..
+The session **Successes and Opportunities for ROR in the Asia-Pacific Region** was itself a definite success, and we plan to hold more APAC-focused sessions in APAC-friendly time slots in the future. Even though some clever folks in the Asia-Pacific region have already realized the value of ROR, there's clearly lots of room to increase awareness and adoption of ROR in the Asia-Pacific region..
 
 First, ROR Technical Community Manager Amanda French gave a brief introduction to ROR. Next, Aaron Ballagh of The Lens (based in Australia) explained how ROR is used to identify organizations in The Lens so that users can find scholarly works from researchers affiliated with a particular organization, then demonstrated an "institutional lineage" search lets a user find all the scholarly works associated with an organization and the organization’s "child" organizations.
 
