@@ -9,13 +9,13 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/researchequals/libscie-logomark-300-square.png"
 images = ['/img/blog/researchequals/libscie-logomark-1200-rectangle.png']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "Chris Hartgerink, the founder of Liberate Science, discusses why and how they integrated ROR into the modular publishing platform ResearchEquals for author affiliations in user profiles and Crossref DOIs and explains why they live streamed all eight hours of the work."
 +++
 
 Chris Hartgerink, the founder of [Liberate Science](https://libscie.org), discusses why and how they integrated ROR into the modular publishing platform [ResearchEquals](https://www.researchequals.com) for author affiliations in user profiles and Crossref DOIs and explains why they live streamed all eight hours of the work.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -27,7 +27,7 @@ Chris Hartgerink, the founder of [Liberate Science](https://libscie.org), discus
 
 -- Chris Hartgerink, Founder, Liberate Science
 
-{{% /callout %}}
+{{< /callout >}}
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French  
 Hello, and thank you for participating in this case study interview. Can you tell us your name, title and organization?
@@ -196,8 +196,8 @@ Exactly! But that also takes a lot of courage. So maybe some time I will emulate
 Enjoy the rest of your day, and then have a nice rest of your week.
 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

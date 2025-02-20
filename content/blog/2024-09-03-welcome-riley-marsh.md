@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/lion-closeup-1200.jpg" 
 images = ['/img/lion-closeup-1200.jpg']
-author = "Maria Gould" 
+authors = ["Maria Gould"] 
 description = "We are thrilled to introduce a new member of the ROR pride: Riley Marsh joined the ROR team in August as our new Metadata Manager."
 +++ 
 
@@ -29,10 +29,10 @@ As a reminder, anyone can suggest registry additions and updates via [this form]
 
 For more information about curation, read more on the [registry web page](https://ror.org/registry/) and in the [ror-updates GitHub repository](https://github.com/ror-community/ror-updates?tab=readme-ov-file#ror-updates). 
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Questions? Contact registry@ror.org. 
 
-{{% /callout %}}
+{{< /callout >}}
 
 

@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/recap2023/circular_arrow-teal_02.png"
 images = ['/img/blog/recap2023/circular_arrow-teal_02.png']
-author = "Maria Gould"
+authors = ["Maria Gould"]
 description = "As we near the end of 2023, we are taking a moment to reflect on what has been another significant year for ROR."
 +++
 
@@ -49,8 +49,8 @@ ROR wouldn't be ROR without the community behind it. We express our sincere grat
 
 Here's to 2023, and to ROR-ing more in 2024! 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Contact us at <info@ror.org> with any questions or comments.
 
-{{% /callout %}}
+{{< /callout >}}

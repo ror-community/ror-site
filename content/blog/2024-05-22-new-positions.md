@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg"
 images = ['/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg']
-author = "ROR Leadership Team"
+authors = ["ROR Leadership Team"]
 description = "ROR Curation Lead Adam Buttrick is staying at ROR but moving from Crossref to CDL, which means there's a new position to fill at Crossref. Read more about the Metadata Manager position and consider applying yourself!"
 +++
 
@@ -29,10 +29,10 @@ As of this month, long-time Metadata Curation Lead Adam Buttrick has left his po
 
 All of these developments reflect how ROR continues to stabilize and mature, and they underscore the importance of continuing to grow the team to support ongoing needs as ROR evolves. At the same time, we fully intend to keep our operations small and nimble in order to stay focused on key objectives and remain flexible enough to adapt to future changes. 
 
-{{% callout color="grey" icon="fa-envelope" %}}
+{{< callout color="grey" icon="fa-envelope" >}}
 
 Questions? Contact info@ror.org. See also ROR's [jobs page](/jobs).
 
-{{% /callout %}}
+{{< /callout >}}
 
 Photo by [Jansen Yang](https://unsplash.com/@sens_design) on [Unsplash](https://unsplash.com/photos/concrete-man-beside-lion-statue-QtVRBR2QrfI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)

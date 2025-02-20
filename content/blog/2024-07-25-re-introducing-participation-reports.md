@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/prep/prep-2024-ror.png" 
 images = ['/img/blog/prep/prep-2024-ror.png']
-author = "Lena Stoll" 
+authors = ["Lena Stoll"] 
 description = "Crossref, with the help of CWTS Leiden, has just released an exciting update to their participation report, adding metrics for both affiliations in general and ROR IDs in particular. Now Crossref members can easily see how well they are doing in providing open affiliation metadata."
 +++ 
 
@@ -19,9 +19,9 @@ Crossref, with the help of [CWTS Leiden](https://www.cwts.nl/), has just release
 
 ---
 
-{{% callout color="green" icon="fa-copy" %}} 
+{{< callout color="green" icon="fa-copy" >}} 
 The below is cross-posted from the Crossref blog.<br /> [Read the original post.](https://www.crossref.org/blog/re-introducing-participation-reports-to-encourage-best-practices-in-open-metadata/)
-{{% /callout %}} 
+{{< /callout >}} 
 
 We’ve just released an update to our [participation report](https://crossref.org/members/prep), which provides a view for our members into how they are each working towards best practices in open metadata. Prompted by some of the signatories and organizers of the [Barcelona Declaration](https://barcelona-declaration.org/), which Crossref supports, and with the help of our friends at [CWTS Leiden](https://www.cwts.nl/), we have fast-tracked the work to include an updated set of metadata best practices in participation reports for our members. The reports now give a more complete picture of each member’s activity.
 
@@ -102,8 +102,8 @@ More information, as well as a breakdown of the now 11 key metadata elements lis
 And if you have any questions or feedback, come talk to us on the [community forum](https://community.crossref.org/) or request a metadata Health Check by emailing the [community team](mailto:feedback@crossref.org?subject=Participation%20reports%20and%20metadata%20health%20checks).
 
 
-{{% callout icon="fa-envelope" %}} 
+{{< callout icon="fa-envelope" >}} 
 
 Write the Crossref Community team at [feedback@crossref.org](mailto:feedback@crossref.org?subject=Participation%20reports%20and%20metadata%20health%20checks) with any questions. 
 
-{{% /callout %}} 
+{{< /callout >}} 

@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/recap2024/maria-roring.png"
 images = ['img/blog/recap2024/maria-roring.png']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "The ROR Community turned out in force for our 2024 annual community meeting. Here are the highlights from ROR's fifth anniversary celebration, a community showcase of ROR users, and a panel on the importance of funding metadata."
 +++
 
@@ -69,7 +69,7 @@ Hope to see you all throughout 2024 and at the next annual meeting in 2025.
 {{< figure src="/img/blog/recap2024/lets-ror-some-more-in-2024.png" class="blog-figure" alt="Thank you! Let's ROR some more in 2024!" >}}
 
 
-{{% callout color="grey" icon="no-icon" %}}
+{{< callout color="grey" icon="no-icon" >}}
 ### Previous recaps of ROR annual community meetings 
 
 - [2023 - ROR Turns Four](/blog/2023-02-13-ror-turns-four/)
@@ -78,10 +78,10 @@ Hope to see you all throughout 2024 and at the next annual meeting in 2025.
 - [2020 - ROR-ing Together in Portugal](/blog/2020-02-10-ror-ing-in-portugal) 
 - [2019 - Hear us ROR!](/blog/2019-02-10-announcing-first-ror-prototype/)
 
-{{% /callout %}}
+{{< /callout >}}
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Want to present at a ROR community meeting? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

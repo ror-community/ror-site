@@ -8,12 +8,12 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/blog/osf/cos-logo.jpg"
-author = "Amanda French"
+authors = ["Amanda French"]
 +++
 
 This conversation with Eric Olson of the Center for Open Science is the first in a new series of interviews, "Case Studies in ROR Integration," a series designed to provide in-depth detail on why and how people are choosing to integrate ROR IDs into their systems.
 
-{{% callout color="green" icon="no-icon" %}} 
+{{< callout color="green" icon="no-icon" >}} 
 ### Key quotations
 "[W]hen we mint DOIs for all the content types that we have DOIs for – which right now are preprints, preregistration documents, and project spaces – we send the ROR IDs from the affiliation data that’s associated with the user profile with the metadata for each contributor."
 
@@ -23,7 +23,7 @@ This conversation with Eric Olson of the Center for Open Science is the first in
 
 -- Eric Olson, Product Manager, Center for Open Science
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 
@@ -177,13 +177,13 @@ Gotcha. What challenges did you run into as you were integrating ROR into your s
  
 Part of the challenge was that [we were adding ROR to the metadata that we send to DataCite and Crossref](https://github.com/CenterForOpenScience/osf.io/pull/9810) at the same time as we were adding other additional information to send and preparing for even more information that's coming. Well, actually, some of that we've added since we did the ROR work, and there's more coming soon. So we made a lot of changes and prepared for even more changes all at the same time. And so each time we would, you know, try to make the change, as soon as we hit one error, the whole thing would fail -- which was good, because we didn't want to upload a bunch of data that was wrong. So it took us three attempts to get it all lined up and ready to be sent properly and update it so that the ROR IDs are available for all content going forward as well as backfilling content that is eligible for ROR IDs to be added to that metadata. So we updated a lot of DOIs with that rollout. 
 
-{{% callout color="green" icon="no-icon" %}} 
+{{< callout color="green" icon="no-icon" >}} 
 
 ### COS DOIs with ROR IDs as of 11/11/2022
 
 * [COS DataCite DOIs with ROR IDs ](https://api.datacite.org/dois?affiliation=true&query=(creators.affiliation.affiliationIdentifier:*%20AND%20NOT%20creators.affiliation.affiliationIdentifier:%22%22)%20OR%20(contributors.affiliation.affiliationIdentifier:*%20AND%20NOT%20contributors.affiliation.affiliationIdentifier:%22%22)&client-id=cos.osf ): 11545 
 * [COS Crossref DOIs with ROR IDs](https://api.crossref.org/works?query.publisher-name=Center+for+Open+Science&filter=has-ror-id:t&rows=0): 1634
-{{% /callout %}}
+{{< /callout >}}
 
 I guess the key challenge is that we did more than ROR all at once, so we had to really get it lined up properly in order for it to work.
 
@@ -225,8 +225,8 @@ And then, you know, really what we are looking for, just like many other institu
 
 Great! This was tremendously interesting -- thanks for telling us all about your ROR integration. 
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

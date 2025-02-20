@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/use-case-funders/ror-for-funders.png" 
 images = ['/img/blog/use-case-funders/ror-for-funders.png']
-author = "Amanda French" 
+authors = ["Amanda French"] 
 description = "Several widely used scholarly systems are using ROR IDs to identify and disambiguate funders. In this post, we’ll give you a glimpse of how and why these systems use ROR IDs for funder identifiers."
 +++ 
 
@@ -86,7 +86,7 @@ Both Figshare's central repository at [figshare.com](figshare.com) and Oxford Un
 
 ROR was [originally seeded](https://ror.org/about/#launch-of-the-ror-mvr) with the GRID organization identifiers and data used by Dimensions, so there is a [close relationship between ROR IDs and GRID IDs](https://grid.ac/), and most ROR and GRID records are [mapped to each other](https://ror.readme.io/v2/docs/data-structure#external_ids). Dimensions's support documentation [explains how ROR IDs are incorporated into its data](https://dimensions.freshdesk.com/support/solutions/articles/23000025993-how-are-organizations-represented-in-dimensions-): 
 
-{{% callout  color="beige" icon="no-icon" %}}
+{{< callout  color="beige" icon="no-icon" >}}
 
 **How are new ROR IDs added to Dimensions organization records?**
 
@@ -96,7 +96,7 @@ As part of every new organization data release we identify new ROR records, and 
 
 We are also regularly checking for changes to ROR records which are already mapped to Dimensions organization records. When a mapped record changes in ROR, we examine if that change is also relevant for Dimensions and update relevant metadata as applicable.
 
-{{% /callout %}}
+{{< /callout >}}
 
 The curation work that Dimensions performs means that organization information in Figshare, including ROR metadata for funding organizations, remains up to date. 
 
@@ -157,8 +157,8 @@ The other commonly mentioned "next big thing," AI, or more precisely machine lea
 
 ROR is a responsive, open, community-led endeavor, and we're happy to work with you to integrate ROR IDs into your scholarly publication metadata. 
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Still have questions? Write to us at [support@ror.org](mailto:support@ror.org). 
 
-{{% /callout %}} 
+{{< /callout >}} 

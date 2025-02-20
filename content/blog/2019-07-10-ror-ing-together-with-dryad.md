@@ -8,7 +8,7 @@ archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lions-square.jpg"
-author = "Maria Gould and Daniella Lowenberg"
+authors = ["Maria Gould", "Daniella Lowenberg" ]
 +++
 
 How many datasets have been published in Dryad from researchers at the University of California? This question is surprisingly complicated. A short answer might be, *we don't know*! A better answer could be, *coming soon - stay tuned*!

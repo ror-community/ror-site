@@ -8,7 +8,7 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-crew-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ROR is hiring! We are looking for a full-time Technical Community Manager to expand the adoption and integration of ROR throughout the global scholarly communications ecosystem.

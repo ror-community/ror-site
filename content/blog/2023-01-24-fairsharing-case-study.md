@@ -8,12 +8,12 @@ archives = ["2023"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/fairsharing/fairsharing-data-readiness.jpg"
-author = "Amanda French"
+authors = ["Amanda French"]
 +++
 
 In this installment of the ROR Case Studies series, we talk with Allyson Lister, Content and Community Lead for FAIRsharing, a cross-disciplinary registry of scientific standards, databases, and policies, about how and why FAIRsharing used ROR to help make organizations first-class citizens in their data model.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 ### Key quotations
 
 "If we're going to integrate with somebody like ROR, we have to commit to it, you know. It was intensive at first, but mainly because of the creation of the original scripts and the batch of curation checks, as our records are all curated. But we've had a couple of these three-month checks since, and it's been an hour or two maximum of checking, with the main curation team each doing maybe fifteen minutes or so of checking."
@@ -24,7 +24,7 @@ In this installment of the ROR Case Studies series, we talk with Allyson Lister,
 
 -- Allyson Lister, Content and Community Lead, FAIRsharing
 
-{{% /callout %}}
+{{< /callout >}}
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
@@ -257,11 +257,11 @@ And so GBIF said, "Well, we are part of this [BiCIKL](https://doi.org/10.3897/ri
 
 His organization gained this enriched view of not just the resources, but the organizations that were relevant to their consortium. And they created a tool that uses our API. So essentially, Kyle came to us, curated with us, and then pulled all that data back out using our API. So it was a whole happy family of everyone getting what they wanted. Us getting high quality curation, them getting a view of all the organizations that were a member of the consortium, and the associated record curation, it was just a lovely collaboration. He began with a few months of quite concerted curation, and now he can move on to more of a maintenance mode. We’re looking for our community curators to get as much back from their role with us as we get from them. So this is the way in which we see organizations gaining the spotlight: through their relationship with the records that we store in FAIRsharing. And I want to show you the other way we show organizations, which is on our community curator pages.
 
-{{% centered %}}
+{{< centered >}}
 
 {{< figure src="/img/blog/fairsharing/community-curator-profile.jpg" alt="Stephen Serjeant FAIRsharing profile" width="50%">}} 
 
-{{% /centered %}}
+{{< /centered >}}
 
 
 So Stephen Serjeant is from the [Open University](https://www.open.ac.uk/), and so we show that relationship. And we also have his infrastructure: [ESCAPE](https://projectescape.eu/) is part of EOSC. And so it showcases their organizations as well as the community curator.
@@ -374,8 +374,8 @@ Oh, I should mention that part of the reason we're able to work so effectively w
 
 Well, thank you so much for speaking to me. It was lovely to talk to you.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

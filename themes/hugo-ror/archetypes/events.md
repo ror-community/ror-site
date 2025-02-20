@@ -1,5 +1,5 @@
 +++
-title = "{{ replace .TranslationBaseName "-" " " | title }}" 
+title = "{{ title (replace .TranslationBaseName "-" " ") }}" 
 date = "{{ .Date }}"  
 draft = "false" 
 style = "card-plain" 
@@ -28,7 +28,7 @@ reglink = ""
 
 - [Slides from event]()
 
-<iframe src=""></iframe>
+{{< iframe "XXX" >}}
 
 ---
 

@@ -9,18 +9,18 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/matching101/yellow-matching-thumb.png"
 images = ['/img/blog/matching101/yellow-matching-thumb.png']
-author = "Dominika Tkaczyk and Adam Buttrick"
+authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it, and why we devote so much effort to this problem."
 aliases = "blog/2024-05-16-metadata-matching-101-cross-post/"
 +++
 
 ROR Curation Lead Adam Buttrick has been working with Crossref Head of Strategic Initiatives Dominika Tkaczyk to explore improvements in automatic metadata matching strategies that can result in better metadata for everyone. Read more about this important work here and in other posts in the [matching](/tags/matching/) series.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 **The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/metadata-matching-101-what-is-it-and-why-do-we-need-it/)**  
 
-{{% /callout %}}
+{{< /callout >}}
 
 At Crossref and ROR, we develop and run processes that match metadata at scale, creating relationships between millions of entities in the scholarly record. Over the last few years, we've spent a lot of time diving into details about metadata matching strategies, evaluation, and integration. It is quite possibly [our](https://crossref.org/blog/matchmaker-matchmaker-make-me-a-match/) [favourite](https://crossref.org/blog/reference-matching-for-real-this-time/) [thing](https://crossref.org/blog/what-if-i-told-you-that-bibliographic-references-can-be-structured/) to [talk](https://www.youtube.com/watch?v=Tx5y7lX030U) and [write](https://crossref.org/blog/follow-the-money-or-how-to-link-grants-to-research-outputs/) [about](https://crossref.org/blog/discovering-relationships-between-preprints-and-journal-articles/)! But sometimes it is good to step back and look at the problem from a wider perspective. In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it, and why we devote so much effort to this problem.
 
@@ -51,8 +51,6 @@ In short, metadata matching gives us a more complete picture of [the research ne
 
 {{< figure src="/img/blog/matching101/matching-101-relationships.png" alt="Example relationships in the scholarly record" class="blog-figure" >}}
 
-<br />
-
 These relationships are very powerful. They provide important context for any entity, whether it is a research output, a funder, a research institution, or an author. Imagine for a moment the scholarly record without any such relationships, where all bibliographic references, affiliations (institution names and addresses), and funding information (funder names and grant titles) are provided as unstructured strings only. In such a world, how would you calculate the number of times a particular research paper was cited? How would you get a list of research outputs supported by a specific funder? It would be incredibly challenging to navigate, summarise, and describe research activities, especially considering the scale. Thankfully, these and many other questions can be answered thanks to metadata matching that discovers relationships between entities in the scholarly record.
 
 There are two primary ways we can use metadata matching in our workflows: as semi-automated tools that help users look up the appropriate identifiers or as fully automated processes that enrich the metadata in various scholarly databases.
@@ -67,9 +65,9 @@ In the end, no matter what approach is used, the goal is to achieve a more compl
 
 This blog is the first one in a series about metadata matching. In the coming weeks, we will cover more detail about the product features related to metadata matching, explain why metadata matching is not a trivial problem, and share how we can develop, assess, compare, and choose matching strategies. Stay tuned!
 
-{{% callout color="grey" icon="fa-envelope" %}}
+{{< callout color="grey" icon="fa-envelope" >}}
 
 Questions? Contact adam@ror.org.
 
-{{% /callout %}}
+{{< /callout >}}
 

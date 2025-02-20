@@ -17,11 +17,11 @@ There are no current openings at ROR, but you can always send your résumé to i
 
 See previous [job postings](/tags/jobs/) at ROR. 
 
-***
+---
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Contact <info@ror.org> with questions about current positions.
 
-{{% /callout %}}
+{{< /callout >}}
  

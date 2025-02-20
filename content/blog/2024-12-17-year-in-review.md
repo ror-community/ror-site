@@ -9,10 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/review2024/Camouflage_Unsplash.jpg" 
 images = ['/img/blog/review2024/Camouflage_Unsplash.jpg']
-author = "ROR team" 
+authors = ["ROR Core Team"] 
 description = "In 2024, ROR processed over 8000 curation requests, handled 14 million monthly requests to the ROR API, saw the number of downloads of the ROR dataset triple, and was a finalist for the ALPSP Innovation in Publishing Award: read on for more highlights from a banner year."
-slug = ""
-aliases = [""]
 +++ 
 
 {{< figure src="/img/blog/review2024/Camouflage_Unsplash.jpg" class="featured-figure" alt="Lisa H lh_photography, CC0, via Wikimedia Commons and Unsplash" >}}
@@ -72,17 +70,17 @@ And, of course, as always, we held our regular bi-monthly online [Community Call
 
 We give our heartfelt thanks to all of you who have supported ROR this year by sharing your thoughts, asking us questions, doing the work at your own organizations, making financial contributions, and in a hundred other ways demonstrating that you understand the value of ROR not just for your own benefit, but for the benefit of the entire research information ecosystem. We look forward to collaborating with you in 2025. 
 
-{{% callout icon="fa-envelope" %}} 
+{{< callout icon="fa-envelope" >}} 
 Write us at info@ror.org with any comments or questions.
-{{% /callout %}}
+{{< /callout >}}
 
-{{% callout icon="fa-comment" color="green" %}} 
+{{< callout icon="fa-comment" color="green" >}} 
 Get involved by joining the [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community).
-{{% /callout %}}
+{{< /callout >}}
 
-{{% callout icon="fa-calendar-days" color="mustard" %}} 
+{{< callout icon="fa-calendar-days" color="mustard" >}} 
 Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5, 2025.
-{{% /callout %}}
+{{< /callout >}}
 
 
 <!-- Commonly used content 
@@ -90,9 +88,9 @@ Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5,
 <!-- {{< figure src="/img/blog/" class="featured-figure" alt="" >}} -->
 
 
-<!-- {{% callout color="green" icon="fa-info" %}} 
+<!-- {{< callout color="green" icon="fa-info" >}} 
 
-{{% /callout %}}
+{{< /callout >}}
 -->
 
 <!-- {{< figure src="/img/blog/" class="blog-figure" alt="" >}} -->
@@ -101,6 +99,6 @@ Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5,
 <!-- {{< youtube id="XXX" title="" >}} -->
 
 
-<!-- {{% callout icon="fa-envelope" %}} 
+<!-- {{< callout icon="fa-envelope" >}} 
 Write us at info@ror.org with any comments or questions.
-{{% /callout %}} -->
+{{< /callout >}} -->

@@ -8,14 +8,14 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/ror-elements-tech-u-kenya.png"
-author = "Amanda French and Liz Krzarnich"
+authors = [ "Amanda French", "Liz Krzarnich" ]
 +++
 
-{{% callout color="green" icon="no-icon" %}} 
+{{< callout color="green" icon="no-icon" >}} 
 
 We've run several calls for feedback in 2022, but here's one you'll definitely want to chime in on: our **[draft proposal of major changes to the ROR data model for schema version 2.0](https://docs.google.com/document/d/1JNDMoKmjR2y0quWXwFfoJTsIttbltJVN0l5Wddw1cIk/edit?usp=sharing)**. Comments are open until **February 5, 2023**, and we hope to release version 2.0 of the ROR schema and API in late 2023.
 
-{{% /callout %}} 
+{{< /callout >}} 
 
 
 When [ROR diverged from GRID in March of 2022](https://ror.org/blog/2022-03-17-first-independent-release), it became possible for the first time to make changes to ROR's data model. Our first priority was to handle inactive organizations and other organization status changes, and the community solution, as it turned out, didn't involve any changes to the schema. We did the technical work to implement these organization status changes, and they were [moved into production on December 1st, 2022](https://ror.org/blog/2022-12-07-handling-org-status/). At the same time, knowing that both ROR's data model and its API will need to change in the future, we asked for feedback on a proposal to handle schema and API versioning, and the ROR community agreed on a [set of practices](https://docs.google.com/document/d/18nl6pq0kdCU5ApcdbNjKnV7xHIw9eEY7DJG1WHjaLSs/edit?usp=sharing) meant to make schema and API changes as painless as possible for ROR users.
@@ -42,4 +42,4 @@ These suggested changes come from ROR users, from metadata best practices, and f
 
 To give us feedback, **please leave comments in the [ROR Schema v2.0 draft proposal ](https://docs.google.com/document/d/1JNDMoKmjR2y0quWXwFfoJTsIttbltJVN0l5Wddw1cIk/edit?usp=sharing)** Google doc. If you prefer to give feedback privately or cannot access the Google doc, you can email your comments to [support@ror.org](mailto:support@ror.org). Your thoughts are more than welcome -- we rely on your input to guide us!
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vR0k1VZwRDO7fF6c9R0FJWRa2Dpjedn_5IXkjdjjYbBKSgsqUA6UTVPufFrvcqsXnQiJa2wwjK1tfMH/pub?embedded=true" width="100%" height="700px"></iframe>
+{{< iframe "https://docs.google.com/document/d/e/2PACX-1vR0k1VZwRDO7fF6c9R0FJWRa2Dpjedn_5IXkjdjjYbBKSgsqUA6UTVPufFrvcqsXnQiJa2wwjK1tfMH/pub?embedded=true" >}}

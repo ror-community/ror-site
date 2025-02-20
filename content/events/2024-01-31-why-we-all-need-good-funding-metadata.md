@@ -30,7 +30,7 @@ After brief presentations from each panelist, the audience joins a 20-minute dis
 
 - [Slides](https://docs.google.com/presentation/d/1i7yX6mb-PIwc_BMGiHspnrLL0sImflfritbvqJs135c/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vR8YlZ3ZjcY725b7bXRhif45h7yaB-iH1tJhfFwMtjrjyedKrgqjqFTxdbuS7_fmiXVMubxz1htrboy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vR8YlZ3ZjcY725b7bXRhif45h7yaB-iH1tJhfFwMtjrjyedKrgqjqFTxdbuS7_fmiXVMubxz1htrboy/embed?start=false&loop=false&delayms=3000" >}}
 
 ### Recording 
 

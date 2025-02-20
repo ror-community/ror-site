@@ -22,7 +22,7 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 
 - [Slides from ROR Community Call - November 2023](https://docs.google.com/presentation/d/1BNLzbgAR53xQ2HYYbCFdVp3S9Rj2Bf-HokO1MpXBZns/edit?usp=sharing)
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQXRjtwBLwuvDp8iUlTV552EYB2LlIXfGBbf_caMhR4Y4vpU4Ax9gIBKSkN3WYsiZViatM0e0r1Aoh1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQXRjtwBLwuvDp8iUlTV552EYB2LlIXfGBbf_caMhR4Y4vpU4Ax9gIBKSkN3WYsiZViatM0e0r1Aoh1/embed?start=false&loop=false&delayms=3000" >}}
 
 ### Recording 
 

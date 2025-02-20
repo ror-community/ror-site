@@ -9,15 +9,15 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg" 
 images = ['/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg']
-author = "Liz Krznarich" 
+authors = ["Liz Krznarich"] 
 description = "We're looking for your feedback on a draft proposal for managing ROR API client identification with 'mailto' parameters or API keys, and comments are open through October 4th, 2024."
 +++ 
 
-{{% callout color="green" icon="no-icon"%}}
+{{< callout color="green" icon="no-icon">}}
 
 We're looking for your feedback on a [draft proposal for managing ROR API client identification](https://bit.ly/ror-client-id-proposal) with 'mailto' parameters or API keys, and comments are open **through October 4th, 2024**. Which option would you prefer? Does either option present a significant barrier for your use of the ROR API? Let us know! 
 
-{{% /callout %}}
+{{< /callout >}}
 
 {{< figure src="/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg" class="featured-figure" alt="Lion-shaped door knocker from a house in Portugal. Photo by Sven Finger on Unsplash." >}}
 
@@ -38,11 +38,11 @@ IP-based rate limiting, which ROR [already has in place at a limit of 2,000 requ
 
 * Allow ROR team more insight into API usage patterns than can be gathered from IP addresses alone, which help to guide technical decisions and architecture approaches
 
-{{% callout color="orange" icon="no-icon" %}}
+{{< callout color="orange" icon="no-icon" >}}
 
 ROR is **not** considering removing access to any API services/resources for anonymous requests. Anonymous requests will be allowed, but they will receive a lower rate limit.
 
-{{% /callout %}}
+{{< /callout >}}
 
 ## Scope 
 
@@ -62,8 +62,8 @@ To give feedback, please visit the [proposal document](https://bit.ly/ror-client
 
 Let us know what you think! We appreciate your time and all that you do to help us make ROR the best service it can be. 
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Questions? Write [support@ror.org](mailto:support@ror.org). 
 
-{{% /callout %}}
+{{< /callout >}}

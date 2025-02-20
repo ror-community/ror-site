@@ -8,7 +8,7 @@ archives = ["2020"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/tiger-pool-sq.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 ROR offers an open and community-driven solution for tracking research outputs by institutions. ROR identifiers for research organizations are not meant to exist on their own. Their potential will be fully realized with wide adoption of ROR IDs in scholarly infrastructure and metadata.

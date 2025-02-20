@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/curvenote/curvenote-logo.png"
 images = ['/img/blog/curvenote/curvenote-logo.png']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "In this interview with Curvenote cofounder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and easily use structured metadata to create fully connected and highly interactive publications and portfolios."
 +++
 
@@ -17,7 +17,7 @@ description = "In this interview with Curvenote cofounder Rowan Cockett, we envi
 
 In this interview with Curvenote cofounder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and easily use structured metadata to create fully connected and highly interactive publications and portfolios.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -29,7 +29,7 @@ In this interview with Curvenote cofounder Rowan Cockett, we envision a world in
 
 -- Rowan Cockett, Cofounder and CEO, Curvenote
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
@@ -44,11 +44,11 @@ We've done some really exciting integrations with ROR, as well as with [ORCIDs](
 
 We're also elevating a lot of scientific computational work by letting people show off interactive [Jupyter Notebooks](https://jupyter.org/). I think by bringing all this a little bit closer together and into the scientist's control, you can experiment a lot more with how you're presenting your work. You can push on things like reproducibility and interactive apps that are educational rather than focusing only on novelty in the scientific paper sense. What we're trying to make possible is the ability to continually update that project, that paper, that article, that blog post, and to make sure there's good metadata throughout that entire process such that it's actually integrated into the scholarly ecosystem.
 
-{{% centered %}} 
+{{< centered >}} 
 
 {{< figure src="/img/blog/curvenote/curvenote-demo.gif" alt="Demonstration of richly-linked and interactive scientific content in Curvenote." caption="Demonstration of richly-linked and interactive scientific content in Curvenote." >}}
 
-{{% /centered %}} 
+{{< /centered >}} 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
  
@@ -185,7 +185,6 @@ It's very smart to connect to things like Jupyter -- tools that people use all t
 Yeah. There's a great TED talk called "How to Start a Movement." It's a dance party. The take-home there is that you need to join the things that are already existing and put your effort behind them. It takes a different kind of leadership to join these movements rather than start your own thing.
 
 {{< youtube id="V74AxCqOTvg" title="How to start a movement | Derek Sivers" >}}
-<br />
 
 This is very much our approach, to reinforce existing communities, to bring new experiences to life inside of those and be that strengthening and connecting tissue. I think that's somewhat lacking in how scientists experience the scholarly ecosystem in their day to day work. They have DOIs, they use Google Scholar, they see the list of papers that cite them, but they don't have that direct connection to adding metadata in the way that they should. It should be tangible. They should get a hit of dopamine.
 

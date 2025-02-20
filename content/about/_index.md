@@ -136,13 +136,11 @@ More and more organizations, systems, and researchers are using ROR every day. S
 
 {{% button color="green" link="/impact" %}} See statistics on ROR IDs in DOI metadata and more {{% /button %}}
 
-
 ## History
 
 ROR is the culmination of several years of extensive community collaborations to develop a shared vision for a registry of organization identifiers. Planning for what would become ROR began in 2016, and ROR launched a "minimum viable registry" in January 2019. Since then, ROR has matured and expanded to become a widely-used persistent identifier for organization disambiguation. 
 
 {{% button color="green" link="/history" %}} Learn more about the history of ROR {{% /button %}}
-
 
 ## Logos 
 
@@ -162,8 +160,8 @@ You can also book a Zoom meeting with Technical Community Manager Amanda French.
 {{% button color="green" link="https://calendly.com/ror-chat" %}} Book a Zoom meeting to discuss ROR {{% /button %}}
 
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Write <info@ror.org> with any and all questions about ROR. 
 
-{{% /callout %}}
+{{< /callout >}}

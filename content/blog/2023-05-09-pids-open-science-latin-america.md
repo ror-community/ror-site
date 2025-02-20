@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/pidslatam/noun-latin-america-663117.png"
 images = ['/img/blog/pidslatam/noun-latin-america-663117.png']
-author = "Ana Cardoso, Gabriela Mejias, and Maria Gould"
+authors = ["Ana Cardoso", "Gabriela Mejias", "Maria Gould"]
 description = ""
 +++
 *Cross-posted by [DataCite](https://doi.org/10.5438/wnh3-8q65) and [ORCID](https://info.orcid.org/pids-and-open-science-building-community-in-latin-america/)*

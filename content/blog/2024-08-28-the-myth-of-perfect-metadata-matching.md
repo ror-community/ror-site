@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/matching-perfect/false-positives-negatives.png" 
 images = ['/img/blog/matching-perfect/false-positives-negatives.png']
-author = "Dominika Tkaczyk and Adam Buttrick" 
+authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this post, we discuss a few common myths about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders."
 +++ 
 
@@ -17,11 +17,11 @@ description = "In this post, we discuss a few common myths about metadata matchi
 
 The third blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk discusses a few common myths about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 The below is cross-posted from the Crossref blog. [Read the original post.](http://crossref.org/blog/the-myth-of-perfect-metadata-matching/) 
 
-{{% /callout %}} 
+{{< /callout >}} 
 
 In our previous installments of the [blog series about matching](/tags/matching) (see [part 1](/blog/2024-05-16-metadata-matching-101/) and [part 2](/blog/2024-06-27-anatomy-of-metadata-matching/)), we explained what metadata matching is, why it is important and described its basic terminology. In this entry, we will discuss a few common beliefs about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders. Spoiler alert: we are calling them myths because these beliefs are not true! Read on to learn why.
 
@@ -99,8 +99,8 @@ In attempting to determine the correctness of our matching, we immediately encou
 
 With so many unknowns, are we then doomed? No! We have rigorous and scientific tools at our disposal that can help us estimate how accurate our matching will be. How do we use them? Well, that is a big and fairly technical topic, so we will leave you with this little cliffhanger. See you in the next post!
 
-{{% callout icon="fa-envelope" %}}
+{{< callout icon="fa-envelope" >}}
 
 Questions? Contact adam@ror.org. 
 
-{{% /callout %}} 
+{{< /callout >}} 

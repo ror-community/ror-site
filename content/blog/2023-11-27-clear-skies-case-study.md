@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/clearskies/clear-skies.png"
 images = ['/img/blog/clearskies/clear-skies.png']
-author = "Amanda French"
+authors = ["Amanda French"]
 description = "Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research integrity with tools like Papermill Alarm, why such tools can assist but can't replace human investigators, and what's so important for data scientists about free and open identifers like ROR"
 +++
 
@@ -18,7 +18,7 @@ Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research in
 
  
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -32,7 +32,7 @@ Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research in
 
  
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
@@ -264,8 +264,8 @@ That's great. Well, thank you for speaking with me.
 
 Cool. Thanks. Bye.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
 
-{{% /callout %}}
+{{< /callout >}}

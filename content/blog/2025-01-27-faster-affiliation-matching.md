@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/lion-closeup-1200.jpg" 
 images = ['/img/lion-closeup-1200.jpg']
-author = "Adam Buttrick" 
+authors = ["Adam Buttrick"] 
 description = "OpenAlex has added a new metadata matching strategy co-developed by ROR and Crossref to its affiliation matching processes: ROR is also investigating the prospect of incorporating this new matching strategy into the ROR API in 2025."
 +++ 
 

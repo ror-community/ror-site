@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/optica/opticapg-logo.png" 
 images = ['/img/blog/optica/opticapg-logo.png']
-author = "Amanda French" 
+authors = ["Amanda French"] 
 description = "Optica Publishing Group was one of the earliest publishers to send ROR IDs to Crossref in DOI metadata. In this interview, we speak with them to learn more about their rigorous processes for cleaning organization names."
 +++ 
 
@@ -17,7 +17,7 @@ description = "Optica Publishing Group was one of the earliest publishers to sen
 
 [Optica Publishing Group](https://opg.optica.org/) was one of the earliest publishers to send ROR IDs to Crossref in DOI metadata. In this interview, we speak with them to learn more about their rigorous processes for cleaning organization names.
 
-{{% callout color="green" icon="no-icon" %}}
+{{< callout color="green" icon="no-icon" >}}
 
 ### Key quotations
 
@@ -35,7 +35,7 @@ description = "Optica Publishing Group was one of the earliest publishers to sen
 
 -- Chris Iannicello, Director of Business and Content Intelligence, Optica Publishing Group
 
-{{% /callout %}}
+{{< /callout >}}
 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
@@ -328,10 +328,10 @@ And we thank you so much.
 
 Thank you very much!
 
-{{% callout color="green" icon="fa-envelope" %}}
+{{< callout color="green" icon="fa-envelope" >}}
 
 Questions? Want to be featured in a ROR case study? Contact [community@ror.org](mailto:community@ror.org).
 
-{{% /callout %}}
+{{< /callout >}}
 
 

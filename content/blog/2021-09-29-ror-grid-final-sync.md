@@ -8,7 +8,7 @@ archives = ["2021"]
 style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lion-trio.jpg"
-author = "Maria Gould"
+authors = ["Maria Gould"]
 +++
 
 In July, ROR and GRID [announced](/blog/2021-07-12-ror-grid-the-way-forward) that the two registries would begin to diverge in Q4 2021 following GRID's final public release.
