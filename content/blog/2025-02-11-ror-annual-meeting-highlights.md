@@ -48,7 +48,7 @@ Finally, Michelle Doran of Ireland's National Open Research Forum gave an overvi
 
 ## Focusing on the Asia-Pacific region
 
-The session on "Successes and Opportunities for ROR in the Asia-Pacific Region," was itself a definite success, and we plan to hold more APAC-focused sessions in APAC-friendly time slots in the future. Even though some clever folks in the Asia-Pacific region have already realized the value of ROR, there's clearly lots of room to increase awareness and adoption of ROR in the Asia-Pacific region..
+The session on "Successes and Opportunities for ROR in the Asia-Pacific Region" was itself a definite success, and we plan to hold more APAC-focused sessions in APAC-friendly time slots in the future. Even though some clever folks in the Asia-Pacific region have already realized the value of ROR, there's clearly lots of room to increase awareness and adoption of ROR in the Asia-Pacific region..
 
 First, ROR Technical Community Manager Amanda French gave a brief introduction to ROR. Next, Aaron Ballagh of The Lens (based in Australia) explained how ROR is used to identify organizations in The Lens so that users can find scholarly works from researchers affiliated with a particular organization, then demonstrated an "institutional lineage" search lets a user find all the scholarly works associated with an organization and the organization’s "child" organizations.
 
