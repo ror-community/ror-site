@@ -66,7 +66,7 @@ I started at EMBL-EBI in 2016, and a couple of years into my time here I was get
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French
 
-You are in fact correct! I was not there, but having studied the [history of ROR](/about#history), I know a great deal of the technical work that did become ROR shortly thereafter was going on then. ROR's official launch date is January 1st, 2019, and it was the Crossref technical team that really did a lot of that work to stand that up. So I'm perfectly certain that in 2018 they were working on it, and I do think the ROR name was chosen in late 2018 or something like that.
+You are in fact correct! I was not there, but having studied the [history of ROR](/about/history), I know a great deal of the technical work that did become ROR shortly thereafter was going on then. ROR's official launch date is January 1st, 2019, and it was the Crossref technical team that really did a lot of that work to stand that up. So I'm perfectly certain that in 2018 they were working on it, and I do think the ROR name was chosen in late 2018 or something like that.
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Michael Parkin" >}} Michael Parkin
 
