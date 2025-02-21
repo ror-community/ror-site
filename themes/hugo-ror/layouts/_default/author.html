@@ -23,13 +23,13 @@
                        <h2>{{ .Title }}</h2>
                        
                        {{ if .Params.orcid }}
-                       <p><a href="{{ .Params.orcid }}" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" title="{{ . }}" /> {{ .Params.orcid}}</a></p>{{ end }}
+                       <p><a href="{{ .Params.orcid }}" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" /> {{ .Params.orcid }}</a></p>{{ end }}
                        
-                       {{ if eq .Params.type "person" }}                     
+                       {{ if eq .Params.authortype "person" }}                     
                        {{ if .Params.rorname }}
                        <p>{{ .Title }} is affiliated with {{ .Params.rorname }}{{ end }}{{ if .Params.ror }}: <a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}
                       
-                      {{ else if eq .Params.type "organization" }}
+                      {{ else if eq .Params.authortype "organization" }}
 						{{ if .Params.rorname }}
                        <p>The ROR ID for {{ .Params.rorname }} is {{ if .Params.ror }}<a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}{{ end }}                    
                       
@@ -51,9 +51,11 @@
                     		 
 <hr />
 
+              {{ $authorposts := where .Data.Pages "Type" "blog" }}
+			  {{ if $authorposts }}
+
               <h3>{{ .Title }}'s posts</h3>
             
-              {{ $authorposts := where .Data.Pages "Type" "blog" }}
               {{ range $authorposts }}          
 
                 <section class="post">
@@ -68,7 +70,8 @@
                       </div>
                       </div>
                 </section>
-              {{ end }}              
+              {{ end }}
+              {{ end }}         
                             
             </section>
                                     
