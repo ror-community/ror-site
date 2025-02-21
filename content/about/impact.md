@@ -8,8 +8,6 @@ description = "Learn about the impact of the Research Organization Registry thro
 aliases = ["/impact"]
 +++ 
 
-We use several qualitative and quantitative measures to assess ROR's impact. See the list of [who's integrating ROR](https://bit.ly/ror-integrations), read [case studies](/categories/case-studies) with ROR adopters, and explore data about ROR IDs in DOI metadata and more on this page.
-
 ## ROR IDs in Crossref metadata 
 
 <iframe width="911" height="713" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
