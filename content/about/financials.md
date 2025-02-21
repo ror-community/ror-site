@@ -22,7 +22,7 @@ In total, it cost $607,810 to operate ROR in 2023. This is fairly consistent wit
 
 Thanks to the generous support of the community, we were able to cover 58% of ROR’s operating expenses in 2023 from ROR supporter contributions and from our [multi-year grant from the Institute for Museum and Library Services](https://www.imls.gov/grants/awarded/lg-246305-ols-20). The remaining 42% of ROR’s expenses were covered in-kind by ROR’s three operating organizations. 
 
-People power open infrastructure, and ROR is no different. The majority (87%) of ROR’s expenses go toward dedicated personnel (see more information on the [ROR team](/about/#team)). The remaining 13% were non-personnel expenses, including AWS hosting fees, travel to meetings and conferences, and administrative expenses. 
+People power open infrastructure, and ROR is no different. The majority (87%) of ROR’s expenses go toward dedicated personnel (see more information on the [ROR team](/about//team)). The remaining 13% were non-personnel expenses, including AWS hosting fees, travel to meetings and conferences, and administrative expenses. 
 
 | Available funds (in USD) |
 |---|---|

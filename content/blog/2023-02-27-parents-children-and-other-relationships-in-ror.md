@@ -96,5 +96,5 @@ To learn more, check out [ROR's technical documentation](https://ror.readme.io),
 
 ---
 
-_This post was jointly written by members of the [ROR core team](/about/#core-team): Adam Buttrick (Metadata Curation Lead), Amanda French (Technical Community Manager), Maria Gould (Project Lead), and Liz Krznarich (Technical Lead)._ 
+_This post was jointly written by members of the [ROR core team](/about//team/#core-team): Adam Buttrick (Metadata Curation Lead), Amanda French (Technical Community Manager), Maria Gould (Project Lead), and Liz Krznarich (Technical Lead)._ 
 

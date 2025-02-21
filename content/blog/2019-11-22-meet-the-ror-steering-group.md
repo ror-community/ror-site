@@ -24,6 +24,6 @@ ROR is thrilled to announce that we are welcoming new members to the [ROR Steeri
 
 {{< figure src="/img/ror-steering-group.png" width="75%" >}}
 
-Approximately one year ago, a ROR project team formed as the outcome of the prior [OrgID initiative](https://ror.org/about/#history) to initiate a [startup effort to develop the first iteration of the ROR registry](https://ror.org/blog/2018-12-02-the-ror-of-the-crowd/). This team, a collaboration between California Digital Library, Crossref, DataCite, and Digital Science, [launched the registry](https://ror.org/blog/2019-02-10-announcing-first-ror-prototype/) in January 2019.
+Approximately one year ago, a ROR project team formed as the outcome of the prior [OrgID initiative](https://ror.org/about//history) to initiate a [startup effort to develop the first iteration of the ROR registry](https://ror.org/blog/2018-12-02-the-ror-of-the-crowd/). This team, a collaboration between California Digital Library, Crossref, DataCite, and Digital Science, [launched the registry](https://ror.org/blog/2019-02-10-announcing-first-ror-prototype/) in January 2019.
 
 Expanding the ROR Steering Group beyond the four organizations that launched ROR is key to driving adoption of ROR IDs, reinforcing community engagement, and supporting long-term sustainability. The Steering Group will help to guide ROR's strategic directions and champion the use of open identifiers for research organizations across the scholarly communication landscape.   

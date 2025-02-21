@@ -45,7 +45,7 @@ As mentioned above, ROR has already been doing some of this curation work, in co
 
 ## A vision for community-based curation
 
-ROR is a collaborative effort supported and adopted by stakeholders around the globe. [Community participation shaped the early vision for ROR](https://ror.org/about#history) and [continues to drive the project today](https://ror.org/blog/2020-11-11-who-is-the-ror-community) and distinguish it from similar initiatives.
+ROR is a collaborative effort supported and adopted by stakeholders around the globe. [Community participation shaped the early vision for ROR](https://ror.org/about/history) and [continues to drive the project today](https://ror.org/blog/2020-11-11-who-is-the-ror-community) and distinguish it from similar initiatives.
 
 From the very beginning, community involvement in the curation of ROR has been central to this vision. ROR's users and stakeholders have wide-ranging experiences working with persistent identifiers and scholarly infrastructure, whether in the context of libraries, research administration, platforms and repositories, and beyond. It is important that they be involved in decisions about how the registry is maintained.
 
