@@ -1,11 +1,11 @@
 +++ 
-title = "DataCite" 
+title = "Digital Science" 
 draft = false
 layout = "author"
 authortype = "organization"
 orcid =  ""
-rorname = "DataCite"
-ror = "https://ror.org/04wxnsj81"
+rorname = "Digital Science"
+ror = "https://ror.org/02ktfc112"
 link = ""
 team = "false"
 +++ 

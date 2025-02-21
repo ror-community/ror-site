@@ -1,11 +1,11 @@
 +++ 
-title = "ROR Core Team" 
+title = "ROR Leadership Team" 
 draft = false
 layout = "author"
 authortype = "group"
 orcid =  ""
 rorname = ""
 ror = ""
-link = "https://ror.org/about/team/#core-team"
+link = "https://ror.org/about/team/#operations-team"
 team = "false"
 +++ 

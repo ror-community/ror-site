@@ -1,11 +1,11 @@
 +++ 
-title = "DataCite" 
+title = "Crossref" 
 draft = false
 layout = "author"
 authortype = "organization"
 orcid =  ""
-rorname = "DataCite"
-ror = "https://ror.org/04wxnsj81"
+rorname = "Crossref"
+ror = "https://ror.org/02twcfp32"
 link = ""
 team = "false"
 +++ 

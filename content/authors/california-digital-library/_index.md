@@ -1,13 +1,11 @@
 +++ 
-title = "Adam Buttrick" 
+title = "California Digital Library" 
 draft = false
 layout = "author"
-type = "person"
-orcid =  "https://orcid.org/0000-0003-1507-1031"
+authortype = "organization"
+orcid =  ""
 rorname = "California Digital Library"
 ror = "https://ror.org/03yrm5c26"
 link = ""
-team = "true"
+team = "false"
 +++ 
-
-
