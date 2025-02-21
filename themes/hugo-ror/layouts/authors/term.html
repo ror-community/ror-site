@@ -3,7 +3,7 @@
 
   {{ partial "head.html" . }}
 
-  <body class='taxonomy'>
+  <body class="authors">
     <div class="wrapper" id="all">
       <header>
         {{ partial "nav.html" . }}
@@ -19,7 +19,7 @@
             <div class="col-md-9">
 
 
-             <section>                       
+             <section>       
                        <h2>{{- .Title -}}</h2>
                        {{- if eq .Params.team "true" -}}{{- if .Params.jobtitle -}}
                        <h3>{{- .Params.jobtitle -}}</h3>
