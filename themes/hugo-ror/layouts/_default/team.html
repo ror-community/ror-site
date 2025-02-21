@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  {{ partial "head.html" . }}
+
+  <body class="{{ .Section }}">
+    <div class="wrapper" id="all">
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      <div class="section section-banner" id="content">
+
+       {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
+
+        <div class="section container"> 
+          <div class="row">   
+            <div class="col-md-12 mr-auto">
+            
+            {{ if ne .Params.type "404" }}
+            
+            {{ partial "toc.html" . }}
+                   
+            {{ else }}
+            {{ end }}       
+            
+              <div>
+              <p>Hi I'm the team layout</p>
+                {{ .Content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

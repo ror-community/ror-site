@@ -16,7 +16,7 @@
 
         <div class="section container">
           <div class="row">
-            <div class="col-md-9">
+            <div class="col-md-12">
 
 
              <section>       
@@ -70,7 +70,7 @@
 
                 <section class="post">
                       <div class="col-md-12">
-                      <div class="medium-text">
+                      <div class="author-posts">
                       <div class="col-md-3">
                       {{ .Date.Format "Jan 02, 2006" }}
                       </div>
@@ -87,15 +87,7 @@
                                     
             </div>
 
-            <div class="col-md-3">
 
-              <!-- *** MENUS AND WIDGETS *** -->
-
-              {{ partial "sidebar.html" . }}
-
-              <!-- *** MENUS AND FILTERS END *** -->
-
-            </div>
           </div>
         </div>
       </section>
