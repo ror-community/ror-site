@@ -69,19 +69,19 @@ During its startup years (2019-2022) ROR operated on a mixed funding model that 
 
 Many talented individuals have given their expertise to ROR as part of the Core Team, the Operating Team, or as Alumni and Affiliates. If there are any current openings on the ROR team, they will be available on [our jobs page](/jobs). 
 
-{{% button color="green" link="/team" %}} See current and former ROR team members {{% /button %}}
+{{% button color="green" link="/about/team" %}} See current and former ROR team members {{% /button %}}
 
 ## Impact
 
 More and more organizations, systems, and researchers are using ROR every day, and we use both qualitative and quantitative measures to assess ROR's impact. If you're interested in who'd using ROR and how, you can see our list of [ROR integrations](https://bit.ly/ror-integrations) and read [case studies](/categories/case-studies) with ROR adopters. We also track ROR's impact through the growth of ROR IDs in Crossref and DataCite DOI metadata as well as in ORCID records, maintain a bibliography of published research that mentions ROR, and offer a public dashboard of ROR's API usage that can give insights into the how and how much people are using the ROR API. 
 
-{{% button color="green" link="/impact" %}} See how we track ROR's impact {{% /button %}}
+{{% button color="green" link="/about/impact" %}} See how we track ROR's impact {{% /button %}}
 
 ## History
 
 ROR is the culmination of several years of extensive community collaborations to develop a shared vision for a registry of organization identifiers. Planning for what would become ROR began in 2016, and ROR launched a "minimum viable registry" in January 2019. Since then, ROR has matured and expanded to become a widely-used persistent identifier for organization disambiguation. 
 
-{{% button color="green" link="/history" %}} Learn more about the history of ROR {{% /button %}}
+{{% button color="green" link="/about/history" %}} Learn more about the history of ROR {{% /button %}}
 
 ## Logos 
 
