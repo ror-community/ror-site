@@ -1,0 +1,36 @@
+<div class="row">
+            <div class="col-md-12">
+             <section>       
+                       <h2>Core team</h2>
+                       {{- if eq .Params.team "true" -}}{{- if .Params.jobtitle -}}
+                       <h3>{{- .Params.jobtitle -}}</h3>
+                       {{- end -}}{{- end -}}
+                       
+                       {{ if .Params.orcid }}
+                       <p class="pids">{{ .Title }}'s ORCID iD: <a href="{{ .Params.orcid }}" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" /> {{ .Params.orcid }}</a></p>{{ end }}
+                       
+                       {{ if eq .Params.authortype "person" }}                     
+                       {{ if .Params.rorname }}
+                       <p class="pids">{{ .Title }} is affiliated with {{ .Params.rorname }}{{ end }}{{ if .Params.ror }}: <a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}
+                      
+                      {{ else if eq .Params.authortype "organization" }}
+						{{ if .Params.rorname }}
+                       <p class="pids">The ROR ID for {{ .Params.rorname }} is {{ if .Params.ror }}<a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}{{ end }}                    
+                      
+                      {{ else }}
+                      {{ if .Params.ror }}
+                       <p class="pids"><a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}                       
+                       {{ end }}                                         
+                       
+                       {{ if .Params.link }}
+                       <p class="pids">{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" aria-label="View link"> {{ .Params.link }}</a></p>{{ end }}
+                       
+                       {{ if eq .Params.team "true" }}                     
+                        {{ if .Params.bio }}
+                       <p class="bio">{{ .Params.bio | markdownify }}</p>
+                       {{ end }}
+                       
+                       {{ end }}
+			</section>
+			</div>	
+</div>
