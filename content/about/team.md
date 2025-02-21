@@ -5,7 +5,7 @@ author = "Research Organization Registry (ROR)"
 draft = false 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
 description = "People who have worked on or for the Research Organization Registry (ROR)."
-aliases = "/team"
+aliases = ["/team"]
 +++ 
 
 ## Core team

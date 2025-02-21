@@ -19,7 +19,7 @@ As we have crossed the mid-point of 2023, we're taking a moment to reflect on wh
 
 -   [ROR integrations](/community/#whos-using-ror) are continuing to grow, and we're showcasing specific implementations in a new [case study series](/tags/case-studies/) on the ROR blog.
 
--   The [number of ROR IDs available in Crossref and DataCite](/about/#impact) is steadily increasing, which also feeds downstream sources like [OpenAlex](https://openalex.org/) and [DataCite Commons](https://commons.datacite.org/).
+-   The [number of ROR IDs available in Crossref and DataCite](/about//impact) is steadily increasing, which also feeds downstream sources like [OpenAlex](https://openalex.org/) and [DataCite Commons](https://commons.datacite.org/).
 
 -   ROR IDs are being recommended in a [growing set of national PID strategies](https://www.rd-alliance.org/groups/national-pid-strategies-wg) and in ongoing discussions and recommendations related to the [August 2022 OSTP memo](https://www.whitehouse.gov/wp-content/uploads/2022/08/08-2022-OSTP-Public-Access-Memo.pdf), including in feedback submitted in response to United States federal agencies' public access policies (see, for example, the [Association for Research Libraries' response to the NIH draft policy](https://www.arl.org/news/arl-comments-on-nih-plan-to-enhance-public-access-to-results-of-nih-supported-research/)).
 
