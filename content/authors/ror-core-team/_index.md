@@ -1,11 +1,16 @@
 +++ 
 title = "ROR Core Team" 
 draft = false
-layout = "author"
 authortype = "group"
 orcid =  ""
 rorname = ""
 ror = ""
 link = "https://ror.org/about/team/#core-team"
 team = "false"
+jobtitle = ""
+bio = ""
+aliases = "/ror-core-team"
 +++ 
+
+
+
