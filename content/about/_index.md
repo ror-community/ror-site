@@ -6,7 +6,6 @@ date = "2017-08-16"
 banner = "/img/banners/ROR_Banner-orange.jpg"
 aliases = [
     "/governance",
-	"/impact",
 	"/logos",
 	"/display-guidelines",
 ]
