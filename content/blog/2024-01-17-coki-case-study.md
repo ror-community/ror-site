@@ -103,7 +103,7 @@ Fascinating. Well, I hope you and your staff do refer those kinds of issues to R
 
 ### {{< figure src="/img/blog/coki/cameron-neylon.png" class="round-figure" alt="Cameron Neylon" >}} Cameron Neylon
   
-It raises lots of really important questions about the importance of [community governance](/about#governance-model). In these cases, a lot of the time, when someone tells us something's wrong, sometimes that's a mistake we've made, and we can correct that. Sometimes it's a mistake in someone else's data system, and then we can pass that on and explain it to them. And sometimes it's a thing where there's reasonable grounds for disagreement. 
+It raises lots of really important questions about the importance of [community governance](/about#governance). In these cases, a lot of the time, when someone tells us something's wrong, sometimes that's a mistake we've made, and we can correct that. Sometimes it's a mistake in someone else's data system, and then we can pass that on and explain it to them. And sometimes it's a thing where there's reasonable grounds for disagreement. 
 
 And in fact, what we said in this case was, "It's not our place to say whether that bookstore is part of that university. That's a decision you guys have to make, and here's the [ROR request form](https://curation-request.ror.org) for when you figure that out." And I think that's a really important part of the whole story of changing the way people think about corrections. 
 

@@ -25,7 +25,7 @@ Natasha Simons is Associate Director, Data & Services, for the [Australian Resea
 
 **About the ROR Steering Group**
 
-[Established in late 2019](/blog/2019-11-22-meet-the-ror-steering-group/), the ROR Steering Group is an advisory body that supports the registry’s strategic planning and decision-making activities and reflects ROR's global community of stakeholders. Group members provide feedback on ROR strategy and help drive awareness and adoption of ROR IDs through their respective networks and communities. The Steering Group comprises ROR’s [operating organizations](/about#governance-model) (California Digital Library, Crossref, and DataCite), who serve in a permanent capacity, as well as members representing external organizations, who serve rotating terms of 2-4 years. 
+[Established in late 2019](/blog/2019-11-22-meet-the-ror-steering-group/), the ROR Steering Group is an advisory body that supports the registry’s strategic planning and decision-making activities and reflects ROR's global community of stakeholders. Group members provide feedback on ROR strategy and help drive awareness and adoption of ROR IDs through their respective networks and communities. The Steering Group comprises ROR’s [operating organizations](/about#governance) (California Digital Library, Crossref, and DataCite), who serve in a permanent capacity, as well as members representing external organizations, who serve rotating terms of 2-4 years. 
 
 As Joy and Natasha join the 2023 cohort, two members of the group’s original cohort—Daniel Hook from Digital Science, and Clifford Lynch from the Coalition for Networked Information—will be cycling off. We are grateful to Daniel and Cliff for their guidance and support since ROR’s early days! 
 

@@ -59,7 +59,7 @@ ROR's early years following its launch in early 2019 were focused on developing 
 
 ### 2020 
 
-- California Digital Library, Crossref, and DataCite [signed the first memorandum of agreement](/about/#governance-model) for shared responsibility and governance of ROR in May 2020.
+- California Digital Library, Crossref, and DataCite [signed the first memorandum of agreement](/about/#governance) for shared responsibility and governance of ROR in May 2020.
 
 - In 2020, ROR was awarded grants from the Institute for Museum and Library Services (IMLS) and the National Science Foundation (NSF) to [implement a community-based curation model](https://www.imls.gov/grants/awarded/lg-246305-ols-20) and to [expand adoption of ROR IDs in research infrastructure](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2031172).
 

@@ -18,7 +18,7 @@ ROR is community-supported, community-driven, community-funded open infrastructu
 
 The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers.
 
-ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org) -- three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share [collective responsibility](/about#governance-model) for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
+ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org) -- three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share [collective responsibility](/about#governance) for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
 
 The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries, including **publishers, libraries, platform providers, university research offices, data repositories, CRIS systems, government agencies, funders, and more.** 
 
