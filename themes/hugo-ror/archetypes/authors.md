@@ -2,11 +2,11 @@
 title = "{{ title (replace .ContentBaseName "-" " ") }}" 
 draft = false
 layout = "author"
-type = ""
+authortype = ""
 orcid =  ""
 rorname = ""
 ror = ""
 link = ""
-staff = "No"
+team = "false"
 +++ 
 
