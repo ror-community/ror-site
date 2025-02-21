@@ -23,7 +23,7 @@
                        <h2>{{ .Title }}</h2>
                        
                        {{ if .Params.orcid }}
-                       <p><a href="{{ .Params.orcid }}" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" title="{{ . }}" /> {{ .Params.orcid}}</a></p>{{ end }}
+                       <p><a href="{{ .Params.orcid }}" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" /> {{ .Params.orcid }}</a></p>{{ end }}
                        
                        {{ if eq .Params.authortype "person" }}                     
                        {{ if .Params.rorname }}
