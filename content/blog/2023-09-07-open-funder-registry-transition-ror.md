@@ -84,7 +84,7 @@ Crossref has built tools based on OpenRefine for both the Funder Registry and RO
 
 ##### Community engagement models 
 
-The Funder Registry has been curated for over a decade through time and expertise generously donated by Elsevier. ROR offers more transparency and community involvement; it is [openly governed](https://ror.org/about/#governance-model) by Crossref, DataCite, and the California Digital Library and is advised by a global network of community stakeholders through its [Steering Group and](https://ror.org/community/#steering-group) Community Advisory Group. ROR is [openly curated](https://github.com/ror-community/ror-updates/issues) and is aided by a global [Curation Advisory Board](https://ror.org/registry/#curation-advisory-board) of volunteers. 
+The Funder Registry has been curated for over a decade through time and expertise generously donated by Elsevier. ROR offers more transparency and community involvement; it is [openly governed](https://ror.org/about/#governance) by Crossref, DataCite, and the California Digital Library and is advised by a global network of community stakeholders through its [Steering Group and](https://ror.org/community/#steering-group) Community Advisory Group. ROR is [openly curated](https://github.com/ror-community/ror-updates/issues) and is aided by a global [Curation Advisory Board](https://ror.org/registry/#curation-advisory-board) of volunteers. 
 
 ##### Summary
 
