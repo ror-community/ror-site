@@ -9,12 +9,6 @@ description = "People who have worked on or for the Research Organization Regist
 aliases = ["/team"]
 +++ 
 
-## Core team
-
-ROR's core team is responsible for all activities related to day-to-day operations and development. 
-
-
-
 ## Operations team
 
 The ROR operations team is responsible for strategic decision-making about registry resourcing and operations. This team comprises the ROR Director and a representative from each governing organization.
@@ -42,5 +36,3 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 - Dominika Tkaczyk, Crossref
 - Paul Vierkant, DataCite
 - Sarala Wimalaratne, DataCite
-
-
