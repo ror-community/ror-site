@@ -19,7 +19,7 @@ authors = ["Maria Gould"]
 
 Activities and milestones we're proud of in 2022 include:
 
--   **Expanding the ROR core team** (we hired curation lead [Adam Buttrick](https://ror.org/about/#adam-buttrick-metadata-curation-lead) and technical community manager [Amanda French](https://ror.org/about/#amanda-french-technical-community-manager), and shifted [Liz Krznarich](https://ror.org/about/#liz-krznarich-technical-lead) to technical lead).
+-   **Expanding the ROR core team** (we hired curation lead [Adam Buttrick](https://ror.org/about/team/#adam-buttrick) and technical community manager [Amanda French](https://ror.org/about/team/#amanda-french), and shifted [Liz Krznarich](https://ror.org/about/team/#liz-krznarich) to technical lead).
 
 -   **Updating the registry independently and implementing an end-to-end community-based curation process**: we [launched ROR's independent curation and data release process](https://ror.org/blog/2022-03-17-first-independent-release/) and began publishing registry updates on a regular basis in response to community feedback. We also onboarded new curators to ROR's [curation advisory board](https://ror.org/registry/#curation-advisory-board), expanding beyond the original pilot cohort. 
 
