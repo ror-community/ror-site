@@ -11,9 +11,6 @@
 							{{ if eq ($.Scratch.Get "pagetype") "404" }}
 								<li>{{ $.Title }}</li>
 								
-							{{ else if eq .Type "authors" }}						
-								<li>{{ $.Title }}</li>
-
 							{{ else }}
 
 								{{ range $index, $element := split .RelPermalink "/" }}
