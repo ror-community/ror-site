@@ -1,17 +1,15 @@
-<p class="author">
+<div class="clearfix">
 
-	{{ if .Params.authors }}
-	
-	{{ $authors := .Params.authors }}
-	
-	By {{ delimit $authors ", " " and " }}
-	
-    {{ else if .Params.author }}
-     By {{ .Params.author }}
-          
-    {{ else }}
-     By {{ .Site.Params.author.name }}
-	{{ end }}
-	
-	| {{ .Date.Format "January 2, 2006" }}
+<p class="author">
+By 
+
+{{- range $index, $author := .GetTerms "authors" }}
+{{- if gt $index 0 }}, {{- end }}
+
+<a href="/authors/{{ .Page.Title | urlize }}">{{- .Page.Title }}</a>
+
+{{- end }} | {{ .Date.Format "January 2, 2006" }}
+
 </p>
+
+</div>

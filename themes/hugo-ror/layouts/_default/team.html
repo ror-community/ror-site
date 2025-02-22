@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  
+  {{ partial "head.html" . }}
+
+  <body class="{{ .Section }}">
+    <div class="wrapper" id="all">
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      <div class="section section-banner" id="content">
+
+       {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
+
+        <div class="section container"> 
+          <div class="row">   		
+            <div class="col-md-12 mr-auto">
+            
+            <div class="ror-toc">
+				<nav id="TableOfContents">
+			  <ul>
+				<li><a href="#core-team">Core team</a></li>
+				<li><a href="#operations-team">Operations team</a></li>
+				<li><a href="#alumni-and-affiliates">Alumni and affiliates</a></li>
+			  </ul>
+			</nav>
+			</div>       
+            
+              <div>
+              
+              {{ partial "team-members.html" . }}
+              
+                {{ .Content }}
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

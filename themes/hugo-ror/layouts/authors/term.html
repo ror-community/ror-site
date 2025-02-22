@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body class="authors">
+    <div class="wrapper" id="all">
+      <header>
+        {{ partial "nav.html" . }}
+      </header>
+      <section class="section section-banner" id="content">
+
+       {{ partial "pagetitle.html" . }}
+       
+       {{ partial "breadcrumbs.html" . }}
+
+        <div class="section container">
+          <div class="row">
+            <div class="col-md-12">
+
+
+             <section>       
+                       <h2>{{- .Title -}}</h2>
+                       {{- if eq .Params.team "true" -}}{{- if .Params.jobtitle -}}
+                       <h3>{{- .Params.jobtitle -}}</h3>
+                       {{- end -}}{{- end -}}
+                       
+                       {{ if .Params.orcid }}
+                       <p class="pids">{{ .Title }}'s ORCID iD: <a href="{{ .Params.orcid }}" aria-label="View ORCID record"><img src="/img/ORCID-iD_icon_vector.svg"  alt="ORCID iD" /> {{ .Params.orcid }}</a></p>{{ end }}
+                       
+                       {{ if eq .Params.authortype "person" }}                     
+                       {{ if .Params.rorname }}
+                       <p class="pids">{{ .Title }} is affiliated with {{ .Params.rorname }}{{ end }}{{ if .Params.ror }}: <a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}
+                      
+                      {{ else if eq .Params.authortype "organization" }}
+						{{ if .Params.rorname }}
+                       <p class="pids">The ROR ID for {{ .Params.rorname }} is {{ if .Params.ror }}<a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}{{ end }}                    
+                      
+                      {{ else }}
+                      {{ if .Params.ror }}
+                       <p class="pids"><a href="{{ .Params.ror }}" aria-label="View ROR record"><img src="/img/ror-icon-rgb.svg" alt="ROR logo" /> {{ .Params.ror }}</a></p>{{ end }}                       
+                       {{ end }}                                         
+                       
+                       {{ if .Params.link }}
+                       <p class="pids">{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" aria-label="View link"> {{ .Params.link }}</a></p>{{ end }}
+                       
+                       {{ if eq .Params.team "true" }}                     
+     <p><a class="btn btn-sm btn-round green" href="/about/team/#{{ .Title | urlize }}">Learn more about {{ .Title }}</a></p>
+                  
+                       {{ end }}
+                       
+		  {{ .Content }}
+		  
+
+			</section>
+                            
+<section>             
+                    		 
+                    		 
+<hr />
+
+              {{ $authorposts := where .Data.Pages "Type" "blog" }}
+			  {{ if $authorposts }}
+
+              <h3>{{ .Title }}'s posts</h3>
+            
+              {{ range $authorposts }}          
+
+                <section class="post">
+                      <div class="col-md-12">
+                      <div class="author-posts">
+                      <div class="col-md-3">
+                      {{ .Date.Format "Jan 02, 2006" }}
+                      </div>
+                      <div class="col-md-9">
+                   <a href="{{ .Permalink }}">{{ .Title }}</a>
+                      </div>
+                      </div>
+                      </div>
+                </section>
+              {{ end }}
+              {{ end }}         
+                            
+            </section>
+                                    
+            </div>
+
+
+          </div>
+        </div>
+      </section>
+    </div>
+
+    {{ partial "subscribe.html" . }}
+    {{ partial "socials.html" . }}
+    {{ partial "footer.html" . }}
+    {{ partial "scripts.html" . }}
+  </body>
+</html>

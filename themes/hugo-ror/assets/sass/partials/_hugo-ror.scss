@@ -7022,6 +7022,12 @@ font-size: 2.75rem;
 }
 }
 
+/* jumbotron */ 
+
+.jumbotron { 
+	padding: .75em 0 .75em 0;
+}
+
 
 /* header anchor links */
 
@@ -7144,5 +7150,21 @@ margin-bottom: 1em;
 	margin-left:auto;
   	margin-right:auto;
   	border: 1px solid gray;
+}
+
+
+/* author page */
+
+.author-posts { 
+font-size:large; 
+} 
+
+.pids {
+font-size:large;
+margin-bottom: .5rem;
+}
+
+.bio {
+margin-top: 2rem;
 }
 
