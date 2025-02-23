@@ -16,7 +16,7 @@
     {{ range $teampages.ByWeight }}
  
 	<ul>
-    <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>{{ if .Params.jobtitle }}, {{ .Params.jobtitle }}{{ end }}</li>
+    <li><a href="{{ .Page.RelPermalink }}">{{ .Title }}</a>{{ if .Params.jobtitle }}, {{ .Params.jobtitle }}{{ end }}, {{ if .Params.rorname }}{{ .Params.rorname }}{{ end }}</li>
 	</ul>
                                           
     {{ end }}    
