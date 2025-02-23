@@ -88,5 +88,5 @@ enableRobotsTXT = true
   category = 'categories'
   tag = 'tags'
   archive = 'archives'
-  authors = 'authors'
+  author = 'authors'
   
