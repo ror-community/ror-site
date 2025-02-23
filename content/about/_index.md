@@ -98,10 +98,9 @@ To obtain official versions of the ROR logo, please first visit our display guid
 - Metadata and curation questions: registry@ror.org 
 - Community and outreach questions: community@ror.org 
 
-You can also book a Zoom meeting with Technical Community Manager Amanda French. 
+You can also [book a Zoom meeting](https://calendly.com/ror-chat) with Technical Community Manager Amanda French. 
 
-{{< button color="green" link="https://calendly.com/ror-chat" >}} Book a Zoom meeting to discuss ROR {{< /button >}}
-
+---
 
 {{< callout icon="fa-envelope" >}}
 
