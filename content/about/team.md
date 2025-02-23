@@ -13,7 +13,7 @@ aliases = ["/team"]
 
 The ROR operations team is responsible for strategic decision-making about registry resourcing and operations. This team comprises the ROR Director and a representative from each governing organization.
 
-- [Maria Gould](https://datacite.org/team.html) (ROR Director), DataCite
+- [Maria Gould](/maria-gould), DataCite 
 - [John Chodacki](https://cdlib.org/contact/staff_directory/john-chodacki-staff-profile/), California Digital Library
 - [Ed Pentz](https://www.crossref.org/people/ed-pentz/), Crossref
 - [Matt Buys](https://datacite.org/team.html), DataCite
@@ -36,3 +36,7 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 - Dominika Tkaczyk, Crossref
 - Paul Vierkant, DataCite
 - Sarala Wimalaratne, DataCite
+
+{{< callout >}}
+Interested in joining the ROR team? If there are any current openings, they will be available on our [jobs page](/jobs).
+{{< /callout >}}
