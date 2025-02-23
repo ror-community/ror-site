@@ -44,9 +44,10 @@
                        {{ if .Params.link }}
                        <p class="pids">{{ .Title }}:{{end }}{{ if .Params.link }} <a href="{{ .Params.link }}" aria-label="View link"> {{ .Params.link }}</a></p>{{ end }}
                        
-                       {{ if eq .Params.team "true" }}                     
-     <p><a class="btn btn-sm btn-round green" href="/about/team/#{{ .Title | urlize }}">Learn more about {{ .Title }}</a></p>
-                  
+                       {{ if eq .Params.team "true" }}   
+                       	{{ if .Params.bio }}                  
+		    			 <p>{{ .Params.bio | markdownify }}</p>
+                  		{{ end }}
                        {{ end }}
                        
 		  {{ .Content }}
