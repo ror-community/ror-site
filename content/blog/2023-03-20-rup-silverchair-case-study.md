@@ -83,7 +83,7 @@ And just a quick mention: we've recently introduced a step in our production wor
 
 ### {{< figure src="/img/adam-sq-200.jpg" class="round-figure" alt="Adam Buttrick" >}} Adam Buttrick
 
-That's okay. That's [my job](/about/team/#adam-buttrick).
+That's okay. That's [my job](/adam-buttrick).
 
 ### {{< figure src="/img/blog/rup/rodonnell.jpg" class="round-figure" alt="Rob O'Donnell" >}} Rob O'Donnell
 
