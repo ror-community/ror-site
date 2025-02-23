@@ -3,7 +3,7 @@
 
   {{ partial "head.html" . }}
 
-  <body class="authors">
+  <body class="{{ .Section }}">
     <div class="wrapper" id="all">
       <header>
         {{ partial "nav.html" . }}
@@ -46,7 +46,7 @@
                        
                        {{ if eq .Params.team "true" }}   
                        	{{ if .Params.bio }}                  
-		    			 <p>{{ .Params.bio | markdownify }}</p>
+		    			 <p class="bio">{{ .Params.bio | markdownify }}</p>
                   		{{ end }}
                        {{ end }}
                        
