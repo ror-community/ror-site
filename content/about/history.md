@@ -8,9 +8,9 @@ description = "History of the Research Organization Registry (ROR), first planne
 aliases = "/history"
 +++ 
 
-{{< figure src="/img/history-of-ror.png" class="blog-figure" alt="Timeline with five phases: Pre-ROR 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
+{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases: Pre-ROR 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
 
-## Pre-history of ROR
+## Pre-ROR
 
 Between 2016 and 2018, a group of 17 organizations with a shared purpose invested their time and energy into what was then known as the "Org ID" initiative, with the goal of defining requirements for an open, community-led organization identifier registry that would benefit all of our communities.
 
