@@ -83,7 +83,7 @@ More and more organizations, systems, and researchers are using ROR every day, a
 
 ROR is the culmination of several years of extensive community collaborations to develop a shared vision for a registry of organization identifiers. Planning for what would become ROR began in 2016, and ROR launched a "minimum viable registry" in January 2019. Since then, ROR has matured and expanded to become a widely-used persistent identifier for organization disambiguation. 
 
-{{< button color="green" link="/about/history" >}} Learn more about the history of ROR {{< /button >}}
+{{< button color="green" link="/about/history" >}} See a timeline of ROR milestones {{< /button >}}
 
 ## Logos 
 
