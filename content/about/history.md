@@ -111,7 +111,7 @@ ROR's early years following its launch in early 2019 were focused on developing 
 
 - ROR [released version 2.1 of its schema](https://ror.readme.io/changelog/2024-12-12-schema-v2-1) in December 2024.
 
-- In the course of the year, ROR processes over 8,000 requests for changes or additions to the registry (a 44% increase in request volume over 2023) and adds over 4,000 new records, bringing the total number of records in ROR to over 111,000. 
+- In the course of the year, ROR processed over 8,000 requests for changes or additions to the registry (a 44% increase in request volume over 2023) and added over 4,000 new records, bringing the total number of records in ROR to over 111,000. 
 
 - Read ROR's 2024 [Year in Review](/blog/2024-12-17-year-in-review/).
 
