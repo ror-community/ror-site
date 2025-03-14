@@ -8,7 +8,9 @@ description = "History of the Research Organization Registry (ROR), first planne
 aliases = "/history"
 +++ 
 
-## Pre-history of ROR
+{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases: Pre-ROR 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
+
+## Pre-ROR
 
 Between 2016 and 2018, a group of 17 organizations with a shared purpose invested their time and energy into what was then known as the "Org ID" initiative, with the goal of defining requirements for an open, community-led organization identifier registry that would benefit all of our communities.
 
@@ -47,7 +49,7 @@ The MVR and first registry release included ROR IDs and metadata for 91,625 orga
 
 ROR's early years following its launch in early 2019 were focused on developing the registry's infrastructure beyond the MVR, raising community awareness and encouraging adoption, establishing a governance structure, and building a foundation for long-term sustainability.
 
-- ROR's [Community Advisory Group](/community) was established in March 2019 and began to meet in bimonthly online calls.
+- ROR's Community Advisory Group was established in March 2019 and began to meet in bimonthly online Community Calls.
 
 - [Dryad became the first ROR adopter](/blog/2019-07-10-ror-ing-together-with-dryad/) in July 2019.
 
@@ -57,6 +59,8 @@ ROR's early years following its launch in early 2019 were focused on developing 
 
 - ROR's [inaugural Steering Group](/blog/2019-11-22-meet-the-ror-steering-group/) was established in November 2019.
 
+- Read [A Reflection on ROR's First Year](/blog/2019-12-17-year-in-review/).
+
 ### 2020 
 
 - California Digital Library, Crossref, and DataCite [signed the first memorandum of agreement](/about/#governance) for shared responsibility and governance of ROR in May 2020.
@@ -65,9 +69,11 @@ ROR's early years following its launch in early 2019 were focused on developing 
 
 - ROR became one of the first adopters of the [Principles of Open Scholarly Infrastructure](/blog/2020-12-16-aligning-ror-with-posi/) in December 2020.
 
+- Read about [ROR's 2020 Annual Report](/blog/2021-03-23-ror-annual-report/).
+
 ### 2021
 
-- In July 2021, GRID [announced plans to sunset its public data and officially pass the torch to ROR](/blog/2021-07-12-ror-grid-the-way-forward/).
+- In July 2021, GRID [announced plans to sunset its public data and officially pass the torch to ROR](/blog/2021-07-12-ror-grid-the-way-forward/). 
 
 - Crossref [announced support for ROR IDs](https://www.crossref.org/blog/some-rip-roring-news-for-affiliation-metadata/) in its DOI metadata schema in July 2021.
 
@@ -82,6 +88,35 @@ ROR's early years following its launch in early 2019 were focused on developing 
 - ROR [formalized its sustainability model](/blog/2022-10-10-strengthening-sustainability) in September 2022.
 
 - ROR was [selected by SCOSS as essential open scholarly infrastructure](/blog/2022-11-22-scoss-selects-ror) in November 2022.
+
+- Read ROR's [2022 Year in Review](/blog/2022-12-20-year-in-review/).
+
+## Expansion phase
+
+### 2023
+
+- In early 2023, ROR opened its online Annual Community Meetings and bimonthly Community Calls to public registration, began [publishing slides from the calls](/events), and began releasing videos of the [calls on YouTube](https://youtube.com/@researchorgs). 
+
+- Crossref and ROR [announced that the Open Funder Registry would be merged into ROR](/blog/2023-09-07-open-funder-registry-transition-ror-cross-post/) in September 2023. 
+
+- ROR launched the [beta version of version 2 of its API and schema](/blog/2023-09-14-beta-test/) in September 2023. 
+
+- Read ROR's [2023 Year in Review](/blog/2023-12-15-ror-year-in-review-2023/).
+
+### 2024 
+
+- ROR [released version 2 of its API and schema](/blog/2024-04-15-announcing-ror-v2/) in April 2024. 
+
+- New ROR integrations were announced by [Springer Nature](/blog/2024-02-20-ror-fifth-anniversary/), [American Physical Society](/blog/2024-07-23-aps-adopts-ror/), [DSpace 8.0 and DSpace-CRIS](/events/2024-10-03-ror-in-dspace/), [Clarivate™ Web of Science](/blog/2024-12-18-clarivate-integrates-ror/), and many more. 
+
+- ROR [released version 2.1 of its schema](https://ror.readme.io/changelog/2024-12-12-schema-v2-1) in December 2024.
+
+- In the course of the year, ROR processed over 8,000 requests for changes or additions to the registry (a 44% increase in request volume over 2023) and added over 4,000 new records, bringing the total number of records in ROR to over 111,000. 
+
+- Read ROR's 2024 [Year in Review](/blog/2024-12-17-year-in-review/).
+
+
+
 
 
 
