@@ -8,9 +8,9 @@ description = "History of the Research Organization Registry (ROR), first planne
 aliases = "/history"
 +++ 
 
-{{< figure src="/img/history-of-ror.png" alt="Timeline with five phases: Pre-ROR 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
+{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases: Pre-ROR 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
 
-## Pre-history of ROR
+## Pre-ROR
 
 Between 2016 and 2018, a group of 17 organizations with a shared purpose invested their time and energy into what was then known as the "Org ID" initiative, with the goal of defining requirements for an open, community-led organization identifier registry that would benefit all of our communities.
 
@@ -111,7 +111,7 @@ ROR's early years following its launch in early 2019 were focused on developing 
 
 - ROR [released version 2.1 of its schema](https://ror.readme.io/changelog/2024-12-12-schema-v2-1) in December 2024.
 
-- In the course of the year, ROR processes over 8,000 requests for changes or additions to the registry (a 44% increase in request volume over 2023) and adds over 4,000 new records, bringing the total number of records in ROR to over 111,000. 
+- In the course of the year, ROR processed over 8,000 requests for changes or additions to the registry (a 44% increase in request volume over 2023) and added over 4,000 new records, bringing the total number of records in ROR to over 111,000. 
 
 - Read ROR's 2024 [Year in Review](/blog/2024-12-17-year-in-review/).
 
