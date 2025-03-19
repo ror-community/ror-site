@@ -1,6 +1,6 @@
 <div class="clearfix">
 
-<p class="author">
+<p class="authordate">
 By 
 
 {{- range $index, $author := .GetTerms "authors" }}
@@ -10,6 +10,10 @@ By
 
 {{- end }} | {{ .Date.Format "January 2, 2006" }}
 
+</p>
+
+<p class="doi">
+{{ .Params.doi }}
 </p>
 
 </div>
