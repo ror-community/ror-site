@@ -11,6 +11,7 @@ thumb = "/img/ror-v2-launch-shadow-sparkles.gif"
 images = ['img/ror-v2-launch-shadow-sparkles.gif']
 authors = ["ROR Core Team"]
 description = "Today, we are delighted to announce the launch of version 2 of the ROR schema and API! This new version of our schema and API will serve as a rock-solid foundation for everything ROR users want to accomplish now and in the future."
+doi = ""
 +++
 
 {{< callout color="green" icon="no-icon" >}}

@@ -11,6 +11,7 @@ thumb = "/img/blog/openalex/OpenAlex-logo.png"
 images = ['img/blog/openalex/OpenAlex-logo.png']
 authors = ["Amanda French", "Adam Buttrick"]
 description = "Justin Barrett, Lead Machine Learning Engineer for OpenAlex at OurResearch, talks with ROR Technical Community Manager Amanda French and ROR Curation Lead Adam Buttrick about using ROR in OpenAlex both as an identifier for institutions and as a dataset for training machine learning models."
+doi = ""
 +++
 
 Justin Barrett, Lead Machine Learning Engineer for OpenAlex at OurResearch, talks with ROR Technical Community Manager Amanda French and ROR Curation Lead Adam Buttrick about using ROR both as an identifier for institutions in OpenAlex and as a dataset for training machine learning models that enrich OpenAlex metadata.

@@ -12,6 +12,8 @@ images = ['/img/blog/rrid-ror/iconmonstr-flask-9-240.png']
 authors = ["Anita Bandrowski", "Amanda French"] 
 description = "This blog post explores the difference between 'core facilities' in RRID and 'facilities' in ROR and provides guidance for those who run facilities on how to effectively use these identifiers."
 aliases = [ "/blog/2024-11-27-rrid-ror-facilities" ]
+doi = ""
+
 +++ 
 
 {{< figure src="/img/blog/rrid-ror/iconmonstr-flask-9-240.png" class="featured-figure" alt="Icon Monster flask" >}}

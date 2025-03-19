@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-couple-sq.jpg"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 ROR is looking for a data manager to lead metadata curation activities for the registry, including coordinating registry updates and maintenance, working with ROR’s community curation advisors, and developing and implement long-term curation policies and practices. This is an exciting time to join the ROR team and support ROR's emerging independent, community-based curation model.

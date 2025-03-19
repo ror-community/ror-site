@@ -11,6 +11,7 @@ thumb = "/img/blog/clearskies/clear-skies.png"
 images = ['/img/blog/clearskies/clear-skies.png']
 authors = ["Amanda French"]
 description = "Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research integrity with tools like Papermill Alarm, why such tools can assist but can't replace human investigators, and what's so important for data scientists about free and open identifers like ROR"
+doi = ""
 +++
 
 

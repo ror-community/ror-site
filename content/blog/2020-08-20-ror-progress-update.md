@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-sq.jpg"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 We're more than halfway through 2020, and it has already been a year like no other. In the midst of global upheaval and uncertainty, work on the Research Organization Registry continues. Building and sustaining community and connections through open scholarly infrastructure seems more important than ever.

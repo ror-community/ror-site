@@ -11,6 +11,7 @@ thumb = "/img/lion-ball-statue-sq.jpg"
 images = ['/img/lion-ball-statue-sq.jpg']
 authors = ["Maria Gould"]
 description = ""
+doi = ""
 +++
 
 As we have crossed the mid-point of 2023, we're taking a moment to reflect on what has already been a very busy year for ROR!

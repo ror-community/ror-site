@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/scoss-thumb.png"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 We are thrilled to announce that ROR has been selected by [SCOSS](https://scoss.org) as essential open infrastructure and will be highlighted in the latest SCOSS campaign, which [kicked off this week](https://scoss.org/4thpledgingroundannouncment/).

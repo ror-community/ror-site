@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lions-in-lisbon-sq.jpg"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 The Research Organization Registry is a cross-organizational and multi-stakeholder initiative. ROR is run by a small group of steering organizations in collaboration with a broad network of community advisors and supporters.

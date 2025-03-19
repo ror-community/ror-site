@@ -11,6 +11,7 @@ thumb = "/img/lion-closeup-1200.jpg"
 images = ['/img/lion-closeup-1200.jpg']
 authors = ["Adam Buttrick"] 
 description = "OpenAlex has added a new metadata matching strategy co-developed by ROR and Crossref to its affiliation matching processes: ROR is also investigating the prospect of incorporating this new matching strategy into the ROR API in 2025."
+doi = ""
 +++ 
 
 {{< figure src="/img/lion-closeup-1200.jpg" alt="Closeup of male lion with mane" class="featured-figure" >}} 

@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/fairsharing/fairsharing-data-readiness.jpg"
 authors = ["Amanda French"]
+doi = ""
+
 +++
 
 In this installment of the ROR Case Studies series, we talk with Allyson Lister, Content and Community Lead for FAIRsharing, a cross-disciplinary registry of scientific standards, databases, and policies, about how and why FAIRsharing used ROR to help make organizations first-class citizens in their data model.

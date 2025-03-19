@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-reflection-sq.jpg"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 Some of the most frequent questions ROR receives are about what it means when an organization is in ROR, and how organizations end up in the registry in the first place. Many of you are understandably curious about how ROR records are added and updated. So, we thought this would be a good time to talk about how the registry is being maintained and how this process evolving.

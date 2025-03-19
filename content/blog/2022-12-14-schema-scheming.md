@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/ror-elements-tech-u-kenya.png"
 authors = [ "Amanda French", "Liz Krzarnich" ]
+doi = ""
+
 +++
 
 {{< callout color="green" icon="no-icon" >}} 

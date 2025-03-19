@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-sq.jpg"
 authors = ["ROR Leadership Team"]
+doi = ""
+
 +++
 
 The scholarly community depends on a network of open identifier and metadata infrastructure. Content identifiers and contributor identifiers are foundational components of this network. But an additional component has long been missing from this picture: open, stakeholder-governed infrastructure for research organization identifiers and their associated metadata.

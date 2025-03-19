@@ -11,6 +11,7 @@ thumb = "/img/blog/matching-correctness/matching-strategy-criteria.png"
 images = ['/img/blog/matching-correctness/matching-strategy-criteria.png']
 authors = ["Dominika Tkaczyk", "Adam Buttrick"] 
 description = "The fifth and final blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk outlines a set of pragmatic criteria for making decisions about metadata matching."
+doi = ""
 +++ 
 
 {{< figure src="/img/blog/matching-correctness/matching-strategy-criteria.png" alt="Six criteria for making decisions about metadata matching: Openness, Explainability, Complexity, Flexibility, Resources, and Speed." class="featured-figure" >}}

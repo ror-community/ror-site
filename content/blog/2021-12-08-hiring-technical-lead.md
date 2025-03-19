@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-couple-sq.jpg"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 ROR is looking for a Senior Software Engineer to join as our Technical Lead, based at DataCite. You will be leading, developing, and architecting ROR services and infrastructure. ROR is a collaborative effort with resourcing from multiple organizations. The ROR Technical Lead will work on the ROR project according to priorities agreed with the ROR Operations Team, and will be part of the DataCite development team, and report to DataCite's Engineering Director.
 

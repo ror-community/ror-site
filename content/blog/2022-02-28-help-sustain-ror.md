@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 ## **ROR begins a new round of community fundraising**

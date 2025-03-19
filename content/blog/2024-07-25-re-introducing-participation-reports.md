@@ -11,6 +11,7 @@ thumb = "/img/blog/prep/prep-2024-ror.png"
 images = ['/img/blog/prep/prep-2024-ror.png']
 authors = ["Lena Stoll"] 
 description = "Crossref, with the help of CWTS Leiden, has just released an exciting update to their participation report, adding metrics for both affiliations in general and ROR IDs in particular. Now Crossref members can easily see how well they are doing in providing open affiliation metadata."
+doi = ""
 +++ 
 
 {{< figure src="/img/blog/prep/prep-2024-ror.png" class="featured-figure" alt="University of Szeged ROR ID percentage shown in Crossref PREP" >}}

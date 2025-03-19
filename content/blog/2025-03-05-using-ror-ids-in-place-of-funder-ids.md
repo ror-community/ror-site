@@ -11,6 +11,7 @@ thumb = "/img/crossref-social.png"
 images = ['/img/crossref-social.png']
 authors = ["Patricia Feeney"] 
 description = "Crossref members can now use ROR IDs to identify funders in any place where they currently use Funder IDs in their metadata."
+doi = ""
 +++ 
 
 

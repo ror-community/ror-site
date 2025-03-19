@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/roaringcats-sq.png"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 ROR is the [Research Organization Registry](https://ror.org), a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. 

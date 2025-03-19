@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/lion-profile-bw-sq.jpg"
 authors = ["Liz Krznarich"]
+doi = ""
+
 +++
 
 2022 was a big year for ROR in many ways, but it was especially notable from a tech standpoint. In early 2022, [we built tools and processes that allowed ROR to begin curating the registry separately from GRID](https://ror.org/blog/2022-03-17-first-independent-release/), which quickly opened possibilities for tackling projects that had been waiting on the back burner until ROR became fully independent.

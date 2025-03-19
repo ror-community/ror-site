@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/banners/lion-trio.jpg"
 authors = [ "Dominika Tkaczyk", "Maria Gould" ]
+doi = ""
+
 +++
 
 ROR [launched in January 2019](/blog/2019-02-10-announcing-first-ror-prototype) with records for nearly 100,000 research organizations, all with unique IDs and associated metadata. ROR data is useful for a variety of reasons and for a variety of users, including both humans and machines. It is essential for ROR to have robust mechanisms for searching, retrieving, and filtering.

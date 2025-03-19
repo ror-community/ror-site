@@ -11,6 +11,7 @@ thumb = "/img/blog/curvenote/curvenote-logo.png"
 images = ['/img/blog/curvenote/curvenote-logo.png']
 authors = ["Amanda French"]
 description = "In this interview with Curvenote cofounder Rowan Cockett, we envision a world in which an authoring and publication platform helps scientists collaborate earlier, publish faster, and easily use structured metadata to create fully connected and highly interactive publications and portfolios."
+doi = ""
 +++
 
 {{< figure src="/img/blog/curvenote/curvenote-logo.png" class="featured-figure" alt="Curvenote logo" >}}

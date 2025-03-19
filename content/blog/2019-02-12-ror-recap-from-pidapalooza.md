@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ror-matching-game-banner.jpg"
 thumb = "/img/banners/ror-lion-mask.jpg"
 authors = ["Maria Gould"]
+doi = ""
+
 +++
 
 In the days following the [ROR community meeting in Dublin](/blog/2019-02-10-announcing-first-ror-prototype), we had a chance to spread the word about ROR in presentations at [PIDapalooza](https://pidapalooza.org/), the annual festival for persistent identifiers. Members of the ROR project team led an [interactive session](https://pidapalooza19.sched.com/event/JaVO/lets-ror-together) that included an affiliation-matching game to demonstrate the messiness of identifying and aligning metadata about an institution, and discuss how ROR IDs can address these challenges. The session culminated with participants looking up the ROR IDs for their own institutions and drawing them on their very own lion masks, reflecting the twin themes of uniqueness and community that are so central to ROR's aims.
