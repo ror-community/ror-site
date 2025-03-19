@@ -110,4 +110,4 @@ resources/
 public/
 .hugo_build.lock
 bruce.toml
-robots.txt
+theme/hugo-ror/layouts/robots.txt
