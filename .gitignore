@@ -110,4 +110,8 @@ resources/
 public/
 .hugo_build.lock
 bruce.toml
+<<<<<<< HEAD
 themes/hugo-ror/layouts/robots.txt
+=======
+theme/hugo-ror/layouts/robots.txt
+>>>>>>> staging

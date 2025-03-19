@@ -9,6 +9,7 @@ style = "card-plain"
 banner = "/img/banners/lions-ban.jpg"
 thumb = "/img/icon-compass.png"
 authors = ["Maria Gould"]
+description = "ROR is thrilled to announce that we are welcoming new members to the ROR Steering Group."
 +++
 
 ROR is thrilled to announce that we are welcoming new members to the [ROR Steering Group](https://ror.org/about/#steering-group). The group now consists of the following members:
