@@ -10,7 +10,7 @@ banner = "/img/banners/city-ban.jpg"
 thumb = "/img/banners/city-square.jpg"
 authors = ["John Chodacki"]
 description = "An update on the progress of the Org ID initiative led by California Digital Library, Crossref, DataCite, and ORCID."
-doi = ""
+doi = "https://doi.org/10.71938/ftt9-w955"
 
 +++
 
