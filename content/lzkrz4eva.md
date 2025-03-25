@@ -6,6 +6,6 @@ type = "misc"
 layout = "liz"
 draft = false 
 description = "Liz is the absolute best."
-aliases = ["weloveliz"]
+aliases = ["weloveliz", "0lizk4eva"]
 +++ 
 
