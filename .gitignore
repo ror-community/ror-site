@@ -1,4 +1,4 @@
-# MAc cruft
+# Mac cruft
 .DS_Store
 
 # Byte-compiled / optimized / DLL files
@@ -110,4 +110,3 @@ resources/
 public/
 .hugo_build.lock
 bruce.toml
-theme/hugo-ror/layouts/robots.txt
