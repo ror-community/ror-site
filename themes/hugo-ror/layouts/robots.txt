@@ -1,4 +1,21 @@
+{{ if eq .Site.BaseURL "https://ror.org/" }}
+
+User-agent: *
+
+{{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
+
 User-agent: *
 {{ range .Pages }}
 Disallow: {{ .RelPermalink }}
+{{ end }}
+
+{{ else if eq .Site.BaseURL "https://dev.ror.org/" }}
+
+User-agent: *
+{{ range .Pages }}
+Disallow: {{ .RelPermalink }}
+{{ end }}
+
+{{ else }}
+
 {{ end }}
