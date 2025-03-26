@@ -42,6 +42,30 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/WHPcM_WBQo6rsZW8ibdRvg" >}} Register for the ROR Community Call March 2025 {{< /button >}}
 
+---
+
+### Better Together: ORCID + ROR 
+
+- Date: Wednesday, April 16, 2025
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-04-16&tz2=UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: In this session, Amanda French, Technical Community Manager at the Research Organization Registry (ROR), joins ORCID’s Tom Demeranville, Director of Product, to demonstrate how our systems interact and complement each other.
+
+{{< button color="green" link="https://info.orcid.org/event/better-together-orcid-ror/" >}} Register for Better Together: ORCID + ROR {{< /button >}}
+
+---
+
+### euroCRIS 2025 
+
+- Dates: May 13-15, 2025
+- Location: Leuven, Belgium and online
+- Description: The CRISCROS working group has invited ROR to present at the international euroCRIS conference for 2025. We'll be Zooming in to give a presentation on ROR in CRIS systems. 
+
+{{< button color="green" link="https://meeting.eurocris.org/" >}} Register for euroCRIS 2025 {{< /button >}}
+
+--- 
 
 ### ROR Community Call May 2025
 
@@ -54,6 +78,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/EHMdwZY6RnWW5mfCHnFcXQ" >}} Register for the ROR Community Call May 2025 {{< /button >}}
 
+---
+
+### Society for Scholarly Publishing (SSP) 2025
+
+- Dates: May 28-30, 2025
+- Location: Baltimore, MD
+- Description: ROR will be attending SSP 2025 this year to network with scholarly publishers. Come say hi!
+
+{{< button color="green" link="https://customer.sspnet.org/SSP/ssp/AM25/Home.aspx?hkey=d2c1ecd1-4ca5-4c1b-ac31-963ace5455a5" >}} Register for SSP 2025 {{< /button >}}
+
+---
 
 ### ROR Community Call July 2025
 
@@ -66,6 +101,16 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/JxkoFB_pQHuvQ2M1QE0z3w" >}} Register for the ROR Community Call July 2025 {{< /button >}}
 
+---
+
+### Open Repositories 2025
+- Dates: June 15-18, 2025
+- Location: Chicago, IL
+- Description: On June 17th, ROR will be giving a presentation at Open Repositories 2025 on "Balancing the Global and the Local at the Research Organization Registry (ROR)." We'll be there for the whole conference, as well, to learn more about repository systems and to answer questions about integrating ROR. Come say hi!
+
+{{< button color="green" link="https://or2025.openrepositories.org/" >}} Register for Open Repositories 2025 {{< /button >}}
+
+---
 
 ### ROR Community Call September 2025
 
@@ -78,6 +123,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/LvOKrEEPRQKwHjGakF64eA" >}} Register for the ROR Community Call September 2025 {{< /button >}}
 
+---
 
 ### ROR Community Call November 2025
 
