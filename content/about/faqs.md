@@ -222,7 +222,7 @@ The ROR registry is maintained through a centralized, community-based curation p
 
 ### **How quickly can I get a new ROR ID?**
 
-ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog. Generally, an approved request will appear in ROR within 2-4 weeks.
+ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog. Generally, an approved request will appear in ROR within 4-6 weeks.
 
 Currently, releases are published approximately every month. You can track your request through the curation process by following it on [GitHub](https://github.com/ror-community/ror-updates/issues).
 
@@ -236,7 +236,7 @@ If you have more than one request, please submit a separate [request form](https
 
 ### **How long will it take for my bulk request to be processed?**
 
-While approved requests for single ROR records generally appear in the registry in 2-4 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely.
+While approved requests for single ROR records generally appear in the registry in 4-6 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely.
 
 Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 300-400 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. The best way to ensure faster processing of your request is to submit clean, complete metadata.
 
