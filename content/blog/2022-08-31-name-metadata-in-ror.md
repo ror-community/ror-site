@@ -6,7 +6,7 @@ tags = ["Curation", "Registry", "Metadata", "Community"]
 categories = ["Explainers"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-statue-sq.jpg"
 authors = [ "Adam Buttrick", "Maria Gould" ] 
 +++

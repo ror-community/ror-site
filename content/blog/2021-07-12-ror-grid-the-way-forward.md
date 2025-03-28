@@ -6,7 +6,7 @@ tags = ["Community", "Sustainability", "GRID" ]
 categories = ["General Updates"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["ROR Leadership Team"]
 +++

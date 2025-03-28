@@ -6,7 +6,7 @@ tags = ["Sustainability", "Community"]
 categories = ["General Updates"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/scoss-thumb.png"
 authors = ["Maria Gould"]
 +++
