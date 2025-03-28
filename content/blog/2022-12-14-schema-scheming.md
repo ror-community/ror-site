@@ -6,7 +6,7 @@ tags = ["Metadata", "Community", "API", "Data", "Schema", "Feedback"]
 categories = ["Requests"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/ror-elements-tech-u-kenya.png"
 authors = [ "Amanda French", "Liz Krzarnich" ]
 +++

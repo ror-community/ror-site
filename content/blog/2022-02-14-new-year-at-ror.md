@@ -6,7 +6,7 @@ tags = ["Annual Meeting", "Team", "Sustainability"]
 categories = ["Event Recaps"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-closeup-sq.jpg"
 authors = ["Maria Gould"]
 +++

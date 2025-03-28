@@ -6,7 +6,7 @@ tags = ["Curation", "Community"]
 categories = ["Technical News"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/city-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/fireworks-sq.jpg"
 authors = ["Maria Gould"]
 +++
