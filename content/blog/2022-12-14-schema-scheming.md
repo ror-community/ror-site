@@ -8,7 +8,7 @@ archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/ror-elements-tech-u-kenya.png"
-authors = [ "Amanda French", "Liz Krzarich" ]
+authors = [ "Amanda French", "Liz Krznarich" ]
 +++
 
 {{< callout color="green" icon="no-icon" >}} 
