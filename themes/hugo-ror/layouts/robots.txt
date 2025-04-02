@@ -18,4 +18,10 @@ Disallow: {{ .RelPermalink }}
 
 {{ else }}
 
+User-agent: *
+
+Disallow: /lzkrz4eva
+
+Disallow: /liz-request
+
 {{ end }}
