@@ -100,10 +100,4 @@ To obtain official versions of the ROR logo, please first visit our display guid
 
 You can also [book a Zoom meeting](https://calendly.com/ror-chat) with Technical Community Manager Amanda French. 
 
----
-
-{{< callout icon="fa-envelope" >}}
-
-Write <info@ror.org> with any and all questions about ROR. 
-
-{{< /callout >}}
+{{< button color="green" link="https://curation-request.ror.org" >}} Click here to request a change or addition to ROR records {{< /button >}}
