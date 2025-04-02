@@ -12,7 +12,7 @@ aliases = [
 
 The process of registering ROR IDs and maintaining ROR records is different from the workflows for ORCID iDs and DOIs. Unlike ORCID iDs and DOIs, ROR IDs are created and maintained through a centralized, community-based curation process.
 
-Anyone can request additions or updates to the registry using the form at [https://curation-request.ror.org](https://curation-request.ror.org), which is linked from every individual ROR record. You do not need to be affiliated with an organization to request changes to the organization's record in ROR. 
+Anyone can request additions or updates to the registry using the form at [https://curation-request.ror.org](https://curation-request.ror.org). You do not need to be affiliated with an organization to request changes to that organization's record in ROR. 
 
 {{< centered >}}
 
