@@ -2,7 +2,7 @@
 name: Bug report
 about: Report a bug on the ROR website
 title: "[BUG] "
-labels: website, bug
+labels: website
 assignees: amandafrench
 
 ---
