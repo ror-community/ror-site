@@ -230,7 +230,27 @@ Currently, releases are published approximately every month. You can track your 
 
 ### **How can I submit bulk requests to ROR when I want to add multiple organizations?**
 
-If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact [registry@ror.org](mailto:registry@ror.org) for assistance.
+If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. 
+
+If you want to request changes to a large number of **existing** ROR records, please download the Update Records bulk processing spreadsheet, add all necessary information in a single row for each record, and email the completed spreadsheet to registry@ror.org.
+
+{{< centered >}}
+
+{{< button color="green" link="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3EoO0sIILtNV_YrB72BlS3SaAdfpd4J_-Us1rTAieyzNbGl1Db9FBijPBIRUlQcW3pJrROOc_FPSx/pub?output=xlsx" >}} Download the Update Records spreadsheet (XLSX) {{< /button >}}
+
+{{< /centered >}}
+
+If you want to request the addition of a large number of **new** ROR records, please download and complete the New Records bulk processing spreadsheet, add all necessary information, and email the completed spreadsheet to registry@ror.org.
+
+{{< centered >}}
+
+{{< button color="green" link="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwGDH_18Udqev5rt58_p3tZmTKcUjAOUEEx_KaHJB-eu-xIp81Czswcriz_tFAl58a5-khKf12W8Nm/pub?output=xlsx" >}} Download the New Records spreadsheet (XLSX) {{< /button >}}
+
+{{< /centered >}}
+
+Bulk request processing time varies widely depending on the number of updates requested and the completeness of the metadata submitted: see [How long will it take for my bulk request to be processed?](/about/faqs/#how-long-will-it-take-for-my-bulk-request-to-be-processed) 
+
+Bulk requests, like all other requests, are openly available and can be tracked on GitHub at https://github.com/ror-community/ror-updates/issues. 
 
 ***
 
@@ -238,11 +258,11 @@ If you have more than one request, please submit a separate [request form](https
 
 While approved requests for single ROR records generally appear in the registry in 4-6 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely.
 
-Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 300-400 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. The best way to ensure faster processing of your request is to submit clean, complete metadata.
+Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 1000 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. The best way to ensure faster processing of your request is to submit clean, complete metadata.
 
 We are currently scaling our curation processes to support the widespread enthusiasm for ROR and this high volume of requests, so please don’t hesitate to inquire about bulk submissions by writing [registry@ror.org](mailto:registry@ror.org). This helps us to gauge demand for curation activities and resource accordingly. Please also, however, be mindful that large bulk submissions may take us some time to process.
 
-Our curation processes and projects are entirely open, so anyone may see our [queue of open individual requests](https://github.com/ror-community/ror-updates/issues). 
+Our curation processes and projects are entirely open, so anyone may see our [queue of open requests](https://github.com/ror-community/ror-updates/issues), including open bulk requests.  
 
 ### **I submitted a curation request to ROR. How can I track it?**
 
