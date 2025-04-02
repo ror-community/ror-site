@@ -6,7 +6,7 @@ tags = ["Community", "Data", "Adoption", "Metadata"]
 categories = ["General Updates"]
 archives = ["2020"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-profile-sq.jpg"
 authors = ["ROR Leadership Team"]
 +++
