@@ -10,30 +10,29 @@ aliases = ["/impact"]
 
 ## ROR IDs in Crossref metadata 
 
-<iframe width="911" height="713" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive"></iframe>
+ {{< iframe "https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1526035463&amp;format=interactive" >}}
 
 {{< button color="green" link="https://bit.ly/ror-doi-orcid-stats" >}} See the spreadsheet of ROR IDs in DOI and ORCID records {{< /button >}}
 
 ## ROR IDs in DataCite metadata
 
-<iframe width="1007" height="675" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=407872696&amp;format=interactive"></iframe>
+{{< iframe "https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=407872696&amp;format=interactive" >}}
 
-<iframe width="1005" height="621" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=522112742&amp;format=interactive"></iframe>
+{{< iframe "https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=522112742&amp;format=interactive" >}}
 
-<iframe width="1005" height="621" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1742126470&amp;format=interactive"></iframe>
+{{< iframe "https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1742126470&amp;format=interactive" >}}
 
 {{< button color="green" link="https://bit.ly/ror-doi-orcid-stats" >}} See the spreadsheet of ROR IDs in DOI and ORCID records {{< /button >}}
 
 ## ROR IDs in ORCID metadata
 
-<iframe width="906" height="678" seamless frameborder="0" scrolling="no" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1984170310&amp;format=interactive"></iframe>
+ {{< iframe "https://docs.google.com/spreadsheets/d/e/2PACX-1vQU_zvKDRXOFY56Zq6gAZyWBXWivQxPyDgAVP18bYDpNTgrM2pQFz4EzNc6I44kgTmhoVqkTJfef-HN/pubchart?oid=1558996003&amp;format=interactive" >}}
 
 {{< button color="green" link="https://bit.ly/ror-doi-orcid-stats" >}} See the spreadsheet of ROR IDs in DOI and ORCID records {{< /button >}}
 
-
 ## ROR in published research
 
- <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Fresearchorgs%2F4790165" width="1000" height="800"></iframe> 
+ {{< iframe "https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Fresearchorgs%2F4790165" >}}
 
 {{< button color="green" link="https://www.zotero.org/groups/4790165/ror_research/library" >}} See the ROR Research Zotero bibliography {{< /button >}}
 
