@@ -32,7 +32,7 @@ aliases = ["/impact"]
 
 ## ROR in published research
 
- <iframe src="https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Fresearchorgs%2F4790165" width="1000" height="800"></iframe> 
+ {{< iframe "https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fzotero-group%2Fresearchorgs%2F4790165" >}}
 
 {{< button color="green" link="https://www.zotero.org/groups/4790165/ror_research/library" >}} See the ROR Research Zotero bibliography {{< /button >}}
 
