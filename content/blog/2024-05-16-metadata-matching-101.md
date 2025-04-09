@@ -12,6 +12,7 @@ images = ['/img/blog/matching101/yellow-matching-thumb.png']
 authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it, and why we devote so much effort to this problem."
 aliases = "blog/2024-05-16-metadata-matching-101-cross-post/"
+doi = "https://doi.org/10.71938/gzcq-5q83"
 +++
 
 ROR Curation Lead Adam Buttrick has been working with Crossref Head of Strategic Initiatives Dominika Tkaczyk to explore improvements in automatic metadata matching strategies that can result in better metadata for everyone. Read more about this important work here and in other posts in the [matching](/tags/matching/) series.

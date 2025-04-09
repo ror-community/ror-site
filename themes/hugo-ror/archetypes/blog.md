@@ -11,6 +11,7 @@ thumb = "/img/blog/"
 images = ['/img/blog/']
 authors = [""] 
 description = ""
+doi = ""
 +++ 
 
 <!-- Commonly used content 

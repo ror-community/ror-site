@@ -10,7 +10,8 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/pidslatam/noun-latin-america-663117.png"
 images = ['/img/blog/pidslatam/noun-latin-america-663117.png']
 authors = ["Ana Cardoso", "Gabriela Mejias", "Maria Gould"]
-description = ""
+description = "Persistent identifiers are playing a key role in driving more robust research infrastructure and open science initiatives across Latin America."
+doi = "https://doi.org/10.71938/c9j5-hy97"
 +++
 *Cross-posted by [DataCite](https://doi.org/10.5438/wnh3-8q65) and [ORCID](https://info.orcid.org/pids-and-open-science-building-community-in-latin-america/)*
 

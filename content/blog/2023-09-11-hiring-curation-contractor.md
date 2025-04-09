@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-couple-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/cdn3-jg69"
+
 +++
 
 ROR is seeking a short-term curation support contractor as registry curation activities continue to expand. Please consider submitting an application and help spread the word to your networks!

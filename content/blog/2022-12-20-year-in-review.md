@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/6vea-5c14"
+
 +++
 
 2022 has been a momentous year for ROR! We experienced significant growth, reached critical milestones, and established a foundation for long-term sustainability. As the year comes to a close, we're taking a moment to reflect on our activities and give thanks to our community for supporting us along the way.

@@ -11,6 +11,7 @@ thumb = "/img/blog/recap2023/circular_arrow-teal_02.png"
 images = ['/img/blog/recap2023/circular_arrow-teal_02.png']
 authors = ["Maria Gould"]
 description = "As we near the end of 2023, we are taking a moment to reflect on what has been another significant year for ROR."
+doi = "https://doi.org/10.71938/r78t-8b94"
 +++
 
 As we near the end of 2023, we are taking a moment to reflect on what has been another significant year for ROR. We are thrilled that ROR is widely recognized and trusted as the leading standard for organization identifiers. This recognition is reflected in the skyrocketing use of ROR's API (which reached a high of 27 million requests per month), wide range of implementations across the research ecosystem, and non-stop activity in ROR's curation pipeline (currently handling approximately 700 requests per month). This momentum signals the broad adoption of ROR as well as the unequivocal need for something like ROR to fill crucial gaps in the landscape and address critical use cases around the tracking of research outputs. Heading into 2024, we expect that this growth will continue and that even more use cases will continue to develop. 

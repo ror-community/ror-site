@@ -10,7 +10,7 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-ball-statue-sq.jpg"
 images = ['/img/lion-ball-statue-sq.jpg']
 authors = ["Maria Gould"]
-description = ""
+doi = "https://doi.org/10.71938/60z7-yd83"
 +++
 
 As we have crossed the mid-point of 2023, we're taking a moment to reflect on what has already been a very busy year for ROR!

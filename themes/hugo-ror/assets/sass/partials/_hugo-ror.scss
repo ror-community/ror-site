@@ -6935,7 +6935,7 @@ table#donations-table td ul li {
 
 /* fixing bold font family no clue what the upstream issue is */
 
-p strong, p b, li strong, li b, .author {
+p strong, p b, li strong, li b, .authordate {
 	font-family: "AH-Bold";
 }
 
@@ -7135,6 +7135,16 @@ font-size: .95em;
 
 .page-banner h1#page-title {
 font-size: 2.75rem;
+}
+
+.authordate {
+font-weight: 400;
+margin-bottom: .5rem;
+}
+
+.doi { 
+font-size: smaller;
+margin: 0;
 }
 
 

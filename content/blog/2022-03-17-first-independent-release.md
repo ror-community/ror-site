@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/fireworks-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/1f0g-a647"
+
 +++
 
 ## **The ROR registry has grown!**
