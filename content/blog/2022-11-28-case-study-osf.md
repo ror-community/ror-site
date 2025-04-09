@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/osf/cos-logo.jpg"
 authors = ["Amanda French"]
+doi = "https://doi.org/10.71938/gdr4-d136"
+
 +++
 
 This conversation with Eric Olson of the Center for Open Science is the first in a new series of interviews, "Case Studies in ROR Integration," a series designed to provide in-depth detail on why and how people are choosing to integrate ROR IDs into their systems.

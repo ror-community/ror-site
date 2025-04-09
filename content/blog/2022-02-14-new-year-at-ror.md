@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-closeup-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/gcgc-n083"
+
 +++
 The end of January 2022 marked the third anniversary of [ROR's launch](/blog/2019-02-10-announcing-first-ror-prototype/) at PIDapalooza 2019 in Dublin. Continuing with a tradition from the prior two years ([2020](/blog/2020-02-10-ror-ing-in-portugal/) in Lisbon, and [2021](/blog/2021-02-03-ror-annual-meeting/) on Zoom), we marked the occasion with a community celebration to reflect on ROR's progress and discuss the work that lies ahead.
 

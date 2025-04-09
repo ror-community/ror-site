@@ -10,6 +10,8 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-profile-bw-sq.jpg"
 authors = ["Maria Gould"]
 description = "ROR is releasing our first-ever Annual Report. Adopting the model of annual reports distributed by nonprofit organizations, this document aims to provide an overview of ROR’s progress in 2020 and a preview of work to come in 2021."
+doi = "https://doi.org/10.71938/w58p-n751"
+
 +++
 
 ROR is a specific type of identifier and a specific type of initiative that does not always fit neatly into pre-defined notions and categories. The registry’s focus on providing an open, noncommercial, and community-driven solution to the problem of identifying research organization affiliations sets it apart from similar types of organization identifiers. The collaborative nature of ROR’s approach also sets it apart from other types of identifier providers and infrastructure organizations.

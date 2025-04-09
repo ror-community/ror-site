@@ -11,6 +11,7 @@ thumb = "/img/blog/europepmc/Europe-PMC-Extended-Logo.png"
 images = ['/img/blog/europepmcEurope-PMC-Extended-Logo.png/']
 authors = ["Amanda French"]
 description = "Michael Parkin, data scientist at EMBL-EBI who helps maintain Europe PMC, explains why and how ROR  helps with assessing funding impact and tracking researcher collaborations."
+doi = "https://doi.org/10.71938/w0js-9z14"
 +++
 
 Michael Parkin, data scientist at EMBL-EBI who helps maintain Europe PMC, explains why and how ROR  helps with assessing funding impact and tracking researcher collaborations.

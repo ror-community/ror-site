@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-couple-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/5sar-5118"
+
 +++
 
 ROR is excited to welcome two new members to its Steering Group this year: **Joy Owango** from the Training Centre in Communication (TCC Africa) and **Natasha Simons** from the Australian Research Data Commons (ARDC). 

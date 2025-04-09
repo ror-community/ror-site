@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-crew-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/rk8p-cy85"
+
 +++
 
 ROR is hiring! We are looking for a full-time Technical Community Manager to expand the adoption and integration of ROR throughout the global scholarly communications ecosystem.

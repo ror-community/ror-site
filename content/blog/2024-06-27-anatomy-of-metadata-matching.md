@@ -11,6 +11,7 @@ thumb = "/img/blog/matching-anatomy/yellow-matching-figure-02.png"
 images = ['/img/blog/matching-anatomy/yellow-matching-figure-02.png']
 authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "The second blog post about metadata matching by ROR's Adam Buttrick and Crossref's Dominika Tkaczyk describes some basic matching-related terminology and the components of a matching process, then poses some typical product questions to consider when developing or integrating matching solutions."
+doi = "https://doi.org/10.71938/q0sx-4772"
 +++
 
 The second blog post about metadata matching by ROR's Adam Buttrick and Crossref's Dominika Tkaczyk describes some basic matching-related terminology and the components of a matching process, then poses some typical product questions to consider when developing or integrating matching solutions. Read more about this important work here and in other posts in the [matching](/tags/matching/) series. 

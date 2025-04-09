@@ -11,6 +11,7 @@ thumb = "/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg"
 images = ['/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg']
 authors = ["Liz Krznarich"] 
 description = "We're looking for your feedback on a draft proposal for managing ROR API client identification with 'mailto' parameters or API keys, and comments are open through October 4th, 2024."
+doi = "https://doi.org/10.71938/rgyq-pk44"
 +++ 
 
 {{< callout color="green" icon="no-icon">}}

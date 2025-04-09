@@ -11,6 +11,7 @@ thumb = "/img/kinderen-met-whelp-nationaal-archieef.png"
 images = ['/img/kinderen-met-whelp-nationaal-archieef.png']
 authors = ["Amanda French"]
 description = "Highlights of the 2025 ROR annual meeting sessions, including the Community Update, the panel on National PID Policies and Practices, and the session on Successes and Opportunities for ROR in the Asia-Pacific Region."
+doi = "https://doi.org/10.71938/9f0g-9791"
 +++
 
 [{{< figure src="/img/kinderen-met-whelp-nationaal-archieef.png" class="featured-figure" alt="Nationaal Archief, Kinderen Met Welp / Children Holding Whelp, 2011, photo from Flickr."  >}}](https://flic.kr/p/9DTkax)
