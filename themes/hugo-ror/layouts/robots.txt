@@ -2,6 +2,10 @@
 
 User-agent: *
 
+Disallow: /lzkrz4eva
+
+Disallow: /liz-request
+
 {{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
 
 User-agent: *
@@ -17,5 +21,11 @@ Disallow: {{ .RelPermalink }}
 {{ end }}
 
 {{ else }}
+
+User-agent: *
+
+Disallow: /lzkrz4eva
+
+Disallow: /liz-request
 
 {{ end }}

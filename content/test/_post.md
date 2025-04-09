@@ -89,4 +89,4 @@ And some text beneath it.
 
 ## iframes
 
-Use the callout box {{< iframe "embedurl" >}} to embed an iframe in a content page.
+Use the shortcode {{< iframe "embedurl" >}} to embed an iframe in a content page.

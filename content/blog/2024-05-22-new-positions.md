@@ -14,7 +14,7 @@ description = "ROR Curation Lead Adam Buttrick is staying at ROR but moving from
 doi = ""
 +++
 
-ROR is fortunate to have a small but mighty [team](/about//team/#core-team) that strives every day to make ROR as good as it can be and to support the diverse needs of our global community. 
+ROR is fortunate to have a small but mighty [team](/about/team/#core-team) that strives every day to make ROR as good as it can be and to support the diverse needs of our global community. 
 
 Ever since ROR was established, we’ve continually adjusted our resourcing and staffing to keep up with ROR’s needs and to align ROR activities with the needs and priorities of ROR’s operating organizations. The ROR team has therefore changed and grown over the years since the registry’s initial launch, evolving from an _ad hoc_ project team to a more formal structure with dedicated staff members. This was made possible initially through startup funds from ROR’s operating organizations, contributions from community supporters, and multi-year grants. 
 
