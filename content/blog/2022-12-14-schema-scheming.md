@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/ror-elements-tech-u-kenya.png"
 authors = [ "Amanda French", "Liz Krznarich" ]
-doi = ""
+doi = "https://doi.org/10.71938/njsy-kh44"
 +++
 
 {{< callout color="green" icon="no-icon" >}} 

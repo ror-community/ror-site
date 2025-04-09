@@ -11,7 +11,7 @@ thumb = "/img/blog/funder-overlap/overlap-blank-charts.png"
 images = ['/img/blog/funder-overlap/overlap-blank-charts.png']
 authors = ["Amanda French", "Adam Buttrick"]
 description = "ROR is ready to take on the important work that the Open Funder Registry has been doing: identifying research funders in a clean, consistent, comprehensive, and interoperable way. This post compares both registries and provides data showing that most of the Open Funder Registry records that see the most use already have equivalent records in ROR."
-doi = ""
+doi = "https://doi.org/10.71938/ke93-w861"
 +++
 
 

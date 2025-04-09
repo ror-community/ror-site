@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["ROR Leadership Team"]
-doi = ""
+doi = "https://doi.org/10.71938/4jrg-4e16"
 
 +++
 

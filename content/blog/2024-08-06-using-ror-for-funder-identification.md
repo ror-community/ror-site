@@ -11,7 +11,7 @@ thumb = "/img/blog/use-case-funders/ror-for-funders.png"
 images = ['/img/blog/use-case-funders/ror-for-funders.png']
 authors = ["Amanda French"] 
 description = "Several widely used scholarly systems are using ROR IDs to identify and disambiguate funders. In this post, we’ll give you a glimpse of how and why these systems use ROR IDs for funder identifiers."
-doi = ""
+doi = "https://doi.org/10.71938/xfhb-sm73"
 +++ 
 
 {{< figure src="/img/blog/use-case-funders/ror-for-funders.png" alt="ROR logo and funder icon" class="featured-figure" >}}

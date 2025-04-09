@@ -14,9 +14,9 @@ doi = "https://doi.org/10.71938/ftt9-w955"
 
 +++
 
-_Cross-posted on the blogs of University of California (UC3), ORCID, and DataCite: https://doi.org/10.5438/67sj-4y05_.
-
 Over the past couple of years, a group of organizations with a shared purpose---California Digital Library, Crossref, DataCite, and ORCID---invested our time and energy into launching the Org ID initiative, with the goal of defining requirements for an open, community-led organization identifier registry.  The goal of our initiative has been to offer a transparent, accessible process that builds a better system for all of our communities. As the working group chair, I wanted to provide an update on this initiative and let you know where our efforts are headed.
+
+{{< callout color="green" icon="no-icon" >}} This post is cross-posted on the blogs of University of California (UC3), ORCID, and DataCite. See https://doi.org/10.5438/67sj-4y05. {{< /callout >}}
 
 ### Community-led effort
 

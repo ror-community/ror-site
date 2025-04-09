@@ -11,7 +11,7 @@ thumb = "/img/blog/coki/coki-logo.png"
 images = ['/img/blog/coki/coki-logo.png']
 authors = ["Amanda French"]
 description = "Professor Cameron Neylon of Curtin University talks telephones, power outlets, chat services, persistent identifier education, federated versus centralized curation, providing actionable information to universities, and why the COKI Open Access Dashboard relies on ROR."
-doi = ""
+doi = "https://doi.org/10.71938/empz-p763"
 +++
 
 Professor Cameron Neylon of Curtin University talks telephones, power outlets, chat services, persistent identifier education, federated versus centralized curation, providing actionable information to universities, and why the COKI Open Access Dashboard relies on ROR.

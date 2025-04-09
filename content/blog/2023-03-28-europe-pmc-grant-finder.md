@@ -11,7 +11,7 @@ thumb = "/img/blog/europepmc/Europe-PMC-basic-logo.png"
 images = ['/img/blog/europepmc/Europe-PMC-Extended-Logo.png']
 authors = ["Amanda French"] 
 description = "Europe PMC, one of the largest providers of high-performance search tools for life sciences literature, has announced that its Grant Finder now incorporates Research Organization Registry (ROR) IDs to help users find active and completed grants awarded by Europe PMC funders."
-doi = ""
+doi = "https://doi.org/10.71938/vwkf-7493"
 +++ 
 
 [Europe PMC](https://europepmc.org/), one of the largest providers of high-performance search tools for life sciences literature, has [announced](http://blog.europepmc.org/2023/03/improved-affiliation-search-for-grants.html) that its Grant Finder now incorporates Research Organization Registry (ROR) IDs to help users find active and completed grants awarded by Europe PMC funders.

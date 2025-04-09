@@ -11,7 +11,7 @@ thumb = "/img/blog/recap2024/maria-roring.png"
 images = ['img/blog/recap2024/maria-roring.png']
 authors = ["Amanda French"]
 description = "The ROR Community turned out in force for our 2024 annual community meeting. Here are the highlights from ROR's fifth anniversary celebration, a community showcase of ROR users, and a panel on the importance of funding metadata."
-doi = ""
+doi = "https://doi.org/10.71938/mt5h-7086"
 +++
 
 Every year [since 2019](/blog/2019-02-10-announcing-first-ror-prototype), we've celebrated ROR's anniversary at the same time we hold our annual community meeting, updating everyone on what ROR has accomplished in the last year and expressing our gratitude for the help of the ROR community. This year, the 2024 annual meeting featured five online events: a [general update and fifth anniversary celebration](/events/2024-01-30-annual-meeting-and-fifth-anniversary), a [community showcase](/events/2024-01-30-community-showcase), a [panel on funding metadata](/events/2024-01-31-why-we-all-need-good-funding-metadata), and two informal (unrecorded) drop-in sessions. 

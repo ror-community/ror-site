@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/banners/ror-lion-mask.jpg"
 authors = ["Maria Gould"]
-doi = ""
+doi = "https://doi.org/10.71938/r8s7-tf04"
 
 +++
 

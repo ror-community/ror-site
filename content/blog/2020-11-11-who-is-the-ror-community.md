@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lions-in-lisbon-sq.jpg"
 authors = ["Maria Gould"]
-doi = ""
+doi = "https://doi.org/10.71938/7b4z-vs35"
 
 +++
 

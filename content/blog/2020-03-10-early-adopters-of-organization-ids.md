@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/metadata-game-changers-logo.png"
 authors = ["Ted Habermann"]
-doi = ""
+doi = "https://doi.org/10.71938/ffx0-y253"
 
 +++
 

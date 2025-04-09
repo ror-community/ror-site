@@ -11,7 +11,7 @@ thumb = "/img/blog/review2024/Camouflage_Unsplash.jpg"
 images = ['/img/blog/review2024/Camouflage_Unsplash.jpg']
 authors = ["ROR Core Team"] 
 description = "In 2024, ROR processed over 8000 curation requests, handled 14 million monthly requests to the ROR API, saw the number of downloads of the ROR dataset triple, and was a finalist for the ALPSP Innovation in Publishing Award: read on for more highlights from a banner year."
-doi = ""
+doi = "https://doi.org/10.71938/h7r4-fd19"
 +++ 
 
 {{< figure src="/img/blog/review2024/Camouflage_Unsplash.jpg" class="featured-figure" alt="Lisa H lh_photography, CC0, via Wikimedia Commons and Unsplash" >}}

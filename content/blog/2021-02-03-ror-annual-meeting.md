@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/cub-pride-sq.png"
 authors = ["Maria Gould"]
-doi = ""
+doi = "https://doi.org/10.71938/a9m0-z816"
 
 +++
 

@@ -10,7 +10,7 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/icon-compass.png"
 authors = ["Maria Gould"]
 description = "ROR is thrilled to announce that we are welcoming new members to the ROR Steering Group."
-doi = ""
+doi = "https://doi.org/10.71938/a2dz-qa63"
 
 +++
 

@@ -9,8 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-profile-bw-sq.jpg"
 authors = ["Liz Krznarich"]
-description = ""
-doi = ""
+doi = "https://doi.org/10.71938/4beg-0319"
 
 +++
 

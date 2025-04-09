@@ -10,7 +10,7 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/orcid-id-icon.png"
 authors = [ "Tom Demeranville", "Paula Demain", "Dan Dineen" ]
 description = "The Research Organization Registry (ROR) has been added to the ORCID Registry as a disambiguated Organization ID. ROR can now be used with the ORCID API and Affiliation Manager to record research institution identifiers and metadata, thus making it easier to track the impact of institutional research."
-doi = ""
+doi = "https://doi.org/10.71938/jspc-9949"
 
 +++
 

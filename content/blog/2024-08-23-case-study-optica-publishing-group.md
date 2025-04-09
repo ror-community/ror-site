@@ -11,7 +11,7 @@ thumb = "/img/blog/optica/opticapg-logo.png"
 images = ['/img/blog/optica/opticapg-logo.png']
 authors = ["Amanda French"] 
 description = "Optica Publishing Group was one of the earliest publishers to send ROR IDs to Crossref in DOI metadata. In this interview, we speak with them to learn more about their rigorous processes for cleaning organization names."
-doi = ""
+doi = "https://doi.org/10.71938/z07b-1n79"
 +++ 
 
 {{< figure src="/img/blog/optica/opticapg-logo.png" class="featured-figure" alt="Optica Publishing Group logo" >}}

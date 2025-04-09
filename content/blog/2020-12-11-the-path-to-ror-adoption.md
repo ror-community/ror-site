@@ -9,7 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/tiger-pool-sq.jpg"
 authors = ["Maria Gould"]
-doi = ""
+description = "In this post, we highlight ROR integration work focused on scholarly publishing, an area that depends heavily on the identification of institutional affiliations, and we welcome Liz Krznarich as ROR's new Adoption Manager."
+doi = "https://doi.org/10.71938/sj7z-4037"
 
 +++
 

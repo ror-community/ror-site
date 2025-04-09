@@ -11,7 +11,7 @@ thumb = "/img/lion-closeup-1200.jpg"
 images = ['/img/lion-closeup-1200.jpg']
 authors = ["Maria Gould"] 
 description = "We are thrilled to introduce a new member of the ROR pride: Riley Marsh joined the ROR team in August as our new Metadata Manager."
-doi = ""
+doi = "https://doi.org/10.71938/aavf-pb62"
 +++ 
 
 {{<figure src="/img/lion-closeup-1200.jpg" alt="Closeup of a lion's face" class="featured-figure" >}}

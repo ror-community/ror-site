@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/banners/lions-square.jpg"
 authors = ["Maria Gould", "Daniella Lowenberg" ]
-doi = ""
+doi = "https://doi.org/10.71938/gftz-ac63"
 
 +++
 

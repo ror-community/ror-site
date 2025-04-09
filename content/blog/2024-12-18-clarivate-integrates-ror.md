@@ -11,7 +11,7 @@ thumb = "/img/blog/clarivate/Clarivate_Logo.png"
 images = ['/img/blog/clarivate/Clarivate_Logo.png']
 authors = ["Clarivate", "ROR Core Team"]  
 description = "Web of Science Core Collection™ from Clarivate™ now includes Research Organization Registry (ROR) identifiers for the benefit of the global research community."
-doi = ""
+doi = "https://doi.org/10.71938/atnp-me51"
 +++ 
 
 {{< figure src="/img/blog/clarivate/Clarivate_Logo.png" class="featured-figure" alt="Clarivate logo" >}}

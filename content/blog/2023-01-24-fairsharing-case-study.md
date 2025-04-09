@@ -9,7 +9,7 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/fairsharing/fairsharing-data-readiness.jpg"
 authors = ["Amanda French"]
-doi = ""
+doi = "https://doi.org/10.71938/hd7y-q648"
 
 +++
 

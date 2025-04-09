@@ -12,7 +12,7 @@ images = ['/img/blog/hierarchies/TreeNetwork.png']
 videos = ["https://youtu.be/Jn21FiGiNCo"]
 authors = ["ROR Core Team"] 
 description = "ROR supports parent-child organizational hierarchies as well as other types of relationships between organizations. This blog post explains how organizational hierarchies and relationships are expressed in ROR metadata, offers statistics on hierarchies and relationships in ROR, summarizes ROR's curation practices for hierarchies and relationships, and gives examples of real-life use cases of ROR hierarchies and relationships."
-doi = ""
+doi = "https://doi.org/10.71938/qntp-5c92"
 +++ 
 
 One common question we receive about ROR registry records is whether they reflect organizational hierarchy and relationships between organizations -- yes, they do! [ROR does indeed support parent-child organizational hierarchies](https://ror.org/about/faqs/#does-ror-support-relationships-and-hierarchies) as well as other types of relationships between organizations. In this blog post, we go into more detail about how ROR supports relationships and hierarchies, how these are expressed in the metadata, how we curate them, and how users like you can explore and leverage this metadata. 

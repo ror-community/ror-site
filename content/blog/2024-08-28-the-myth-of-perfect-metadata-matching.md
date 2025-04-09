@@ -11,7 +11,7 @@ thumb = "/img/blog/matching-perfect/false-positives-negatives.png"
 images = ['/img/blog/matching-perfect/false-positives-negatives.png']
 authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this post, we discuss a few common myths about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders."
-doi = ""
+doi = "https://doi.org/10.71938/ec54-6370"
 +++ 
 
 {{< figure src="/img/blog/matching-perfect/false-positives-negatives.png" alt="False positives and false negatives" class="featured-figure" >}}
