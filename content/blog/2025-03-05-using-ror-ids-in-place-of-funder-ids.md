@@ -15,10 +15,13 @@ doi = "https://doi.org/10.71938/20kn-4m06"
 crosspost = "https://doi.org/10.13003/156081"
 +++ 
 
+{{< callout color="green" icon="no-icon" >}} 
+
+Crossref has announced today that its members can now use ROR IDs to identify funders in any place where they currently use Funder IDs in their metadata. To learn more about using ROR IDs to identify funders, read ROR's [guide to the Open Funder Registry to ROR transition](https://ror.readme.io/docs/funder-registry) and ROR's [blog post on systems that are already using ROR for funder identification](/blog/2024-08-06-using-ror-for-funder-identification/). Read the full text of the Crossref announcement below. 
+
+{{< /callout >}}
 
 {{< figure src="/img/crossref-social.png" class="featured-figure" alt="Crossref logo." >}}
-
-Crossref has announced today that its members can now use ROR IDs to identify funders in any place where they currently use Funder IDs in their metadata. To learn more about using ROR IDs to identify funders, read ROR's [guide to the Open Funder Registry to ROR transition](https://ror.readme.io/docs/funder-registry) and ROR's [blog post on systems that are already using ROR for funder identification](/blog/2024-08-06-using-ror-for-funder-identification/).
 
 Today, we're delighted to let you know that **Crossref members can now use ROR IDs to identify funders in any place where you currently use Funder IDs in your metadata.** Funder IDs remain available, but this change allows publishers, service providers, and funders to streamline workflows and introduce efficiencies by using a single open identifier for both researcher affiliations and funding organizations. 
 
