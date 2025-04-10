@@ -13,18 +13,15 @@ authors = ["Amanda French", "Ginny Hendricks", "Rachael Lammey", "Fabienne Micha
 description = "Crossref has announced a long-term plan to deprecate the Open Funder Registry and merge it with ROR in order to make workflows more efficient for all concerned. ROR and Crossref are working closely together on this important initiative."
 aliases =  [ '/blog/2023-09-07-open-funder-registry-transition-ror-cross-post/' ]
 doi = "https://doi.org/10.71938/6snb-ya06"
-
+crosspost = "https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/"
 +++
-
-Crossref has announced a long-term plan to deprecate the Open Funder Registry and merge it with ROR in order to make workflows more efficient for all concerned. ROR and Crossref are working closely together on this important initiative, and we're happy to answer any questions that users of the Funder Registry may have. Feel free to write info@ror.org, [book a meeting with Amanda French](https://calendly.com/ror-chat), or attend a [ROR event](/events) if you'd like to learn more.
 
 {{< callout color="green" icon="no-icon" >}}
 
-**The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror)**  
+Crossref has announced a long-term plan to deprecate the Open Funder Registry and merge it with ROR in order to make workflows more efficient for all concerned. ROR and Crossref are working closely together on this important initiative, and we're happy to answer any questions that users of the Funder Registry may have. Read the full text of Crossref's announcement below, and feel free to write info@ror.org, [book a meeting with Amanda French](https://calendly.com/ror-chat), or attend a [ROR event](/events) if you'd like to learn more.
 
 {{< /callout >}}
 
----
 
 ## Open Funder Registry to transition to the Research Organization Registry (ROR)
 

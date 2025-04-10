@@ -10,6 +10,7 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/metadata-game-changers-logo.png"
 authors = ["Ted Habermann"]
 doi = "https://doi.org/10.71938/ffx0-y253"
+crosspost = "https://doi.org/10.59350/g96gh-x2361"
 
 +++
 

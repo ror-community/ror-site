@@ -12,17 +12,16 @@ images = ['/img/blog/aps/aps-logo.png']
 authors = ["American Physical Society"] 
 description = "The American Physical Society (APS) has become the largest society publisher to adopt Research Organization Registry Identifiers. Institutional metadata in the Physical Review journals are now easier to find, track, and reference — a move that strengthens open science and research transparency."
 doi = "https://doi.org/10.71938/8vkr-ae64"
+crosspost = "https://www.aps.org/about/news/2024/07/research-organization-registry"
 +++ 
 
-{{< figure src="/img/blog/aps/aps-logo.png" class="featured-figure" alt="APS 125 logo" >}}
-
+{{< callout color="green" icon="no-icon" >}} 
 The American Physical Society (APS) has become the largest society publisher to adopt ROR, incorporating it into their manuscript submission process and sending ROR IDs in author affiliation metadata to Crossref. "We've been eagerly supporting ROR since before it was ROR," said APS Lead Data Analyst Arthur Smith. Read the whole announcement from APS below, then watch Arthur's marvelous presentation about the APS integration from last week's [ROR Community Call](/events/2024-07-16-ror-community-call). 
-
-{{< callout color="green" icon="fa-copy" >}} 
-The below is cross-posted from the American Physical Society newsroom. [Read the original announcement.](https://www.aps.org/about/news/2024/07/research-organization-registry)
 {{< /callout >}} 
 
 ## American Physical Society Becomes Largest Society Publisher to Adopt Research Organization Registry Identifiers
+
+{{< figure src="/img/blog/aps/aps-logo.png" class="featured-figure" alt="APS logo" >}}
 
 The [American Physical Society](https://www.aps.org/homepage-launch) has adopted the [Research Organization Registry](https://ror.org) identification system, assigning persistent identifiers to authors' affiliations for every paper published in the [Physical Review journals](http://journals.aps.org). The action comes as a response to challenges faced by the scientific community regarding metadata tracking.
 
