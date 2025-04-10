@@ -53,18 +53,16 @@ We hope that all stakeholders will continue to support the next phase of our wor
 
 As always, we welcome your feedback and involvement as this effort continues. Please contact me directly with any questions or comments at [john.chodacki@ucop.edu](mailto:john.chodacki@ucop.edu). And thanks again for your help bringing an open organization identifier registry to fruition!
 
----
-
 ### References
 
-Bilder, G., Brown, J., & Demeranville, T. (2016). Organisation identifiers: current provider survey. ORCID. [https://doi.org/10.5438/4716](https://doi.org/10.5438/4716)
+1. Bilder, G., Brown, J., & Demeranville, T. (2016). Organisation identifiers: current provider survey. ORCID. [https://doi.org/10.5438/4716](https://doi.org/10.5438/4716)
 
-Cruse, P., Haak, L., & Pentz, E. (2016). Organization Identifier Project: A Way Forward. ORCID. [https://doi.org/10.5438/2906](https://doi.org/10.5438/2906)
+2. Cruse, P., Haak, L., & Pentz, E. (2016). Organization Identifier Project: A Way Forward. ORCID. [https://doi.org/10.5438/2906](https://doi.org/10.5438/2906)
 
-Fenner, M., Paglione, L., Demeranville, T., & Bilder, G. (2016). Technical Considerations for an Organization Identifier Registry. [https://doi.org/10.5438/7885](https://doi.org/10.5438/7885)
+3. Fenner, M., Paglione, L., Demeranville, T., & Bilder, G. (2016). Technical Considerations for an Organization Identifier Registry. [https://doi.org/10.5438/7885](https://doi.org/10.5438/7885)
 
-Laurel, H., Bilder, G., Brown, C., Cruse, P., Devenport, T., Fenner, M., … Smith, A. (2017). ORG ID WG Product Principles and Recommendations. [https://doi.org/10.23640/07243.5402047](https://doi.org/10.23640/07243.5402047)
+4. Laurel, H., Bilder, G., Brown, C., Cruse, P., Devenport, T., Fenner, M., … Smith, A. (2017). ORG ID WG Product Principles and Recommendations. [https://doi.org/10.23640/07243.5402047](https://doi.org/10.23640/07243.5402047)
 
-Laurel, H., Pentz, E., Cruse, P., & Chodacki, J. (2017). Organization Identifier Project: Request for Information. [https://doi.org/10.23640/07243.5458162](https://doi.org/10.23640/07243.5458162)
+5. Laurel, H., Pentz, E., Cruse, P., & Chodacki, J. (2017). Organization Identifier Project: Request for Information. [https://doi.org/10.23640/07243.5458162](https://doi.org/10.23640/07243.5458162)
 
-Pentz, E., Cruse, P., Laurel, H., & Warner, S. (2017). ORG ID WG Governance Principles and Recommendations. [https://doi.org/10.23640/07243.5402002](https://doi.org/10.23640/07243.5402002)
+6. Pentz, E., Cruse, P., Laurel, H., & Warner, S. (2017). ORG ID WG Governance Principles and Recommendations. [https://doi.org/10.23640/07243.5402002](https://doi.org/10.23640/07243.5402002)
