@@ -30,9 +30,12 @@
   {{ range $pages }}
   <entry {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
     <title {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>{{ .Title }}</title>    
-    <link rel="alternate" href="{{ .Permalink }}"/>
     {{ if .Page.Params.doi }}<id>{{ .Page.Params.doi }}</id>
     {{ else }}<id>{{ .Permalink }}</id>{{ end }}
+    <link rel="alternate" href="{{ .Permalink }}"/>
+    {{ if .Page.Params.crosspost }}
+    <link rel="related" href="{{ .Page.Params.crosspost }}" />
+    {{ else }}{{ end }}
     <published>{{ .Date.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</published>
     <updated>{{ .Lastmod.Format .Site.Params.dateFormatAtomFeed | safeHTML }}</updated>
 {{- range .GetTerms "authors" }}
