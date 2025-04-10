@@ -12,17 +12,16 @@ images = ['/img/blog/prep/prep-2024-ror.png']
 authors = ["Lena Stoll"] 
 description = "Crossref, with the help of CWTS Leiden, has just released an exciting update to their participation report, adding metrics for both affiliations in general and ROR IDs in particular. Now Crossref members can easily see how well they are doing in providing open affiliation metadata."
 doi = "https://doi.org/10.71938/021v-z817"
+crosspost = "https://www.crossref.org/blog/re-introducing-participation-reports-to-encourage-best-practices-in-open-metadata/"
 +++ 
+
+{{< callout color="green" icon="no-icon" >}} 
+
+Crossref, with the help of [CWTS Leiden](https://www.cwts.nl/), has just released an exciting update to their participation reports, adding metrics for both affiliations in general and ROR IDs in particular. Now Crossref members can easily see how well they're doing in providing open affiliation metadata. Read the full text of the Crossref announcement below.
+{{< /callout >}} 
 
 {{< figure src="/img/blog/prep/prep-2024-ror.png" class="featured-figure" alt="University of Szeged ROR ID percentage shown in Crossref PREP" >}}
 
-Crossref, with the help of [CWTS Leiden](https://www.cwts.nl/), has just released an exciting update to their participation report, adding metrics for both affiliations in general and ROR IDs in particular. Now Crossref members can easily see how well they're doing in providing open affiliation metadata. 
-
----
-
-{{< callout color="green" icon="fa-copy" >}} 
-The below is cross-posted from the Crossref blog.<br /> [Read the original post.](https://www.crossref.org/blog/re-introducing-participation-reports-to-encourage-best-practices-in-open-metadata/)
-{{< /callout >}} 
 
 We’ve just released an update to our [participation report](https://crossref.org/members/prep), which provides a view for our members into how they are each working towards best practices in open metadata. Prompted by some of the signatories and organizers of the [Barcelona Declaration](https://barcelona-declaration.org/), which Crossref supports, and with the help of our friends at [CWTS Leiden](https://www.cwts.nl/), we have fast-tracked the work to include an updated set of metadata best practices in participation reports for our members. The reports now give a more complete picture of each member’s activity.
 

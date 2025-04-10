@@ -12,17 +12,14 @@ images = ['/img/blog/matching-perfect/false-positives-negatives.png']
 authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this post, we discuss a few common myths about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders."
 doi = "https://doi.org/10.71938/ec54-6370"
+crosspost = "https://doi.org/10.13003/pied3tho"
 +++ 
 
-{{< figure src="/img/blog/matching-perfect/false-positives-negatives.png" alt="False positives and false negatives" class="featured-figure" >}}
-
-The third blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk discusses a few common myths about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders.
-
 {{< callout color="green" icon="no-icon" >}}
-
-The below is cross-posted from the Crossref blog. [Read the original post.](http://crossref.org/blog/the-myth-of-perfect-metadata-matching/) 
-
+The third blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk discusses a few common myths about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders. Read all posts in the [series on metadata matching](/tags/matching).
 {{< /callout >}} 
+
+{{< figure src="/img/blog/matching-perfect/false-positives-negatives.png" alt="False positives and false negatives" class="featured-figure" >}}
 
 In our previous installments of the [blog series about matching](/tags/matching) (see [part 1](/blog/2024-05-16-metadata-matching-101/) and [part 2](/blog/2024-06-27-anatomy-of-metadata-matching/)), we explained what metadata matching is, why it is important and described its basic terminology. In this entry, we will discuss a few common beliefs about metadata matching that are often encountered when interacting with users, developers, integrators, and other stakeholders. Spoiler alert: we are calling them myths because these beliefs are not true! Read on to learn why.
 

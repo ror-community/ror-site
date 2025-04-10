@@ -2,7 +2,7 @@
 name: Content request
 about: Ask for changes to static content on the ROR website
 title: "[CONTENT] "
-labels: content updates, website
+labels: website
 assignees: amandafrench
 
 ---

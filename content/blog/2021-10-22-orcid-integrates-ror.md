@@ -11,10 +11,9 @@ thumb = "/img/orcid-id-icon.png"
 authors = [ "Tom Demeranville", "Paula Demain", "Dan Dineen" ]
 description = "The Research Organization Registry (ROR) has been added to the ORCID Registry as a disambiguated Organization ID. ROR can now be used with the ORCID API and Affiliation Manager to record research institution identifiers and metadata, thus making it easier to track the impact of institutional research."
 doi = "https://doi.org/10.71938/jspc-9949"
+crosspost = "https://info.orcid.org/add-research-institution-identifiers-with-ror/"
 
 +++
-
-_This is a guest post by the [ORCID](https://orcid.org) team that was originally published on the ORCID blog. See the original post [here](https://info.orcid.org/add-research-institution-identifiers-with-ror/)._
 
 ## Add Research Institution Identifiers with ROR!
 

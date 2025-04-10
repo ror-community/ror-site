@@ -13,15 +13,15 @@ authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it, and why we devote so much effort to this problem."
 aliases = "blog/2024-05-16-metadata-matching-101-cross-post/"
 doi = "https://doi.org/10.71938/gzcq-5q83"
+crosspost = "https://doi.org/10.13003/aewi1cai"
 +++
-
-ROR Curation Lead Adam Buttrick has been working with Crossref Head of Strategic Initiatives Dominika Tkaczyk to explore improvements in automatic metadata matching strategies that can result in better metadata for everyone. Read more about this important work here and in other posts in the [matching](/tags/matching/) series.
 
 {{< callout color="green" icon="no-icon" >}}
 
-**The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/metadata-matching-101-what-is-it-and-why-do-we-need-it/)**  
+ROR Curation Lead Adam Buttrick has been working with Crossref Head of Strategic Initiatives Dominika Tkaczyk to explore improvements in automatic metadata matching strategies that can result in better metadata for everyone. Read more about this important work here and in other posts in the [matching](/tags/matching/) series.
 
 {{< /callout >}}
+
 
 At Crossref and ROR, we develop and run processes that match metadata at scale, creating relationships between millions of entities in the scholarly record. Over the last few years, we've spent a lot of time diving into details about metadata matching strategies, evaluation, and integration. It is quite possibly [our](https://crossref.org/blog/matchmaker-matchmaker-make-me-a-match/) [favourite](https://crossref.org/blog/reference-matching-for-real-this-time/) [thing](https://crossref.org/blog/what-if-i-told-you-that-bibliographic-references-can-be-structured/) to [talk](https://www.youtube.com/watch?v=Tx5y7lX030U) and [write](https://crossref.org/blog/follow-the-money-or-how-to-link-grants-to-research-outputs/) [about](https://crossref.org/blog/discovering-relationships-between-preprints-and-journal-articles/)! But sometimes it is good to step back and look at the problem from a wider perspective. In this blog, the first one in a series about metadata matching, we will cover the very basics of matching: what it is, how we do it, and why we devote so much effort to this problem.
 
