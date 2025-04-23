@@ -31,18 +31,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### Better Together: ORCID + ROR 
-
-- Date: Wednesday, April 16, 2025
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-04-16&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: In this session, Amanda French, Technical Community Manager at the Research Organization Registry (ROR), joins ORCID’s Tom Demeranville, Director of Product, to demonstrate how our systems interact and complement each other.
-
-{{< button color="green" link="https://info.orcid.org/event/better-together-orcid-ror/" >}} Register for Better Together: ORCID + ROR {{< /button >}}
-
----
 
 ### euroCRIS 2025 
 
@@ -130,12 +118,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
+### Better Together: ORCID + ROR 
+
+Wednesday, April 16, 2025 | [Event details and materials](2025-04-16-better-together-orcid-ror)
+
+---
+
 ### ROR Community Call March 2025
 
 Thursday, March 20, 2025 | [Event details and materials](2025-03-20-ror-community-call)
 
 ---
-
 
 ### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
 February 5, 2025 | [Event details and materials](2025-02-05-annual-meeting-ror-apac)
