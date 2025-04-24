@@ -1,9 +1,11 @@
 {{ if isset .Site.Params "landingbanner" }}
 {{ if .Site.Params.landingbanner.enable }}
 <section class="section section-banner section-landing-banner" style="background-image:url({{ .Site.Params.landingbanner.image }});">
-  <div class="content" style="color:{{ .Site.Params.landingbanner.textcolor }} ">
-    {{ .Site.Params.landingbanner.text }}
-  </div>
+  <div class="content">
+    <h1 id="banner-text">{{ .Site.Params.landingbanner.text }}</h1>
+  </div>  
+</section>
+<section class="section-break">
 </section>
 {{ end }}
 {{ end }}

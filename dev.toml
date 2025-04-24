@@ -62,9 +62,8 @@ enableGitInfo = true
 
 [params.landingbanner]
   enable = true
-    image = "/img/ROR_Lions_Banner.jpg"
-    text = ""
-    textcolor = '#fff'
+    image = "/img/ROR_Lions_Banner_dark_teal.jpg"
+    text = "ROR is a global, community-led registry of open persistent identifiers for research organizations"
 
 [params.blurb]
     enable = true
