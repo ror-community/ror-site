@@ -7149,15 +7149,15 @@ margin: 0;
 
 
 @media screen and (max-width:1024px) {
-    .page-banner h1#page-title {
-	font-size: 3vw;
+    .page-banner h1#page-title, h1#banner-text {
+	font-size: 5vw;
 	line-height: 1.2em;
 }
 }
 
-@media screen and (max-width:480px) {
-    .page-banner h1#page-title {
-	font-size: 5vw;
+@media screen and (max-width:320px) {
+    .page-banner h1#page-title, h1#banner-text {
+	font-size: 8vw;
 	line-height: 1.2em;
 }
 }
