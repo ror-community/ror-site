@@ -4,7 +4,7 @@
             <div class="col-md-11">
                 <div class="row">
                     <div class="col-md-4 text-right">
-                        <h2>Search the registry</h2>
+                        <h2>Search</a> the registry</h2>
                     </div>
                     <div class="col-md-7">                    
                         <form class="form-inline" action="{{ .Site.BaseURL }}search" method="get" role="search">
@@ -13,22 +13,15 @@
                         </form>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-4 text-left">
+                        &nbsp;
+                    </div>
+                    <div class="col-md-7 more-search">
+                        Or go to the main <a href="/search">search page</a> to browse all ROR records.
+                    </div>
+                </div>                
             </div>
         </div>
     </div>
-</section>
-<section class="section section-subscribe" data-background-color="light-grey" id="browse-request">
-  <div class="container">
-    <div class="row">
-	    <div class="col-md-6 text-center">
-				<a target="_blank" class="btn btn-sm btn-round mustard" rel="noopener" href="/search">Go to the search page to browse ROR</a>      	</div>
-
-	    <div class="col-md-6 text-center">
-			<div>
-				<a target="_blank" class="btn btn-sm btn-round mustard" rel="noopener" href="https://curation-request.ror.org">Request an addition or update to ROR</a>
-			</div>
-	    </div>
-
-    </div>
-  </div>
 </section>
