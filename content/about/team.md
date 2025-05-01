@@ -15,7 +15,7 @@ The ROR operations team is responsible for strategic decision-making about regis
 
 - [Maria Gould](/maria-gould), DataCite 
 - [John Chodacki](https://cdlib.org/contact/staff_directory/john-chodacki-staff-profile/), California Digital Library
-- [Ed Pentz](https://www.crossref.org/people/ed-pentz/), Crossref
+- [Lucy Ofiesh](https://www.crossref.org/people/lucy-ofiesh/), Crossref
 - [Matt Buys](https://datacite.org/team.html), DataCite
 
 ## Alumni and affiliates
@@ -30,6 +30,7 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 - Ginny Hendricks, Crossref
 - Jackson Huang, LEADING Fellow
 - Kornelia Korzec, Crossref
+- Liz Krznarich, DataCite
 - Suze Kundu, Digital Science
 - Rachael Lammey, Crossref
 - Simon Porter, Digital Science
