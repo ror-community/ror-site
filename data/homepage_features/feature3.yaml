@@ -1,6 +1,6 @@
 weight: 3
 name: "Learn more about ROR"
 icon: "/img/lions-join-community.jpg"
-description: "California Digital Library, Crossref, and DataCite launched ROR in 2019 following extensive community collaborations to develop an open registry of research organization identifiers. ROR is the only organization identifier that is completely open, governed by the community, and widely preferred in essential scholarly infrastructure."
+description: "After extensive conversations and collaborative work to develop an open registry of research organization identifiers, California Digital Library, Crossref, and DataCite launched ROR in 2019. ROR is now the only organization identifier that is completely open, community-governed, and widely preferred in essential scholarly infrastructure."
 link_text: "More"
 link_url: "/about"
