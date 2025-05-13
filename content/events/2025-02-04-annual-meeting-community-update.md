@@ -21,7 +21,7 @@ website = ""
 reglink = ""
 +++
 
-### ROR Annual Community Meeting 2025: Community Update
+## ROR Annual Community Meeting 2025: Community Update
 - Date: February 4, 2025
 - Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2025-02-04)
 - Duration: 1 hour
