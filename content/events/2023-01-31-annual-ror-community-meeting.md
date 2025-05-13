@@ -21,7 +21,7 @@ website = ""
 reglink = ""
 +++
 
-### ROR Annual Community Update 2023
+## ROR Annual Community Update 2023
 
 * Date: January 31, 2023
 
@@ -35,13 +35,13 @@ reglink = ""
 
 * Description: In this session, we will provide an update for the community on ROR’s progress to date, share our plans for the new year, and discuss ways to get involved.
 
-### Materials
+## Materials
 
 [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vTrdWzPpavIfmYQvfkJQUZxA2ww3H6uk1T4XYdXT6rfWS7uyhOlKYGgwknA_foolG4oBsq947odpU7F/pubembed?start=false&loop=false&delayms=3000)
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTrdWzPpavIfmYQvfkJQUZxA2ww3H6uk1T4XYdXT6rfWS7uyhOlKYGgwknA_foolG4oBsq947odpU7F/pubembed?start=false&loop=false&delayms=3000" >}}
 
-### Recording 
+## Recording 
 
 {{< youtube id="GIxqvBIx4r0" >}}
 

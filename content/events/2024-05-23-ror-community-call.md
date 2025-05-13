@@ -10,7 +10,7 @@ author = "Research Organization Registry (ROR)"
 description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more."
 +++
 
-### ROR Community Call May 2024
+## ROR Community Call May 2024
 - Date: May 23, 2024
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-05-23&tz2=UTC)
 - Duration: 1 hour
@@ -18,12 +18,12 @@ description = "The bi-monthly ROR Community calls include updates from the ROR t
 - Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The ROR Community Call for May 2024 includes general updates, an update on the April launch of the v2 ROR API and schema, and an overview of publisher identifiers in DataCite's new metadata schema 4.5.
 - Recorded: Yes
 
-### Materials
+## Materials
 
 - [Slides from ROR Community Call - May 2024](https://docs.google.com/presentation/d/1PsrBXXcb39uo7hSkiBDf2FOEnyrnR654rOfdtRy38z8/edit?usp=sharing)
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQySFVOSqvV771nvihif25UePSeMCtJGic2Imp337tqB1rQ5UMJdrm5sPVhheDBYNbWextCpYUQWU1C/embed?start=false&loop=false&delayms=3000" >}}
 
-### Recording
+## Recording
 
 {{< youtube id="C9bCe8VOxAk" title="ROR Community Call May 2024" >}}

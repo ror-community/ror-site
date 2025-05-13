@@ -21,7 +21,7 @@ website = ""
 reglink = ""
 +++
 
-### Strategies for Matching Affiliation Strings to ROR IDs
+## Strategies for Matching Affiliation Strings to ROR IDs
 
 * Date: February 2, 2023
 
@@ -36,7 +36,7 @@ reglink = ""
 * Description: Oriented toward more advanced technical users, this session explores how to use ROR to match affiliation strings, featuring lightning talks and demos by OpenAlex, DOE/OSTI, Allen AI, and Crossref.
 
 
-### Recording 
+## Recording 
 
 {{< youtube id="Tx5y7lX030U" >}}
 

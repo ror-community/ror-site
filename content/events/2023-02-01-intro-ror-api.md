@@ -25,7 +25,7 @@ aliases = [
 "/tutorials"]
 +++
 
-### Intro to the ROR API 
+## Intro to the ROR API 
 
 * Date: February 2, 2023
 
@@ -40,7 +40,7 @@ aliases = [
 * Description: This is a hands-on, interactive training session for those interested in learning the basics of working with the ROR API.
 
 
-### Recording 
+## Recording 
 
 {{< youtube id="Lf0z5ob_J9Y" >}}
 
