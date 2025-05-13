@@ -235,8 +235,18 @@ March 16, 2023 | [Event details and materials](2023-03-16-ror-schema-changes-cal
 
 ---
 
-### ROR Annual Community Meeting 2023 
-January 31 and February 1, 2023 | [Event details and materials](2023-01-31-annual-ror-community-meeting)
+### ROR Annual Community Meeting 2023: Strategies for Matching Affiliation Strings to ROR IDs
+February 1, 2023 | [Event details and materials](2023-02-01-strategies-for-matching-affiliation-strings-to-ror-ids)
+
+---
+
+### ROR Annual Community Meeting 2023: Intro to the ROR API  
+February 1, 2023 | [Event details and materials](2023-02-01-intro-ror-api)
+
+---
+
+### ROR Annual Community Meeting 2023: Community Update
+January 31, 2023 | [Event details and materials](2023-01-31-annual-ror-community-meeting)
 
 ---
 
