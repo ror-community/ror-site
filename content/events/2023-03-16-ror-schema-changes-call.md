@@ -16,12 +16,12 @@ description = "Call about proposed changes to the ROR metadata schema for schema
 - Description: The ROR team will present a summary of community responses to the [request for feedback on proposed changes to the ROR schema](https://ror.org/blog/2022-12-14-schema-scheming/) and go over planned changes in detail. 
 - Recorded: Yes
 
-### Materials
+## Materials
 
 - [Revised proposal for metadata schema 2.0 changes](https://docs.google.com/document/d/18Qg6-lv2Fxkc97SLpD8gdS0V8p0y9fdaZEywyeyKJWM/edit?usp=sharing) -- comments open through April 7, 2023
 - [Slides from ROR Schema Changes Call](https://docs.google.com/presentation/d/1TKBS3juheKzdChW6LXrK-_FEvx5UxcT2NqNlvgYt4Kc/edit?usp=sharing)
 
-### Recording 
+## Recording 
 
 {{< youtube id="HuGqvGWz6fU" title="ROR Schema Changes Call March 2023" class="blog-video" >}}
 

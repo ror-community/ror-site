@@ -22,7 +22,7 @@ reglink = ""
 +++
 
 
-### ROR Community Call November 2024 
+## ROR Community Call November 2024 
 - Date: Wednesday, November 20, 2024
 - Time: [4pm UTC](https://dateful.com/time-zone-converter?t=4pm&d=2024-11-20&tz2=UTC)
 - Duration: 1 hour

@@ -22,7 +22,7 @@ reglink = ""
 +++
 
 
-### Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians
+## Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians
 
 - Date: Thursday, November 7, 2024
 - Time: [7pm UTC](https://dateful.com/time-zone-converter?t=7pm&d=2024-11-07&tz2=Coordinated-Universal-Time-UTC)
