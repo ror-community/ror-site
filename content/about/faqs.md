@@ -88,7 +88,9 @@ Common types of entities that are out of scope for ROR include
 - Journals
 - Projects
 
-One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. See also [our scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. Additionally, research organizations in ROR must be **premised on long-term stability**. Single-person consultancies are out of scope for ROR because they do not persist beyond the lifetime of a single person. 
+
+See also [our scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ***
 
