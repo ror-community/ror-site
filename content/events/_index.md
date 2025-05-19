@@ -31,17 +31,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-
-### euroCRIS 2025 
-
-- Dates: May 13-15, 2025
-- Location: Leuven, Belgium and online
-- Description: The CRISCROS working group has invited ROR to present at the international euroCRIS conference for 2025. We'll be Zooming in to give a presentation on ROR in CRIS systems. 
-
-{{< button color="green" link="https://meeting.eurocris.org/" >}} Register for euroCRIS 2025 {{< /button >}}
-
---- 
-
 ### ROR Community Call May 2025
 
 - Date: Wednesday, May 21, 2025
@@ -117,6 +106,12 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
+
+### euroCRIS 2025 
+
+Thursday, May 15, 2025 | [Event details and materials](2025-05-15-ror-eurocris)
+
+---
 
 ### Better Together: ORCID + ROR 
 
