@@ -118,12 +118,12 @@ ROR is more than just an identifier: each record associated with a ROR ID contai
 
 Version 1 of the ROR metadata schema will be supported through at least April 2025.
 
-* [Version 1 schema, top-level data structure](https://ror.readme.io/v1/docs/data-structure)
+* [Version 1 schema, top-level data structure](https://ror.readme.io/v1/docs/ror-data-structure)
 * [Version 1 schema, all fields and sub-fields](https://ror.readme.io/v1/docs/fields)
 
 Version 2 of the ROR metadata schema is the current recommended version.
 
-* [Version 2 schema, top-level data structure](https://ror.readme.io/v2/docs/data-structure)
+* [Version 2 schema, top-level data structure](https://ror.readme.io/v2/docs/ror-data-structure)
 * [Version 2 schema, all fields and sub-fields](https://ror.readme.io/v2/docs/fields)
 
 ***
