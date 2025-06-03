@@ -31,17 +31,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-
-### Society for Scholarly Publishing (SSP) 2025
-
-- Dates: May 28-30, 2025
-- Location: Baltimore, MD
-- Description: ROR will be attending SSP 2025 this year to network with scholarly publishers. Come say hi!
-
-{{< button color="green" link="https://customer.sspnet.org/SSP/ssp/AM25/Home.aspx?hkey=d2c1ecd1-4ca5-4c1b-ac31-963ace5455a5" >}} Register for SSP 2025 {{< /button >}}
-
----
-
 ### ROR Community Call July 2025
 
 - Date: Thursday, July 16, 2025
@@ -94,6 +83,14 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
+
+---
+
+### SSP 2025 
+
+May 28-30, 2025 | [Event details and materials](2025-05-28-ssp)
+
+---
 
 ### ROR Community Call May 2025
 
