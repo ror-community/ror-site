@@ -77,6 +77,12 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### Japan Open Science Summit 2025 
+
+June 23-27, 2025 | [Event details and materials](2025-06-24-joss)
+
+---
+
 ### Open Repositories 2025
 
 June 16-18, 2025 | [Event details and materials](2025-06-16-open-repositories)

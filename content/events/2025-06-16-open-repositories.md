@@ -25,6 +25,7 @@ reglink = ""
 - Dates: June 16-18, 2025
 - Location: Chicago, IL
 - Description: On June 17th, ROR will be giving a presentation at Open Repositories 2025 on "Balancing the Global and the Local at the Research Organization Registry (ROR)." We'll be there for the whole conference, as well, to learn more about repository systems and to answer questions about integrating ROR. Come say hi!
+- Website: https://or2025.openrepositories.org/
 
 
 ## Materials 
