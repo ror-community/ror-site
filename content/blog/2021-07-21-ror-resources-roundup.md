@@ -6,9 +6,11 @@ tags = ["API", "Integrations", "Resources"]
 categories = ["Technical News"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-profile-bw-sq.jpg"
 authors = ["Liz Krznarich"]
+doi = "https://doi.org/10.71938/4beg-0319"
+
 +++
 
 ROR adoption is ramping up, and we’ve been hard at work during the past few months creating resources (or should we say _ROR_-sources?!) to support those of you integrating ROR into your systems. We’re excited to share the following new resources with you:

@@ -6935,9 +6935,139 @@ table#donations-table td ul li {
 
 /* fixing bold font family no clue what the upstream issue is */
 
-p strong, p b, li strong, li b, .author {
+p strong, p b, li strong, li b, .authordate {
 	font-family: "AH-Bold";
 }
+
+/* app styles */
+
+$green: #53baa1;
+$dark-grey: #505759;
+$light-grey: #efefef;
+$orange: #da3200;
+$mustard: #e89005;
+$beige: #d3bdb0;
+$black: #293030;
+
+
+
+$phone-width: 420px;
+$tablet-width: 768px;
+$desktop-width: 1024px;
+
+// override, color links
+.card-app {
+  h1, h2 {
+    font-size: 2rem;
+    margin-top: 0;
+    @media screen and (max-width:$phone-width) {
+        font-size: 1.6rem;
+    }
+  }
+  h3 {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+  }
+}
+
+.ror-search-home {
+  font-size: 1rem;
+}
+
+.fa-question-circle {
+  font-size: 1.1rem;
+  &:hover{
+    color: #53BAA1;
+  }
+
+}
+
+.badge {
+    padding: 8px 12px;
+    font-size: .8em;
+    float: right;
+    @media screen and (max-width:$phone-width) {
+        float: left;
+        margin-top: .5rem
+    }
+}
+
+.badge-status{
+    border-color: $orange;
+    background-color: $orange;
+    color: #FFF;
+}
+
+.ror-id {
+    @media screen and (max-width:$phone-width) {
+        display: none;
+    }
+}
+
+.popover {
+  font-size: .8rem;
+}
+
+.filters-list {
+  position: relative;
+  display: block;
+  padding-left: 1.25rem;
+}
+
+.filters-list input[type=checkbox] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.filters-list-input {
+  position: absolute;
+  margin-top: 0.4rem;
+  margin-left: -1.25rem;
+}
+
+.filters-list-label {
+  display: inline-block;
+  margin: 0;
+}
+
+#filters{
+  line-height: 1.5rem;
+  h2 {
+    font-size: 1.5rem;
+    margin: 0;
+    line-height: normal;
+  }
+  h3 {
+    font-size: 1rem;
+    margin: 0;
+    line-height: normal;
+  }
+  p {
+    margin-bottom: 0;
+  }
+  hr {
+    margin: .5rem 0;
+  }
+  .filter-group{
+    margin-bottom: 1rem;
+  }
+
+  a {
+    line-height: normal;
+    font-size: 1rem;
+    font-style: italic;
+  }
+  i {
+    margin-right: .3rem;
+  }
+  .btn-round {
+    padding: 6px 9px;
+    float: left;
+    margin-right: .3rem;
+  }
+
+}
+
 
 
 /* blog styles */
@@ -7007,6 +7137,16 @@ font-size: .95em;
 font-size: 2.75rem;
 }
 
+.authordate {
+font-weight: 400;
+margin-bottom: .5rem;
+}
+
+.doi { 
+font-size: smaller;
+margin: 0;
+}
+
 
 @media screen and (max-width:1024px) {
     .page-banner h1#page-title {
@@ -7020,6 +7160,12 @@ font-size: 2.75rem;
 	font-size: 5vw;
 	line-height: 1.2em;
 }
+}
+
+/* jumbotron */ 
+
+.jumbotron { 
+	padding: .75em 0 .75em 0;
 }
 
 
@@ -7039,7 +7185,7 @@ svg.ha-link:hover {
 	opacity:.6;
 }
 
-h4 .ha, h5 .ha, h6 .ha, .blog .ha {
+h4 .ha, h5 .ha, h6 .ha {
 	display:none;	
 }	
 
@@ -7107,7 +7253,7 @@ font-size: .8em;
   font-weight: bold;
   font-size: 1.75rem;
   line-height: 2.5rem;
-  content: "References";
+  content: "Notes";
 }
 
 .footnotes ol li, .footnotes ol li p {
@@ -7144,5 +7290,27 @@ margin-bottom: 1em;
 	margin-left:auto;
   	margin-right:auto;
   	border: 1px solid gray;
+}
+
+
+/* author page */
+
+.author-posts { 
+font-size:large; 
+} 
+
+.pids {
+font-size:large;
+margin-bottom: .5rem;
+}
+
+.bio {
+margin-top: 2rem;
+}
+
+/* code blocks */
+
+pre {
+line-height: 1.2rem;
 }
 

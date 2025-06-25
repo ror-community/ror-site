@@ -6,9 +6,11 @@ tags = ["Community", "Sustainability", "GRID" ]
 categories = ["General Updates"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["ROR Leadership Team"]
+doi = "https://doi.org/10.71938/4jrg-4e16"
+
 +++
 
 Earlier today, [GRID announced that it will discontinue its schedule of public releases in Q4 2021](https://www.digital-science.com/press-release/grid-passes-torch-to-ror/). This decision marks an important and exciting milestone in the evolution of both organization registries.

@@ -11,20 +11,15 @@ thumb = "/img/blog/matching-how-good/string-id-matching-crown.png"
 images = ['/img/blog/matching-how-good/string-id-matching-crown.png']
 authors = ["Dominika Tkaczyk", "Adam Buttrick"]
 description = "The fourth blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk explains how to measure the quality of different matching strategies with an evaluation dataset and metrics."
+doi = "https://doi.org/10.71938/vq19-1577"
+crosspost = "https://doi.org/10.13003/ief7aibi"
 +++ 
 
-
-{{< figure src="/img/blog/matching-how-good/string-id-matching-crown.png" alt="An elaborate crown on top of the words string = id on a bright blue background" class="featured-figure" >}}
-
-The fourth blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk explains how to measure the quality of different matching strategies with an evaluation dataset and metrics. 
-
-
 {{< callout color="green" icon="no-icon" >}}
-
-The below is cross-posted from the Crossref blog. [Read the original post.](https://www.crossref.org/blog/how-good-is-your-matching/) 
-
+The fourth blog post about metadata matching by ROR’s Adam Buttrick and Crossref’s Dominika Tkaczyk explains how to measure the quality of different matching strategies with an evaluation dataset and metrics. Read all posts in the [series on metadata matching](/tags/matching).
 {{< /callout >}} 
 
+{{< figure src="/img/blog/matching-how-good/string-id-matching-crown.png" alt="An elaborate crown on top of the words string = id on a bright blue background" class="featured-figure" >}}
 
 In our [previous blog post](/blog/2024-08-28-the-myth-of-perfect-metadata-matching/) in this [series](/tags/matching), we explained why no metadata matching strategy can return perfect results. Thankfully, however, this does not mean that it's impossible to know anything about the quality of matching. Indeed, we can (and should!) measure how close (or far) we are from achieving perfection with our matching. Read on to learn how this can be done!
 

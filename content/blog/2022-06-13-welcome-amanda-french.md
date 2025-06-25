@@ -6,9 +6,11 @@ tags = ["Team", "Adoption", "Community"]
 categories = ["Team Updates"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/amanda.jpeg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/cqcw-fk94"
+
 +++
 
 We are thrilled to introduce a new member of the ROR pride: [Amanda French](https://amandafrench.net) has joined ROR as our full-time Technical Community Manager.

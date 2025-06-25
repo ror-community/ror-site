@@ -3,7 +3,7 @@ title = "Using ROR for Funder Identification"
 date = "2024-08-06"
 draft = false 
 tags = ["Funders", "Adoption", "Integrations", "Implementation", "GREI", "DataCite", "Dryad", "Zenodo", "InvenioRDM", "CaltechData", "Figshare", "StrainInfo"] 
-categories = ["Use Cases"] 
+categories = ["Case Studies"] 
 archives = ["2024"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png" 
@@ -11,6 +11,7 @@ thumb = "/img/blog/use-case-funders/ror-for-funders.png"
 images = ['/img/blog/use-case-funders/ror-for-funders.png']
 authors = ["Amanda French"] 
 description = "Several widely used scholarly systems are using ROR IDs to identify and disambiguate funders. In this post, we’ll give you a glimpse of how and why these systems use ROR IDs for funder identifiers."
+doi = "https://doi.org/10.71938/xfhb-sm73"
 +++ 
 
 {{< figure src="/img/blog/use-case-funders/ror-for-funders.png" alt="ROR logo and funder icon" class="featured-figure" >}}
@@ -84,7 +85,7 @@ Both Figshare's central repository at [figshare.com](figshare.com) and Oxford Un
 
 {{< figure src="/img/blog/use-case-funders/ror-figshare.gif" alt="Figshare's award lookup pulls data from Dimensions, which includes ROR IDs." caption="Figshare's award lookup pulls data from Dimensions, which includes ROR IDs." >}}
 
-ROR was [originally seeded](https://ror.org/about/#launch-of-the-ror-mvr) with the GRID organization identifiers and data used by Dimensions, so there is a [close relationship between ROR IDs and GRID IDs](https://grid.ac/), and most ROR and GRID records are [mapped to each other](https://ror.readme.io/v2/docs/data-structure#external_ids). Dimensions's support documentation [explains how ROR IDs are incorporated into its data](https://dimensions.freshdesk.com/support/solutions/articles/23000025993-how-are-organizations-represented-in-dimensions-): 
+ROR was [originally seeded](https://ror.org/about/#launch-of-the-ror-mvr) with the GRID organization identifiers and data used by Dimensions, so there is a [close relationship between ROR IDs and GRID IDs](https://grid.ac/), and most ROR and GRID records are [mapped to each other](https://ror.readme.io/v2/docs/ror-data-structure#external_ids). Dimensions's support documentation [explains how ROR IDs are incorporated into its data](https://dimensions.freshdesk.com/support/solutions/articles/23000025993-how-are-organizations-represented-in-dimensions-): 
 
 {{< callout  color="beige" icon="no-icon" >}}
 

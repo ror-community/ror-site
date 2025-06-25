@@ -6,9 +6,11 @@ tags = ["GRID" ]
 categories = ["Technical News"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/banners/lion-trio.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/a5fg-7e94"
+
 +++
 
 In July, ROR and GRID [announced](/blog/2021-07-12-ror-grid-the-way-forward) that the two registries would begin to diverge in Q4 2021 following GRID's final public release.

@@ -12,18 +12,13 @@ images = ['/img/blog/rrid-ror/iconmonstr-flask-9-240.png']
 authors = ["Anita Bandrowski", "Amanda French"] 
 description = "This blog post explores the difference between 'core facilities' in RRID and 'facilities' in ROR and provides guidance for those who run facilities on how to effectively use these identifiers."
 aliases = [ "/blog/2024-11-27-rrid-ror-facilities" ]
+doi = "https://doi.org/10.71938/r7ar-eq11"
+crosspost = "https://www.rrids.org/news/2024/11/26/understanding-rrid-and-ror-for-facilities"
 +++ 
 
 {{< figure src="/img/blog/rrid-ror/iconmonstr-flask-9-240.png" class="featured-figure" alt="Icon Monster flask" >}}
 
 This blog post explores the difference between "core facilities" in RRID and "facilities" in ROR and provides guidance for those who run facilities on how to effectively use these identifiers.
-
-{{< callout color="green" icon="no-icon" >}}
-
-This post is [cross-posted on RRIDs.org](https://www.rrids.org/news/2024/11/26/understanding-rrid-and-ror-for-facilities). 
-
-{{< /callout >}}
-
 
 ## What is RRID and what is its scope? 
 
@@ -66,7 +61,7 @@ ROR (Research Organization Registry) IDs help identify **research organizations*
 
 ## Definitions of Facilities for RRID and ROR 
 
-As you can see above, RRID includes a resource type for "core facilities," and ROR [includes an organization type "facility."](https://ror.readme.io/v2/docs/data-structure#types) Despite this apparent similarity, the definitions for "core facilities" in RRID and "facilities" in ROR differ quite a bit, and indeed there is very little overlap between  core facilities in RRID and facilities in ROR. Let’s look now at how RRID and ROR define "core facility" and “facility” and at some examples of each.
+As you can see above, RRID includes a resource type for "core facilities," and ROR [includes an organization type "facility."](https://ror.readme.io/v2/docs/ror-data-structure#types) Despite this apparent similarity, the definitions for "core facilities" in RRID and "facilities" in ROR differ quite a bit, and indeed there is very little overlap between  core facilities in RRID and facilities in ROR. Let’s look now at how RRID and ROR define "core facility" and “facility” and at some examples of each.
 
 ### What are “core facilities” in RRID?
 
@@ -91,7 +86,7 @@ These core facilities with RRIDs do not have corresponding ROR IDs, but the pare
 
 ### What are “facilities” in ROR?
 
-ROR’s list of organization types includes a value for “facility,” [defined as](https://ror.readme.io/v2/docs/data-structure#types) “A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area.” There are currently [over 11,000 organizations of the type “facility”](https://api.ror.org/v2/organizations?query.advanced=types:facility) in ROR. 
+ROR’s list of organization types includes a value for “facility,” [defined as](https://ror.readme.io/v2/docs/ror-data-structure#types) “A specialized facility where research takes place, such as a laboratory or telescope or dedicated research area.” There are currently [over 11,000 organizations of the type “facility”](https://api.ror.org/v2/organizations?query.advanced=types:facility) in ROR. 
 
 Facilities in ROR include the following: 
 

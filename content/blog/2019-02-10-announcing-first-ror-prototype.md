@@ -6,9 +6,11 @@ tags = ["Community", "Prototype", "MVR", "Annual Meeting"]
 categories = ["Technical News"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/pride-of-lions-us.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/banners/pride-of-lions-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/0eh7-xg96"
+
 +++
 
 What has hundreds of heads, 91,000 affiliations, and roars like a lion? If you guessed the Research Organization Registry community, you'd be absolutely right!

@@ -11,6 +11,7 @@ thumb = "/img/ror-v2-launch-shadow-sparkles.gif"
 images = ['img/ror-v2-launch-shadow-sparkles.gif']
 authors = ["ROR Core Team"]
 description = "Today, we are delighted to announce the launch of version 2 of the ROR schema and API! This new version of our schema and API will serve as a rock-solid foundation for everything ROR users want to accomplish now and in the future."
+doi = "https://doi.org/10.71938/v406-1m30"
 +++
 
 {{< callout color="green" icon="no-icon" >}}
@@ -91,7 +92,7 @@ If you'd like to see even more details about what's new in version 2 of the ROR 
 
 ## Thanks to all who made this possible!
 
-The launch of version 2 of ROR ranks right up there with other [major milestones for ROR](/about#history), including the stakeholder meeting in Girona, Spain in January 2018; the "Minimum Viable registry" launch in January 2019; and the first independently-curated release in March 2022. We're very grateful to all those who made this watershed moment possible, including all the members of the ROR community who gave us [feedback on our proposals](https://ror.readme.io/v2/docs/feedback-docs) and participated in our [beta test](https://ror.org/blog/2023-09-14-beta-test/). 
+The launch of version 2 of ROR ranks right up there with other [major milestones for ROR](/about/history), including the stakeholder meeting in Girona, Spain in January 2018; the "Minimum Viable registry" launch in January 2019; and the first independently-curated release in March 2022. We're very grateful to all those who made this watershed moment possible, including all the members of the ROR community who gave us [feedback on our proposals](https://ror.readme.io/v2/docs/feedback-docs) and participated in our [beta test](https://ror.org/blog/2023-09-14-beta-test/). 
 
 If you'd like to participate in future ROR developments, please get involved with the ROR [community](/community)! 
 

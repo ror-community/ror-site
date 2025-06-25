@@ -54,7 +54,7 @@ YouTube playlists can be embedded with the custom playlist shortcode.
 
 {{< callout >}} Use the <code>callout</code> shortcode for a callout box. You can make the box any one of the brand colours: beige, green, dark grey, mustard or black by appending this to the shortcode (or leave color out for the default grey).
 
-You can also set any icon from the [Font Awesome v4 library](https://fontawesome.com/v4/icons/) by appending its name e.g. <code>fa-envelope</code> (or as with color, leave icon out for the default info icon). If you do want an icon, specify "no-icon" and your callout box will have full-width text. You can style text within a callout box using normal Markdown. View the markdown for this page to see the code in action.{{< /callout >}}
+You can also set any icon from the [Font Awesome v4 library](https://fontawesome.com/v4/icons/) by appending its name e.g. <code>fa-envelope</code> (or as with color, leave icon out for the default info icon). If you do not want an icon, specify "no-icon" and your callout box will have full-width text. You can style text within a callout box using normal Markdown. View the markdown for this page to see the code in action.{{< /callout >}}
 
 {{< callout color="green" icon="no-icon" >}} This is a green callout box with no icon. *Lorem Ipsum is the single greatest threat.* We are not - we are [not keeping up with other websites](#). {{< /callout >}}
 
@@ -89,4 +89,4 @@ And some text beneath it.
 
 ## iframes
 
-Use the callout box {{< iframe "embedurl" >}} to embed an iframe in a content page.
+Use the shortcode {{< iframe "embedurl" >}} to embed an iframe in a content page.

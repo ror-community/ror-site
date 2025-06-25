@@ -12,7 +12,7 @@ aliases = ["/faqs", "/faq"]
 
 ### **Who runs ROR?**
 
-ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance-model), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
+ROR, the Research Organization Registry, is operated as a collaborative initiative by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org), in conjunction with a broad network of community stakeholders. Read more about ROR’s [governance model](/about#governance), [steering group](/community#steering-group), and [community advisory group](/community#community-advisory-group).
 
 ***
 
@@ -88,7 +88,9 @@ Common types of entities that are out of scope for ROR include
 - Journals
 - Projects
 
-One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. See also [our scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. Additionally, research organizations in ROR must be **premised on long-term stability**. Single-person consultancies are out of scope for ROR because they do not persist beyond the lifetime of a single person. 
+
+See also [our scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
 ***
 
@@ -116,12 +118,12 @@ ROR is more than just an identifier: each record associated with a ROR ID contai
 
 Version 1 of the ROR metadata schema will be supported through at least April 2025.
 
-* [Version 1 schema, top-level data structure](https://ror.readme.io/v1/docs/data-structure)
+* [Version 1 schema, top-level data structure](https://ror.readme.io/v1/docs/ror-data-structure)
 * [Version 1 schema, all fields and sub-fields](https://ror.readme.io/v1/docs/fields)
 
 Version 2 of the ROR metadata schema is the current recommended version.
 
-* [Version 2 schema, top-level data structure](https://ror.readme.io/v2/docs/data-structure)
+* [Version 2 schema, top-level data structure](https://ror.readme.io/v2/docs/ror-data-structure)
 * [Version 2 schema, all fields and sub-fields](https://ror.readme.io/v2/docs/fields)
 
 ***
@@ -222,7 +224,7 @@ The ROR registry is maintained through a centralized, community-based curation p
 
 ### **How quickly can I get a new ROR ID?**
 
-ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog. Generally, an approved request will appear in ROR within 2-4 weeks.
+ROR is updated on a rolling basis. Every request needs to go through a curation process before it can be incorporated into ROR. We aim to process requests as quickly as possible, but the timelines can vary depending on the complexity of the request and the volume of requests in the backlog. Generally, an approved request will appear in ROR within 4-6 weeks.
 
 Currently, releases are published approximately every month. You can track your request through the curation process by following it on [GitHub](https://github.com/ror-community/ror-updates/issues).
 
@@ -230,19 +232,21 @@ Currently, releases are published approximately every month. You can track your 
 
 ### **How can I submit bulk requests to ROR when I want to add multiple organizations?**
 
-If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact [registry@ror.org](mailto:registry@ror.org) for assistance.
+If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. 
+
+If you want to submit a large number of requests, you can also download a bulk request spreadsheet template in XLSX format, complete it, and email it to registry@ror.org. See [Bulk Requests](/registry/#bulk-requests) for templates and instructions. 
 
 ***
 
 ### **How long will it take for my bulk request to be processed?**
 
-While approved requests for single ROR records generally appear in the registry in 2-4 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely.
+While approved requests for single ROR records generally appear in the registry in 4-6 weeks, it is not possible to estimate a general processing time for bulk requests. Bulk requests range in size from hundreds to thousands of requests, and the completeness and quality of the submitted metadata vary widely. Large bulk submissions may take us some time to process. 
 
-Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 300-400 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. The best way to ensure faster processing of your request is to submit clean, complete metadata.
+Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 1000 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. **The best way to ensure faster processing of your request is to submit clean, complete metadata.** 
 
-We are currently scaling our curation processes to support the widespread enthusiasm for ROR and this high volume of requests, so please don’t hesitate to inquire about bulk submissions by writing [registry@ror.org](mailto:registry@ror.org). This helps us to gauge demand for curation activities and resource accordingly. Please also, however, be mindful that large bulk submissions may take us some time to process.
+Feel free to inquire about bulk submissions by writing [registry@ror.org](mailto:registry@ror.org). This helps us to gauge demand for curation activities and resource accordingly. 
 
-Our curation processes and projects are entirely open, so anyone may see our [queue of open individual requests](https://github.com/ror-community/ror-updates/issues). 
+Our curation processes and projects are entirely open, so anyone may see our [queue of open requests](https://github.com/ror-community/ror-updates/issues), including open bulk requests.  
 
 ### **I submitted a curation request to ROR. How can I track it?**
 

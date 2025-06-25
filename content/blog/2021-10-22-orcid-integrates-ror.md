@@ -6,12 +6,14 @@ tags = ["Integrations", "ORCID", "Cross-post" ]
 categories = ["Adoption News"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/orcid-id-icon.png"
 authors = [ "Tom Demeranville", "Paula Demain", "Dan Dineen" ]
-+++
+description = "The Research Organization Registry (ROR) has been added to the ORCID Registry as a disambiguated Organization ID. ROR can now be used with the ORCID API and Affiliation Manager to record research institution identifiers and metadata, thus making it easier to track the impact of institutional research."
+doi = "https://doi.org/10.71938/jspc-9949"
+crosspost = "https://info.orcid.org/add-research-institution-identifiers-with-ror/"
 
-_This is a guest post by the [ORCID](https://orcid.org) team that was originally published on the ORCID blog. See the original post [here](https://info.orcid.org/add-research-institution-identifiers-with-ror/)._
++++
 
 ## Add Research Institution Identifiers with ROR!
 
@@ -26,7 +28,7 @@ _Example API code for ROR_
 ## A short history of ROR’s inception
 The scholarly research community depends on a series of open identifier and metadata infrastructure systems to accurately identify and disambiguate researchers, their work, and the institutions that support that work.
 
-To help complete a missing piece of the infrastructure puzzle, [ROR was launched in 2019](https://ror.org/about/#history). It  is now a collaborative initiative run by [California Digital Library (CDL)](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org).
+To help complete a missing piece of the infrastructure puzzle, [ROR was launched in 2019](https://ror.org/about//history). It  is now a collaborative initiative run by [California Digital Library (CDL)](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org).
 
 ## Why ROR? Why now?
 There are numerous ways data is used within the persistent identifier (PID) ecosystem, and affiliation is the key. Knowing where research is coming from, accessing clean and consistent data, and being able to report on the output of institutional research is central to many research stakeholders.

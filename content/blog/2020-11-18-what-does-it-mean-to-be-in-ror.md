@@ -6,9 +6,11 @@ tags = ["Community", "Data", "Curation"]
 categories = ["Explainers"]
 archives = ["2020"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-reflection-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/wyy1-ec95"
+
 +++
 
 Some of the most frequent questions ROR receives are about what it means when an organization is in ROR, and how organizations end up in the registry in the first place. Many of you are understandably curious about how ROR records are added and updated. So, we thought this would be a good time to talk about how the registry is being maintained and how this process evolving.
@@ -45,7 +47,7 @@ As mentioned above, ROR has already been doing some of this curation work, in co
 
 ## A vision for community-based curation
 
-ROR is a collaborative effort supported and adopted by stakeholders around the globe. [Community participation shaped the early vision for ROR](https://ror.org/about#history) and [continues to drive the project today](https://ror.org/blog/2020-11-11-who-is-the-ror-community) and distinguish it from similar initiatives.
+ROR is a collaborative effort supported and adopted by stakeholders around the globe. [Community participation shaped the early vision for ROR](https://ror.org/about/history) and [continues to drive the project today](https://ror.org/blog/2020-11-11-who-is-the-ror-community) and distinguish it from similar initiatives.
 
 From the very beginning, community involvement in the curation of ROR has been central to this vision. ROR's users and stakeholders have wide-ranging experiences working with persistent identifiers and scholarly infrastructure, whether in the context of libraries, research administration, platforms and repositories, and beyond. It is important that they be involved in decisions about how the registry is maintained.
 

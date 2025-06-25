@@ -8,13 +8,11 @@ aliases = [
 ]
 +++
 
-
-
-## Submitting registry updates
+## Requesting registry updates {#submitting-registry-updates}
 
 The process of registering ROR IDs and maintaining ROR records is different from the workflows for ORCID iDs and DOIs. Unlike ORCID iDs and DOIs, ROR IDs are created and maintained through a centralized, community-based curation process.
 
-Anyone can suggest additions or updates to the registry. You do not need to be affiliated with an organization to suggest changes to the organization's record in ROR.
+Anyone can request additions or updates to the registry using the form at [https://curation-request.ror.org](https://curation-request.ror.org). You do not need to be affiliated with an organization to request changes to that organization's record in ROR. 
 
 {{< centered >}}
 
@@ -22,11 +20,9 @@ Anyone can suggest additions or updates to the registry. You do not need to be a
 
 {{< /centered >}}
 
-After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies. Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump.
+After a registry request is submitted, the proposed change is reviewed by ROR's metadata curation lead and curation advisory board to ensure it is in scope and in line with ROR's metadata policies. Approved changes are assigned to a future release and the records go through a metadata preparation process and schema validation check before they are deployed on the ROR production site and made available in the ROR API and data dump. 
 
-Registry data is updated on a rolling basis. New releases are available at least once every month, so the time between when a request is made and when the approved change appears in the registry is usually 2-4 weeks. Not all requests are approved.
-
-If you have more than one request, please submit a separate request form for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. If you have a large number of requests, please contact registry@ror.org for assistance. For bulk request processing time, see [How long will it take for my bulk request to be processed?](/about/faqs/#how-long-will-it-take-for-my-bulk-request-to-be-processed)
+Registry data is updated on a rolling basis. New releases are available at least once every month, so the time between when a request is made and when the approved change appears in the registry is usually 4-6 weeks. Not all requests are approved.
 
 The curation process is openly available on [GitHub](https://github.com/ror-community/ror-updates). Anyone can follow along with the curation process by visiting the [issues queue](https://github.com/ror-community/ror-updates/issues) of change requests.
 
@@ -44,7 +40,31 @@ ROR developed its curation model following discussions and consultations with co
 
 {{< /callout >}}
 
-## Scope and criteria for inclusion
+## Bulk requests
+
+If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. 
+
+If you want to request changes to a large number of **existing** ROR records, please download the Update Records bulk processing spreadsheet, add all necessary information in a single row for each record, and email the completed spreadsheet to registry@ror.org.
+
+{{< centered >}}
+
+{{< button color="green" link="https://docs.google.com/spreadsheets/d/e/2PACX-1vT3EoO0sIILtNV_YrB72BlS3SaAdfpd4J_-Us1rTAieyzNbGl1Db9FBijPBIRUlQcW3pJrROOc_FPSx/pub?output=xlsx" >}} Download the Update Records spreadsheet (XLSX) {{< /button >}}
+
+{{< /centered >}}
+
+If you want to request the addition of a large number of **new** ROR records, please download and complete the New Records bulk processing spreadsheet, add all necessary information, and email the completed spreadsheet to registry@ror.org.
+
+{{< centered >}}
+
+{{< button color="green" link="https://docs.google.com/spreadsheets/d/e/2PACX-1vRwGDH_18Udqev5rt58_p3tZmTKcUjAOUEEx_KaHJB-eu-xIp81Czswcriz_tFAl58a5-khKf12W8Nm/pub?output=xlsx" >}} Download the New Records spreadsheet (XLSX) {{< /button >}}
+
+{{< /centered >}}
+
+Bulk request processing time varies widely depending on the number of updates requested and the completeness of the metadata submitted: see [How long will it take for my bulk request to be processed?](/about/faqs/#how-long-will-it-take-for-my-bulk-request-to-be-processed) 
+
+Bulk requests, like all other requests, are openly available and can be tracked on GitHub at https://github.com/ror-community/ror-updates/issues. 
+
+## Criteria for inclusion {#scope-and-criteria-for-inclusion}
 ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
 
 ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. Therefore, one of the most important criteria we use to decide whether to add an organization to ROR is whether researchers list that organization as an affiliation in existing published research outputs.
@@ -58,7 +78,7 @@ ROR registry records include a unique ID for each organization along with additi
 
 All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 
-As of April 2024, ROR maintains two versions of its metadata schema. [Version 1 of the ROR metadata schema](https://ror.readme.io/v1/docs/data-structure) will be supported through at least April 2025; [version 2 of the ROR metadata schema](https://ror.readme.io/v2/docs/data-structure) is the current recommended version.
+As of April 2024, ROR maintains two versions of its metadata schema. [Version 1 of the ROR metadata schema](https://ror.readme.io/v1/docs/ror-data-structure) will be supported through at least April 2025; [version 2 of the ROR metadata schema](https://ror.readme.io/v2/docs/ror-data-structure) is the current recommended version.
 
 More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available in [ROR's documentation](https://ror.readme.io). 
 

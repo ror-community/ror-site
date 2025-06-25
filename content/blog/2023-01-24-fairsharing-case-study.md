@@ -9,6 +9,8 @@ style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/fairsharing/fairsharing-data-readiness.jpg"
 authors = ["Amanda French"]
+doi = "https://doi.org/10.71938/hd7y-q648"
+
 +++
 
 In this installment of the ROR Case Studies series, we talk with Allyson Lister, Content and Community Lead for FAIRsharing, a cross-disciplinary registry of scientific standards, databases, and policies, about how and why FAIRsharing used ROR to help make organizations first-class citizens in their data model.
@@ -328,7 +330,7 @@ Anyway. All right, back to ROR. I'm going to try to keep as much of that in the 
 
 ### {{< figure src="/img/blog/fairsharing/allyson-lister.jpg" class="round-figure" alt="Allyson Lister" >}} Allyson Lister
 
-You should definitely include the black currants. I went down a bit of a [Wikipedia black hole](https://en.wikipedia.org/wiki/Blackcurrant#History) when I suddenly realized everyone was black currant here, and no one was grape, and why weren't we having black currants in the States. And so that's why.
+You should definitely include the black currants. I went down a bit of a [Wikipedia black hole](https://en.wikipedia.org/wiki/Blackcurrant/history) when I suddenly realized everyone was black currant here, and no one was grape, and why weren't we having black currants in the States. And so that's why.
 
 ### {{< figure src="/img/amanda-sq-100.png" class="round-figure" alt="Amanda French" >}} Amanda French
 

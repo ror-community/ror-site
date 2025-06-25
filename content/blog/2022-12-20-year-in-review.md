@@ -6,9 +6,11 @@ tags = ["Community"]
 categories = ["Year in Review"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/6vea-5c14"
+
 +++
 
 2022 has been a momentous year for ROR! We experienced significant growth, reached critical milestones, and established a foundation for long-term sustainability. As the year comes to a close, we're taking a moment to reflect on our activities and give thanks to our community for supporting us along the way.
@@ -19,7 +21,7 @@ authors = ["Maria Gould"]
 
 Activities and milestones we're proud of in 2022 include:
 
--   **Expanding the ROR core team** (we hired curation lead [Adam Buttrick](https://ror.org/about/#adam-buttrick-metadata-curation-lead) and technical community manager [Amanda French](https://ror.org/about/#amanda-french-technical-community-manager), and shifted [Liz Krznarich](https://ror.org/about/#liz-krznarich-technical-lead) to technical lead).
+-   **Expanding the ROR core team** (we hired curation lead [Adam Buttrick](/adam-buttrick) and technical community manager [Amanda French](/amanda-french), and shifted [Liz Krznarich](/liz-krznarich) to technical lead).
 
 -   **Updating the registry independently and implementing an end-to-end community-based curation process**: we [launched ROR's independent curation and data release process](https://ror.org/blog/2022-03-17-first-independent-release/) and began publishing registry updates on a regular basis in response to community feedback. We also onboarded new curators to ROR's [curation advisory board](https://ror.org/registry/#curation-advisory-board), expanding beyond the original pilot cohort. 
 

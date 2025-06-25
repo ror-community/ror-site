@@ -6,9 +6,11 @@ tags = ["Community", "implementation", "sustainability"]
 categories = ["General Updates"]
 archives = ["2020"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-profile-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/zzgq-n571"
+
 +++
 
 We're more than halfway through 2020, and it has already been a year like no other. In the midst of global upheaval and uncertainty, work on the Research Organization Registry continues. Building and sustaining community and connections through open scholarly infrastructure seems more important than ever.

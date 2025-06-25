@@ -2,7 +2,7 @@
 title = "Clarivate Integrates ROR" 
 date = "2024-12-18T13:49:54-05:00"
 draft = false 
-tags = ["Clarivate", "Web of Science"] 
+tags = ["Clarivate", "Web of Science", "Adoption"] 
 categories = ["Adoption News"] 
 archives = ["2024"]
 style = "card-plain" 
@@ -11,6 +11,7 @@ thumb = "/img/blog/clarivate/Clarivate_Logo.png"
 images = ['/img/blog/clarivate/Clarivate_Logo.png']
 authors = ["Clarivate", "ROR Core Team"]  
 description = "Web of Science Core Collection™ from Clarivate™ now includes Research Organization Registry (ROR) identifiers for the benefit of the global research community."
+doi = "https://doi.org/10.71938/atnp-me51"
 +++ 
 
 {{< figure src="/img/blog/clarivate/Clarivate_Logo.png" class="featured-figure" alt="Clarivate logo" >}}

@@ -6,9 +6,11 @@ tags = ["Community", "Annual Meeting",]
 categories = ["Event Recaps"]
 archives = ["2020"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lions-in-lisbon-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/bfsw-x908"
+
 +++
 
 ROR had a party in Portugal last month! Sixty friends - some new, some old - came together in Lisbon on the eve of [PIDapalooza 2020](https://www.pidapalooza.org) to celebrate ROR’s unofficial first birthday, marking one year since the registry debuted at a community meeting in Dublin in January 2019. This year’s gathering was a chance to review the milestones that ROR has passed in the last twelve months, highlight early implementations of ROR, and discuss the work that lies ahead for the next year and beyond with ROR’s active community.

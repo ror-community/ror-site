@@ -11,6 +11,7 @@ thumb = "/img/blog/funder-overlap/overlap-blank-charts.png"
 images = ['/img/blog/funder-overlap/overlap-blank-charts.png']
 authors = ["Amanda French", "Adam Buttrick"]
 description = "ROR is ready to take on the important work that the Open Funder Registry has been doing: identifying research funders in a clean, consistent, comprehensive, and interoperable way. This post compares both registries and provides data showing that most of the Open Funder Registry records that see the most use already have equivalent records in ROR."
+doi = "https://doi.org/10.71938/ke93-w861"
 +++
 
 
@@ -45,7 +46,7 @@ Note that the ROR record includes a reference to the corresponding Funder ID, an
 
 {{< figure src="/img/blog/funder-overlap/funder-id-ukri-02.png" class="blog-figure" alt="JSON record for the funding organization UKRI from the Crossref API funders endpoint" caption="The metadata from the Crossref API funders endpoint at [https://api.crossref.org/funders/100014013](https://api.crossref.org/funders/100014013) shows the names of UKRI's nine child organizations. The funders endpoint of the Crossref API uses the Open Funder Registry to connect funders with the works they have funded. The web-based Open Funder Registry Search at [https://search.crossref.org/funding](https://search.crossref.org/funding) uses the funders endpoint.">}} 
 
-One difference between the metadata in the Open Funder Registry and the metadata in ROR concerns organization type. The Open Funder Registry [gives each funder a type](https://www.crossref.org/documentation/funder-registry/accessing-the-funder-registry/) of `government` or `private` with associated subtypes for each. Government funder subtypes include `federal` and `non-federal,` while private funder subtypes include `academic`, `corporate`, `foundation`, `international`, `professional associations and societies`, and `other non-profit.` ROR also [supports organization types](https://ror.readme.io/docs/data-structure#types) and currently allows eight options: `Archive`, `Company`, `Education`, `Facility`, `Government`, `Healthcare`, `Nonprofit`, and `Other`. 
+One difference between the metadata in the Open Funder Registry and the metadata in ROR concerns organization type. The Open Funder Registry [gives each funder a type](https://www.crossref.org/documentation/funder-registry/accessing-the-funder-registry/) of `government` or `private` with associated subtypes for each. Government funder subtypes include `federal` and `non-federal,` while private funder subtypes include `academic`, `corporate`, `foundation`, `international`, `professional associations and societies`, and `other non-profit.` ROR also [supports organization types](https://ror.readme.io/docs/ror-data-structure#types) and currently allows eight options: `Archive`, `Company`, `Education`, `Facility`, `Government`, `Healthcare`, `Nonprofit`, and `Other`. 
 
 In [version 2.0 of the ROR metadata schema, dataset, and API](https://ror.readme.io/docs/schema-v2), which is due to be released early in 2024, ROR will [add support for a "funder" organization type](https://github.com/ror-community/ror-roadmap/issues/159) and will add this type to all ROR records that include a Funder ID as an addition to the existing organization type value. This means that early in 2024, the version 2.0 ROR record for UKRI will include organization types of both `government` and `funder`. In the meantime, as we explain in [our documentation of the ROR API advanced query parameter](https://ror.readme.io/docs/api-advanced-query), the list of all active ROR records that currently include a Funder ID can be retrieved using the following query: 
 
@@ -77,7 +78,7 @@ Just as in the previous view, the pie chart on the left shows that a majority of
 In addition, while the preceding chart shows the number of funder assertions in DataCite records that _could_ be matched to a ROR ID, the data on the actual number of funder assertions in DataCite records that _currently use_ a ROR ID is also impressive. About 1.5 million DataCite records cite a funder in the `fundingReferences` element, and over 1.3 million of those also include connection metadata in the form of an identifier for that funder. As of this writing, the largest proportion of those 1.3 million funder identifiers are Funder IDs at 883,098 uses. ROR, however, is the next most commonly used identifier at 357,568 uses. 
 
 {{< centered >}}
-{{< figure src="/img/blog/funder-overlap/datacite-funder-ids-chart.png" class="" alt="" caption="ROR DOI stats, available [on the ROR website](https://ror.org/about#impact). See also the discussion of these statistics [during the September ROR Community Call](https://ror.org/events/2023-09-28-ror-community-call)."  >}} 
+{{< figure src="/img/blog/funder-overlap/datacite-funder-ids-chart.png" class="" alt="" caption="ROR DOI stats, available [on the ROR website](https://ror.org/about/impact). See also the discussion of these statistics [during the September ROR Community Call](https://ror.org/events/2023-09-28-ror-community-call)."  >}} 
 {{< /centered >}}
 
 

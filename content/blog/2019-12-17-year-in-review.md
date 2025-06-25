@@ -6,9 +6,12 @@ tags = ["Community", "Sustainability",]
 categories = ["Year in Review"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-profile-sq.jpg"
 authors = ["Maria Gould"]
+description = "What a year it has been! Here's what happened in ROR's first year and what we plan for the future."
+doi = "https://doi.org/10.71938/1j4z-y533"
+
 +++
 
 *Flashback to one year ago, December 2018*:

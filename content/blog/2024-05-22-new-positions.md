@@ -11,9 +11,10 @@ thumb = "/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg"
 images = ['/img/blog/new-positions/jansen-yang-QtVRBR2QrfI-unsplash-crop.jpg']
 authors = ["ROR Leadership Team"]
 description = "ROR Curation Lead Adam Buttrick is staying at ROR but moving from Crossref to CDL, which means there's a new position to fill at Crossref. Read more about the Metadata Manager position and consider applying yourself!"
+doi = "https://doi.org/10.71938/7rd7-4r81"
 +++
 
-ROR is fortunate to have a small but mighty [team](/about/#core-team) that strives every day to make ROR as good as it can be and to support the diverse needs of our global community. 
+ROR is fortunate to have a small but mighty [team](/about/team/#core-team) that strives every day to make ROR as good as it can be and to support the diverse needs of our global community. 
 
 Ever since ROR was established, we’ve continually adjusted our resourcing and staffing to keep up with ROR’s needs and to align ROR activities with the needs and priorities of ROR’s operating organizations. The ROR team has therefore changed and grown over the years since the registry’s initial launch, evolving from an _ad hoc_ project team to a more formal structure with dedicated staff members. This was made possible initially through startup funds from ROR’s operating organizations, contributions from community supporters, and multi-year grants. 
 

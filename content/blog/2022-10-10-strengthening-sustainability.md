@@ -6,9 +6,11 @@ tags = ["Sustainability", "Governance", "Community"]
 categories = ["General Updates"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["ROR Leadership Team"]
+doi = "https://doi.org/10.71938/hbxz-1621"
+
 +++
 
 Since its launch in 2019, ROR has been charting a unique path toward sustainability. In this blog post, we want to provide an update for the community on where this path is taking us.

@@ -6,9 +6,11 @@ tags = ["Community", "PIDapalooza"]
 categories = ["Event Recaps"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/cub-pride-sq.png"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/3v41-7p13"
+
 +++
 In the same week that [ROR celebrated its third birthday](/blog/2021-02-03-ror-annual-meeting), [PIDapalooza](https://pidapalooza.org) celebrated the fifth festival of persistent identifiers, also as a virtual event. Across three tracks, seven languages, and twenty-hour hours, PIDapalooza21 highlighted the latest updates from the wide world of persistent identifiers, with a focus how open infrastructure and rich metadata are key to harnessing the power of PIDs. As a prime example of open identifier infrastructure that is designed to enrich scholarly metadata, ROR featured prominently in many PIDapalooza21 sessions. Here are some highlights, with links to the recordings:
 
