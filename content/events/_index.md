@@ -44,15 +44,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### Open Repositories 2025
-- Dates: June 15-18, 2025
-- Location: Chicago, IL
-- Description: On June 17th, ROR will be giving a presentation at Open Repositories 2025 on "Balancing the Global and the Local at the Research Organization Registry (ROR)." We'll be there for the whole conference, as well, to learn more about repository systems and to answer questions about integrating ROR. Come say hi!
-
-{{< button color="green" link="https://or2025.openrepositories.org/" >}} Register for Open Repositories 2025 {{< /button >}}
-
----
-
 ### ROR Community Call September 2025
 
 - Date: Tuesday, September 16, 2025
@@ -83,6 +74,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
+
+---
+
+### Japan Open Science Summit 2025 
+
+June 23-27, 2025 | [Event details and materials](2025-06-24-joss)
+
+---
+
+### Open Repositories 2025
+
+June 16-18, 2025 | [Event details and materials](2025-06-16-open-repositories)
 
 ---
 
