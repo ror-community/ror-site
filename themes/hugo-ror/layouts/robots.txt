@@ -8,6 +8,8 @@ Disallow: /liz-request
 
 Disallow: /0*
 
+Disallow: /search?*
+
 {{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
 
 User-agent: *
@@ -15,6 +17,9 @@ User-agent: *
 Disallow: {{ .RelPermalink }}
 
 Disallow: /0*
+
+Disallow: /search?*
+
 
 {{ end }}
 
@@ -25,6 +30,8 @@ User-agent: *
 Disallow: {{ .RelPermalink }}
 
 Disallow: /0*
+
+Disallow: /search?*
 
 {{ end }}
 
@@ -37,5 +44,7 @@ Disallow: /lzkrz4eva
 Disallow: /liz-request
 
 Disallow: /0*
+
+Disallow: /search?*
 
 {{ end }}
