@@ -33,7 +33,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ### ROR Community Call July 2025
 
-- Date: Thursday, July 16, 2025
+- Date: Wednesday, July 16, 2025
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-07-16&tz2=UTC)
 - Duration: 1 hour
 - Location: Online
