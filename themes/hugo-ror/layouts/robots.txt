@@ -28,4 +28,6 @@ Disallow: /lzkrz4eva
 
 Disallow: /liz-request
 
+Disallow: /0*
+
 {{ end }}
