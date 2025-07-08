@@ -6,11 +6,16 @@ Disallow: /lzkrz4eva
 
 Disallow: /liz-request
 
+Disallow: /0*
+
 {{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
 
 User-agent: *
 {{ range .Pages }}
 Disallow: {{ .RelPermalink }}
+
+Disallow: /0*
+
 {{ end }}
 
 {{ else if eq .Site.BaseURL "https://dev.ror.org/" }}
@@ -18,6 +23,9 @@ Disallow: {{ .RelPermalink }}
 User-agent: *
 {{ range .Pages }}
 Disallow: {{ .RelPermalink }}
+
+Disallow: /0*
+
 {{ end }}
 
 {{ else }}
@@ -27,5 +35,7 @@ User-agent: *
 Disallow: /lzkrz4eva
 
 Disallow: /liz-request
+
+Disallow: /0*
 
 {{ end }}
