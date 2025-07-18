@@ -31,19 +31,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call July 2025
-
-- Date: Wednesday, July 16, 2025
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-07-16&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/JxkoFB_pQHuvQ2M1QE0z3w" >}} Register for the ROR Community Call July 2025 {{< /button >}}
-
----
-
 ### ROR Community Call September 2025
 
 - Date: Tuesday, September 16, 2025
@@ -74,6 +61,10 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
+
+### ROR Community Call July 2025
+
+July 16, 2025 | [Event details and materials](2025-07-16-ror-community-call)
 
 ---
 
