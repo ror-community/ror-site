@@ -1,5 +1,5 @@
 +++ 
-title = "Symplectic Introduces ROR Integration" 
+title = "Symplectic Adds ROR Integration" 
 date = "2025-07-17T11:00:31-04:00"
 draft = false 
 tags = ["Symplectic Elements", "Digital Science", "Cross-post"] 
