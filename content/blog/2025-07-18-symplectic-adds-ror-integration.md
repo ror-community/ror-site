@@ -1,6 +1,6 @@
 +++ 
 title = "Symplectic Adds ROR Integration" 
-date = "2025-07-17T11:00:31-04:00"
+date = "2025-07-18"
 draft = false 
 tags = ["Symplectic Elements", "Digital Science", "Cross-post"] 
 categories = ["Adoption News"] 
