@@ -12,6 +12,7 @@ images = ['/img/blog/']
 authors = [""] 
 description = ""
 doi = ""
+crosspost = ""
 +++ 
 
 <!-- Commonly used content 
