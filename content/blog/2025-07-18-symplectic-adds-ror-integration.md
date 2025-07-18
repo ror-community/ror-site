@@ -11,7 +11,7 @@ thumb = "/img/blog/symplectic/Symplectic_idn_Z91u_n_0.png"
 images = ['/img/blog/symplectic/Symplectic_idn_Z91u_n_0.png']
 authors = ["Symplectic"] 
 description = "Exciting news: Symplectic, a global leader in research information management systems, has integrated ROR into its flagship platform, Symplectic Elements."
-doi = ""
+doi = "https://doi.org/10.71938/1fch-hb40"
 crosspost = "https://www.symplectic.co.uk/symplectic-elements-introduces-ror-integration-for-enhanced-organization-metadata/"
 +++ 
 
