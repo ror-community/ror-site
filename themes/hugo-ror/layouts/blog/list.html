@@ -23,8 +23,7 @@
 
                 <section class="post">
                   <div class="row">
-                    <div class="col-md-4">
-                      <div class="image">
+                    <div class="col-md-4 clearfix">
                         <a href="{{ .Permalink }}">
                           {{ if .Params.thumb }}
                             <img src="{{ .Params.thumb }}" class="img-raised rounded" alt="">
@@ -34,16 +33,15 @@
                             <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="">
                           {{ end }}
                         </a>
-                      </div>
                     </div>
-                      <div class="col-md-8">
+                      <div class="col-md-8 clearfix">
                         {{ if isset .Params "categories" }}
                           {{ if gt (len .Params.categories) 0 }}
                           <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}categories/{{ index .Params.categories 0 | urlize | lower }}">{{ index .Params.categories 0 }}</a></strong>
                           {{ end }}
                         {{ end }}
-                        <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-                          <div class="clearfix post-meta">
+                        <h2 class="clearfix"><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
+                          <div class="post-meta clearfix">
 
        {{ partial "authors-date.html" . }}
 
