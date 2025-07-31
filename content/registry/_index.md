@@ -16,7 +16,7 @@ Anyone can request additions or updates to the registry using the form at [https
 
 {{< centered >}}
 
-{{< button color="green" link="https://curation-request.ror.org" >}} Request a change to the registry {{< /button >}}
+{{< button color="green" link="https://curation-request.ror.org" >}} Suggest an addition or update to ROR {{< /button >}}
 
 {{< /centered >}}
 
