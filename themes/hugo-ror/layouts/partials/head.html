@@ -34,8 +34,8 @@
 
   <!-- sass built file -->
   {{ $sass := resources.Get "sass/main.scss" }}
-	{{ $style := $sass | toCSS (dict "targetPath" "/css/hugo-ror.css") }}
-	<link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ $style := $sass | toCSS (dict "targetPath" "/css/hugo-ror.css") }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
 
   <!-- google material font -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
@@ -43,6 +43,9 @@
   <!-- Favicon and apple touch icons-->
   <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
   <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />
+  
+  <!-- Canonical and alternate links -->
+  <link rel="canonical" href="{{ if .Page.Params.doi }}{{ .Page.Params.doi }}{{ else }}{{ .Page.Permalink }}</id>{{ end }}" title="{{ .Page.Title }}">
   <link rel="alternate" href="{{ "/index.xml" | absURL }}" type="application/rss+xml" title="{{ .Site.Title }}">
   <link rel="alternate" href="{{ "/feed.xml" | absURL }}" type="application/atom+xml" title="{{ .Site.Title }}"/>
   
