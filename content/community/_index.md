@@ -34,7 +34,7 @@ The [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) is for
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
 ### Steering Group
-The ROR Steering Group is a small advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members who are key stakeholders in the global scholarly communication ecosystem. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) to provide input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
+The ROR Steering Group is a small advisory body composed of the [ROR Operations Team](/about/team/#operations-team) plus external members who are key stakeholders in the global scholarly communication ecosystem. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) to provide input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
 
 - Matt Buys, [DataCite](https://datacite.org/) (permanent member)
 - John Chodacki, [California Digital Library](https://cdlib.org/) (CDL) (permanent member)
