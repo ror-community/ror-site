@@ -7227,7 +7227,7 @@ h4 .ha, h5 .ha, h6 .ha {
 .ror-toc ul {
 	list-style-type: none;
 	font-size: .9rem;
-	margin: 0;
+	margin-left: .75rem;
 	padding: 0;
 	overflow: hidden;
 }
@@ -7237,7 +7237,13 @@ h4 .ha, h5 .ha, h6 .ha {
 	line-height: 1em;
 	float:left;
 	text-align:center;
-	margin:0 1.5rem 1rem .75rem;
+	margin:0 1rem 1rem 0;
+}
+
+.ror-toc ul li:not(:last-child)::after {
+	content: "|";
+	opacity: 50%;
+	margin-left: 1rem;
 }
 
 .ror-toc ul ul li {
@@ -7288,19 +7294,11 @@ font-size: .8em;
 margin-bottom: .5rem;
 }
 
-
 /* taxonomies */
 
 .taxonomy .page-banner h1, .taxonomy .breadcrumbs li { 
 text-transform: capitalize;
 }
-
-/* page TOCs */
-
-.ror-toc { 
-margin-bottom: 1em;
-}
-
 
 /* iframes */
 
