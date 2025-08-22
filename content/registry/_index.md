@@ -65,9 +65,9 @@ Bulk request processing time varies widely depending on the number of updates re
 Bulk requests, like all other requests, are openly available and can be tracked on GitHub at https://github.com/ror-community/ror-updates/issues. 
 
 ## Criteria for inclusion {#scope-and-criteria-for-inclusion}
-ROR is a registry of "research organizations." We define "research organization" as any organization that conducts, produces, manages, or touches research.
+ROR is a registry of "research organizations." We define "research organization" as **any organization that conducts, produces, funds, manages, or is involved with scholarly research.**
 
-ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. Therefore, one of the most important criteria we use to decide whether to add an organization to ROR is whether researchers list that organization as an affiliation in existing published research outputs.
+ROR's primary aim is to address the "affiliation use case," which means identifying which organizations are associated with which research outputs. We use "affiliation" to describe any formal relationship between a researcher and an organization associated with researchers, including but not limited to their employer, funder, or publisher. 
 
 ROR is focused on being a high-level registry of organizations so we can address the fundamental affiliation use case and provide a critical source of metadata that can interoperate with other institutional identifiers. ROR is therefore not focused on mapping departments within institutions, though some sub-units such as research institutes and laboratories are in scope. ROR's data and infrastructure are openly available for leverage by and interoperability with local-level efforts focused on mapping individual hierarchies within organizations.
 
