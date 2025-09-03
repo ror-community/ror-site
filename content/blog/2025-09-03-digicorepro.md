@@ -10,15 +10,14 @@ banner = "/img/banners/ROR_Banner-green.png"
 thumb = "/img/blog/digicorepro/DigiCorePro.png" 
 images = ['/img/blog/digicorepro/DigiCorePro.png']
 authors = ["Amanda French"] 
-description = "In this interview with HighWire Press's Tony Alves, we learn that the single-source publishing platform DigiCore Pro uses ROR for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity. 
-"
+description = "In this interview with HighWire Press's Tony Alves, we learn that thanks to customer requests and a PID-aware development process, the publishing platform DigiCore Pro uses ROR in form lookups and automatic extraction processes for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity."
 doi = ""
 crosspost = ""
 +++ 
 
 {{< figure src="/img/blog/digicorepro/DigiCorePro.png" class="featured-figure" alt="" >}}
 
-In this interview with HighWire Press's Tony Alves, we learn that the single-source publishing platform [DigiCore Pro](https://www.highwirepress.com/solutions/digicorepro/) uses ROR for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity. 
+In this interview with HighWire Press's Tony Alves, we learn that thanks to customer requests and a PID-aware development process, the publishing platform [DigiCore Pro](https://www.highwirepress.com/solutions/digicorepro/) uses ROR in form lookups and automatic extraction processes for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity. 
 
 {{< callout color="green" icon="no-icon" >}} 
 
