@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Annual Meeting"]
 eventarchives = ["2023"]
-eventtags = ["OpenAlex", "OSTI", "Allen AI", "Crossref"]
 startdate = 2023-02-01
 enddate = []
 starttime = "17:00 UTC"
@@ -20,21 +19,6 @@ description = "Oriented toward more advanced technical users, this session explo
 website = ""
 reglink = ""
 +++
-
-## Strategies for Matching Affiliation Strings to ROR IDs
-
-* Date: February 2, 2023
-
-* Time: 17:00 UTC
-
-* Duration: 1 hour
-
-* Location: Online
-
-* Recorded: Yes
-
-* Description: Oriented toward more advanced technical users, this session explores how to use ROR to match affiliation strings, featuring lightning talks and demos by OpenAlex, DOE/OSTI, Allen AI, and Crossref.
-
 
 ## Recording 
 
