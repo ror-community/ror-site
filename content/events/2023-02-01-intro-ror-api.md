@@ -1,6 +1,6 @@
 +++
 title = "Intro to the ROR API" 
-date = "2025-05-13T15:27:22-04:00"  
+date = "2023-02-02"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -8,8 +8,8 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Workshops"]
-eventarchives = ["2025"]
-startdate = 2023-02-01
+eventarchives = ["2023"]
+startdate = 2023-02-02
 enddate = []
 starttime = "15:00 UTC"
 duration = "1 hour"
