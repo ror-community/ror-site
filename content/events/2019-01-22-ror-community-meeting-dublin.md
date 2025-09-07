@@ -1,5 +1,5 @@
 +++
-title = "ROR Stakeholder Meeting" 
+title = "ROR Community Meeting Dublin" 
 date = "2019-09-05T16:30:37-04:00"  
 draft = "false" 
 style = "card-plain" 
@@ -7,15 +7,15 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventtypes = ["Annual Meeting"]
+eventtypes = ["Conferences"]
 eventarchives = ["2019"]
 startdate = 2019-01-22
 enddate = []
 starttime = ""
 duration = ""
 location = "Dublin, Ireland"
-recorded = ""
-description = "ROR's first stakeholder meeting, held just before PIDapalooza in Dublin, invites all those who've followed the progress of the Org ID Working group to come together to discuss ways to make an open organization identifier a reality."
+recorded = "No"
+description = "ROR's inaugural community meeting, held just before PIDapalooza in Dublin, Ireland, invites all those who've followed the progress of the Org ID Working group to come together to discuss ways to make an open organization identifier a reality."
 reglink = ""
 +++
 

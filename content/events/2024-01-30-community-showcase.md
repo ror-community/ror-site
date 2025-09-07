@@ -9,13 +9,13 @@ images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Annual Meeting"]
 eventarchives = ["2024"]
-startdate = 2024-01-30
+startdate = "2024-01-30T16:30:37-04:00"
 enddate = []
 starttime = "4pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "In this session, we learn how ROR is used in some key global scholarly systems and workflows."
+description = "In honor of ROR's fifth anniversary, we devote an entire hour to hearing from ROR integrators about some of the many different reasons and ways ROR is being used in key scholarly systems and workflows around the world."
 website = ""
 reglink = ""
 +++
