@@ -7,17 +7,18 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-description = "In New Features for Organization Information in DSpace with ROR, a webinar co-hosted with 4Science, we hear about how and why 4Science incorporated ROR, the Research Organization Registry, into both DSpace-CRIS and DSpace 8 in order to improve the quality of organization metadata in both systems."
+eventtypes = ["Webinars"]
+eventarchives = ["2024"]
+startdate = 2024-10-03
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
+description = "In this session, we'll hear about how and why 4Science incorporated ROR, the Research Organization Registry, into both DSpace-CRIS and DSpace 8 in order to improve the quality of organization metadata in both systems."
+website = ""
+reglink = ""
 +++ 
-
-
-## New Features for Organization Information in DSpace with ROR
-- Date: Thursday, October 3, 2024
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2024-10-03&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: In this session, we'll hear about how and why 4Science incorporated ROR, the Research Organization Registry, into both DSpace-CRIS and DSpace 8 in order to improve the quality of organization metadata in both systems.
 
 ## Materials
 

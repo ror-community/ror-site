@@ -7,16 +7,18 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-description = "ROR is turning 5 years old, so we take this opportunity to reflect on the last five years, looking back on where we started and how we got here. We hear about where we've been and where we're going in terms of our community of adopters, our curation activities, and our tech. Most importantly, we also acknowledge ROR community contributors, without whom we’d never have come this far, and we do some brainstorming about what's next. In conclusion: let’s ROR some more in 2024!"
+eventtypes = ["Annual Meeting"]
+eventarchives = ["2024"]
+startdate = 2024-01-30
+enddate = []
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
+description = "ROR is turning 5 years old, so we'll be taking this opportunity to reflect on the last five years as well as giving updates about ROR in 2023 and doing some brainstorming with participants about what's next for ROR. Most importantly, we'll also be acknowledging ROR community contributors, without whom we'd never have come this far. If you only attend one ROR meeting this year, make it this one."
+website = ""
+reglink = ""
 +++
-
-## ROR Annual Community Meeting and Fifth Anniversary Celebration
-- Date: Tuesday, January 30, 2024
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm&d=2024-01-30)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: ROR is turning 5 years old, so we'll be taking this opportunity to reflect on the last five years as well as giving updates about ROR in 2023 and doing some brainstorming with participants about what's next for ROR. Most importantly, we'll also be acknowledging ROR community contributors, without whom we'd never have come this far. If you only attend one ROR meeting this year, make it this one. 
 
 ## Materials
 
