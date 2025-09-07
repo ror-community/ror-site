@@ -16,6 +16,12 @@
 
         <div class="section container">
           <div class="row">
+          
+            <div class="col-md-12 mr-auto">
+            
+                      {{ partial "toc.html" . }}
+
+            
             <div class="col-md-9" id="event-listing">
                    
                <h2>{{ .Title }}</h2>
@@ -37,7 +43,7 @@
                <li>Recorded: {{ .Params.recorded }}</li>
                {{else}}{{end}}
                {{ if .Description }}
-               <li>Description: {{ .Description }}</li>
+               <li>Description: {{ .Description | markdownify }}</li>
                {{else}}{{end}}
                {{ if .Params.website }}
                <li>Event website: <a href="{{ .Params.website }}">{{ .Params.website }}</a></li>
@@ -55,7 +61,9 @@
 				            
               </div> 
             <div class="col-md-3">
-              <!-- Event sidebar will go here when old events are added -->
+<!-- Events sidebar will go here -->            
+			</div>
+            
             </div>
                              
             </div>
