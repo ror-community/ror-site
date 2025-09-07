@@ -20,15 +20,6 @@ website = ""
 reglink = ""
 +++
 
-## ROR Community Call March 2025
- 
-- Date: Thursday, March 20, 2025
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-03-20&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The ROR Community Call for March 2025 includes upcoming events, updates  on what's new in ROR curation, tech, and adoption, and guest presentations from Martyn Rittman of Crossref on ROR for funder identification in Crossref and from Tara Packer on ROR in CHORUS. 
-
 ## Materials 
 
 - [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vRnt2cX-gH-hDsv451M4w9kbDP_UIYkIvO5cmOgtNUmUFkMzuatWOJ_IoEx5EGE6EmQQK9km59w2NPL/pub?start=false&loop=false&delayms=3000)
@@ -41,6 +32,5 @@ reglink = ""
 
 {{< youtube id="ZGNRb04YEmY" >}}
 
---- 
 
 

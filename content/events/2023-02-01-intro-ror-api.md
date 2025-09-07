@@ -1,6 +1,6 @@
 +++
 title = "Intro to the ROR API" 
-date = "2023-02-02"  
+date = "2025-05-13T15:27:22-04:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -24,20 +24,9 @@ aliases = [
 "/tutorials"]
 +++
 
-## Intro to the ROR API 
+## Materials 
 
-* Date: February 2, 2023
-
-* Time: 15:00 UTC
-
-* Duration: 1 hour
-
-* Location: Online
-
-* Recorded: Yes
-
-* Description: This is a hands-on, interactive training session for those interested in learning the basics of working with the ROR API.
-
+See [ROR's technical documentation](https://ror.readme.io) for the most up-to-date instructions on how to use the ROR REST API. 
 
 ## Recording 
 

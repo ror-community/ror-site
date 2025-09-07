@@ -1,5 +1,5 @@
 +++
-title = "ROR and CRIS Infrastructure" 
+title = "eurocris 2025" 
 date = "2025-05-19T13:00:03-04:00"  
 draft = "false" 
 style = "card-plain" 
@@ -9,26 +9,16 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Conferences"]
 eventarchives = ["2025"]
-startdate = 2025-05-15
-enddate = []
+startdate = 2025-05-13
+enddate = 2025-05-15
 starttime = ""
 duration = ""
 location = "Online"
 recorded = "No"
-description = "The CRISCROS working group has invited ROR to present on ROR in CRIS systems at the international euroCRIS conference for 2025. "
+description = "The CRISCROS working group has invited ROR to present on ROR in CRIS systems at the international euroCRIS conference for 2025."
 website = "https://meeting.eurocris.org/"
 reglink = ""
 +++
-
-## euroCRIS 2025 
-
-- Dates: May 13-15, 2025
-- Location: Leuven, Belgium and online
-- Description: The CRISCROS working group has invited ROR to present on ROR in CRIS systems at the international euroCRIS conference for 2025. 
-- Website: https://meeting.eurocris.org/
-
---- 
-
 
 ## Materials 
 
@@ -36,7 +26,6 @@ reglink = ""
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQBUq15Ib5B_tcIa1LZKl5eobrMsFdIzmGfm065TH_6hussmolKSSZnS2zvEKoO4qHs9OosUKjAdp4B/pubembed?start=false&loop=false&delayms=3000" >}}
 
----
 
 
 

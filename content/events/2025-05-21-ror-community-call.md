@@ -1,5 +1,5 @@
 +++
-title = "ROR Community Call - May 2025" 
+title = "ROR Community Call May 2025" 
 date = "2025-05-23T08:43:18-04:00"  
 draft = "false" 
 style = "card-plain" 
@@ -21,9 +21,6 @@ reglink = ""
 +++
 
 
-
----
-
 ## Materials 
 
 - [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vT_T5omojRzRRRsZUewMFPIeXsrwXaH4Ua2CUcED-rJ_akelFFi4IwG3vSzn18vNAXWOy1TDelbwN07/pub?start=false&loop=false&delayms=3000)
@@ -35,7 +32,5 @@ reglink = ""
 ## Recording 
 
 {{< youtube id="mIdw77DBMOE" >}}
-
---- 
 
 
