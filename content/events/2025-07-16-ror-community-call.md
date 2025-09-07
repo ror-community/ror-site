@@ -7,29 +7,18 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventtypes = [""]
+eventtypes = ["Community Calls"]
 eventarchives = ["2025"]
-eventtags = ["", "", ]
 startdate = 2025-07-16
 enddate = []
-starttime = ""
-duration = ""
-location = ""
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
 recorded = "Yes"
 description = "The July ROR Community Call featured presentations by Fonds de recherche du Québec and the Research Data Alliance's UX designer, Marameo Design, as well as updates on ROR activities such as improving coverage of orgs in Korea, planning for a July 28 switch to the default ROR API response, and beginning to implement client ID registration for the ROR API. One key new and exciting ROR adopter is Symplectic Elements, and they've published a blog post on their site with more details."
 website = ""
 reglink = ""
 +++
-
-
-## ROR Community Call July 2025 
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-07-16&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The July ROR Community Call featured presentations by Fonds de recherche du Québec and the Research Data Alliance's UX designer, Marameo Design, as well as updates on ROR activities such as improving coverage of orgs in Korea, planning for a July 28 switch to the default ROR API response, and beginning to implement client ID registration for the ROR API. One key new and exciting ROR adopter is Symplectic Elements, and they've published a blog post on their site with more details.
-
----
 
 
 ## Materials 

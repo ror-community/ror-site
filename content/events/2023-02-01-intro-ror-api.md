@@ -8,9 +8,8 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Workshops"]
-eventarchives = ["2025"]
-eventtags = ["API"]
-startdate = 2023-02-01
+eventarchives = ["2023"]
+startdate = 2023-02-02
 enddate = []
 starttime = "15:00 UTC"
 duration = "1 hour"
@@ -25,20 +24,9 @@ aliases = [
 "/tutorials"]
 +++
 
-## Intro to the ROR API 
+## Materials 
 
-* Date: February 2, 2023
-
-* Time: 15:00 UTC
-
-* Duration: 1 hour
-
-* Location: Online
-
-* Recorded: Yes
-
-* Description: This is a hands-on, interactive training session for those interested in learning the basics of working with the ROR API.
-
+See [ROR's technical documentation](https://ror.readme.io) for the most up-to-date instructions on how to use the ROR REST API. 
 
 ## Recording 
 
