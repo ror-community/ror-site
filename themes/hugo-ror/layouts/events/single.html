@@ -1,29 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
-  
+
   {{ partial "head.html" . }}
 
-  <body class="{{ .Section }}">
+  <body class='{{ .Section }}'>
     <div class="wrapper" id="all">
       <header>
         {{ partial "nav.html" . }}
       </header>
-      <div class="section section-banner" id="content">
+      <section class="section section-banner" id="content">
 
        {{ partial "pagetitle.html" . }}
        
        {{ partial "breadcrumbs.html" . }}
 
-        <div class="section container"> 
-          <div class="row">   
-            <div class="col-md-12 mr-auto">            
-              <div>
-                {{ .Content }}
-              </div>
+        <div class="section container">
+          <div class="row">
+            <div class="col-md-9" id="event-listing">
+                   
+               <h2>{{ .Title }}</h2>
+
+               <ul>
+               {{ if .Params.startdate }}
+               <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
+               {{ else }}
+               {{ end }}
+               {{ if .Params.starttime }}
+            	<li>Time: <a href="https://dateful.com/convert/coordinated-universal-time-utc?t={{ .Params.starttime }}&d={{ .Params.startdate }}">{{ .Params.starttime }}</a></li>
+               <li>Duration: {{ .Params.duration }}</li>               
+               {{ else }}
+               {{ end }}
+               {{ if .Params.location}}
+               <li>Location: {{ .Params.location }}</li>
+               {{else}}{{end}}
+               {{ if .Params.recorded }}
+               <li>Recorded: {{ .Params.recorded }}</li>
+               {{else}}{{end}}
+               {{ if .Description }}
+               <li>Description: {{ .Description }}</li>
+               {{else}}{{end}}
+               {{ if .Params.website }}
+               <li>Event website: <a href="{{ .Params.website }}">{{ .Params.website }}</a></li>
+               {{else}}{{end}}
+               </ul> 
+ 
+ 			{{ $n := now.AddDate 0 0 -1 }}
+ 			{{ if and (.Params.reglink) (ge .Params.startdate $n) }} 
+ 			
+            <p><a href="{{ .Params.reglink }}" class="btn btn-sm btn-round green">Register for {{ .Title }}</a></p>				
+            {{ else }}
+			{{ end }}
+								
+				{{ .Content }}
+				            
+              </div> 
+            <div class="col-md-3">
+              <!-- Event sidebar will go here when old events are added -->
+            </div>
+                             
             </div>
           </div>
         </div>
-      </div>
+      </section>
     </div>
 
     {{ partial "subscribe.html" . }}
