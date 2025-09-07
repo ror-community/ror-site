@@ -27,7 +27,7 @@
                       <div class="col-md-12">
                         {{ if isset .Params "eventtypes" }}
                           {{ if gt (len .Params.eventtypes) 0 }}
-                          <strong class="blog-category"><a class="category-link" href="{{ $.Site.BaseURL }}eventtypes/{{ index .Params.eventtypes 0 | urlize | lower }}">{{ index .Params.eventtypes 0 }}</a></strong>
+                          <strong class="category-link">{{ index .Params.eventtypes 0 }}</strong>
                           {{ end }}
                         {{ end }}
                         <h3 class="event-title"><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
