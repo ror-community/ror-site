@@ -16,17 +16,20 @@
 
         <div class="section container">
           <div class="row">
-          
-            <div class="col-md-12 mr-auto">
-            
-                      {{ partial "toc.html" . }}
+                                                    
+            <div class="col-md-9" id="event-listing"> 
 
-            
-            <div class="col-md-9" id="event-listing">
-                   
-               <h2>{{ .Title }}</h2>
+       {{ partial "toc.html" . }}
 
-               <ul>
+               <h2 class="event-title">{{ .Title }}</h2>              
+            
+ 				{{ if isset .Params "eventtypes" }}
+                {{ if gt (len .Params.eventtypes) 0 }}
+                <strong class="category-link">{{ index .Params.eventtypes 0 }}</strong>
+                {{ end }}
+                 {{ end }}                
+
+               <ul class="event-info">
                {{ if .Params.startdate }}
                <li>Date{{if .Params.enddate}}s{{else}}{{end}}: {{ .Params.startdate | time.Format "Monday, January 2, 2006" }}{{if .Params.enddate }} - {{ .Params.enddate | time.Format "Monday, January 2, 2006" }}{{ else }}{{ end }}</li>
                {{ else }}
@@ -61,10 +64,8 @@
 				            
               </div> 
             <div class="col-md-3">
-<!-- Events sidebar will go here -->            
+<!-- event sidebar -->            
 			</div>
-            
-            </div>
                              
             </div>
           </div>
