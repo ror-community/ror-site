@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Annual Meetings"]
 eventarchives = ["2023"]
-eventtags = [""]
 startdate = 2023-01-31
 enddate = []
 starttime = "15:00 UTC"
@@ -20,20 +19,6 @@ description = "In this session, we will provide an update for the community on R
 website = ""
 reglink = ""
 +++
-
-## ROR Annual Community Update 2023
-
-* Date: January 31, 2023
-
-* Time: 15:00 UTC
-
-* Duration: 1 hour
-
-* Location: Online
-
-* Recorded: Yes
-
-* Description: In this session, we will provide an update for the community on ROR’s progress to date, share our plans for the new year, and discuss ways to get involved.
 
 ## Materials
 
