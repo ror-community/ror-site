@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2021"]
-eventtags = ["OA Switchboard", ]
 startdate = 2021-05-19
 enddate = []
 starttime = ""

@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2024"]
-eventtags = ["OpenAlex", "MESR", "GCIS", ]
 startdate = 2024-11-20
 enddate = []
 starttime = "4pm UTC"

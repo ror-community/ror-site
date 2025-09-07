@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2019"]
-eventtags = ["Dryad", "DataCite", "GRID", "Proposal Central", ]
 startdate = 2019-11-21
 enddate = []
 starttime = ""

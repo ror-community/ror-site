@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2021"]
-eventtags = ["API", "DataCite", ]
 startdate = 2021-03-23
 enddate = []
 starttime = ""

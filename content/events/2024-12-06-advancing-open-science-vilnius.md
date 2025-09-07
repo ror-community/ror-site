@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Conferences"]
 eventarchives = ["2024"]
-eventtags = ["Barcelona Declaration", "Lithuania", ]
 startdate = 2024-12-06
 enddate = []
 starttime = ""

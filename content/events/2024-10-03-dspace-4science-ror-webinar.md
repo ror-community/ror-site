@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Webinars"]
 eventarchives = ["2024"]
-eventtags = ["4science", "Repositories", ]
 startdate = 2024-10-03
 enddate = []
 starttime = "3pm UTC"

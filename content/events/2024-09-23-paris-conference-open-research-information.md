@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Conferences"]
 eventarchives = ["2024"]
-eventtags = ["Infrastructure", "Open Research Information", "Barcelona Declaration" ]
 startdate = 2024-09-23
 enddate = 2024-09-25
 location = "Paris, France"

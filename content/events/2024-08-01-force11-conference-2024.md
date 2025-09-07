@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Conferences"]
 eventarchives = ["2024"]
-eventtags = ["FORCE11", ]
 startdate = 2024-08-01
 enddate = 2024-08-03
 starttime = ""

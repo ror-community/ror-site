@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2025"]
-eventtags = ["Crossref", "CHORUS", ]
 startdate = 2025-03-20
 enddate = []
 starttime = "3pm UTC"

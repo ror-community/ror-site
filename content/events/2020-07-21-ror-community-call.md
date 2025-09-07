@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2020"]
-eventtags = ["Rockefeller University Press", ]
 startdate = 2020-07-21
 enddate = []
 starttime = ""

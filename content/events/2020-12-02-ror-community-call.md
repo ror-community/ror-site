@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2020"]
-eventtags = ["ORCID", "OJS",]
 startdate = 2020-12-02
 enddate = []
 starttime = ""

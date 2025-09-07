@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Annual Meeting"]
 eventarchives = ["2023"]
-eventtags = ["OpenAlex", "OSTI", "Allen AI", "Crossref"]
 startdate = 2023-02-01
 enddate = []
 starttime = "17:00 UTC"

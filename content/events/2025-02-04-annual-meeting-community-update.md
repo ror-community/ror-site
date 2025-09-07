@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["2025"]
-eventtags = ["", "", ]
 startdate = 2006-01-02
 enddate = []
 starttime = ""

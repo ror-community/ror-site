@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Webinars"]
 eventarchives = ["2024"]
-eventtags = ["OpenAlex", "ACRL", ]
 startdate = 2024-11-07
 enddate = []
 starttime = "7pm UTC"

@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Conferences"]
 eventarchives = ["2019"]
-eventtags = ["CSVconf", ]
 startdate = 2019-05-08
 enddate = []
 starttime = ""

@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Webinars"]
 eventarchives = ["2019"]
-eventtags = ["Library Carpentry", ]
 startdate = 2019-02-25
 enddate = []
 starttime = ""

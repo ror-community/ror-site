@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Workshops"]
 eventarchives = ["2025"]
-eventtags = ["API"]
 startdate = 2023-02-01
 enddate = []
 starttime = "15:00 UTC"

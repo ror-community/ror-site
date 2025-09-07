@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2020"]
-eventtags = ["PIDapalooza", "Crossref", "ORCID", ]
 startdate = 2020-03-18
 enddate = []
 starttime = ""

@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Annual Meeting"]
 eventarchives = ["2019"]
-eventtags = ["PIDapalooza", ]
 startdate = 2019-01-22
 enddate = []
 starttime = ""

@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2019"]
-eventtags = ["DataCite", "Crossref", "GRID", "PIDapalooza", ]
 startdate = 2019-07-31
 enddate = []
 starttime = ""

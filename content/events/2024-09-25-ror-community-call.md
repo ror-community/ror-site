@@ -8,7 +8,6 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
-eventtags = ["Web of Science", "External Identifiers", ""]
 eventarchives = "2024"
 startdate = 2024-09-25
 enddate = []

@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2019"]
-eventtags = ["DataCite", "Crossref", "GRID", "CHORUS", "OSTI", "EMBL-EBI", "UC Davis", "British Library", ]
 startdate = 2019-09-24
 enddate = []
 starttime = ""

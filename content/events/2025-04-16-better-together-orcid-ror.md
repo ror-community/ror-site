@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Webinars"]
 eventarchives = ["2025"]
-eventtags = ["ORCID"]
 startdate = 2025-04-16
 enddate = []
 starttime = "3pm UTC"

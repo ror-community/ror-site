@@ -9,7 +9,6 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2025"]
-eventtags = ["SCOAP3", "Mendeley Data", ]
 startdate = 2025-05-21
 enddate = []
 starttime = "3pm UTC"
