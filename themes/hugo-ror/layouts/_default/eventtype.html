@@ -35,7 +35,7 @@
                {{ else }}
                {{ end }}
                {{ if .Description }}
-               <p>{{ .Description }}</p>
+               <p>{{ .Description | markdownify }}</p>
                {{else}}{{end}}
                           <p class="read-more"><a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">See event details</a></p>
                           <hr />

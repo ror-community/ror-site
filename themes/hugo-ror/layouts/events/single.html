@@ -37,7 +37,7 @@
                <li>Recorded: {{ .Params.recorded }}</li>
                {{else}}{{end}}
                {{ if .Description }}
-               <li>Description: {{ .Description }}</li>
+               <li>Description: {{ .Description | markdownify }}</li>
                {{else}}{{end}}
                {{ if .Params.website }}
                <li>Event website: <a href="{{ .Params.website }}">{{ .Params.website }}</a></li>
