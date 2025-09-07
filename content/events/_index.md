@@ -125,7 +125,7 @@ February 4, 2025 | [Event details and materials](2025-02-04-annual-meeting-commu
 
 ---
 
-### Advancing Open Science: The Barcelona Declaration and Open Metadata
+### Advancing Open Science 2024
 December 6, 2024 | [Event details and materials](2024-12-06-advancing-open-science-vilnius)
 
 ---
