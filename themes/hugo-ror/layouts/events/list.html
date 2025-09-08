@@ -76,7 +76,11 @@
 
             <p><a href="{{ .Params.reglink }}" class="btn btn-sm btn-round green">Register for {{ .Title }}</a></p>
             
-            {{ else }}
+            {{ else if .Params.website }}
+            
+<p><a href="{{ .Params.website }}" class="btn btn-sm btn-round green">See details for {{ .Title }}</a></p>	
+			{{ else }}
+            
             {{ end }}
 
               <hr />
