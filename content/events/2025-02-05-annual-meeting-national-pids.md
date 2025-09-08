@@ -15,7 +15,7 @@ starttime = "4pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "Governments are increasingly realizing the need for clean and consistent metadata for scholarly publications so that their nation's research can be better tracked and analyzed. In this session, we'll hear about efforts in several different countries to make persistent identifiers such as ROR a key part of national research strategy and national research tracking."
+description = "Governments are increasingly realizing the need for clean and consistent metadata for scholarly publications so that their nation's research can be better tracked and analyzed. In this session for ROR's sixth annual meeting, we'll hear about efforts in several different countries to make persistent identifiers such as ROR a key part of national research strategy and national research tracking."
 website = ""
 reglink = ""
 +++

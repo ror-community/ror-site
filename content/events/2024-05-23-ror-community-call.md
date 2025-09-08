@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The ROR Community Call for May 2024 includes general updates, an update on the April launch of the v2 ROR API and schema, and an overview of publisher identifiers in DataCite's new metadata schema 4.5."
+description = "The ROR Community Call for May 2024 includes general updates, an update on the April launch of the v2 ROR API and schema, and an overview of publisher identifiers in DataCite's new metadata schema 4.5."
 website = ""
 reglink = ""
 +++

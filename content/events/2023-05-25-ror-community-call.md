@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this ROR Community Call, we hear updates on ROR curation and tech, a list of events that ROR will be attending in the summer of 2023, and hear two reports from ROR integrators Scholastica and EuropePMC."
+description = "In the ROR Community Call for May 2023, we hear updates on ROR curation and tech, a list of events that ROR will be attending in the summer of 2023, and hear two reports from ROR integrators Scholastica and EuropePMC."
 website = ""
 reglink = ""
 +++

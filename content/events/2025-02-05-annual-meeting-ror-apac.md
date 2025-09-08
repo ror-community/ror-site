@@ -15,7 +15,7 @@ starttime = "1am UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "In this Asia-Pacific-focused session, we give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who share their current or planned implementations of ROR, provide regional perspectives, and answer questions from participants. If you're located in the Asia-Pacific region or are just interested in updates from that region, then this session is for you." 
+description = "In this Asia-Pacific-focused session for ROR's sixth annual meeting, we give a brief introduction to ROR, hear presentations by speakers from Japan, Hong Kong, and Australia who share their current or planned implementations of ROR, provide regional perspectives, and answer questions from participants. If you're located in the Asia-Pacific region or are just interested in updates from that region, then this session is for you." 
 website = ""
 reglink = ""
 +++
