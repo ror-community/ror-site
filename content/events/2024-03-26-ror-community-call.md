@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. The March 2024 meeting includes an update on v2 of the ROR API and schema, a summary of a special project to improve our coverage of Chinese organizations, new and notable ROR adoptions, and an update on Crossref's work on the transition from the Open Funder Registry to ROR."
+description = "The March 2024 ROR Community Call includes an update on v2 of the ROR API and schema, a summary of a special project to improve our coverage of Chinese organizations, new and notable ROR adoptions, and an update on Crossref's work on the transition from the Open Funder Registry to ROR."
 website = ""
 reglink = ""
 +++

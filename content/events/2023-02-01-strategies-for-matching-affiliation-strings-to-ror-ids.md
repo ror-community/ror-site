@@ -15,7 +15,7 @@ starttime = "17:00 UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "Oriented toward more advanced technical users, this session explores how to use ROR to match affiliation strings, featuring lightning talks and demos by OpenAlex, DOE/OSTI, Allen AI, and Crossref."
+description = "Oriented toward more advanced technical users, this session for ROR's fourth annual meeting explores how to use ROR to match affiliation strings, featuring lightning talks and demos by OpenAlex, DOE/OSTI, Allen AI, and Crossref."
 website = ""
 reglink = ""
 +++

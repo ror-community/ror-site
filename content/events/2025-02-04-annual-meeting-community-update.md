@@ -1,5 +1,5 @@
 +++
-title = "Community Update 2025" 
+title = "ROR Annual Meeting 2025 - Community Update" 
 date = "2025-02-10T15:59:19-05:00"  
 draft = "false" 
 style = "card-plain" 
@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "In our annual Community Update, we reflect on what ROR accomplished in 2024, discuss what's ahead for ROR in 2025, and invite your thoughts on areas of future focus. Most importantly, we also be acknowledging ROR community contributors, without whom we’d never have come this far."
+description = "In our sixth annual Community Update, we reflect on what ROR accomplished in 2024, discuss what's ahead for ROR in 2025, and invite your thoughts on areas of future focus. Most importantly, we also be acknowledging ROR community contributors, without whom we’d never have come this far."
 website = ""
 reglink = ""
 +++

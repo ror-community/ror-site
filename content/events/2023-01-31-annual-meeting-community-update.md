@@ -1,5 +1,5 @@
 +++
-title = "ROR Annual Community Update 2023" 
+title = "ROR Annual Meeting 2023 - Community Update" 
 date = "2025-05-13T15:27:22-04:00"  
 draft = "false" 
 style = "card-plain" 
@@ -15,9 +15,11 @@ starttime = "15:00 UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "In this session, we will provide an update for the community on ROR’s progress to date, share our plans for the new year, and discuss ways to get involved."
+description = "In our fourth annual meeting, we've added additional sessions on topics of interest to ROR community members, but our usual community update remains the keystone session in which we give updates on ROR’s progress to date, share our plans for the new year, and discuss ways to get involved."
 website = ""
 reglink = ""
+aliases = [ "/2023-01-31-annual-ror-community-meeting" ]
+
 +++
 
 ## Materials

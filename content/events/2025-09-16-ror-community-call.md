@@ -17,7 +17,7 @@ location = "Online"
 recorded = "Yes"
 description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
 website = ""
-reglink = ""
+reglink = "https://crossref.zoom.us/meeting/register/LvOKrEEPRQKwHjGakF64eA"
 +++
 
 
