@@ -44,6 +44,16 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### FAIR Facilities and Instruments
+
+- Dates: September 22-24, 2025
+- Location: Boulder, CO
+- Description: ROR attends the autumn 2025 workshop of the FAIR Facilities and Instruments research coordination network, which works to advance the standardization and adoption of Persistent Identifiers (PIDs) for research facilities and instruments nationally.
+
+{{< button color="green" link="https://ncar.github.io/FAIR-Facilities-Instruments/" >}} See details for FAIR Facilities and Instruments{{< /button >}}
+
+---
+
 ### ROR Community Call November 2025
 
 - Date: Wednesday, November 19, 2025
