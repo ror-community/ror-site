@@ -16,7 +16,8 @@ duration = ""
 location = "Boulder, CO"
 recorded = ""
 description = "ROR attends the autumn 2025 workshop of the FAIR Facilities and Instruments research coordination network, which works to advance the standardization and adoption of Persistent Identifiers (PIDs) for research facilities and instruments nationally."
-reglink = "https://ncar.github.io/FAIR-Facilities-Instruments/"
+website = "https://ncar.github.io/FAIR-Facilities-Instruments/"
+reglink = ""
 +++
 
 
