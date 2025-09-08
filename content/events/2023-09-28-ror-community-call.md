@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this call, we hear about version 2 of the ROR API and schema and how you can help us beta test. We also hear from Rachael Lammey, Director of Product at Crossref, on the Open Funder Registry deprecation in favor of ROR. Featured ROR integration presentations include a talk by Andy Dobson on ROR in DataSalon's MasterVision and PaperStack and a talk by Joe Mcarthur on ROR in OA.Report."
+description = "In the ROR Community Call for September 2023, we hear about version 2 of the ROR API and schema and how you can help us beta test. We also hear from Rachael Lammey, Director of Product at Crossref, on the Open Funder Registry deprecation in favor of ROR. Featured ROR integration presentations include a talk by Andy Dobson on ROR in DataSalon's MasterVision and PaperStack and a talk by Joe Mcarthur on ROR in OA.Report."
 website = ""
 reglink = ""
 +++

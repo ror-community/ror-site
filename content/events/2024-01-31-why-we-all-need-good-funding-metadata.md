@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "Funding information is an increasingly important piece of metadata for many stakeholders, yet standardizing and using identifiers for funders remains a challenge. With ROR set to become the standard persistent identifier for funders, we convene a panel for ROR’s annual community meeting to hear from diverse perspectives about how funding metadata is used and what might make it better."
+description = "Funding information is an increasingly important piece of metadata for many stakeholders, yet standardizing and using identifiers for funders remains a challenge. With ROR set to become the standard persistent identifier for funders, we convene a panel for ROR’s fifth annual community meeting to hear from diverse perspectives about how funding metadata is used and what might make it better."
 website = ""
 reglink = ""
 +++
