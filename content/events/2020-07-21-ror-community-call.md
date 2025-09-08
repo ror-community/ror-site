@@ -15,11 +15,11 @@ starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. In the July 2020 meeting we hear reports on the publisher adoption working group, the department working group, development and curation progress, and upcoming remote outreach activities, along with a demonstration from Rockefeller University Press on its ROR integration. Feedback is requested on guidelines for display of ROR IDs."
+description = "In the July 2020 ROR Community Advisory Group meeting we hear reports on the publisher adoption working group, the department working group, development and curation progress, and upcoming remote outreach activities, along with a demonstration from Rockefeller University Press on its ROR integration. Feedback is requested on guidelines for display of ROR IDs."
 website = ""
 reglink = ""
 +++
 
 ## Materials 
 
-Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. 
+Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. Contact support@ror.org if you were a member of the group and would like to see the slides, recording, or notes from this meeting.  

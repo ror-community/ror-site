@@ -15,14 +15,14 @@ starttime = ""
 duration = ""
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. The May 2019 meeting includes updates on ROR product development, GRID import, ROR implementation in Dryad and in DataCite Fabrica, upcoming outreach activities, and working group coordination. Feedback is requested on a draft statement of support for ROR and a draft of ROR curation policies."
+description = "The May 2019 Community Advisory Group meeting includes updates on ROR product development, GRID import, ROR implementation in Dryad and in DataCite Fabrica, upcoming outreach activities, and working group coordination. Feedback is requested on a draft statement of support for ROR and a draft of ROR curation policies."
 website = ""
 reglink = ""
 +++
 
 ## Materials 
 
-Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. 
+Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. Contact support@ror.org if you were a member of the group and would like to see the slides, recording, or notes from this meeting.  
 
 The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more.
 

@@ -15,11 +15,11 @@ starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. In the December 2020 meeting, we welcome Liz Krznarich as Adoption Manager, announce the ROR community survey, and share recent blog posts and upcoming events. Development updates include reports on the continuing efforts to become independent from GRID. New ROR adopters include OJS (via a plugin), LC standards list, cOAlition S Journal Checker Tool, OA Switchboard, and DiSSCo. ORCID gives a report on its ongoing work to adopt ROR."
+description = "In the December 2020 ROR Community Advisory Group meeting, we welcome Liz Krznarich as Adoption Manager, announce the ROR community survey, and share recent blog posts and upcoming events. Development updates include reports on the continuing efforts to become independent from GRID. New ROR adopters include OJS (via a plugin), LC standards list, cOAlition S Journal Checker Tool, OA Switchboard, and DiSSCo. ORCID gives a report on its ongoing work to adopt ROR."
 website = ""
 reglink = ""
 +++
 
 ## Materials 
 
-Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. 
+Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. Contact support@ror.org if you were a member of the group and would like to see the slides, recording, or notes from this meeting.  

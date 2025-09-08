@@ -15,11 +15,11 @@ starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more."
+description = "In the October 2021 ROR Community Advisory Group meeting, the agenda includes updates from the ROR team on the GRID transition, updates from ORCID on their integration of ROR, updates on ROR's sustainability planning activities, plus additional announcements and open discussion."
 website = ""
 reglink = ""
 +++
 
 ## Materials 
 
-Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. 
+Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. Contact support@ror.org if you were a member of the group and would like to see the slides, recording, or notes from this meeting.  

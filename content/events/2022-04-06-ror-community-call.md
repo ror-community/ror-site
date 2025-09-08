@@ -15,26 +15,12 @@ starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more."
+description = "At the ROR Community Advisory Group meeting for April 2022, we announce and discuss ROR's first independent release of data since taking over from GRID. We also introduce new ROR Steering Group members: Lautaro Matas (LA Referencia), Kathleen Shearer (Confederation of Open Access Repositories), and Chris Shillum (ORCID). Finally, we go over ROR's roadmap and development process and explain how to make feature requests and report bugs."
 reglink = ""
 +++
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
-
-<iframe src=""></iframe>
-
----
-
-## Recording 
-
-{{< youtube id="XXX" >}}
-
---- 
-
---> 
+Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. Contact support@ror.org if you were a member of the group and would like to see the slides, recording, or notes from this meeting. 
 

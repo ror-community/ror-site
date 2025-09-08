@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this call, we hear updates about ROR Curation, Tech, and Adoption, including stats on the number of recent curation requests (a lot!), the beta release of version 2 of the ROR schema and API, and new and notable ROR adoptions, plus interesting stats on ROR and affiliations in ORCID. We also hear from three featured integrators: Tom Morrell of Caltech on his university's ROR-enabled repositories, Nick Veenstra of University of Groningen on mapping messy organization data from the CRIS system to ROR, and Nina Tscheke of ScienceOpen on their platform's use of ROR."
+description = "In the November 2023 ROR Community Call, we hear updates about ROR curation, tech, and adoption, including stats on the number of recent curation requests (a lot!), the beta release of version 2 of the ROR schema and API, and new and notable ROR adoptions, plus interesting stats on ROR and affiliations in ORCID. We also hear from three featured integrators: Tom Morrell of Caltech on his university's ROR-enabled repositories, Nick Veenstra of University of Groningen on mapping messy organization data from the CRIS system to ROR, and Nina Tscheke of ScienceOpen on their platform's use of ROR."
 website = ""
 reglink = ""
 +++

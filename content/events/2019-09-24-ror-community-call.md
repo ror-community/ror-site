@@ -15,7 +15,7 @@ starttime = ""
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community Advisory Group meeting includes updates from the ROR team, opportunities for feedback on ROR processes and policies, updates from ROR adopters, and more. The September 2019 meeting includes updates on the progress of ROR in DataCite's metadata schema, in GRID records, and in Crossref's metadata schema. CHORUS, OSTI DOE, UC Davis, EMBL-EBI, and the British Library report on various ROR adoption and outreach efforts. Additional topics include the volume of requests for changes to ROR and the proposal for a ROR community curation board."
+description = "The September 2019 Community Advisory Group meeting includes updates on the progress of ROR in DataCite's metadata schema, in GRID records, and in Crossref's metadata schema. CHORUS, OSTI DOE, UC Davis, EMBL-EBI, and the British Library report on various ROR adoption and outreach efforts. Additional topics include the volume of requests for changes to ROR and the proposal for a ROR community curation board."
 website = ""
 reglink = ""
 +++
@@ -23,4 +23,4 @@ reglink = ""
 
 ## Materials 
 
-Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. 
+Slides and recordings for ROR Community Calls prior to 2023 are restricted to those who were members of the ROR Community Advisory Group when the meeting was held. Contact support@ror.org if you were a member of the group and would like to see the slides, recording, or notes from this meeting.  

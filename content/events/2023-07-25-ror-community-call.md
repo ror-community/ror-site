@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "he bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. Featured ROR integrators in this call include the Federated Research Data Repository (FRDR) and the Public Knowledge Project / Open Journal Systems (OJS). We hear about new funders for ROR, ROR curation activities, progress on version 2.0 of the ROR metadata schema and API, and progress on ROR adoption."
+description = "Featured ROR integrators in the July 2023 ROR Community Call include the Federated Research Data Repository (FRDR) and the Public Knowledge Project / Open Journal Systems (OJS). We hear also about new contributors to ROR, ROR curation activities, progress on version 2.0 of the ROR metadata schema and API, and progress on ROR adoption."
 website = ""
 reglink = ""
 +++

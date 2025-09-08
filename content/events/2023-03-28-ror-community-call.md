@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on proposals for changes to ROR policies and procedures, demonstrations and presentations by ROR users, and more. In this call, we hear about proposed schema updates, stats from 1 year of independent curation, upcoming events and new ROR adoptions, and a presentation from ROR integrator FAIRsharing."
+description = "Beginning in 2023, ROR Community Advisory Group meetings become ROR Community Calls and are open for anyone to join, with slides and recordings posted publicly. In the ROR Community Call for March 2023, we hear about proposed schema updates, stats from our first whole year of independent curation, upcoming events and new ROR adoptions, and a presentation from ROR integrator FAIRsharing."
 website = ""
 reglink = ""
 +++
