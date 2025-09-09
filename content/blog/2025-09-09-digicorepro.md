@@ -1,6 +1,6 @@
 +++ 
 title = "HighWire Press's DigiCorePro and ROR" 
-date = "2025-09-03T16:06:44-04:00"
+date = "2025-09-09"
 draft = false 
 tags = ["HighWire Press", "MPS", "DigiCorePro"] 
 categories = ["Case Studies"] 
@@ -11,7 +11,7 @@ thumb = "/img/blog/digicorepro/DigiCorePro.png"
 images = ['/img/blog/digicorepro/DigiCorePro.png']
 authors = ["Amanda French"] 
 description = "In this interview with HighWire Press's Tony Alves, we learn that thanks to customer requests and a PID-aware development process, the publishing platform DigiCore Pro uses ROR in form lookups and automatic extraction processes for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity."
-doi = ""
+doi = "https://doi.org/10.71938/97e0-5q39"
 crosspost = ""
 +++ 
 
