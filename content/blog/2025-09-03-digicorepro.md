@@ -55,7 +55,7 @@ Great! You've touched on this a little bit, but how is ROR used in DigiCorePro?
 
 ### {{< figure src="/img/blog/digicorepro/tony-alves.jpg" class="round-figure" alt="Tony Alves" >}} Tony Alves
 
-It is used as the basis of a pick list when people are selecting their institution so at that institution level it's a typeahead, so you start typing, and you'll get the the ROR. 
+It is used as the basis of a pick list when people are selecting their institution so at that institution level it's a typeahead, so you start typing, and you'll get the ROR. 
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
 
@@ -127,11 +127,11 @@ What was the development process like for building ROR into DigiCorePro?
 
 ### {{< figure src="/img/blog/digicorepro/tony-alves.jpg" class="round-figure" alt="Tony Alves" >}} Tony Alves
 
-We use an Agile process to develop the product itself. Part of what we do is to look at how something is implemented in [BenchPress](https://www.highwirepress.com/solutions/highwire-benchpress/), then try to figure out what might be the best way to do that in DigiCorePro, which is more modularized. Specifically with ROR, we understand that there are multiple ways to use ROR, as I've been discussing, either as a person's affiliation or as as a funding ID. Also, there are multiple journeys for ROR: some systems are going to want the ROR IDs from us and some systems are going to send the ROR IDs to us. We create stories to describe how ROR will be used in DigiCorePro. How is the ROR ID going to get to us or be sent out? Where are we going to be using the ROR ID in the workflow process? Those get written into stories, and then those go into the development process as we develop the various features. 
+We use an Agile process to develop the product itself. Part of what we do is to look at how something is implemented in [BenchPress](https://www.highwirepress.com/solutions/highwire-benchpress/), then try to figure out what might be the best way to do that in DigiCorePro, which is more modularized. Specifically with ROR, we understand that there are multiple ways to use ROR, as I've been discussing, either as a person's affiliation or as a funding ID. Also, there are multiple journeys for ROR: some systems are going to want the ROR IDs from us and some systems are going to send the ROR IDs to us. We create stories to describe how ROR will be used in DigiCorePro. How is the ROR ID going to get to us or be sent out? Where are we going to be using the ROR ID in the workflow process? Those get written into stories, and then those go into the development process as we develop the various features. 
 
 Persistent identifiers in general are always being considered for all the processes. Would persistent identifiers be needed in this process, in this interchange? What will those persistent identifiers be, or might there be a persistent identifier in the future that we might want to be sure is included in the design of this feature or function? We keep that in mind because we can see, just from our understanding of where the industry is going, that different aspects of the manuscript could potentially have different persistent identifiers. 
 
-For instance, for reviewers, it's better to have the the ROR for that person than it is to have the name of the institution, because the reviewer doesn't get it right when they type it in. They're just going to type in "UMass" or "Harvard." We want to be able to be sure that if we are getting that information about that reviewer, that we have that consistent information. 
+For instance, for reviewers, it's better to have the ROR for that person than it is to have the name of the institution, because the reviewer doesn't get it right when they type it in. They're just going to type in "UMass" or "Harvard." We want to be able to be sure that if we are getting that information about that reviewer, that we have that consistent information. 
 
 It also helps us to disambiguate people. The ORCID is important for that, but sometimes when we give a journal staff person an opportunity to look at multiple people's records, if somebody has somehow gotten registered two or three times, ROR is one of those things that will give them enough information to disambiguate and to identify which records need to be merged. 
 
@@ -157,7 +157,7 @@ I think that from a systems perspective, being sure that your API is super-respo
 
 ### {{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Amanda French" >}} Amanda French 
 
-Yes, ROR is quite a small dataset, so downloading the data and store it locally is one of the [implementation approaches](https://ror.readme.io/docs/forms#/implementation-approaches) we recommend, for precisely the reasons you mention. That being said, the ROR API has been very, very stable. It's had [great uptime](http://status.ror.org). 
+Yes, ROR is quite a small dataset, so downloading the data and storing it locally is one of the [implementation approaches](https://ror.readme.io/docs/forms#/implementation-approaches) we recommend, for precisely the reasons you mention. That being said, the ROR API has been very, very stable. It's had [great uptime](http://status.ror.org). 
 
 However, because the ROR API is totally free and open, and because ROR is getting more and more popular, we're seeing some excessive use that can cause issues. That's one of the reasons why we recently started an initiative to implement [client identification](https://ror.readme.io/docs/client-id#/) on the ROR API so that API users need to tell us who they are before receiving the current rate limit. We're phasing that in gradually. Once it's implemented, if somebody is using the ROR API incorrectly and therefore degrading the performance of the API for everybody else who's using it, we can contact that API user and help troubleshoot the issue instead of just blocking their IP address. 
 
@@ -175,6 +175,6 @@ Thanks so much.
 
 {{< callout icon="fa-envelope" >}} 
 
-Write us at support@ror.org with any comments or questions.
+Write to us at support@ror.org with any comments or questions.
 
 {{< /callout >}} 
