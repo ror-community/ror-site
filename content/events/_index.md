@@ -44,6 +44,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### PIDs for Organisations and Projects 
+
+- Date: Monday, September 15, 2025
+- Time: [8:30 UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=8%3a30%20UTC&d=2025-09-15)
+- Duration: 2.5 hours
+- Location: Online
+- Description: ROR gives a presentation to PID Network Germany as part of its seminar series on persistent identifiers (PIDs), highlighting how ROR IDs help ensure sustainable networking, visualization, and reuse of knowledge in science and culture.
+
+{{< button color="green" link="https://gfz-de.zoom.us/meeting/register/99ZzAhXcRzagURMfJgYeNw#/registration" >}} Register for PIDs for Organisations and Projects{{< /button >}}
+
+---
+
 ### FAIR Facilities and Instruments
 
 - Dates: September 22-24, 2025
