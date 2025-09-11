@@ -135,7 +135,10 @@ Common types of entities that are in scope for ROR include
 - Government agencies
 - Private and public funders
 - Hospitals and healthcare centers
-- Laboratories
+
+Common types of entities that may be in scope for ROR if they are substantially independent organizations, if they have multiple parent organizations, or if they are sustained by a government agency include
+
+- Research laboratories
 - Research institutes
 - Research facilities
 
@@ -149,6 +152,7 @@ Common types of entities that are out of scope for ROR include
 - Pre-collegiate schools 
 - Journals
 - Projects
+- Funding programs and schemes 
 
 One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. Additionally, research organizations in ROR must be **premised on long-term stability**. Single-person organizations are out of scope for ROR because they do not persist beyond the lifetime of a single person. 
 
