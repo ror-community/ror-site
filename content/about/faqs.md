@@ -125,36 +125,19 @@ ROR defines “research organization” as any organization that is involved in 
 
 ### **Is my organization in scope for ROR?**
 
-ROR is primarily focused on identifying and listing global “high-level” organizations that researchers cite as an affiliation or funder in published research. To meet the definition of a “high-level” entity, an organization should have a reasonable degree of independence from any parent or related organizations. 
+To be included in the registry, an organization should
 
-Common types of entities that are in scope for ROR include
+- be acknowledged by multiple people in the contributor affiliations or funding acknowledgements of research outputs, 
+- demonstrate independence from other organizations to which it is related, and 
+- not exist as a subdivision within a single standalone organization or named entity.
 
-- Universities and colleges
-- Companies that are involved in research
-- Nonprofits that are involved in research
-- Government agencies
-- Private and public funders
-- Hospitals and healthcare centers
+Therefore, the following entities are out of scope for ROR:
 
-Common types of entities that may be in scope for ROR if they are substantially independent organizations, if they have multiple parent organizations, or if they are sustained by a government agency include
-
-- Research laboratories
-- Research institutes
-- Research facilities
-
-Common types of entities that are out of scope for ROR include
-
-- Departments within organizations
-- University schools, colleges, and faculties
-- Companies that are not involved in research
-- Nonprofits that are not involved in research
+- University departments and faculties
+- Funding programs and schemes
+- Projects or initiatives that are not organizations
 - Single-person organizations such as consultancies
-- Pre-collegiate schools 
-- Journals
-- Projects
-- Funding programs and schemes 
-
-One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is used as a creator's affiliation or acknowledged as a funder in published research**. Additionally, research organizations in ROR must be **premised on long-term stability**. Single-person organizations are out of scope for ROR because they do not persist beyond the lifetime of a single person. 
+- Journals 
 
 See also [our scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
 
