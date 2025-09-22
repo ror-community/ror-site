@@ -22,39 +22,11 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="" >}} Register {{< /button >}}
 
-{{< button color="green" link="" >}} See event description and materials {{< /button >}}
-
-
----
+{{< button color="green" link="" >}} See event description and materials {{< /button >}} 
 
 -->
 
 ## Upcoming events
-
-### ROR Community Call September 2025
-
-- Date: Tuesday, September 16, 2025
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=3pm&d=2025-09-16&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/LvOKrEEPRQKwHjGakF64eA" >}} Register for the ROR Community Call September 2025 {{< /button >}}
-
----
-
-### PIDs for Organisations and Projects 
-
-- Date: Monday, September 15, 2025
-- Time: [8:30 UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=8%3a30%20UTC&d=2025-09-15)
-- Duration: 2.5 hours
-- Location: Online
-- Description: ROR gives a presentation to PID Network Germany as part of its seminar series on persistent identifiers (PIDs), highlighting how ROR IDs help ensure sustainable networking, visualization, and reuse of knowledge in science and culture.
-
-{{< button color="green" link="https://gfz-de.zoom.us/meeting/register/99ZzAhXcRzagURMfJgYeNw#/registration" >}} Register for PIDs for Organisations and Projects{{< /button >}}
-
----
 
 ### FAIR Facilities and Instruments
 
@@ -83,6 +55,19 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
+
+
+### ROR Community Call September 2025
+
+September 16, 2025 | [Event details and materials](2025-09-16-ror-community-call)
+
+---
+
+### PIDs for Organisations and Projects
+
+September 15, 2025 | [Event details and materials](2025-09-15-pids-for-organisations-and-projects)
+
+---
 
 ### ROR Community Call July 2025
 

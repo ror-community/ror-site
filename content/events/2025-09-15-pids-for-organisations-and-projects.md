@@ -21,20 +21,10 @@ reglink = "https://gfz-de.zoom.us/meeting/register/99ZzAhXcRzagURMfJgYeNw#/regis
 +++
 
 
-<!-- Post-event content template
 
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQZ1xjDYheNsXgnzcM4uGLbFS8wILH7sKdRZoblnGzPFPt0g3hhYcDOyiL7vs_0a23gFI4tqydMpDjR/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
-
----
-
-## Recording 
-
-{{< youtube id="XXX" >}}
-
-
---!> 
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQZ1xjDYheNsXgnzcM4uGLbFS8wILH7sKdRZoblnGzPFPt0g3hhYcDOyiL7vs_0a23gFI4tqydMpDjR/pubembed?start=false&loop=false&delayms=3000" >}}
 
