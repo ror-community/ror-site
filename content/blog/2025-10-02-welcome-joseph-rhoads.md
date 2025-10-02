@@ -13,7 +13,6 @@ authors = ["Maria Gould"]
 description = "We are thrilled to introduce the newest member of the ROR pride: Joseph Rhoads joined the ROR team in September as our new Technical Lead."
 doi = "https://doi.org/10.71938/J5DS-GC46"
 crosspost = ""
-aliases = ["/2025-10-02-welcome-joseph"]
 +++ 
 
 
