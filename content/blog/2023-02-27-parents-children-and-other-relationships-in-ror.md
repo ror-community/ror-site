@@ -2,7 +2,7 @@
 title = "Parents, Children, and Other Relationships in ROR Records" 
 date = "2023-02-27" 
 draft = false 
-tags = ["Metadata", "Curation", "Adoption", "Implementation", "Schema", "Hierarchy"] 
+tags = ["Metadata", "Curation", "Adoption", "Implementation", "Hierarchy"] 
 categories = ["Explainers"] 
 archives = ["2023"]
 style = "card-plain"
