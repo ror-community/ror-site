@@ -2,8 +2,8 @@
 title = "How Should ROR Handle API Client Identification?" 
 date = "2024-08-29T09:19:41-04:00"
 draft = false 
-tags = ["API", "Feedback", "Development" ] 
-categories = ["Requests"] 
+tags = ["API", "Feedback", "Development", "Requests" ] 
+categories = ["Technical News"] 
 archives = ["2024"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png" 

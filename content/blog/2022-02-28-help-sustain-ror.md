@@ -2,8 +2,8 @@
 title = "Let's Fund Open Infrastructure Together"
 date = "2022-02-28"
 draft = false
-tags = ["Sustainability", "Community"]
-categories = ["Requests"]
+tags = ["Sustainability", "Community", "Requests"]
+categories = ["General Updates"]
 archives = ["2022"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
