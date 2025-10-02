@@ -2,7 +2,7 @@
 title = "ROR Resources Roundup"
 date = "2021-07-27"
 draft = false
-tags = ["API", "Integrations", "Resources"]
+tags = ["API", "Integrations", "Resources", "Schema"]
 categories = ["Technical News"]
 archives = ["2021"]
 style = "card-plain"
