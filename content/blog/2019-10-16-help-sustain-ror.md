@@ -2,8 +2,8 @@
 title = "Help Build Open Infrastructure for Organization Identifiers: A Call to Support and Sustain ROR"
 date = "2019-10-16"
 draft = false
-tags = ["Community", "Sustainability",]
-categories = ["Requests"]
+tags = ["Community", "Sustainability", "Requests" ]
+categories = ["General Updates"]
 archives = ["2019"]
 style = "card-plain"
 banner = "/img/banners/ROR_Banner-green.png"
