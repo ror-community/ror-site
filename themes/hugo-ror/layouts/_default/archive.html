@@ -23,8 +23,7 @@
 
                 <section class="post">
                   <div class="row">
-                    <div class="col-md-4">
-                      <div class="image">
+                    <div class="col-md-4 clearfix">
                         <a href="{{ .Permalink }}">
                           {{ if .Params.thumb }}
                             <img src="{{ .Params.thumb }}" class="img-raised rounded" alt="">
@@ -34,7 +33,6 @@
                             <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="">
                           {{ end }}
                         </a>
-                      </div>
                     </div>
                       <div class="col-md-8">
                         {{ if isset .Params "categories" }}
