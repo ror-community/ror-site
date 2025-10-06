@@ -233,7 +233,7 @@ February 1, 2023 | [Event details and materials](2023-02-01-intro-ror-api)
 ---
 
 ### ROR Annual Community Meeting 2023: Community Update
-January 31, 2023 | [Event details and materials](2023-01-31-annual-ror-community-meeting)
+January 31, 2023 | [Event details and materials](2023-01-31-annual-meeting-community-update)
 
 ---
 
