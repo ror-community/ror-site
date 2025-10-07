@@ -15,26 +15,11 @@ doi = ""
 crosspost = ""
 +++ 
 
-<!-- Commonly used content 
-
-{{< callout color="green" icon="fa-info" >}} 
-{{< /callout >}}
-
-{{< figure src="/img/blog/" class="blog-figure" alt="" >}}
-
-{{< youtube id="XXX" title="" >}}
-
-{{< callout icon="fa-envelope" >}} 
-Write us at support@ror.org with any comments or questions.
-{{< /callout >}} 
--->
-
 {{< figure src="/img/blog/journey-curation-request/ror-curation-workflow.png" class="featured-figure" alt="Schematic of a workflow." >}}
 
 Have you ever wondered exactly what happens once you request a new ROR record or suggest a change to an existing ROR record? In this blog post, we take you through all the steps involved in ROR's open, community-driven process for making sure that the information in the Research Organization Registry is complete and accurate.
 
 ROR's [community-driven process](https://ror.org/registry/#submitting-registry-updates) for maintaining high-quality information about research organizations in our registry means that anyone can request a new ROR record or suggest a change to an existing one. Our curatorial process for assessing these requests involves both human and automatic review, and all this review happens in the open so that anyone can follow along. Here's a deeper dive into how that works. 
-
 
 ## Step 1: You submit a request
 
@@ -42,11 +27,11 @@ Requests come in two main forms: individual requests and bulk requests. In addit
 
 Individual requests are typically submitted through our [public curation request form](https://curation-request.ror.org/). The two most common actions are to add a new organization or change an existing record; however, you can also request to deprecate an existing ROR record, merge two or more ROR records, or split an existing ROR record into two or more records. Whatever the request type, the best requests have the most complete information possible, which speeds up processing time. There is a human behind every review, and so the more information is sent, the more context ROR curators have to process the request, and the less time they have to spend seeking further information. 
 
-For new record requests, it is [particularly important to provide DOIs or URLs for research publications](https://ror.org/about/faqs/#is-my-organization-in-scope-for-ror) that use the organization as an affiliation or that acknowledge the organization in some way, such as for funding, in order to meet ROR's definition of what constitutes a "research organization." (Read more about our criteria in the section on curator review below or read the [detailed public criteria we provide to our curators](https://ror.org/about/faqs/#is-my-organization-in-scope-for-ror) to help them evaluate requests to add new organizations to ROR.) For all other types of requests, providing a link for evidence that a change should be made, such as a name change announcement on the organization’s website, is also very helpful for faster processing. 
+For new record requests, it is [particularly important to provide multiple DOIs or URLs for research publications](https://ror.org/about/faqs/#is-my-organization-in-scope-for-ror) that use the organization as an affiliation or that acknowledge the organization in some way, such as for funding, in order to meet ROR's definition of what constitutes a "research organization." (Read more about our criteria in the section on curator review below or read the [detailed public criteria we provide to our curators](https://ror.org/about/faqs/#is-my-organization-in-scope-for-ror) to help them evaluate requests to add new organizations to ROR.) For all other types of requests, providing a link for evidence that a change should be made, such as a name change announcement on the organization’s website, is also very helpful for faster processing. 
 
-If you are having difficulty submitting through our Google form, you can always create your own issue directly on GitHub if you have an account. We have [issue templates](https://github.com/ror-community/ror-updates/issues/new/choose) available for adding a new organization or modifying an existing record. 
+If you are having difficulty submitting through our form, you can always create your own request directly on GitHub if you have an account. We have [templates](https://github.com/ror-community/ror-updates/issues/new/choose) available for adding a new organization or modifying an existing record. 
 
-Bulk requests for larger sets of organizations are submitted via email through a [spreadsheet template](https://ror.org/registry/#bulk-requests). There are two spreadsheets available—one for adding new organizations and one for updating existing records—so please choose the correct spreadsheet for your requests or send us both spreadsheets if you have both new and update requests. Instructions for how to complete the spreadsheets are in the headers of each column. 
+Bulk requests for larger sets of organizations can be submitted via email through a [spreadsheet template](https://ror.org/registry/#bulk-requests). There are two spreadsheets available—one for adding new organizations and one for updating existing records—so please choose the correct spreadsheet for your requests or send us both spreadsheets if you have both new and update requests. Instructions for how to complete the spreadsheets are in the headers of each column. 
 
 
 ## Step 2: A GitHub issue is created for the request
@@ -59,14 +44,13 @@ For bulk requests, a single project issue is created, and when it is processed, 
 
 You will receive an email confirmation with a link to your new issue on GitHub where you can follow along for next steps. If you have any additional context later, such as additional links to research or a correction to the form, please comment on your GitHub issue. Again, this requires a GitHub account, but they are free and easy to make. As always, you can also email [registry@ror.org](mailto:registry@ror.org) if you have questions or additional information at any point in the process.
 
-
 ## Step 3: Automatic tools do initial triage of the request
 
 Next, ROR’s automated tools perform initial checks on the request. These are scripts and workflows we’ve developed that take the form of "bots" that you might see interacting with your GitHub issue. A ROR curation bot helps us format the human-submitted data in the request by deleting extra fields, fixing formatting so it’s ready to process, and adding language tags. You can see the changes this bot makes in a comment below the issue, where the red highlight with the minus (-) symbol indicates what’s been deleted and the green highlight with the plus (+) symbol indicates what’s been added.
 
 {{< figure src="/img/blog/journey-curation-request/ror-triage-bot.png"  alt="A ROR curation bot formats the data in a request to add Manila Doctors Hospital to ROR." caption="A ROR curation bot formats the data in a [request to add Manila Doctors Hospital to ROR](https://github.com/ror-community/ror-updates/issues/23765)." >}}
 
-ROR curation bots also find information that helps with curator review. For example, you might see a bot find a [GeoNames](https://geonames.org) ID for the city and country provided, flag potential duplicates in ROR, check for additional identifiers like an ISNI or Wikidata ID, or look for research where the organization is used as an affiliation. 
+ROR curation bots also find information that helps with curator review and metadata quality. For example, you might see a bot find a [GeoNames](https://geonames.org) ID for the city and country provided, flag potential duplicates in ROR, check for additional identifiers like an ISNI or Wikidata ID, or look for research where the organization is used as an affiliation. 
 
 {{< figure src="/img/blog/journey-curation-request/ror-curator-bot.png"  alt="A ROR curation bot helps find additional information to help curators review a request to add University of the City of Muntinlupa to ROR." caption="A ROR curation bot helps find additional information to help curators review a [request to add University of the City of Muntinlupa to ROR](https://github.com/ror-community/ror-updates/issues/17885)." >}}
 
@@ -77,9 +61,9 @@ These automated steps help ROR curators spend their time on meaningful review ra
 
 After automated triage, human curators step in to review the request in detail to ensure it is appropriate for ROR's scope and consistent with other records. Metadata in each issue is reviewed and corrected to conform with ROR’s [metadata policies](https://github.com/ror-community/ror-updates/wiki/ROR-Metadata-Policies#policies-for-specific-metadata-elements) and issue formatting.
 
-ROR's definition of "research organization" is broad by design: ROR strives to be a truly global registry, one that includes research organizations of many kinds from all over the world. At the same time, ROR also works hard to ensure the consistency and integrity of the registry. Therefore, for new organizations to be included in ROR, one of the most important criteria is whether the organization is cited in published research. An organization should have clear reference to its activities in sources like contributor affiliations and funding acknowledgements in public research outputs to be considered a "research organization" that is in scope for ROR. If no links to research are provided in the request for a new ROR ID, if only links to self-published research are provided, if the organization is not used as an affiliation usage nor acknowledged as a source of funding in open research repositories and knowledge graphs, and if no research is listed on the organization's website, the request to add that organization to ROR will be declined. 
+ROR's definition of "research organization" is broad by design: ROR strives to be a truly global registry, one that includes research organizations of many kinds from all over the world, so that these organizations can reliably be connected to the research outputs and activities they support. At the same time, ROR also upholds a high degree of consistency and integrity of the registry as a trusted and widely adopted source of institutional data. Therefore, for new organizations to be included in ROR, one of the most important criteria is whether the organization is cited in published research. An organization should have clear reference to its activities in sources like contributor affiliations and funding acknowledgements in public research outputs to be considered a "research organization" that is in scope for ROR. If no links to research are provided in the request for a new ROR ID, if only links to self-published research are provided, if the organization is not used as an affiliation usage nor acknowledged as a source of funding in open research repositories and knowledge graphs, and if no research is listed on the organization's website, the request to add that organization to ROR will be declined. 
 
-In addition, since ROR IDs are persistent identifiers intended for long-term stability, ROR IDs should identify organizations with long-term stability. Thus, ROR also requires that an organization is used as an affiliation in published research outputs by multiple people, meaning that it is not a one-person organization or consultancy that will not exist past the lifetime of a single person. Similarly, ROR requires multiple instances of mention in research outputs to be accepted into the registry as an established research organization. These requests will also be declined but can be reconsidered if the requestor can provide evidence of multiple instances of research usage with multiple authors. Organizations may also, of course, reapply once ROR requirements are met.
+In addition, since ROR IDs are persistent identifiers intended for long-term stability, ROR IDs should identify organizations with long-term stability. Thus, ROR also requires that an organization is used as an affiliation in published research outputs by multiple people, meaning that it is not a one-person organization or consultancy that will not exist past the lifetime of a single person. Similarly, ROR expects multiple instances of mention in research outputs. These requests will also be declined but can be reconsidered if the requestor can provide evidence of multiple instances of research usage with multiple authors. Organizations may also, of course, reapply once ROR requirements are met.
 
 For changes to existing organizations, we verify the information against reliable public sources like the organization’s website, authority files, and national-level registries; we sometimes also reach out to the requester for clarification. The updates are then coded in the issue itself. You will see a string following “Update:” for changes to the record or “Related organizations:” for changes to the record relationships.
 
@@ -89,11 +73,12 @@ Any approved request will be moved to “Ready for sign-off / metadata QA” in 
 
 Read more about our [scope, criteria for inclusion, and curator workflows](https://github.com/ror-community/ror-updates#ror-scope). 
 
+
 ## Step 5: Curators prepare the release
 
-Every two to four weeks, all reviewed and approved requests are grouped into the next ROR release. All metadata is double-checked using both automated scripts and manual review. This ensures that names, identifiers, and other fields are consistent across the registry and that everything aligns with ROR’s metadata policies. Additional checks are run to ensure there are no duplicates and that the metadata passes various quality and integrity validations. 
+Every two to four weeks, all reviewed and approved requests are grouped into the next ROR data release. All metadata is double-checked using both automated scripts and manual review. This ensures that names, identifiers, and other fields are consistent across the registry and that everything aligns with ROR’s metadata policies. Additional checks are run to ensure there are no duplicates and that the metadata passes various quality and integrity validations. 
 
-Metadata from issues is then extracted programmatically to create new and updated records, turning the approved changes into JSON files that follow the ROR format. These files are then further refined in our release data pipeline,  where we do things like update the date last modified and build new relationships between organizations that are again reviewed. Once the draft release passes those checks, we upload it to the staging environment to test it to make sure the new and updated records show up correctly in the API and search before moving everything into production.
+Metadata from issues is then extracted programmatically to create new and updated records, turning the approved changes into JSON files that follow the ROR format. These files are then further refined in our release data pipeline, where we do things like update the date last modified and build new relationships between organizations that are again reviewed. Once the draft release passes those checks, we upload it to the staging environment to test it to make sure the new and updated records show up correctly in the API and search before moving everything into production.
 
 
 ## Step 6: A new release of ROR is published
@@ -111,4 +96,8 @@ Don’t forget that the best way to ensure faster processing of your request is 
 
 ## Your requests help make ROR great
 
-Now, the next time you submit a new request or think about suggesting a change, you’ll know exactly what happens behind the scenes. By keeping curation open and collaborative, ROR ensures that the registry remains complete and accurate for the entire research community. 
+Now, the next time you submit a new request or think about suggesting a change, you’ll know exactly what happens behind the scenes. By keeping curation open and collaborative while applying careful checks and rigorous processes, ROR ensures that the registry remains complete, accurate, and trusted by the entire research community. 
+
+{{< callout icon="fa-envelope" >}} 
+Questions or comments about the ROR curation process? Write us at support@registry.org.
+{{< /callout >}} 
