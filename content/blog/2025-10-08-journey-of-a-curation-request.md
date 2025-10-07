@@ -99,5 +99,5 @@ Don’t forget that the best way to ensure faster processing of your request is 
 Now, the next time you submit a new request or think about suggesting a change, you’ll know exactly what happens behind the scenes. By keeping curation open and collaborative while applying careful checks and rigorous processes, ROR ensures that the registry remains complete, accurate, and trusted by the entire research community. 
 
 {{< callout icon="fa-envelope" >}} 
-Questions or comments about the ROR curation process? Write us at support@registry.org.
+Questions or comments about the ROR curation process? Write us at registry@ror.org.
 {{< /callout >}} 
