@@ -1,5 +1,5 @@
 +++ 
-title = "Europe PMC announces ROR integration into Grant Finder" 
+title = "Europe PMC Announces ROR Integration into Grant Finder" 
 date = "2023-03-28" 
 draft = false 
 tags = ["Adoption", "Integrations", "Community", "Funders", "EuropePMC"] 

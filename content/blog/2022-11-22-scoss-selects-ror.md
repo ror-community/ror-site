@@ -1,5 +1,5 @@
 +++
-title = "SCOSS selects ROR as essential open infrastructure"
+title = "SCOSS Selects ROR as Essential Open Infrastructure"
 date = "2022-11-22"
 draft = false
 tags = ["Sustainability", "Community"]

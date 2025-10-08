@@ -1,5 +1,5 @@
 +++ 
-title = "Advancing open PID infrastructure at scale: A new face and exciting projects for the ROR technical team" 
+title = "Advancing Open PID Infrastructure at Scale: A New Face and Exciting Projects for the ROR Technical Team" 
 date = "2025-10-02T17:49:25-04:00"
 draft = false 
 tags = ["Schema", "API", "Team"] 
