@@ -1,5 +1,5 @@
 +++
-title = "ROR-ing on our own: Announcing our first independent registry update"
+title = "ROR-ing On Our Own: Announcing Our First Independent Registry Update"
 date = "2022-03-17"
 draft = false
 tags = ["Curation", "Community"]

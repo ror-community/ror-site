@@ -1,5 +1,5 @@
 +++
-title = "Strengthening ROR’s sustainability model"
+title = "Strengthening ROR’s Sustainability Model"
 date = "2022-10-10"
 draft = false
 tags = ["Sustainability", "Governance", "Community"]

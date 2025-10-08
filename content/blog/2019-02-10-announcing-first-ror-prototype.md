@@ -1,5 +1,5 @@
 +++
-title = "Hear us ROR! Announcing our first prototype and next steps"
+title = "Hear us ROR! Announcing our First Prototype and Next Steps"
 date = "2019-02-10"
 draft = false
 tags = ["Community", "Prototype", "MVR", "Annual Meeting"]

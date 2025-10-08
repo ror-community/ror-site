@@ -1,5 +1,5 @@
 +++
-title = "Unmute to ROAR! ROR's third annual (and first virtual) community meeting"
+title = "Unmute to ROAR! ROR's Third Annual (and First Virtual) Community Meeting"
 date = "2021-02-03"
 draft = false
 tags = ["Community", "Annual Meeting"]
