@@ -1,5 +1,5 @@
 +++
-title = "The ROR of the crowd: get involved!"
+title = "The ROR of the Crowd: Get Involved!"
 date = "2018-12-02"
 draft = false
 tags = ["Communication", "Community",]

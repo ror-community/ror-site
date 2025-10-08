@@ -1,5 +1,5 @@
 +++
-title = "What's in a name? Handling name metadata in ROR"
+title = "What's in a Name? Handling Name Metadata in ROR"
 date = "2022-08-31"
 draft = false
 tags = ["Curation", "Registry", "Metadata", "Community"]

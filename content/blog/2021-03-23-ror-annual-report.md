@@ -1,5 +1,5 @@
 +++
-title = "ROR’s 2020 Annual Report: A ROR-port on the past year and a look to what’s next"
+title = "ROR’s 2020 Annual Report: A ROR-port on the Past Year and a Look to What’s Next"
 date = "2021-03-23"
 draft = false
 tags = ["Community", "Sustainability" ]

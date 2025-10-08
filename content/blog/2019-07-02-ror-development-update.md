@@ -1,5 +1,5 @@
 +++
-title = "ROR development update: Building and growing an open registry of organizations"
+title = "ROR Development Update: Building and Growing an Open Registry of Organizations"
 date = "2019-07-02"
 draft = false
 tags = ["Implementation", "MVR", "Prototype", "GRID"]

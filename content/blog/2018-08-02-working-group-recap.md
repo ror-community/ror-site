@@ -1,5 +1,5 @@
 +++
-title = "Org ID: a recap and a hint of things to come"
+title = "Org ID: A Recap and a Hint of Things to Come"
 date = "2018-08-02"
 draft = false
 tags = ["Communication", "Working Group", "Cross-post"]

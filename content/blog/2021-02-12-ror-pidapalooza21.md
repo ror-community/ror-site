@@ -1,5 +1,5 @@
 +++
-title = "ROR-ing around the clock at PIDapalooza21"
+title = "ROR-ing Around the Clock at PIDapalooza21"
 date = "2021-02-12"
 draft = false
 tags = ["Community", "PIDapalooza"]
