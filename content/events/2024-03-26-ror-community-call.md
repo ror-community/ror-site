@@ -22,7 +22,7 @@ reglink = ""
 
 ## Materials
 
-- [Slides from ROR Community Call - March 2024](https://docs.google.com/presentation/d/1tYLc0UZFcWs4---ClxCBkAUxVPmaKOxWISd5leCY488/edit?usp=sharing)
+- [Slides from ROR Community Call	March 2024](https://docs.google.com/presentation/d/1tYLc0UZFcWs4---ClxCBkAUxVPmaKOxWISd5leCY488/edit?usp=sharing)
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vSClPfLD6RFUZygywgTK0r_2MsfKV2lebKfZzvtEuCae2P-OpLSkcoiVaV9J4yJ-9afDjonYaeUPSRs/embed?start=false&loop=false&delayms=3000" >}}
 

@@ -7,14 +7,14 @@ categories = ["Case Studies"]
 archives = ["2025"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.png" 
-thumb = "https://rosap.ntl.bts.gov/sites/default/themes/dot/images/stacks_searchBar_logo1184-481.svg" 
+thumb = "/img/blog/usdot/rosap-logo.png"
 images = ['https://rosap.ntl.bts.gov/sites/default/themes/dot/images/stacks_searchBar_logo1184-481.svg']
 authors = ["Peyton Tvrdy", "Amanda French"] 
 description = "Peyton Tvrdy of the US National Transportation Library tells us why and how her team did such exemplary work in producing metadata for Rosa P, a national digital repository for open transportation research."
 doi = "https://doi.org/10.71938/pfdw-jr49"
 +++ 
 
-{{< figure src="https://rosap.ntl.bts.gov/sites/default/themes/dot/images/stacks_searchBar_logo1184-481.svg" class="featured-figure" alt="US Department of Transportation, Rosa P Repository and Open Science Access Portal" >}}
+{{< figure src="/img/blog/usdot/rosap-logo.png" class="featured-figure" alt="US Department of Transportation, Rosa P Repository and Open Science Access Portal" >}}
 
 The [ROSA P digital repository](https://rosap.ntl.bts.gov/), operated by the [US National Transportation Library](https://ntl.bts.gov/ntl) -- part of the [US Department of Transportation](https://www.transportation.gov/) -- is one of the top ten providers of [ROR IDs for publisher identification](https://api.datacite.org/dois?query=publisher.publisherIdentifierScheme:ROR+OR+publisher.schemeUri:%22https://ror.org%22+OR+publisher.publisherIdentifier:*ror*&publisher=true&page[size]=0) and [ROR IDs for funder identification](https://api.datacite.org/dois?query=fundingReferences.funderIdentifierType:ROR&page%5Bsize%5D=0) in DataCite DOI metadata. In this short case study, Peyton Tvrdy tells us why and how her team did such exemplary work in producing metadata for open transportation research funded or produced by USDOT.
 
