@@ -37,4 +37,4 @@ reglink = ""
 
 ## Recording 
 
-{{< youtube id="oXBgk3YWYUw" title="Community Showcase January 2024 - ROR Annual Meeting 2024" >}}
+{{< youtube id="oXBgk3YWYUw" title="Community Showcase January 2024	ROR Annual Meeting 2024" >}}

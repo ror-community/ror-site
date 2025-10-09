@@ -39,4 +39,4 @@ reglink = ""
 
 ## Recording 
 
-{{< youtube id="mDWpO8Jz2lM" title="Why We All Need Good Funding Metadata - ROR Annual Meeting 2024" >}}
+{{< youtube id="mDWpO8Jz2lM" title="Why We All Need Good Funding Metadata	ROR Annual Meeting 2024" >}}
