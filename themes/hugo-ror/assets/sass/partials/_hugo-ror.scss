@@ -1865,7 +1865,7 @@ li {
 }
 .title {
     font-family: $font-bold;
-    padding-top: 30px;
+    padding-top: 10px;
 }
 .title.title-up a {
     color: #2c2c2c;
@@ -7068,7 +7068,17 @@ $desktop-width: 1024px;
 
 }
 
+/* home page styles */
 
+.tagline { 
+	font-size: 1.6em;
+	line-height: 1.2em;
+	margin-bottom: 0;
+}
+
+#search .more-search {
+	padding-top: 0 !important;
+}
 
 /* blog styles */
 
