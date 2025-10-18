@@ -8,7 +8,6 @@ archives = ["2025"]
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/blog/digicorepro/DigiCorePro.png" 
-alttext = "DigiCorePro logo."
 images = ['/img/blog/digicorepro/DigiCorePro.png']
 authors = ["Amanda French"] 
 description = "In this interview with HighWire Press's Tony Alves, we learn that thanks to customer requests and a PID-aware development process, the publishing platform DigiCore Pro uses ROR in form lookups and automatic extraction processes for author affiliations, funder identification, peer reviewer affiliations, user disambiguation, and research integrity."
