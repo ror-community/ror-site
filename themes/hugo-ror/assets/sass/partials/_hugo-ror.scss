@@ -7166,16 +7166,18 @@ margin: 0;
 
 .section-landing-banner {
 background-color: #520c70;
-}
-
-#banner-text {
-font-family: "AH-Bold";
-color:#fff;
+height: 7em!important;
 }
 
 .section-break {
 padding: 5px 0 5px 0;
 background-color: #fff;
+}
+
+.tagline {
+	font-size: 1.6em;
+	line-height: 1.2em;
+  	margin-bottom: 0;
 }
 
 #search  {
