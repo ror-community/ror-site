@@ -6910,7 +6910,7 @@ img.ror-id {
 .page-banner h1 {
 	color: #fff !important;
     font-family: $font-bold;
-	margin: 0;		
+	margin: 0;	
 }
 
 /* donations table on the Supporters page */
@@ -7227,6 +7227,7 @@ font-size: 1.2rem;
 
 .jumbotron { 
 	padding: .75em 0 .75em 0;
+	background-color: #505759!important;
 }
 
 
@@ -7371,5 +7372,11 @@ margin-top: 2rem;
 
 pre {
 line-height: 1.2rem;
+}
+
+code {
+	font-size: medium;
+	color: #293030;
+	word-break: break-word;
 }
 
