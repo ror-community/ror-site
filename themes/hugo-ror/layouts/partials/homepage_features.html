@@ -7,14 +7,14 @@
             {{ range sort .Site.Data.homepage_features "weight" }}
             <div class="col-md-12">
                 <div class="row feature">
-                    <div class="col-md-5">
+                    <div class="col-md-6">
                         <div class="icon" style="background-image:url({{ .icon }});">
                         </div>
                     </div>
-                    <div class="col-md-7">
-                        <p>{{ .description }}</p>
+                    <div class="col-md-6">
+                     <h4 style="margin: 0rem 0rem 1rem 0rem;"><a href="{{ .link_url }}" class="btn btn-md btn-round mustard">{{ .name }}</a></h4>
+                        <p style="font-size:1.2rem;">{{ .description }}</p>
                         
-                        <a href="{{ .link_url }}" class="btn btn-sm btn-round red">{{ .name }}</a>
                     </div>
                 </div>
             </div>
