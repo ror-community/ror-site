@@ -119,7 +119,7 @@ Registry data is updated on a rolling basis and made available in the search int
 
 Want to suggest a new organization in ROR or make changes to an existing record? 
 
-{{< button color="green" link="https://curation-request.ror.org" >}} Request a change to the registry {{< /button >}}
+{{< button color="green" link="https://curation-request.ror.org" >}} Suggest an addition or update to ROR {{< /button >}}
 
 {{< /callout >}}
 
