@@ -1,5 +1,9 @@
 /*** Callout boxes ***/
 .callout {
+  border-radius: .25rem!important;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+
   
   .fa {
     font-size: 3rem;
@@ -17,34 +21,34 @@
       text-decoration: underline;
     }
   }
+
+
   
 }
 
 
 .callout,
-.callout.grey {
+.callout.grey, .callout.light-grey {
   border-radius: .25rem!important;
   padding: 2rem;
   background-color: $light-grey;
-  margin-bottom: 1.5rem;
 }
+
 .callout.green {
   background-color: $green;
 }
-.callout.dark-grey {
-  background-color: $dark-grey;
-}
-.callout.mustard,
+
+.callout.orange,
 .callout.orange {
-  background-color: $mustard;
+  background-color: $orange;
 }
+
 .callout.black {
   background-color: $black;
 }
 .callout.dark-grey, 
 .callout.black {
-  color: #fff;
-  
+  background-color: $dark-grey;  
   a {
     color: $green;
   }
@@ -57,7 +61,7 @@
   }
 }
 .callout.green,
-.callout.mustard,
+.callout.orange,
 .callout.orange {
 
   a {
@@ -65,18 +69,26 @@
   }
 }
 
+.callout.purple {
+background-color:$purple;
+
+}
+
+
 /*** CTA buttons ***/
 
 .btn.green {
   color: #000!important;
   background-color: $green;
 }
-.btn.mustard {
-  color: #000!important;
-  background-color: $mustard;
-}
-.btn.red,
 .btn.orange {
-  color: #fff!important;
+  color: #000!important;
   background-color: $orange;
+}
+.btn.raspberry {
+  color: #fff!important;
+  background-color: $raspberry;
+}
+.btn.purple {
+  background-color: $purple;
 }
