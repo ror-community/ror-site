@@ -7164,9 +7164,8 @@ margin: 0;
 
 /* home page */
 
-.section-landing-banner {
-background-color: #520c70;
-height: 7em!important;
+.section-blurb {
+padding: 20px 0; 
 }
 
 .section-break {
@@ -7175,13 +7174,12 @@ background-color: #fff;
 }
 
 .tagline {
-	font-size: 1.6em;
-	line-height: 1.2em;
-  	margin-bottom: 0;
+font-size: 1.6em;
+line-height: 1.2em;
 }
 
 #search  {
-padding: 40px 0 30px 0;
+padding: 30px 0 30px 0;
 }
 
 .search-icon {

@@ -62,7 +62,7 @@ enableGitInfo = true
 
 [params.landingbanner]
   enable = true
-    image = "/img/ROR_Lions_Banner_dark_teal.jpg"
+    image = "/img/ROR_Lions_Banner.jpg"
 
 [params.blurb]
     enable = true
