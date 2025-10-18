@@ -6,7 +6,7 @@ tags = ["", ""]
 categories = [""] 
 archives = [""]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.png" 
+banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
 author = "" 
@@ -52,7 +52,7 @@ YouTube playlists can be embedded with the custom playlist shortcode.
 
 ## Callout blocks
 
-{{< callout >}} Use the <code>callout</code> shortcode for a callout box. You can make the box any one of the brand colours: beige, green, dark grey, mustard or black by appending this to the shortcode (or leave color out for the default grey).
+{{< callout >}} Use the <code>callout</code> shortcode for a callout box. You can make the box any one of the brand colours: green, dark grey, orange or black by appending this to the shortcode (or leave color out for the default grey).
 
 You can also set any icon from the [Font Awesome v4 library](https://fontawesome.com/v4/icons/) by appending its name e.g. <code>fa-envelope</code> (or as with color, leave icon out for the default info icon). If you do not want an icon, specify "no-icon" and your callout box will have full-width text. You can style text within a callout box using normal Markdown. View the markdown for this page to see the code in action.{{< /callout >}}
 
@@ -60,10 +60,10 @@ You can also set any icon from the [Font Awesome v4 library](https://fontawesome
 
 {{< callout color="dark-grey" icon="fa-envelope" >}} This is a dark grey callout box, with an envelope icon. We are not - we are [not keeping up with other websites](#). {{< /callout >}}
 
-{{< callout color="mustard" >}} ## This is an orange callout box with a heading and no icon.
-Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does [everybody know](#) that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that Barack Obama’s placeholder text is a fraud. {{< /callout >}}
+{{< callout color="orange" >}} ## This is an orange callout box with a heading and no icon.
+Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does [everybody know](#) that pig named Lorem Ipsum? An ‘extremely credible source’ has called my office and told me that this website's placeholder text is a fraud. {{< /callout >}}
 
-{{< callout color="black" icon="fa-question-circle" >}} This is a black callout box, with a question-circle icon. Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An [‘extremely credible source’](#) has called my office and told me that Barack Obama’s placeholder text is a fraud. {{< /callout >}}
+{{< callout color="black" icon="fa-question-circle" >}} This is a black callout box, with a question-circle icon. Lorem Ipsum is the single greatest threat. We are not - we are not keeping up with other websites. Lorem Ipsum best not make any more threats to your website. It will be met with fire and fury like the world has never seen. Does everybody know that pig named Lorem Ipsum? An [‘extremely credible source’](#) has called my office and told me that this website's placeholder text is a fraud. {{< /callout >}}
 
 ## Buttons
 
