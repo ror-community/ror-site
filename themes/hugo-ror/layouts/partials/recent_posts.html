@@ -10,11 +10,7 @@
                     <h2>{{ .Site.Params.recent_posts.title }}</h2>
                 </div>
 
-                <p class="lead">
-                {{ .Site.Params.recent_posts.subtitle }}
-                </p>
-
-                <!-- *** BLOG HOMEPAGE *** -->
+                <!-- *** Recent posts *** -->
                 <div class="row">
                     
                     {{ $posts := .Paginate (where .Site.RegularPages "Section" "blog") }}
@@ -22,10 +18,8 @@
                     <div class="col-md-4 col-sm-6 news-item">
                         <div class="box-image-text blog">
                             <div class="top">
-                            <a href="{{ .Permalink }}">
                                 <div class="image" style="background-image:url({{ if isset .Params "thumb" }}{{ .Params.thumb }}{{ else }}/img/banners/ROR_Banner-green.png{{ end }});">
                                 </div>
-                            </a>    
                             </div>
 
                             <div class="content">                                
