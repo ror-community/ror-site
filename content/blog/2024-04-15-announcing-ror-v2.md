@@ -6,7 +6,7 @@ tags = ["API", "development", "implementation"]
 categories = ["Technical News"]
 archives = ["2024"]
 style = "card-plain"
-banner = "/img/banners/ROR_Banner-green.png"
+banner = "/img/banners/ROR_Banner-green.jpg"
 thumb = "/img/ror-v2-launch-shadow-sparkles.gif"
 images = ['img/ror-v2-launch-shadow-sparkles.gif']
 authors = ["ROR Core Team"]
@@ -47,7 +47,7 @@ Here's a synopsis of what's new and improved.
 
 * The **ROR web search** at [https://ror.org/search](https://ror.org/search) now uses version 2 of the ROR API, and we've taken the opportunity to make a few improvements. Organization names are now identified by type and language so that it's more apparent what's an alias, what's an acronym, and what's in an alternate script. Additionally, each individual landing page for a ROR record now includes a link to the JSON view of the record, which enables users to see the underlying data behind the interface. 
 
-{{< callout color="mustard" icon="no-icon" >}}
+{{< callout color="orange" icon="no-icon" >}}
 
 Not all new fields and subfields in version 2 of ROR have values yet, but we expect to add most or all of this information by the end of Q2 2024, proceeding carefully in order to ensure that added values are accurate.  
 

@@ -10505,7 +10505,7 @@ li {
   color: #FF3636 !important; }
 
 .text-black {
-  color: #444; }
+  color: #293030; }
 
 .blockquote {
   border: 1px solid #888;
@@ -11711,7 +11711,7 @@ textarea.form-control:active, textarea.form-control:focus {
   min-width: 100px;
   font-weight: 400;
   text-align: center;
-  color: #444; }
+  color: #293030; }
 
 .nav-pills .nav-item .nav-link.active, .nav-pills .nav-item .nav-link.active:focus, .nav-pills .nav-item .nav-link.active:hover {
   background-color: #9A9A9A;
@@ -11792,7 +11792,7 @@ textarea.form-control:active, textarea.form-control:focus {
   line-height: 1.5; }
 
 .nav-tabs > .nav-item > .nav-link.active {
-  background-color: #444;
+  background-color: #293030;
   border-radius: 30px;
   color: #FFF; }
 
@@ -12930,7 +12930,7 @@ img {
 .card[data-background-color=light-grey] {
   background-color: #efefef; }
 
-.card[data-background-color=coral] {
+.card[data-background-color=raspberry] {
   background-color: #e0004d; }
 
 .card[data-background-color=black] {
@@ -12944,7 +12944,7 @@ img {
   border-bottom-right-radius: 0 !important; }
 
 .card a:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link):focus, .card a:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link):hover {
-  border-color: #444; }
+  border-color: #293030; }
 
 .card-collapse .card .card-header {
   padding: .75rem 0;
@@ -12960,7 +12960,7 @@ img {
 
 .card-collapse .card .card-header a[data-toggle=collapse] {
   display: block;
-  color: #444; }
+  color: #293030; }
 
 .card-collapse .card .card-header a[data-toggle=collapse].expanded i, .card-collapse .card .card-header a[data-toggle=collapse][aria-expanded=true] i {
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=2);
@@ -14139,7 +14139,7 @@ img {
 [data-background-color=orange] {
   background-color: #da3200; }
 
-[data-background-color=mustard] {
+[data-background-color=orange] {
   background-color: #e89005; }
 
 [data-background-color=beige] {
@@ -14641,7 +14641,7 @@ img {
   box-shadow: none; }
 
 .section-testimonials .carousel .carousel-control-next i, .section-testimonials .carousel .carousel-control-prev i, .testimonials-2 .carousel .carousel-control-next i, .testimonials-2 .carousel .carousel-control-prev i {
-  color: #444; }
+  color: #293030; }
 
 .section-testimonials .testimonials-people, .testimonials-2 .testimonials-people {
   position: relative; }
@@ -15590,7 +15590,7 @@ ul.breadcrumbs li a:hover {
 .callout.dark-grey {
   background-color: #505759; }
 
-.callout.mustard {
+.callout.orange {
   background-color: #e89005; }
 
 .callout.black {

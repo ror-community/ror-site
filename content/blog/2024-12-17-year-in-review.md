@@ -6,7 +6,7 @@ tags = ["", ""]
 categories = ["Year in Review"] 
 archives = ["2024"]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.png" 
+banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/blog/review2024/Camouflage_Unsplash.jpg" 
 images = ['/img/blog/review2024/Camouflage_Unsplash.jpg']
 authors = ["ROR Core Team"] 
@@ -79,7 +79,7 @@ Write us at info@ror.org with any comments or questions.
 Get involved by joining the [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community).
 {{< /callout >}}
 
-{{< callout icon="fa-calendar-days" color="mustard" >}} 
+{{< callout icon="fa-calendar-days" color="orange" >}} 
 Register for the [ROR Annual Community Meeting](https://ror.org/events) Feb 4-5, 2025.
 {{< /callout >}}
 

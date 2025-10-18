@@ -6,7 +6,7 @@ tags = ["Funders", "Adoption", "Integrations", "Implementation", "GREI", "DataCi
 categories = ["Case Studies"] 
 archives = ["2024"]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.png" 
+banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/blog/use-case-funders/ror-for-funders.png" 
 images = ['/img/blog/use-case-funders/ror-for-funders.png']
 authors = ["Amanda French"] 
@@ -87,7 +87,7 @@ Both Figshare's central repository at [figshare.com](figshare.com) and Oxford Un
 
 ROR was [originally seeded](https://ror.org/about/#launch-of-the-ror-mvr) with the GRID organization identifiers and data used by Dimensions, so there is a [close relationship between ROR IDs and GRID IDs](https://grid.ac/), and most ROR and GRID records are [mapped to each other](https://ror.readme.io/v2/docs/ror-data-structure#external_ids). Dimensions's support documentation [explains how ROR IDs are incorporated into its data](https://dimensions.freshdesk.com/support/solutions/articles/23000025993-how-are-organizations-represented-in-dimensions-): 
 
-{{< callout  color="beige" icon="no-icon" >}}
+{{< callout  color="grey" icon="no-icon" >}}
 
 **How are new ROR IDs added to Dimensions organization records?**
 
