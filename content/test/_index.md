@@ -1,6 +1,6 @@
 +++
 title = "ROR test page with examples"
-draft = "true"
+draft = true
 date = "2023-01-20"
 banner = "/img/banners/ROR_Banner-grey.jpg"
 +++
@@ -25,9 +25,9 @@ Richard McClintock, a Latin scholar from Hampden-Sydney College, is [credited](#
 
 ## Callout boxes
 
-{{< callout icon="fa-info">}} Use the `<callout>` shortcode for a callout box. You can make the box any one of the brand colours: green, dark grey, orange, light grey, raspberry, purple, or black by appending this to the shortcode (or leave color out for the default light grey).
+{{< callout icon="fa-info">}} Use the `callout` shortcode for a callout box. You can make the box any one of the brand colours: green, dark grey, orange, light grey, raspberry, purple, or black by appending this to the shortcode (or leave color out for the default light grey).
 
-By default, callout boxes have the info icon shown here. You can also set any icon from the [Font Awesome library](https://fontawesome.com) by specifying its name, e.g., <code>icon="fa-envelope"</code>. If you do not want an icon, specify `icon="no-icon"` and your callout box will have full-width text. You can style text within a callout box using normal Markdown. View the Markdown for this page to see the code in action.{{< /callout >}}
+By default, callout boxes have the info icon shown here. You can also set any icon from the [Font Awesome library](https://fontawesome.com) by specifying its name, e.g., <code>icon="fa-envelope"</code>. If you do not want an icon, specify `icon="no-icon"` and your callout box will have full-width text. You can style text within a callout box using normal Markdown.{{< /callout >}}
 
 {{< callout color="green" icon="no-icon" >}} This is a green callout box with no icon. `Lorem Ipsum is placeholder text.` Richard McClintock, a Latin scholar from Hampden-Sydney College, is [credited](#) with discovering the source behind the ubiquitous filler text. 
 {{< /callout >}}
@@ -47,19 +47,28 @@ By default, callout boxes have the info icon shown here. You can also set any ic
 {{< callout color="purple" icon="no-icon" >}} This is a purple callout box with no icon. `Lorem Ipsum is placeholder text.` Richard McClintock, a Latin scholar from Hampden-Sydney College, is [credited](#) with discovering the source behind the ubiquitous filler text. 
 {{< /callout >}}
 
+{{< callout color="black" icon="no-icon" >}} This is a black callout box with no icon. `Lorem Ipsum is placeholder text.` Richard McClintock, a Latin scholar from Hampden-Sydney College, is [credited](#) with discovering the source behind the ubiquitous filler text. 
+{{< /callout >}}
+
 ## Buttons
 
-Buttons work similarly to the callout boxes above, but only green, orange, raspberry, and purple buttons are available. Wrap the text of your button in the <code>button</code> shortcode and specify the link in the shortcode itself. If no color is specified, the color will be green. 
+Buttons work similarly to the callout boxes above. Wrap the text of your button in the <code>button</code> shortcode and specify the link in the shortcode itself. If no color is specified, the color will be green. 
 
 {{< button link="#" >}} This is a green button {{< /button >}}<br />
 
 {{< button color="green" link="#" >}} This is also a green button {{< /button >}}<br />
 
+{{< button color="dark-grey" link="#" >}} This is a dark grey button {{< /button >}}<br />
+
 {{< button color="orange" link="#" >}} This is an orange button {{< /button >}}<br />
+
+{{< button color="light-grey" link="#" >}} This is a light grey button {{< /button >}}<br />
 
 {{< button color="raspberry" link="#" >}} This is a raspberry button {{< /button >}}<br />
 
 {{< button color="purple" link="#" >}} This is a purple button {{< /button >}}<br />
+
+{{< button color="black" link="#" >}} This is a black button {{< /button >}}<br />
 
 
 ## Centered content

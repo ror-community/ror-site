@@ -64,10 +64,11 @@
   a {
     color: $purple;
   }
-
 }
+
 .callout.dark-grey,
-.callout.purple {
+.callout.purple, 
+.callout.black {
   a {
     color: $green;
   }
@@ -89,22 +90,43 @@
 }
 
 
-
 /*** CTA buttons ***/
 
 .btn, .btn.green {
   color: #000!important;
   background-color: $green;
 }
+
+.btn:hover, .btn:focus {
+  opacity:.7;
+}
+
+.btn.dark-grey {
+  color: #fff!important;
+  background-color: $dark-grey;
+}
+
 .btn.orange {
   color: #000!important;
   background-color: $orange;
 }
+
+.btn.light-grey {
+  color: #000!important;
+  background-color: $light-grey;
+}
+		
 .btn.raspberry {
   color: #fff!important;
   background-color: $raspberry;
 }
+
 .btn.purple {
   color: #fff!important;
   background-color: $purple;
+}
+
+.btn.black {
+  color: #fff!important;
+  background-color: $black;
 }
