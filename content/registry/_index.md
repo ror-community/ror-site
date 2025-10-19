@@ -12,7 +12,7 @@ aliases = [
 
 The process of registering ROR IDs and maintaining ROR records is different from the workflows for ORCID iDs and DOIs. Unlike ORCID iDs and DOIs, ROR IDs are created and maintained through a centralized, community-based curation process.
 
-Anyone can request additions or updates to the registry using the form at [https://curation-request.ror.org](https://curation-request.ror.org). You do not need to be affiliated with an organization to request changes to that organization's record in ROR. 
+Anyone can request additions or updates to the registry. You can suggest that an organization be added to ROR or that an existing organization's record be modified even if you are not associated with that organization. 
 
 {{< centered >}}
 
@@ -97,16 +97,16 @@ ROR initially launched with seed data from [GRID](https://grid.ac). ROR IDs were
 
 The ROR registry is freely and openly available. There are **no fees or access requirements** for using ROR. There are three ways to look up organizations and organization records in ROR:
 
-#### Web search
+**Web search**
 - Search ROR on the web at [https://ror.org/search](https://ror.org/search)
 - Read the [ROR web search documentation](https://ror.readme.io/docs/web-search)
 
-#### REST API
+**REST API**
 - Read the [ROR REST API v1 documentation](https://ror.readme.io/v1/docs/rest-api)
 - Read the [ROR REST API v2 documentation](https://ror.readme.io/v2/docs/rest-api)
 - Join the [ROR Tech Forum](https://groups.google.com/a/ror.org/g/ror-tech) to receive important announcements about the ROR API
 
-#### Dataset
+**Dataset**
 - Download the entire ROR dataset in JSON and CSV format at [https://doi.org/10.5281/zenodo.6347574](https://doi.org/10.5281/zenodo.6347574)
 - Read the [ROR data dump documentation](https://ror.readme.io/docs/data-dump)
 - Join the [ROR Tech Forum](https://groups.google.com/a/ror.org/g/ror-tech) to receive announcements about new releases of ROR data

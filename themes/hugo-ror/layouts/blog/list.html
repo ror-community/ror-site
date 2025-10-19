@@ -24,15 +24,11 @@
                 <section class="post">
                   <div class="row">
                     <div class="col-md-4 clearfix">
-                        <a href="{{ .Permalink }}">
                           {{ if .Params.thumb }}
                             <img src="{{ .Params.thumb }}" class="img-raised rounded" alt="">
-                          {{ else if .Params.banner }}
-                            <img src="{{ .Params.banner }}" class="img-raised rounded" alt="">
-                          {{ else }}
-                            <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="">
+                          {{ else }}  
+                            <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="ROR grey banner with triangles.">
                           {{ end }}
-                        </a>
                     </div>
                       <div class="col-md-8 clearfix">
                         {{ if isset .Params "categories" }}
