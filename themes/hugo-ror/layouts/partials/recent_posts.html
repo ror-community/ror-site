@@ -10,11 +10,7 @@
                     <h2>{{ .Site.Params.recent_posts.title }}</h2>
                 </div>
 
-                <p class="lead">
-                {{ .Site.Params.recent_posts.subtitle }}
-                </p>
-
-                <!-- *** BLOG HOMEPAGE *** -->
+                <!-- *** Recent posts *** -->
                 <div class="row">
                     
                     {{ $posts := .Paginate (where .Site.RegularPages "Section" "blog") }}
@@ -22,7 +18,7 @@
                     <div class="col-md-4 col-sm-6 news-item">
                         <div class="box-image-text blog">
                             <div class="top">
-                                <div class="image" style="background-image:url({{ if isset .Params "thumb" }}{{ .Params.thumb }}{{ else }}/img/banners/ROR_Banner-green.png{{ end }});">
+                                <div class="image" style="background-image:url({{ if isset .Params "thumb" }}{{ .Params.thumb }}{{ else }}/img/banners/ROR_Banner-green.jpg{{ end }});">
                                 </div>
                             </div>
 
@@ -31,10 +27,11 @@
                                 <p class="intro">{{ if .Params.description }}{{ .Params.description }}{{ else }}{{ .Summary | plainify | safeHTML }}{{ end }}</p>
 
        {{ partial "authors-date.html" . }}
+       
+        <p class="read-more">
+        <a href="{{ .Permalink }}" class="btn btn-sm btn-round purple">Continue reading</a>
+        </p>
 
-                                <p class="read-more">
-                                    <a href="{{ .Permalink }}" class="btn btn-sm btn-round mustard">Continue reading</a>
-                                </p>
                             </div>
                         </div>
                         <!-- /.box-image-text -->
@@ -44,7 +41,7 @@
 
                 </div>
                 <p class="view-all">
-                    <a href="/blog" class="btn btn-sm btn-round red">View all articles</a>
+                    <a href="/blog" class="btn btn-sm btn-round orange">View all blog posts</a>
                 </p>
                 <!-- /.row -->
 
