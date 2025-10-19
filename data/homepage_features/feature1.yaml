@@ -1,6 +1,6 @@
 weight: 1
 name: "Use the ROR registry"
 icon: "/img/example-record.png"
-description: "ROR is curated through a community process, and updates are released at least monthly. Anyone can suggest the addition of a new ROR record or a change to an existing record. ROR includes IDs and CC0 metadata for more than 116,000 organizations, and the registry is openly available in a web search, a REST API, and a downloadable dataset." 
+description: "Anyone can suggest the addition of a new ROR record or a change to an existing record via ROR's community curation process. Updates to ROR are released at least monthly. ROR includes IDs and CC0 metadata for more than 116,000 organizations, and the registry is openly available in a web search, a REST API, and a downloadable dataset." 
 link_text: "More"
 link_url: "/registry"
