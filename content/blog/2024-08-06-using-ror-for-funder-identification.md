@@ -18,8 +18,15 @@ doi = "https://doi.org/10.71938/xfhb-sm73"
 
 Several widely used scholarly systems are using ROR IDs to identify and disambiguate funding organizations. In this post, we’ll give you a glimpse of how and why these systems use ROR IDs as funder identifiers.
 
-If you're reading this post, you probably know that for the last ten years, [the Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) has been the default identifier for funding organizations. You might also know that last fall, Crossref [announced](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/) "a long-term plan to deprecate the Open Funder Registry" in favor of ROR so that publishing systems and workflows can use one open registry, not two, to identify organizations. If you're interested in learning more about that transition, you can consult our [Open Funder Registry transition guide](https://ror.readme.io/docs/funder-registry) or read [previous ROR blog posts](https://ror.org/tags/funders/). But if you're interested in learning more about **early adopters who are already using ROR to identify funders now**, read on. 
+{{< callout color="green" >}}
 
+For help with switching to ROR for funder identification in your own system, visit our guide to the [Transition from Open Funder Registry to ROR.](https://ror.readme.io/docs/funder-registry)
+
+{{< /callout >}}
+
+You might already know that for the last ten years, [the Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) has been the default identifier for funding organizations. You might also know that last fall, Crossref [announced](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/) "a long-term plan to deprecate the Open Funder Registry" in favor of ROR so that publishing systems and workflows can use one open registry, not two, to identify organizations. 
+
+If you're interested in learning more about that transition, you can consult our guide to the [Transition from Open Funder Registry to ROR](https://ror.readme.io/docs/funder-registry) or read [previous ROR blog posts](https://ror.org/tags/funders/). But if you're interested in learning more about **early adopters who are already using ROR to identify funders now**, read on. 
 
 ## Repositories are ahead of the curve 
 
