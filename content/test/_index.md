@@ -125,7 +125,7 @@ The best size for square thumbnails is 300 x 300 and the best size for rectangul
 
 Use the class "round-figure" in the figure shortcode to generate a small round avatar of a person's face from an image. The original image should be square and cropped as closely as possible. 
 
-{{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Round avatar of Amanda French" >}} **Amanda French**
+{{< figure src="/img/amanda-sq-200.png" class="round-figure" alt="Avatar of Round avatar of Amanda French" >}} **Amanda French**
 
 
 ### Centered and shrunken image
