@@ -1,6 +1,6 @@
 #homepage-features {
 
-    padding: 70px 0 30px 0!important;
+    padding: 50px 0 30px 0!important;
 
     .feature {
         padding-bottom: 40px;
@@ -16,6 +16,14 @@
             margin-top:0;
         }
 
+    }
+    
+    .feature h3 {
+    font-size:1.5rem;
+    }
+    
+    .feature-link {
+    	color:$black;
     }
     
 }
