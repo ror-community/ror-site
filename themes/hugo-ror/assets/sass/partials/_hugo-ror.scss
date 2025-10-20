@@ -7070,6 +7070,16 @@ $desktop-width: 1024px;
 
 /* home page styles */
 
+.section-blurb h1.title {
+	font-size:2.5rem;
+	margin-bottom:.5em;
+	line-height:2.5rem;
+}
+
+.section-blurb h1:first-child {
+	margin-top:0;
+}
+
 .tagline { 
 	font-size: 1.6em;
 	line-height: 1.2em;
@@ -7081,6 +7091,10 @@ $desktop-width: 1024px;
 }
 
 /* blog styles */
+
+.blog h2 {
+	font-size: 2.2rem; 
+}
 
 figure img {
 	border: solid 1px grey;
