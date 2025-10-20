@@ -26,7 +26,7 @@ aliases = [
 
 ## Materials 
 
-See [ROR's technical documentation](https://ror.readme.io) for the most up-to-date instructions on how to use the ROR REST API. 
+See [ROR's technical documentation](https://ror.readme.io/docs/rest-api) for the most up-to-date instructions on how to use the ROR REST API. 
 
 ## Recording 
 
