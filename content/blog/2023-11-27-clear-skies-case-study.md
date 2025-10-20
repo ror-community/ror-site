@@ -21,7 +21,7 @@ Adam Day, CEO of Clear Skies Ltd., discusses how he works to improve research in
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "Having institutional identifiers in there, it's part of the puzzle. And it's an important part of the puzzle. But there are limits to data analysis. Data analysis has got to help people to do the investigation – not try to do it for them."
 

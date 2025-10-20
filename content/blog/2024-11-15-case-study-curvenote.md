@@ -20,7 +20,7 @@ In this interview with Curvenote cofounder Rowan Cockett, we envision a world in
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "This represents the ideal of a scholarly ecosystem that is rich with APIs and structured data, and our authoring tools need to be able to show the value of that as you're working. You see a paper, you copy the DOI, and then you don't have to think about the references, you don't have to think about APA formatting. You see a ROR, you copy it into your document, and then it turns into the name of the organization with all of the information directly available in a hover reference."
 

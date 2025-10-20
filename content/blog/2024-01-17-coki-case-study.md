@@ -19,7 +19,7 @@ Professor Cameron Neylon of Curtin University talks telephones, power outlets, c
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "But actually, in the end, with all of the architecture and systems we had to change and the move from Microsoft Academic to OpenAlex, the shift to ROR was one of the easiest ones. In fact, we just dropped the entire ROR dataset into an identifier column. It was very simple."
 

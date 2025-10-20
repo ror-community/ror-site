@@ -18,7 +18,7 @@ In January of 2022, DataSalon [announced a full integration of ROR](https://www.
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "We're really interested in data standardization and cleansing: that's central to what we do, so we're all very aware of the importance of having a free and open standard reference dataset for identifying organizations and for supporting some of the other datasets that get loaded into our products. Open source data is key to our ethos."
 

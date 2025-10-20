@@ -18,7 +18,7 @@ Chris Hartgerink, the founder of [Liberate Science](https://libscie.org), discus
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "Integrating ROR just makes it very easy to match all these authors to the same institution. And it also lets you get all the metadata related to an institution so that you can display institutions visually and add more information, like when the institution was founded and where it's located, all this information that you wouldn't get from just a raw string."
 

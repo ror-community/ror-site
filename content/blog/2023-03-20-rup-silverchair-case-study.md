@@ -18,7 +18,7 @@ Rockefeller University Press has incorporated ROR into many aspects of their wor
 
 {{< callout color="green" icon="no-icon" >}} 
 
-### Key quotations 
+## Key quotations 
 
 "When we get new deals, we set them up in eJournal Press systems. They're configured using ROR IDs, and the process is then completely driven by ROR. The system looks for a match between affiliation ROR IDs and deal ROR IDs. And once there's a match, we know the article is eligible for that deal."
 

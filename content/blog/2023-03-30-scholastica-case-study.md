@@ -18,7 +18,7 @@ doi = "https://doi.org/10.71938/q4ps-gb98"
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "I would say the benefit to the users is getting better metadata. It's an obvious answer, but users don't always know about metadata. They also might not think of metadata as a feature, but we do. At Scholastica, we care about taking steps to enrich metadata – like adding ROR IDs, for example, on behalf of our customers, so they don't _have_ to worry about the technical aspects of metadata collection or creation and can instead focus on maximizing the discovery benefits."
 

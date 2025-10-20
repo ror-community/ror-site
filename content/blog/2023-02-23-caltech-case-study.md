@@ -18,7 +18,7 @@ In this case study we interview Tom Morrell, Research Data Specialist at Caltech
 
 {{< callout color="green" icon="no-icon" >}} 
 
-### Key quotations 
+## Key quotations 
 
 "Basically as soon as ROR came out and it was supported in DataCite, once they said, 'We've got a spot in the metadata to put ROR,' we pretty quickly implemented ROR for our thesis repository. That was a really easy, easy case, because we know everybody who has a thesis in the thesis repository is affiliated with Caltech."
 

@@ -16,7 +16,7 @@ doi = "https://doi.org/10.71938/gdr4-d136"
 This conversation with Eric Olson of the Center for Open Science is the first in a new series of interviews, "Case Studies in ROR Integration," a series designed to provide in-depth detail on why and how people are choosing to integrate ROR IDs into their systems.
 
 {{< callout color="green" icon="no-icon" >}} 
-### Key quotations
+## Key quotations
 "[W]hen we mint DOIs for all the content types that we have DOIs for – which right now are preprints, preregistration documents, and project spaces – we send the ROR IDs from the affiliation data that’s associated with the user profile with the metadata for each contributor."
 
 "The really cool stuff that we have just done with the ROR integration will allow us to continue to build in the direction of describing relationships." 

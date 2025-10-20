@@ -20,7 +20,7 @@ doi = "https://doi.org/10.71938/z07b-1n79"
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "As part of discussions leading to the release of Version 2 [of JATS4R], we talked a great deal about ROR being probably the dominant identifier for affiliations in the near future."
 

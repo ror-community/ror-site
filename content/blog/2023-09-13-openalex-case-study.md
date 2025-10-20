@@ -18,7 +18,7 @@ Justin Barrett, Lead Machine Learning Engineer for OpenAlex at OurResearch, talk
 
 {{< callout color="green" icon="no-icon" >}}
 
-### Key quotations
+## Key quotations
 
 "When we started to make the second version of the institution parsing model, I got a lot deeper into ROR, and that's when I started to use a lot more of the data, like the aliases and the acronyms and the relationships. ROR became a lot more central to our model, because I was using it so much, and then also because we made the decision to not include non-ROR institutions in our database. We switched to completely ROR institutions."
 

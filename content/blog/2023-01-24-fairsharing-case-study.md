@@ -16,7 +16,7 @@ doi = "https://doi.org/10.71938/hd7y-q648"
 In this installment of the ROR Case Studies series, we talk with Allyson Lister, Content and Community Lead for FAIRsharing, a cross-disciplinary registry of scientific standards, databases, and policies, about how and why FAIRsharing used ROR to help make organizations first-class citizens in their data model.
 
 {{< callout color="green" icon="no-icon" >}}
-### Key quotations
+## Key quotations
 
 "If we're going to integrate with somebody like ROR, we have to commit to it, you know. It was intensive at first, but mainly because of the creation of the original scripts and the batch of curation checks, as our records are all curated. But we've had a couple of these three-month checks since, and it's been an hour or two maximum of checking, with the main curation team each doing maybe fifteen minutes or so of checking."
 
