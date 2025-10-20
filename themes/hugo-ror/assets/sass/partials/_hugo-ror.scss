@@ -1742,8 +1742,8 @@ input.datetimepicker[data-color=yellow]+.bootstrap-datetimepicker-widget button[
     box-shadow: 0 5px 25px 0 rgba(0, 0, 0, .2);
 }
 .pagination .page-item.active>.page-link, .pagination .page-item.active>.page-link:focus, .pagination .page-item.active>.page-link:hover {
-    background-color: #888;
-    border-color: #888;
+    background-color: $dark-grey;
+    border-color: $dark-grey;
     color: #FFF;
 }
 .pagination .page-item.disabled>.page-link {
