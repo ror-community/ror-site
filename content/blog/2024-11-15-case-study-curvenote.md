@@ -2,7 +2,7 @@
 title = "Case Study: Next-Generation Publishing Platform Curvenote and ROR"
 date = "2024-11-15"
 draft = false
-tags = ["Interviews", "Publishing"]
+tags = ["Interviews", "Publishing", "Curvenote"]
 categories = ["Case Studies"]
 archives = ["2024"]
 style = "card-plain"

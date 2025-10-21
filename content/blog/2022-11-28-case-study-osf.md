@@ -2,7 +2,7 @@
 title = "Case Study: ROR in the COS Open Science Framework"
 date = "2022-11-28"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Interviews", "OSF"]
+tags = ["Adoption", "Integrations", "Community", "Interviews", "OSF", "Repositories"]
 categories = ["Case Studies"]
 archives = ["2022"]
 style = "card-plain"

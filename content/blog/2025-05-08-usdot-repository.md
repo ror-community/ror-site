@@ -2,7 +2,7 @@
 title = "ROR in the US Department of Transportation's Research Repository" 
 date = "2025-05-08"
 draft = false 
-tags = ["USDOT", "DataCite"] 
+tags = ["USDOT", "DataCite", "Repositories"] 
 categories = ["Case Studies"] 
 archives = ["2025"]
 style = "card-plain" 
