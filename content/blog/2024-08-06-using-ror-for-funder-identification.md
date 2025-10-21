@@ -87,7 +87,7 @@ Both Figshare's central repository at [figshare.com](figshare.com) and Oxford Un
 
 ROR was [originally seeded](https://ror.org/about/#launch-of-the-ror-mvr) with the GRID organization identifiers and data used by Dimensions, so there is a [close relationship between ROR IDs and GRID IDs](https://grid.ac/), and most ROR and GRID records are [mapped to each other](https://ror.readme.io/v2/docs/ror-data-structure#external_ids). Dimensions's support documentation [explains how ROR IDs are incorporated into its data](https://dimensions.freshdesk.com/support/solutions/articles/23000025993-how-are-organizations-represented-in-dimensions-): 
 
-{{< callout  color="beige" icon="no-icon" >}}
+{{< callout icon="no-icon" >}}
 
 **How are new ROR IDs added to Dimensions organization records?**
 
