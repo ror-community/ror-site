@@ -1,6 +1,6 @@
 +++ 
 title = "Cambridge University Press and ROR" 
-date = "2025-10-21T11:18:36-04:00"
+date = "2025-10-22"
 draft = false 
 tags = ["Cambridge University Press", "Publishing"] 
 categories = ["Case Studies"] 
@@ -11,27 +11,9 @@ thumb = "/img/blog/cup/cambridge-university-press.png"
 images = ['/img/blog/cup/cambridge-university-press.png']
 authors = ["John Lewis", "Amanda French"] 
 description = "John Lewis, Data Operations Manager at Cambridge University Press, tells us why and how Cambridge uses ROR in this latest installment of our short case study series."
-doi = ""
+doi = "https://doi.org/10.71938/xysb-vp37"
 crosspost = ""
 +++ 
-
-<!-- Commonly used content 
-
-{{< figure src="/img/blog/" class="featured-figure" alt="" >}}
-
-{{< callout color="green" icon="fa-info" >}} 
-{{< /callout >}}
-
-{{< figure src="/img/blog/" class="blog-figure" alt="" >}}
-
-{{< youtube id="XXX" title="" >}}
-
-{{< callout icon="fa-envelope" >}} 
-Write us at support@ror.org with any comments or questions.
-{{< /callout >}} 
-
--->
-
 
 John Lewis, Data Operations Manager at [Cambridge University Press](https://cambridge.org), tells us why and how Cambridge uses ROR in this latest installment of our [case study series](/categories/case-studies).
 
