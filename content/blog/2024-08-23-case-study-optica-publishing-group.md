@@ -2,7 +2,7 @@
 title = "Case Study: How and Why Optica Publishing Group Uses ROR" 
 date = "2024-08-23"
 draft = false 
-tags = ["Optica", "Interviews"] 
+tags = ["Optica", "Interviews", "Publishing"] 
 categories = ["Case Studies"] 
 archives = ["2024"]
 style = "card-plain" 

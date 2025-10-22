@@ -2,7 +2,7 @@
 title = "HighWire Press's DigiCorePro and ROR" 
 date = "2025-09-09"
 draft = false 
-tags = ["HighWire Press", "MPS", "DigiCorePro"] 
+tags = ["HighWire Press", "MPS", "DigiCorePro", "Publishing"] 
 categories = ["Case Studies"] 
 archives = ["2025"]
 style = "card-plain" 

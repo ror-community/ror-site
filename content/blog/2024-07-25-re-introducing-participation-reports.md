@@ -2,7 +2,7 @@
 title = "Re-introducing Participation Reports to Encourage Best Practices in Open Metadata" 
 date = "2024-07-25T11:32:47-04:00"
 draft = false 
-tags = ["Crossref", "Cross-post", "Adoption", "Integrations", "Metadata", "Publishing", "Open Infrastructure"] 
+tags = ["Crossref", "Cross-post", "Adoption", "Integrations", "Metadata", "Publishers", "Open Infrastructure"] 
 categories = ["Adoption News"] 
 archives = ["2024"]
 style = "card-plain" 
