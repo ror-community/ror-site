@@ -2,7 +2,7 @@
 title = "American Physical Society Becomes Largest Society Publisher to Adopt ROR" 
 date = "2024-07-23" 
 draft = false 
-tags = ["Adoption", "Integrations", "Community", "Cross-post", "APS"] 
+tags = ["Adoption", "Integrations", "Community", "Cross-post", "APS", "Publishing"] 
 categories = ["Adoption News"] 
 archives = ["2024"]
 style = "card-plain" 
