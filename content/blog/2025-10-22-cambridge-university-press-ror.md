@@ -13,6 +13,7 @@ authors = ["John Lewis", "Amanda French"]
 description = "John Lewis, Data Operations Manager at Cambridge University Press, tells us why and how Cambridge uses ROR in this latest installment of our short case study series."
 doi = "https://doi.org/10.71938/xysb-vp37"
 crosspost = ""
+aliases = ["/2025-10-22-cambridge-university-press-ror"]
 +++ 
 
 John Lewis, Data Operations Manager at [Cambridge University Press](https://cambridge.org), tells us why and how Cambridge uses ROR in this latest installment of our [case study series](/categories/case-studies).
