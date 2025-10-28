@@ -39,6 +39,28 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/iNEkJoBCRzyqhbCXXMrT5w" >}} Register for the ROR Community Call November 2025 {{< /button >}}
 
+---
+
+### Unlocking Hidden Value: Strategic Data Harmonization Across Your Publishing Portfolio
+- Date: Thursday, December 4, 2025
+- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=15&d=2025-12-04&tz2=Coordinated-Universal-Time-UTC)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: Publishing organizations are sitting on untapped potential—valuable data locked within fragmented peer review systems. In this Wiley-organized thought-leadership panel, industry experts explore how harmonizing workflows and data practices across your journal portfolio can unlock hidden value, improve operational efficiency, and position your organization for sustainable growth. Speakers include ROR Technical Community Manager Amanda French.
+
+
+{{< button color="green" link="https://events.zoom.us/ev/AnPCy-ZXPJcpwMEamLki1CY22tUwtuKL_tgYsQpHACM-PtmsajlS~ArkfzlT6Yi00eLPwGApXPXUqjWCq3IeSYZMXFaLUOnl_eu_SfTliCnZSIA" >}} Register for Unlocking Hidden Value{{< /button >}}
+
+---
+
+### ROR Annual Community Meeting 2026
+- Dates: Tuesday, February 3 - Wednesday, February 4 
+- Times: TBD
+- Location: Online
+- Description: Save the date for our ROR Annual Community Meeting sessions! In four one-hour sessions over two days we'll provide an update on what ROR accomplished in 2025 and what we look forward to in 2026, feature presentations from ROR integrators and ROR users; host a discussion panel on a key topic, and be available for an informal drop-in chat. 
+
+---
 
 ## Calendar
 
