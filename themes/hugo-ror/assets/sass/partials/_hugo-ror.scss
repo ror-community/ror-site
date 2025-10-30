@@ -7286,7 +7286,7 @@ thead tr:hover {
   color:#fff
 }
 tr:nth-child(2n+2) {
-  background-color:#f3f3f3
+  background-color:$light-grey;
 }
 table.no-zebra tr:nth-child(2n+2) {
   background-color:#fff
