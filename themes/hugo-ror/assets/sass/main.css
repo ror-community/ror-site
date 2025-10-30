@@ -12387,11 +12387,11 @@ input.datetimepicker[data-color=green] + .bootstrap-datetimepicker-widget button
   color: #18ce0f;
 }
 
-input.datetimepicker[data-color=red] + .bootstrap-datetimepicker-widget {
+input.datetimepicker[data-color=raspberry] + .bootstrap-datetimepicker-widget {
   background-color: #FF3636;
 }
 
-input.datetimepicker[data-color=red] + .bootstrap-datetimepicker-widget button[data-action], input.datetimepicker[data-color=red] + .bootstrap-datetimepicker-widget table td.active:hover > div, input.datetimepicker[data-color=red] + .bootstrap-datetimepicker-widget table td.active > div, input.datetimepicker[data-color=red] + .bootstrap-datetimepicker-widget.dropdown-menu.bottom:before, input.datetimepicker[data-color=red] + .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
+input.datetimepicker[data-color=raspberry] + .bootstrap-datetimepicker-widget button[data-action], input.datetimepicker[data-color=raspberry] + .bootstrap-datetimepicker-widget table td.active:hover > div, input.datetimepicker[data-color=raspberry] + .bootstrap-datetimepicker-widget table td.active > div, input.datetimepicker[data-color=raspberry] + .bootstrap-datetimepicker-widget.dropdown-menu.bottom:before, input.datetimepicker[data-color=raspberry] + .bootstrap-datetimepicker-widget.dropdown-menu.top:after {
   color: #FF3636;
 }
 
@@ -13399,7 +13399,7 @@ li {
 }
 
 .text-black {
-  color: #444;
+  color: #293030;
 }
 
 .blockquote {
@@ -14887,7 +14887,7 @@ textarea.form-control:active, textarea.form-control:focus {
   min-width: 100px;
   font-weight: 400;
   text-align: center;
-  color: #444;
+  color: #293030;
 }
 
 .nav-pills .nav-item .nav-link.active, .nav-pills .nav-item .nav-link.active:focus, .nav-pills .nav-item .nav-link.active:hover {
@@ -14990,7 +14990,7 @@ textarea.form-control:active, textarea.form-control:focus {
 }
 
 .nav-tabs > .nav-item > .nav-link.active {
-  background-color: #444;
+  background-color: #293030;
   border-radius: 30px;
   color: #FFF;
 }
@@ -16410,7 +16410,7 @@ img {
   background-color: #efefef;
 }
 
-.card[data-background-color=coral] {
+.card[data-background-color=raspberry] {
   background-color: #e0004d;
 }
 
@@ -16428,7 +16428,7 @@ img {
 }
 
 .card a:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link):focus, .card a:not(.btn):not(.nav-link):not([data-toggle=collapse]):not(.footer-link):hover {
-  border-color: #444;
+  border-color: #293030;
 }
 
 .card-collapse .card .card-header {
@@ -16447,7 +16447,7 @@ img {
 
 .card-collapse .card .card-header a[data-toggle=collapse] {
   display: block;
-  color: #444;
+  color: #293030;
 }
 
 .card-collapse .card .card-header a[data-toggle=collapse].expanded i, .card-collapse .card .card-header a[data-toggle=collapse][aria-expanded=true] i {
@@ -17913,16 +17913,12 @@ img {
   background-color: #da3200;
 }
 
-[data-background-color=mustard] {
+[data-background-color=orange] {
   background-color: #e89005;
 }
 
 [data-background-color=purple] {
   background-color: #520c70;
-}
-
-[data-background-color=beige] {
-  background-color: #d3bdb0;
 }
 
 [data-background-color=black] {
@@ -18552,7 +18548,7 @@ img {
 }
 
 .section-testimonials .carousel .carousel-control-next i, .section-testimonials .carousel .carousel-control-prev i, .testimonials-2 .carousel .carousel-control-next i, .testimonials-2 .carousel .carousel-control-prev i {
-  color: #444;
+  color: #293030;
 }
 
 .section-testimonials .testimonials-people, .testimonials-2 .testimonials-people {
@@ -19708,8 +19704,7 @@ ul.breadcrumbs li a:hover {
 }
 
 /*** Callout boxes ***/
-.callout,
-.callout.beige {
+.callout {
   border-radius: 0.25rem !important;
   padding: 2rem;
   background-color: #d3bdb0;
@@ -19728,7 +19723,7 @@ ul.breadcrumbs li a:hover {
   background-color: #505759;
 }
 
-.callout.mustard {
+.callout.orange {
   background-color: #e89005;
 }
 
@@ -19745,7 +19740,7 @@ ul.breadcrumbs li a:hover {
   background-color: #53baa1;
 }
 
-.btn.red {
+.btn.raspberry {
   color: #fff !important;
   background-color: #B74225;
 }
@@ -19755,12 +19750,12 @@ ul.breadcrumbs li a:hover {
   background-color: #66CCB3 !important;
 }
 
-.btn.red:hover {
+.btn.raspberry:hover {
   background-color: #da3200 !important;
 }
 
 #recent-posts {
-  background-color: #eeeeee;
+  background-color: #efefef;
 }
 #recent-posts .view-all {
   padding: 0 1rem;
@@ -19775,7 +19770,7 @@ ul.breadcrumbs li a:hover {
 }
 #recent-posts .news-item .top {
   position: relative;
-  height: 300px;
+  height: 200px;
 }
 #recent-posts .news-item .top .image {
   height: 100%;
