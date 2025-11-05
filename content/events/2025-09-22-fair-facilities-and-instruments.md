@@ -25,7 +25,7 @@ reglink = ""
 - [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vTBqHyBOnzF0k_A_Ssbjl9-qfXhfX2D0vQbPwKbp7kQzaW526jD_HVJj-F0Ol4RVK1fmZfOaG3ymByA/pub?start=false&loop=false&delayms=3000)
 
 
-{{< iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTBqHyBOnzF0k_A_Ssbjl9-qfXhfX2D0vQbPwKbp7kQzaW526jD_HVJj-F0Ol4RVK1fmZfOaG3ymByA/pubembed?start=false&loop=false&delayms=3000" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTBqHyBOnzF0k_A_Ssbjl9-qfXhfX2D0vQbPwKbp7kQzaW526jD_HVJj-F0Ol4RVK1fmZfOaG3ymByA/pubembed?start=false&loop=false&delayms=3000" >}}
 
 
 
