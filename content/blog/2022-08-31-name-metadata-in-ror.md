@@ -113,4 +113,4 @@ We hope this explanation has provided interesting insights into the work we do a
 
 Curation is an ongoing effort and we invite community users to become more involved in this work through participation in the curation advisory board and/or through community discussions.
 
-If you have questions or feedback, or if you would like to get more involved in curating ROR records, please get in touch via <registry@ror.org>.
+If you have questions or feedback, or if you would like to get more involved in curating ROR records, please get in touch via <support@ror.org>.
