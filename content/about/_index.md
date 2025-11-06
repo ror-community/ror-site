@@ -93,10 +93,7 @@ To obtain official versions of the ROR logo, please first visit our display guid
 
 ## Contact us
 
-- General questions: info@ror.org 
-- Technical questions: support@ror.org 
-- Metadata and curation questions: registry@ror.org 
-- Community and outreach questions: community@ror.org 
+Email support@ror.org with any and all questions. 
 
 You can also [book a Zoom meeting](https://calendly.com/ror-chat) with Technical Community Manager Amanda French. 
 
