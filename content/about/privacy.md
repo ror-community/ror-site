@@ -14,11 +14,11 @@ We don't share personal information with anyone except to comply with the law, d
 
 We don't store personal information on our servers unless required for on-going business operations.
 
-If you find content on the ROR website, Github site, blog, or social media channels that you believe violates our Privacy Policy, please contact <info@ror.org> immediately.
+If you find content on the ROR website, Github site, blog, or social media channels that you believe violates our Privacy Policy, please contact <support@ror.org> immediately.
 
 ## Website, Github, Blog, and Services
 
-ROR operates a website at <https://ror.org>, maintains code on a Github site at <https://www.github.com/ror-community>, maintains documentation on a Readme.io site at <https://ror.readme.io>, publishes blog posts at <https://ror.org/blog>, and manages support requests via email at <info@ror.org> and <support@ror.org>. It is ROR's policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on these sites please contact <info@ror.org>.
+ROR operates a website at <https://ror.org>, maintains code on a Github site at <https://www.github.com/ror-community>, maintains documentation on a Readme.io site at <https://ror.readme.io>, publishes blog posts at <https://ror.org/blog>, and manages support requests via email at <support@ror.org>. It is ROR's policy to respect your privacy regarding any information we may collect while operating these sites and services. If you have questions about deleting or correcting any personal data you find on these sites please contact <support@ror.org>.
 
 ## Site Visitors
 
@@ -32,7 +32,7 @@ For example, visitors who contact ROR by email are required to provide an email 
 
 ## ROR Community Communications
 
-ROR does not employ a formal membership model but ROR does engage in discussions and projects with members of the community who are interested in being involved with the project. Depending on the type of activity or desired type of involvement, community members who have expressed an interest in ROR may receive notifications about upcoming webinars or calls, product updates, project developments, or other news that impact ROR sites and services. These communications take place via MailChimp mail services and via email associated with the ror.org domain hosted by Gmail. We store individuals' names and contact information in MailChimp and in the Gmail account. Individuals may remove themselves from these communications by following the unsubscribe link in general mailings or by sending a request to <info@ror.org> to be removed from general mailing lists and direct message threads.
+ROR does not employ a formal membership model but ROR does engage in discussions and projects with members of the community who are interested in being involved with the project. Depending on the type of activity or desired type of involvement, community members who have expressed an interest in ROR may receive notifications about upcoming webinars or calls, product updates, project developments, or other news that impact ROR sites and services. These communications take place via MailChimp mail services and via email associated with the ror.org domain hosted by Gmail. We store individuals' names and contact information in MailChimp and in the Gmail account. Individuals may remove themselves from these communications by following the unsubscribe link in general mailings or by sending a request to <support@ror.org> to be removed from general mailing lists and direct message threads.
 
 ## Documentation
 
@@ -44,11 +44,11 @@ ROR provides a registry of unique identifiers for research organizations and ass
 
 ## ROR Support Queries
 
-Help and support queries are handled via email to <info@ror.org> and <support@ror.org>. Any details provided during a support conversation are kept private. From time to time ROR may add your email to an appropriate mailing list for additional information. Individuals may remove themselves from mailings by following the unsubscribe link provided in messages or by contacting <info@ror.org>.  
+Help and support queries are handled via email to <support@ror.org>. Any details provided during a support conversation are kept private. From time to time ROR may add your email to an appropriate mailing list for additional information. Individuals may remove themselves from mailings by following the unsubscribe link provided in messages or by contacting <support@ror.org>.  
 
 ## Email Communications
 
-ROR uses email to communicate with ROR community members and users of our services. These communications are sent from ROR's Gmail account or via MailChimp. Individuals may remove themselves from mailings by following the unsubscribe link provided in MailChimp messages or by contacting <info@ror.org> to be removed from email communications. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
+ROR uses email to communicate with ROR community members and users of our services. These communications are sent from ROR's Gmail account or via MailChimp. Individuals may remove themselves from mailings by following the unsubscribe link provided in MailChimp messages or by contacting <support@ror.org> to be removed from email communications. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law.
 
 ## Aggregated Statistics
 
@@ -64,7 +64,7 @@ ROR discloses potentially personally-identifying and personally-identifying info
 
 ROR will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its project team members and affiliated organizations, as described above, ROR discloses potentially personally-identifying and personally-identifying information only in response to a court order or other governmental request, or when ROR believes in good faith that disclosure is reasonably necessary to protect the property or rights of ROR, third parties or the public at large.
 
-If you are a user of ROR services and have supplied your email address, and you would like to be removed, please send a request for removal to <info@ror.org>. ROR takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
+If you are a user of ROR services and have supplied your email address, and you would like to be removed, please send a request for removal to <support@ror.org>. ROR takes all measures reasonably necessary to protect against the unauthorized access, use, alteration, or destruction of potentially personally-identifying and personally-identifying information.
 
 ## Privacy Policy Changes
 

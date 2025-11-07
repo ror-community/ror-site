@@ -341,8 +341,8 @@ My pleasure. Thanks for your time.
 
 {{< callout color="green" icon="no-icon" >}}
 
-See also the [press release](https://www.eurekalert.org/news-releases/984137) about Europe PMC's incorporation of ROR into its Grant Finder. Contact <community@ror.org> with any questions.
+See also the [press release](https://www.eurekalert.org/news-releases/984137) about Europe PMC's incorporation of ROR into its Grant Finder. Contact <support@ror.org> with any questions.
 
-Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+Questions? Want to be featured in a ROR case study? Contact <support@ror.org>.
 
 {{< /callout >}}

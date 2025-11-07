@@ -83,6 +83,6 @@ Hope to see you all throughout 2024 and at the next annual meeting in 2025.
 
 {{< callout color="green" icon="no-icon" >}}
 
-Want to present at a ROR community meeting? Contact <community@ror.org>.
+Want to present at a ROR community meeting? Contact <support@ror.org>.
 
 {{< /callout >}}
