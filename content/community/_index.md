@@ -88,7 +88,7 @@ ROR-organized events include open bi-monthly Community Calls, topic-specific web
 
 See our [events page](/events) to sign up for upcoming events and access materials from [past events](/events#past-events).
 
-We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
+We are also happy to schedule free custom webinars and tutorials for your team: write [support@ror.org](mailto:support@ror.org) with inquiries. 
 
 ## Supporters {#supporters}
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. 
@@ -151,6 +151,6 @@ At ROR, we want all community interactions to be welcoming, collegial, safe, and
 
 {{< callout icon="fa-envelope" >}}
 
-Contact <community@ror.org> with questions about getting involved with ROR. 
+Contact <support@ror.org> with questions about getting involved with ROR. 
 
 {{< /callout >}}

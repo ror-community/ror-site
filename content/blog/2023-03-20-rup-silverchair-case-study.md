@@ -136,6 +136,6 @@ Thanks for telling us all about your work with ROR, Rob and Emily.
 
 {{< callout color="green" icon="no-icon" >}} 
 
-[Download the slides](/documents/2022-12-08-ROR-RUP-Silverchair-Slides.pdf) as a PDF. Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+[Download the slides](/documents/2022-12-08-ROR-RUP-Silverchair-Slides.pdf) as a PDF. Questions? Want to be featured in a ROR case study? Contact <support@ror.org>.
 
 {{< /callout >}} 

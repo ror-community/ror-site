@@ -331,7 +331,7 @@ Thank you very much!
 
 {{< callout color="green" icon="fa-envelope" >}}
 
-Questions? Want to be featured in a ROR case study? Contact [community@ror.org](mailto:community@ror.org).
+Questions? Want to be featured in a ROR case study? Contact [support@ror.org](mailto:support@ror.org).
 
 {{< /callout >}}
 
