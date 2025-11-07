@@ -34,7 +34,7 @@ See also the Crossref news release, "[Europe PMC integrates ROR into its Grant F
 {{< callout color="green" icon="no-icon" >}} 
 
 - [Contact helpdesk@europepmc.org](helpdesk@europepmc.org) for further information about Europe PMC's use of ROR.
-- [Contact Amanda French](mailto:community@ror.org), ROR Technical Community Manager, for more information about ROR.
+- [Contact Amanda French](mailto:support@ror.org), ROR Technical Community Manager, for more information about ROR.
 - Register for an upcoming [ROR Community Call or other event](/events) to hear about integrations like these and more.
 
 {{< /callout >}} 
