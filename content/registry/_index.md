@@ -131,8 +131,6 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 - Jackson Huang, [Educopia](https://educopia.org)
 - Kateřina Janderová, [Czech Academy of Sciences](https://www.avcr.cz/en/)
-- Matthias Liffers, [Australian Research Data Commons (ARDC)](https://ardc.edu.au/)
-- Nick Lundvick, [Argonne National Laboratory](https://www.anl.gov/)
 - Carole Melzac, [Agence bibliographique de l’enseignement supérieur (ABES)](https://abes.fr/) 
 - Carly Robinson, [Scholarly Publishing and Academic Resources Coalition (SPARC)](https://sparcopen.org)
 - Arthur Smith, [American Physical Society (APS)](https://aps.org)
