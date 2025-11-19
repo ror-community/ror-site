@@ -30,7 +30,7 @@ The [ROR roadmap](https://github.com/ror-community/ror-roadmap/issues) is availa
 
 ### **How much does it cost to use ROR?**
 
-ROR IDs and metadata are public domain information and are freely and openly available to anyone. There is no cost to access or use ROR data or services. See ROR [Terms of Use](/about/terms/) for more information. 
+ROR IDs and metadata are public domain information and are freely and openly available to anyone. There is no cost to access or use ROR data or services. See ROR [Terms of Use](/about/terms/) for more information about ROR licenses and acknowledgments.
 
 ***
 
