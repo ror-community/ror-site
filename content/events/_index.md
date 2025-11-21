@@ -28,19 +28,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call November 2025
-
-- Date: Wednesday, November 19, 2025
-- Time: [4pm UTC](https://dateful.com/time-zone-converter?t=4pm&d=2025-11-19&tz2=UTC)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/iNEkJoBCRzyqhbCXXMrT5w" >}} Register for the ROR Community Call November 2025 {{< /button >}}
-
----
-
 ### Unlocking Hidden Value: Strategic Data Harmonization Across Your Publishing Portfolio
 - Date: Thursday, December 4, 2025
 - Time: [3pm UTC](https://dateful.com/time-zone-converter?t=15&d=2025-12-04&tz2=Coordinated-Universal-Time-UTC)
@@ -67,6 +54,12 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
+
+### ROR Community Call November 2025
+
+November 19, 2025 | [Event details and materials](2025-11-19-ror-community-call)
+
+--- 
 
 ### FAIR Facilities and Instruments
 
