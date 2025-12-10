@@ -137,4 +137,14 @@ ROR IDs can serve as identifiers for research organizations in several roles. Hi
 
 Eight organizations account for over 110,000 resources in the EarthScope repository and seven of these had ROR IDs at the beginning of this project. We worked with ROR to create a new ROR for that organization (the Global CMT Project) to complete the identifier coverage. 
 
-Adding identifiers for these organizations to the EarthScope repository represents an important “connection” service provided to these partners by EarthScope and inherent in the two-way nature of ROR IDs and other identifiers. This kind of connection occurs for all ROR IDs added to DataCite metadata and DataCite Commons provides an auto-update of resources associated with organizations like the auto-update capabilities for ORCID iDs for researchers. If you are an organization that hosts, creates or contributes to datasets in DataCite, make sure your ROR ID gets into the metadata so that your resources are visible through DataCite Commons. 
+Adding identifiers for these organizations to the EarthScope repository represents an important “connection service" provided to these partners by EarthScope and inherent in the two-way nature of ROR IDs and other identifiers. This kind of connection occurs for all ROR IDs added to DataCite metadata and DataCite Commons provides an auto-update of resources associated with organizations like the auto-update capabilities for ORCID iDs for researchers. If you are an organization that hosts, creates or contributes to datasets in DataCite, make sure your ROR ID gets into the metadata so that your resources are visible through DataCite Commons. 
+
+{{< figure src="/img/blog/earthscope/metadata-game-changers.png" class="blog-figure" alt="Metadata Game Changers logo" >}}
+
+{{< figure src="/img/blog/earthscope/earthscope-logo.png" class="blog-figure" alt="EarthScope Consortium logo" >}}
+
+{{< callout color="green" icon="fa-envelope" >}} 
+Comments or questions? Contact support@ror.org.
+{{< /callout >}}
+
+
