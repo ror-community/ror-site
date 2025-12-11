@@ -24,6 +24,7 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 
 - Geoffrey Bilder, Crossref
 - Helena Cousijn, DataCite
+- Trisha Cruse, DataCite 
 - Esha Datta, Crossref
 - Martin Fenner, DataCite
 - Richard Hallett, DataCite
