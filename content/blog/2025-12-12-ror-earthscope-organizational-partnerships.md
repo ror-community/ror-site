@@ -76,11 +76,6 @@ At the time that these data were collected, the Princeton ROR ID was associated 
 
 {{< figure src="/img/blog/earthscope/partnerships-chart.png" class="blog-figure" alt="Bubble chart." caption="Figure 2. Resources created by partners in the EarthScope repository and on the partner DataCite Commons pages. The percentage of items on each DataCite Commons page represented by EarthScope resources is shown for each partner." >}}
 
-<p style="font-size:.8em;font-style:italic;">
-Figure 2. Resources created by partners in the EarthScope repository and on the partner DataCite Commons pages. The percentage of items on each DataCite Commons page represented by EarthScope resources is shown for each partner.
-</p>
-
-
 Figure 2 shows partner resources in the EarthScope repository and in the partner Commons pages. EarthScope resources represent over 68% of DataCite resources for many partners. In the scenario described here, EarthScope has provided data management services to partners for many years. Adding ROR IDs to the EarthScope metadata for these datasets adds an increasingly important connection service to these partnerships.
 
 We can explore organizational creators in other repositories using this DataCite API query: 
