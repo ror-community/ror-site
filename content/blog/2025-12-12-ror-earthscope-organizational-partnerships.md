@@ -58,7 +58,7 @@ All but one of the organizations listed in Table 1 had ROR IDs when we started t
 
 ### Defensive metadata tip for organizations
 
-Most ROR IDs in DataCite are currently used to identify creator or contributor affiliations, so many searches for ROR IDs query either the creators.affiliation.affiliationIdentifier field or the contributors.affiliation.affiliationIdentifier field. In the organizational creator case, the ROR ID fits in the `creators.nameIdentifiers.nameIdentifier` field because it is the identifier for the creator. However, also including the ROR ID as an affiliation identifier ensures that the resource will be discovered regardless of how the search is done. 
+Most ROR IDs in DataCite are currently used to identify creator or contributor affiliations, so many searches for ROR IDs query either the `creators.affiliation.affiliationIdentifier` field or the `contributors.affiliation.affiliationIdentifier` field. In the organizational creator case, the ROR ID fits in the `creators.nameIdentifiers.nameIdentifier` field because it is the identifier for the creator. However, also including the ROR ID as an affiliation identifier ensures that the resource will be discovered regardless of how the search is done. 
 
 {{< /callout >}}
 
