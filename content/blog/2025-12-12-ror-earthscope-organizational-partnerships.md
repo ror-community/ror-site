@@ -11,7 +11,7 @@ thumb = "/img/blog/earthscope/partnerships-chart.png"
 images = ['/img/blog/earthscope/partnerships-chart.png']
 authors = ["Ted Habermann", "Jim Riley"] 
 description = "Learn how ROR IDs can help track organizational partnerships in this deep dive into work that Metadata Game Changers did with the EarthScope Consortium to add identifiers to DataCite DOI metadata for geophysical datasets."
-doi = ""
+doi = "https://doi.org/10.71938/t5bn-bm23"
 crosspost = ""
 +++ 
 
