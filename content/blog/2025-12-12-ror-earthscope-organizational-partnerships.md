@@ -52,9 +52,9 @@ For example, the [Global CMT Project](https://www.globalcmt.org/) calculates Cen
 
 {{< figure src="/img/blog/earthscope/myanmar-shakemovie.gif" class="blog-figure" alt="Earthquake GIF." caption="Part of a Global ShakeMovie for an earthquake in Myanmar, [https://doi.org/10.17611/dp/23119472](https://doi.org/10.17611/dp/23119472)" >}}
 
+All but one of the organizations listed in Table 1 had ROR IDs when we started this project, and these were added to the DataCite DOI metadata as creator identifiers. The Global CMT Project became a community facility during 2020 and a ROR ID was created for the facility during this project, making it possible to add a creator identifier to over 72,000 datasets created by The CMT Project.
 
 {{< callout icon="no-icon" >}} 
-
 
 ### Defensive metadata tip for organizations
 
@@ -62,7 +62,6 @@ Most ROR IDs in DataCite are currently used to identify creator or contributor a
 
 {{< /callout >}}
 
-All but one of the organizations listed in Table 1 had ROR IDs when we started this project, and these were added to the DataCite DOI metadata as creator identifiers. The Global CMT Project became a community facility during 2020 and a ROR ID was created for the facility during this project, making it possible to add a creator identifier to over 72,000 datasets created by The CMT Project.
 
 [DataCite Commons](https://commons.datacite.org) is a great tool for browsing resources associated with organizations using their ROR IDs. The [DataCite Commons Earthscope page](https://commons.datacite.org/ror.org/04danrt76) shows over 124,000 works for this organization (Figure 1, left).
 
