@@ -11,7 +11,7 @@ thumb = "/img/lion-notched-ear.jpg"
 images = ['/img/lion-notched-ear.jpg']
 authors = ["ROR Core Team"] 
 description = "In 2025, ROR deprecated a schema version, launched a new affiliation matching strategy, worked with national and international groups on community metadata curation, supported new users of and use cases for ROR, devoted our time to key research information initiatives, and did much, much more."
-doi = ""
+doi = "https://doi.org/10.71938/xwf9-xd80"
 crosspost = ""
 +++ 
 
