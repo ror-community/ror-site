@@ -20,21 +20,9 @@ website = ""
 reglink = "https://events.zoom.us/ev/AnPCy-ZXPJcpwMEamLki1CY22tUwtuKL_tgYsQpHACM-PtmsajlS~ArkfzlT6Yi00eLPwGApXPXUqjWCq3IeSYZMXFaLUOnl_eu_SfTliCnZSIA"
 +++
 
-
-<!-- Post-event content template
-
-## Materials 
-
-- [Slides from event]()
-
-{{< iframe "XXX" >}}
-
----
-
 ## Recording 
 
-{{< youtube id="XXX" >}}
+[Watch the recording on the Wiley website](https://ow.ly/HYvs50XIpsk) 
 
 
---!> 
 

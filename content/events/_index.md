@@ -28,24 +28,51 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### Unlocking Hidden Value: Strategic Data Harmonization Across Your Publishing Portfolio
-- Date: Thursday, December 4, 2025
-- Time: [3pm UTC](https://dateful.com/time-zone-converter?t=15&d=2025-12-04&tz2=Coordinated-Universal-Time-UTC)
+
+### ROR Annual Community Meeting 2026: Community Update
+- Date: Tuesday, February 3, 2026
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-02-03)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: Publishing organizations are sitting on untapped potential—valuable data locked within fragmented peer review systems. In this Wiley-organized thought-leadership panel, industry experts explore how harmonizing workflows and data practices across your journal portfolio can unlock hidden value, improve operational efficiency, and position your organization for sustainable growth. Speakers include ROR Technical Community Manager Amanda French.
+- Description: In the Community Update at ROR's seventh annual community meeting, we reflect on what ROR accomplished in 2025, discuss what’s ahead for ROR in 2026, and invite your thoughts on areas of future focus. Most importantly, we also acknowledge ROR community contributors, without whom we’d never have come this far.
 
-
-{{< button color="green" link="https://events.zoom.us/ev/AnPCy-ZXPJcpwMEamLki1CY22tUwtuKL_tgYsQpHACM-PtmsajlS~ArkfzlT6Yi00eLPwGApXPXUqjWCq3IeSYZMXFaLUOnl_eu_SfTliCnZSIA" >}} Register for Unlocking Hidden Value{{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/6Gx1E54nRfGMZwaCs7_GOQ" >}} Register for the 2026 Community Update {{< /button >}}
 
 ---
 
-### ROR Annual Community Meeting 2026
-- Dates: Tuesday, February 3 - Wednesday, February 4 
-- Times: TBD
+### ROR Annual Community Meeting 2026: Community Drop-in 
+- Date: Tuesday, February 3, 2026
+- Time: [5pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=5pm%20UTC&d=2026-02-03)
+- Duration: 1 hour
 - Location: Online
-- Description: Save the date for our ROR Annual Community Meeting sessions! In four one-hour sessions over two days we'll provide an update on what ROR accomplished in 2025 and what we look forward to in 2026, feature presentations from ROR integrators and ROR users; host a discussion panel on a key topic, and be available for an informal drop-in chat. 
+- Recorded: No
+- Description: The ROR team will stay online for an hour after the Community Update session for an unrecorded and informal chat with registered participants. Ask us anything! To join, just register for the Community Update and hang around on the Zoom after the meeting for as long as you like.
+
+---
+
+### ROR Annual Community Meeting 2026: How ROR Can Help Research Funders
+- Date: Wednesday, February 4, 2026
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-02-04)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: Research funders want to be able to track published research outputs that have resulted from their support. Historically, funders have relied on their grantees to report these works, but it’s becoming increasingly common for funders to register DOIs for awards to enable better connections in metadata between funding support and research results. In this session, we’ll hear from three funders on how ROR helps them track their impact.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/Eii5bjBeRtSFY-Hwsv029w" >}} Register for How ROR Can Help Research Funders {{< /button >}}
+
+---
+
+### ROR Annual Community Meeting 2026: The Role of ROR in National Research Strategies
+- Date: Thursday, February 5, 2026
+- Time: [1am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: Research funders want to be able to track published research outputs that have resulted from their support. Historically, funders have relied on their grantees to report these works, but it's becoming increasingly common for funders to register DOIs for awards to enable better connections in metadata between funding support and research results. In this session for ROR's seventh annual meeting, we'll hear from three funders on how ROR helps them track their impact. 
+- **Please check the time and date for this session carefully: [5pm Pacific on February 4th](https://dateful.com/convert/pst-pdt-pacific-time?t=17&d=2026-02-04&tz2=Coordinated-Universal-Time-UTC) / [1am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05).** 
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/C0hAmE_tT3-GV2IvNtV_kQ" >}} Register for The Role of ROR in National Research Strategies {{< /button >}}
 
 ---
 
@@ -54,6 +81,14 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrMiPpgq7FT0hgqq?viewControls=on" >}}
 
 ## Past events 
+
+
+### Unlocking Hidden Value: Strategic Data Harmonization Across Your Publishing Portfolio
+
+December 4, 2025 | [Event details and materials](2025-12-04-wiley-unlocking-hidden-value)
+
+---
+
 
 ### ROR Community Call November 2025
 
