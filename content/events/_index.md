@@ -69,7 +69,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: Research funders want to be able to track published research outputs that have resulted from their support. Historically, funders have relied on their grantees to report these works, but it's becoming increasingly common for funders to register DOIs for awards to enable better connections in metadata between funding support and research results. In this session for ROR's seventh annual meeting, we'll hear from three funders on how ROR helps them track their impact. 
+- Description: National research strategies in countries such as Korea, Japan, and Australia describe plans to ensure research integrity, track national research efforts, examine international collaborations, and analyze funding impact. In this session for ROR’s seventh annual meeting, we’ll learn why ROR is a "priority PID" in several national research strategies in the Asia-Pacific region. 
 - **Please check the time and date for this session carefully: [5pm Pacific on February 4th](https://dateful.com/convert/pst-pdt-pacific-time?t=17&d=2026-02-04&tz2=Coordinated-Universal-Time-UTC) / [1am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05).** 
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/C0hAmE_tT3-GV2IvNtV_kQ" >}} Register for The Role of ROR in National Research Strategies {{< /button >}}
