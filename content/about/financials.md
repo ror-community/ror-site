@@ -15,9 +15,9 @@ In line with ROR’s commitment to openness and transparency, and in order to pr
 
 The Crossref accounting team administers ROR’s financial operations on behalf of ROR. Financial processes are described in full in the [ROR Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf). Accounting periods are for calendar years. Accounting currency is the US Dollar (USD). 
 
-## 2026 projection
+## 2026
 
-| 2026 budget by funding source (in USD) |
+| 2026 budget by funding source (in USD) (projected) |
 |---|---|---|---|---|---|
 |   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
 | Personnel (salary & benefits)  |   | 140,540  | 181,332  | 226,200  | **548,072**  |
