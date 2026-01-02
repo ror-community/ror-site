@@ -15,6 +15,59 @@ In line with ROR’s commitment to openness and transparency, and in order to pr
 
 The Crossref accounting team administers ROR’s financial operations on behalf of ROR. Financial processes are described in full in the [ROR Memorandum of Agreement](/documents/ROR-Memorandum-of-Agreement.pdf). Accounting periods are for calendar years. Accounting currency is the US Dollar (USD). 
 
+## 2026
+
+| 2026 budget by funding source (in USD) (projected) |
+|---|---|---|---|---|---|
+|   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
+| Personnel (salary & benefits)  |   | 140,540  | 181,332  | 226,200  | **548,072**  |
+| Contractor projects  | 70,000  |   |   |   | **70,000**  |
+| Travel & meetings  | 30,000  |   |   |  | **30,000**  |
+| Hosting  |   |   | 22,000  |   | **22,000**  |
+| Admin (e.g., software licensing, website development, grant fees, bank fees)  | 8,800  |   |   |  | **8,800**  |
+| **Total**  | **108,800**  | **140,540**  | **203,332**  | **226,200**  | **678,872**  |
+| % by funding source of total expenses  | 16%  | 21%  | 30%  | 33%  |   |
+
+## 2025
+
+| 2025 budget by funding source (in USD) |
+|---|---|---|---|---|---|
+|   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
+| Personnel (salary & benefits)  |   | 127,764  | 160,056  | 226,200  | **514,020**  |
+| Contractor projects  | 70,000  |   |   |   | **70,000**  |
+| Travel & meetings  | 30,000  |   |   |  | **30,000**  |
+| Hosting  |   |   | 22,000  |   | **22,000**  |
+| Admin (e.g., software licensing, website development, grant fees, bank fees)  | 7,800  |   |   |  | **7,800**  |
+| **Total**  | **107,800**  | **127,764**  | **182,056**  | **226,200**  | **643,820**  |
+| % by funding source of total expenses  | 17%  | 20%  | 28%  | 35%  |   |
+
+---
+
+## 2024
+
+In total, it cost $555,433 to operate ROR in 2024. As in prior years, ROR’s three operating organizations provided in-kind support for ROR’s core operating expenses. Additional expenses were covered with funds received through community investments in ROR, including through (but not limited to) ROR’s participation in [SCOSS](https://ror.org/blog/2022-11-22-scoss-selects-ror/). We also had a small remainder of grant funds from a [previously funded project with the Institute for Museum and Library Services](https://www.imls.gov/grants/awarded/lg-246305-ols-20). 
+
+The majority (92%) of ROR’s expenses go toward dedicated personnel ([see more information on the ROR team](/about/team)) and contract support. The remaining 8% reflect non-personnel expenses, including AWS hosting fees, travel to meetings and conferences, and administrative and licensing expenses. 
+
+| 2024 available funds (in USD) |
+|---|---|
+| Funds on hand (as of 1 January 2024) | 60,332 |
+| Funds raised in 2024 | 297,051 |
+| Grant funds applied in 2024 | 12,719 |
+| Available funds in USD 2024 | 370,102 |
+
+| 2024 expenses as covered by funding source (in USD) |
+|---|---|---|---|---|---|
+|   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
+| Personnel (salary & benefits)  | 3,291  | 65,043  |  179,949 | 229,268  | **477,551**  |
+| Contractor projects  | 33,956  |   |   |   | **33,956**  |
+| Travel & meetings  | 14,803  |   |   |  | **14,803**  |
+| Hosting  |   |   | 19,264  |   | **19,264**  |
+| Admin (e.g., software licensing, website development, grant fees, bank fees)  | 1,679  |   |   | 8,180  | **9,859**  |
+| **Total**  | **53,729**  | **65,043**  | **199,213**  | **237,448**  | **555,433**  |
+| % by funding source of total expenses  | 9.67%  | 11.71%  | 35.87%  | 42.75%  |   |
+
+---
 
 ## 2023
 
@@ -24,7 +77,7 @@ Thanks to the generous support of the community, we were able to cover 58% of RO
 
 People power open infrastructure, and ROR is no different. The majority (87%) of ROR’s expenses go toward dedicated personnel (see more information on the [ROR team](/about//team)). The remaining 13% were non-personnel expenses, including AWS hosting fees, travel to meetings and conferences, and administrative expenses. 
 
-| Available funds (in USD) |
+| 2023 available funds (in USD) |
 |---|---|
 | Funds on hand (as of 1 January 2023) | 68,305 |
 | Funds raised in 2023 | 252,498 |
@@ -45,33 +98,7 @@ People power open infrastructure, and ROR is no different. The majority (87%) of
 
 ---
 
-## 2024
 
-| 2024 forecast by funding source (in USD) |
-|---|---|---|---|---|---|
-|   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
-| Personnel (salary & benefits)  |   | 85,293  |  160,056 | 198,276  | **443,625**  |
-| Contractor projects  | 60,000  |   |   |   | **60,000**  |
-| Travel & meetings  | 22,000  |   |   |  | **22,000**  |
-| Hosting  |   |   | 20,000  |   | **20,000**  |
-| Admin (e.g., software licensing, website development, grant fees, bank fees)  | 6,500  |   |   |   | **6,500**  |
-| **Total**  | **88,500**  | **85,293**  | **180,056**  | **198,276**  | **552,125**  |
-| % by funding source of total expenses  | 16%  | 15%  | 33%  | 36%  |   |
 
----
 
-## 2025
-
-| 2025 budget by funding source (in USD) |
-|---|---|---|---|---|---|
-|   | **ROR Funds**  | **CDL**  | **DataCite**  | **Crossref**  | **Total**  |
-| Personnel (salary & benefits)  |   | 127,764  | 160,056  | 226,200  | **514,020**  |
-| Contractor projects  | 70,000  |   |   |   | **70,000**  |
-| Travel & meetings  | 30,000  |   |   |  | **30,000**  |
-| Hosting  |   |   | 22,000  |   | **22,000**  |
-| Admin (e.g., software licensing, website development, grant fees, bank fees)  | 7,800  |   |   |  | **7,800**  |
-| **Total**  | **107,800**  | **127,764**  | **182,056**  | **226,200**  | **643,820**  |
-| % by funding source of total expenses  | 17%  | 20%  | 28%  | 35%  |   |
-
----
 

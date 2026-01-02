@@ -373,6 +373,6 @@ Thank you for the opportunity.
 
 {{< callout color="green" icon="no-icon" >}}
 
-Questions? Want to be featured in a ROR case study? Contact <community@ror.org>.
+Questions? Want to be featured in a ROR case study? Contact <support@ror.org>.
 
 {{< /callout >}}

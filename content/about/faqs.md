@@ -30,7 +30,7 @@ The [ROR roadmap](https://github.com/ror-community/ror-roadmap/issues) is availa
 
 ### **How much does it cost to use ROR?**
 
-ROR is freely and openly available to anyone. There is no cost to access and use ROR data and services.
+ROR IDs and metadata are public domain information and are freely and openly available to anyone. There is no cost to access or use ROR data or services. See ROR [Terms of Use](/about/terms/) for more information about ROR licenses and acknowledgments.
 
 ***
 
@@ -80,7 +80,7 @@ Currently, releases are published approximately every month. You can track your 
 
 If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. 
 
-If you want to submit a large number of requests, you can also download a bulk request spreadsheet template in XLSX format, complete it, and email it to registry@ror.org. See [Bulk Requests](/registry/#bulk-requests) for templates and instructions. 
+If you want to submit a large number of requests, you can also download a bulk request spreadsheet template in XLSX format, complete it, and email it to support@ror.org. See [Bulk Requests](/registry/#bulk-requests) for templates and instructions. 
 
 ***
 
@@ -90,7 +90,7 @@ While approved requests for single ROR records generally appear in the registry 
 
 Bulk requests are processed according to what will benefit the largest number of ROR users. ROR currently receives approximately 1000 individual submissions per month in addition to bulk requests of various size. We likewise undertake our own, large-scale strategic projects to improve the overall coverage, completeness, and utility of our service. When receiving a bulk submission, we assess it for breadth of coverage, for completeness and quality of the submitted metadata, and for how its processing time would impact all other work. **The best way to ensure faster processing of your request is to submit clean, complete metadata.** 
 
-Feel free to inquire about bulk submissions by writing [registry@ror.org](mailto:registry@ror.org). This helps us to gauge demand for curation activities and resource accordingly. 
+Feel free to inquire about bulk submissions by writing [support@ror.org](mailto:support@ror.org). This helps us to gauge demand for curation activities and resource accordingly. 
 
 Our curation processes and projects are entirely open, so anyone may see our [queue of open requests](https://github.com/ror-community/ror-updates/issues), including open bulk requests.  
 

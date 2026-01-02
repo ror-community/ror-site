@@ -1,2 +1,2 @@
-announcement_text: "As of July 30, 2025, ROR API requests with no version in the path return results in version 2 of the ROR schema."
-announcement_url: "https://ror.readme.io/changelog/2025-07-30-default-response-to-api-requests-is-now-version-2"
+announcement_text: "Version 1 of the ROR API and schema has been deprecated."
+announcement_url: "https://ror.readme.io/changelog/2025-12-04-version-1-of-the-ror-api-and-schema-is-sunsetting#/"

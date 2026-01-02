@@ -48,7 +48,7 @@ Behind the scenes, your request is automatically converted into a GitHub issue. 
 
 For bulk requests, a single project issue is created, and when it is processed, each row in the spreadsheet is converted into individual sub-issues linked to the project. Because bulk requests range in size from tens to thousands of requests, they can take a longer time to process compared to individual requests. 
 
-You will receive an email confirmation with a link to your new issue on GitHub where you can follow along for next steps. If you have any additional context later, such as additional links to research or a correction to the form, please comment on your GitHub issue. Again, this requires a GitHub account, but they are free and easy to make. As always, you can also email [registry@ror.org](mailto:registry@ror.org) if you have questions or additional information at any point in the process.
+You will receive an email confirmation with a link to your new issue on GitHub where you can follow along for next steps. If you have any additional context later, such as additional links to research or a correction to the form, please comment on your GitHub issue. Again, this requires a GitHub account, but they are free and easy to make. As always, you can also email [support@ror.org](mailto:support@ror.org) if you have questions or additional information at any point in the process.
 
 ## Step 3: Automatic tools do initial triage of the request
 
@@ -99,7 +99,7 @@ The release is then announced across our community channels, including on social
 
 ## The best requests
 
-Don’t forget that the best way to ensure faster processing of your request is to submit accurate, clean, and complete metadata! Please follow along on the journey of your own requests directly on GitHub to see updates, comments, and the decision-making process described here. We are always available to help with questions about requests at registry@ror.org. In our next post in this series, we'll go into more detail about how to submit an accurate, clean, and complete ROR request!
+Don’t forget that the best way to ensure faster processing of your request is to submit accurate, clean, and complete metadata! Please follow along on the journey of your own requests directly on GitHub to see updates, comments, and the decision-making process described here. We are always available to help with questions about requests at support@ror.org. In our next post in this series, we'll go into more detail about how to submit an accurate, clean, and complete ROR request!
 
 
 ## Your requests help make ROR great
@@ -107,5 +107,5 @@ Don’t forget that the best way to ensure faster processing of your request is 
 Now, the next time you submit a new request or think about suggesting a change, you’ll know exactly what happens behind the scenes. By keeping curation open and collaborative while applying careful checks and rigorous processes, ROR ensures that the registry remains complete, accurate, and trusted by the entire research community. 
 
 {{< callout icon="fa-envelope" >}} 
-Questions or comments about the ROR curation process? Write us at registry@ror.org.
+Questions or comments about the ROR curation process? Write us at support@ror.org.
 {{< /callout >}} 

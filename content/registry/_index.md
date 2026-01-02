@@ -44,7 +44,7 @@ ROR developed its curation model following discussions and consultations with co
 
 If you have more than one request, please submit a separate [request form](https://curation-request.ror.org) for each organization/record or [create the corresponding issues in our ror-updates GitHub repository](https://github.com/ror-community/ror-updates/issues/new/choose). The latter method requires a GitHub account, but it is generally faster to create a GitHub issue than to complete the form. 
 
-If you want to request changes to a large number of **existing** ROR records, please download the Update Records bulk processing spreadsheet, add all necessary information in a single row for each record, and email the completed spreadsheet to registry@ror.org.
+If you want to request changes to a large number of **existing** ROR records, please download the Update Records bulk processing spreadsheet, add all necessary information in a single row for each record, and email the completed spreadsheet to support@ror.org.
 
 {{< centered >}}
 
@@ -52,7 +52,7 @@ If you want to request changes to a large number of **existing** ROR records, pl
 
 {{< /centered >}}
 
-If you want to request the addition of a large number of **new** ROR records, please download and complete the New Records bulk processing spreadsheet, add all necessary information, and email the completed spreadsheet to registry@ror.org.
+If you want to request the addition of a large number of **new** ROR records, please download and complete the New Records bulk processing spreadsheet, add all necessary information, and email the completed spreadsheet to support@ror.org.
 
 {{< centered >}}
 
@@ -131,8 +131,6 @@ In conjunction with the metadata curation lead, ROR's Curation Advisory Board re
 
 - Jackson Huang, [Educopia](https://educopia.org)
 - Kateřina Janderová, [Czech Academy of Sciences](https://www.avcr.cz/en/)
-- Matthias Liffers, [Australian Research Data Commons (ARDC)](https://ardc.edu.au/)
-- Nick Lundvick, [Argonne National Laboratory](https://www.anl.gov/)
 - Carole Melzac, [Agence bibliographique de l’enseignement supérieur (ABES)](https://abes.fr/) 
 - Carly Robinson, [Scholarly Publishing and Academic Resources Coalition (SPARC)](https://sparcopen.org)
 - Arthur Smith, [American Physical Society (APS)](https://aps.org)
@@ -143,6 +141,6 @@ Read more about the board's activities on [GitHub](https://github.com/ror-commun
 
 {{< callout icon="fa-envelope" >}}
 
-Contact <registry@ror.org> with questions or comments about ROR Registry data or if you are interested in volunteering for the Curation Advisory Board. 
+Contact <support@ror.org> with questions or comments about ROR Registry data or if you are interested in volunteering for the Curation Advisory Board. 
 
 {{< /callout >}}

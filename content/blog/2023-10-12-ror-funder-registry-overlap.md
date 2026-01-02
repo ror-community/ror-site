@@ -110,7 +110,7 @@ We hope you find the ROR / Funder Registry Overlap tool useful in assessing fund
 
 In the coming months, Crossref will be publishing at least one blog post detailing the technical work they are doing to build comprehensive support for ROR into Crossref’s services, and Crossref and ROR will continue to consult with key users of the Open Funder Registry to learn what they want and need. 
 
-Meanwhile, if you have questions or comments about ROR and the Open Funder Registry or if you'd like to contribute to our ongoing work to improve information about funders in ROR, **get in touch**! You can [book a meeting](https://calendly.com/ror-chat) with ROR Technical Community Manager Amanda French or write to her at [community@ror.org](mailto:community@ror.org). We look forward to hearing from you as all we prepare for these exciting changes together. 
+Meanwhile, if you have questions or comments about ROR and the Open Funder Registry or if you'd like to contribute to our ongoing work to improve information about funders in ROR, **get in touch**! You can [book a meeting](https://calendly.com/ror-chat) with ROR Technical Community Manager Amanda French or write to her at [support@ror.org](mailto:support@ror.org). We look forward to hearing from you as all we prepare for these exciting changes together. 
 
 ---
 
@@ -125,7 +125,7 @@ Meanwhile, if you have questions or comments about ROR and the Open Funder Regis
 
 {{< callout color="grey" icon="fa-envelope" >}}
 
-Contact community@ror.org with any and all questions.  
+Contact support@ror.org with any and all questions.  
 
 {{< /callout >}}
 

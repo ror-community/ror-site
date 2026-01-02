@@ -53,7 +53,7 @@ ROR’s day-to-day financial activities are administered by the Crossref account
 
 There are no fees to access and use ROR. ROR data is freely and openly available without any restrictions under the Creative Commons CC0 1.0 Universal Public Domain dedication. ROR code is openly available on GitHub under a MIT License.
 
-ROR's three governing organizations share collective responsibility for operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement (pdf)](/documents/ROR-Memorandum-of-Agreement.pdf).
+ROR's three governing organizations [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org) share collective responsibility for operating ROR and committing in-kind support to cover ROR's core personnel and operating expenses, per the terms of their [Memorandum of Agreement (pdf)](/documents/ROR-Memorandum-of-Agreement.pdf).
 
 Additional investments from [community supporters](/community#supporters) help offset operating costs and support time-limited projects.
 
@@ -93,10 +93,7 @@ To obtain official versions of the ROR logo, please first visit our display guid
 
 ## Contact us
 
-- General questions: info@ror.org 
-- Technical questions: support@ror.org 
-- Metadata and curation questions: registry@ror.org 
-- Community and outreach questions: community@ror.org 
+Email support@ror.org with any and all questions. 
 
 You can also [book a Zoom meeting](https://calendly.com/ror-chat) with Technical Community Manager Amanda French. 
 
