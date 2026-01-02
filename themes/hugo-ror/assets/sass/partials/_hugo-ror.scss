@@ -7299,6 +7299,18 @@ table.no-zebra tr:nth-child(2n+2) {
   background-color:#fff
 }
 
+table thead a, table thead a:hover {
+	color:#FFF;
+	text-decoration: underline;
+}
+
+table td a { 
+	color:$purple;
+	font-weight: bold;
+}
+
+
+
 /* footnotes */ 
 
 .footnotes {

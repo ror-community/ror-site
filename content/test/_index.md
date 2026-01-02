@@ -88,7 +88,7 @@ To add an announcement banner to the home page, edit the `announcement_text` and
 
 ## Tables 
 
-| C1 | C2  | C3  | C4  | C5  | C6  |
+| C1 | C2  | C3  | C4  | C5  | [ROR.ORG](https://ror.org)  |
 |---|---|---|---|---|---|
 | ROW  | ROW  | ROW  | ROW  | ROW  | ROW  |
 | ROW  | ROW  | ROW  | ROW  | ROW  | ROW  |
@@ -98,8 +98,8 @@ To add an announcement banner to the home page, edit the `announcement_text` and
 | ROW  | ROW  | ROW  | ROW  | ROW  | ROW  |
 | ROW  | ROW  | ROW  | ROW  | ROW  | ROW  |
 | ROW  | ROW  | ROW  | ROW  | ROW  | ROW  |
-| ROW  | ROW  | ROW  | ROW  | ROW  | ROW  |
-| ROW  | ROW  | ROW  | ROW  | ROW  | ROW  |
+| [DATACITE.ORG](https://datacite.org)  | ROW  | ROW  | ROW  | ROW  | ROW  |
+| [CROSSREF.ORG](https://crossref.org)  | ROW  | ROW  | ROW  | ROW  | ROW  |
 
 ## Headers 
 
@@ -108,6 +108,8 @@ Level 1 headers are reserved for page titles.
 Tables of contents are generated automatically from level 2 headers on a page by the toc.html partial layout. The table of contents appears at the top of all regular site pages excluding the blog and taxonomy pages such as blog categories and archives. Level 3 headers and below will not appear in tables of contents.
 
 Anchor links next to all headers are generated automatically by a render hook on all regular pages excluding the blog and the taxonomy pages. The anchor link will not display for headers of level 4 or below, but it will still be present and will cause an "empty link" accessibility error if used. Therefore, it is best to use bold or strong text instead of level 4 headers. 
+
+Headers should never include links. 
 
 ### Header 3
 
