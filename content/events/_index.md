@@ -29,7 +29,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ## Upcoming events
 
 
-### ROR Annual Community Meeting 2026: Community Update
+### ROR Annual Meeting 2026: Community Update
 - Date: Tuesday, February 3, 2026
 - Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-02-03)
 - Duration: 1 hour
@@ -41,7 +41,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Annual Community Meeting 2026: Community Drop-in 
+### ROR Annual Meeting 2026: Community Drop-in 
 - Date: Tuesday, February 3, 2026
 - Time: [5pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=5pm%20UTC&d=2026-02-03)
 - Duration: 1 hour
@@ -51,7 +51,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Annual Community Meeting 2026: How ROR Can Help Research Funders
+### ROR Annual Meeting 2026: How ROR Can Help Research Funders
 - Date: Wednesday, February 4, 2026
 - Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-02-04)
 - Duration: 1 hour
@@ -63,7 +63,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
-### ROR Annual Community Meeting 2026: The Role of ROR in National Research Strategies
+### ROR Annual Meeting 2026: The Role of ROR in National Research Strategies
 - Date: Thursday, February 5, 2026
 - Time: [1am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05)
 - Duration: 1 hour
@@ -162,17 +162,17 @@ Thursday, March 20, 2025 | [Event details and materials](2025-03-20-ror-communit
 
 ---
 
-### ROR Annual Community Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
+### ROR Annual Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
 February 5, 2025 | [Event details and materials](2025-02-05-annual-meeting-ror-apac)
 
 ---
 
-### ROR Annual Community Meeting 2025: National PID Policies and Practices
+### ROR Annual Meeting 2025: National PID Policies and Practices
 February 5, 2025 | [Event details and materials](2025-02-05-annual-meeting-national-pids)
 
 ---
 
-### ROR Annual Community Meeting 2025: Community Update
+### ROR Annual Meeting 2025: Community Update
 February 4, 2025 | [Event details and materials](2025-02-04-annual-meeting-community-update)
 
 ---
@@ -222,17 +222,17 @@ March 26, 2024 | [Event details and materials](2024-03-26-ror-community-call)
 
 ---
 
-### Why We All Need Good Funding Metadata
+### ROR Annual Meeting 2024: Why We All Need Good Funding Metadata
 January 31, 2024 | [Event details and materials](2024-01-31-why-we-all-need-good-funding-metadata)
 
 ---
 
-### ROR Community Showcase
+### ROR Annual Meeting 2024: ROR Community Showcase
 January 30, 2024 | [Event details and materials](2024-01-30-community-showcase)
 
 ---
 
-### ROR Annual Community Meeting and Fifth Anniversary Celebration
+### ROR Annual Meeting 2024: Community Update and Fifth Anniversary Celebration
 January 30, 2024 | [Event details and materials](2024-01-30-annual-meeting-and-fifth-anniversary)
 
 ---
@@ -272,17 +272,17 @@ March 16, 2023 | [Event details and materials](2023-03-16-ror-schema-changes-cal
 
 ---
 
-### ROR Annual Community Meeting 2023: Strategies for Matching Affiliation Strings to ROR IDs
+### ROR Annual Meeting 2023: Strategies for Matching Affiliation Strings to ROR IDs
 February 1, 2023 | [Event details and materials](2023-02-01-strategies-for-matching-affiliation-strings-to-ror-ids)
 
 ---
 
-### ROR Annual Community Meeting 2023: Intro to the ROR API  
+### ROR Annual Meeting 2023: Intro to the ROR API  
 February 1, 2023 | [Event details and materials](2023-02-01-intro-ror-api)
 
 ---
 
-### ROR Annual Community Meeting 2023: Community Update
+### ROR Annual Meeting 2023: Community Update
 January 31, 2023 | [Event details and materials](2023-01-31-annual-meeting-community-update)
 
 ---
