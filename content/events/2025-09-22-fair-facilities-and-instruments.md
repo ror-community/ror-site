@@ -20,22 +20,12 @@ website = "https://ncar.github.io/FAIR-Facilities-Instruments/"
 reglink = ""
 +++
 
-
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vTBqHyBOnzF0k_A_Ssbjl9-qfXhfX2D0vQbPwKbp7kQzaW526jD_HVJj-F0Ol4RVK1fmZfOaG3ymByA/pub?start=false&loop=false&delayms=3000)
 
-<iframe src=""></iframe>
 
----
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTBqHyBOnzF0k_A_Ssbjl9-qfXhfX2D0vQbPwKbp7kQzaW526jD_HVJj-F0Ol4RVK1fmZfOaG3ymByA/pubembed?start=false&loop=false&delayms=3000" >}}
 
-## Recording 
 
-{{< youtube id="XXX" >}}
-
---- 
-
---> 
 

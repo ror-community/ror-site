@@ -26,14 +26,14 @@ Recordings of the course are only available to course registrants, but the cours
 
 - [Course notes](https://docs.google.com/document/d/1vzJm84qikdQG6bqaUh3iqHuW6sIg8T6QAd5giwaVZxw/edit?usp=sharing)
 
-### [Slides - ROR](https://docs.google.com/presentation/d/e/2PACX-1vRdFN-KTnoGo6t5T8o9VEXlFsbPSfCX1_E7vTzxFMpZ-pNRYnkR6TmgZCOftAkuiM3dBLKCm4c_TVs1/pub?start=false&loop=false&delayms=3000)
+### [Slides	ROR](https://docs.google.com/presentation/d/e/2PACX-1vRdFN-KTnoGo6t5T8o9VEXlFsbPSfCX1_E7vTzxFMpZ-pNRYnkR6TmgZCOftAkuiM3dBLKCm4c_TVs1/pub?start=false&loop=false&delayms=3000)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdFN-KTnoGo6t5T8o9VEXlFsbPSfCX1_E7vTzxFMpZ-pNRYnkR6TmgZCOftAkuiM3dBLKCm4c_TVs1/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
-### [Slides - Crossref](https://docs.google.com/presentation/d/1RVrG9BoM_xzfjfCEHQkyVKvEBxE8e-xjjEAtBKMr8xI/edit?usp=sharing) (not available as embedded presentation) 
+### [Slides	Crossref](https://docs.google.com/presentation/d/1RVrG9BoM_xzfjfCEHQkyVKvEBxE8e-xjjEAtBKMr8xI/edit?usp=sharing) (not available as embedded presentation) 
 
 
-### [Slides - DataCite](https://docs.google.com/presentation/d/e/2PACX-1vRSn5PXh9jC_r5MzDjVjuRav67QCTuSP8tIAWUscYR6jvGvinYTEDbbgIUM7FwqDzEp5XQgW3KRGhPW/pub?start=false&loop=false&delayms=3000)
+### [Slides	DataCite](https://docs.google.com/presentation/d/e/2PACX-1vRSn5PXh9jC_r5MzDjVjuRav67QCTuSP8tIAWUscYR6jvGvinYTEDbbgIUM7FwqDzEp5XQgW3KRGhPW/pub?start=false&loop=false&delayms=3000)
 
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRSn5PXh9jC_r5MzDjVjuRav67QCTuSP8tIAWUscYR6jvGvinYTEDbbgIUM7FwqDzEp5XQgW3KRGhPW/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
