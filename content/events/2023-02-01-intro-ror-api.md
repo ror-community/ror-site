@@ -1,5 +1,5 @@
 +++
-title = "Intro to the ROR API" 
+title = "ROR Annual Meeting 2023: Intro to the ROR API" 
 date = "2025-05-13T15:27:22-04:00"  
 draft = "false" 
 style = "card-plain" 

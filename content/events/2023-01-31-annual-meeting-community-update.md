@@ -1,5 +1,5 @@
 +++
-title = "ROR Annual Meeting 2023	Community Update" 
+title = "ROR Annual Meeting 2023: Community Update" 
 date = "2025-05-13T15:27:22-04:00"  
 draft = "false" 
 style = "card-plain" 

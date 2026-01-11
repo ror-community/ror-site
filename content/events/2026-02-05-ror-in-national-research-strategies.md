@@ -1,5 +1,5 @@
 +++
-title = "The Role of ROR in National Research Strategies" 
+title = "ROR Annual Meeting 2026: The Role of ROR in National Research Strategies" 
 date = "2025-12-16T16:50:57-05:00"  
 draft = "false" 
 style = "card-plain" 

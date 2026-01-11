@@ -1,5 +1,5 @@
 +++
-title = "Strategies for Matching Affiliation Strings to ROR IDs" 
+title = "ROR Annual Meeting 2023: Strategies for Matching Affiliation Strings to ROR IDs" 
 date = "2025-05-13T15:55:56-04:00"  
 draft = "false" 
 style = "card-plain" 
