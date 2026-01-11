@@ -1,5 +1,5 @@
 +++
-title = "Successes and Opportunities for ROR in the Asia-Pacific Region" 
+title = "ROR Annual Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region" 
 date = "2025-02-10T14:56:55-05:00"  
 draft = "false" 
 style = "card-plain" 
