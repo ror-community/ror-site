@@ -1,5 +1,5 @@
 +++
-title = "How ROR Can Help Research Funders" 
+title = "ROR Annual Meeting 2026: How ROR Can Help Research Funders" 
 date = "2025-12-16T16:46:25-05:00"  
 draft = "false" 
 style = "card-plain" 

@@ -1,5 +1,5 @@
 +++
-title = "ROR Community Showcase January 2024" 
+title = "ROR Annual Meeting 2024: Community Showcase" 
 date = "2024-02-01" 
 draft = false 
 style = "card-plain" 
