@@ -6,8 +6,8 @@
     {{ range sort .Site.Data.blurb }}
     <div class="row">
       <div class="col-md-12 ml-auto mr-auto text-center">
-        <h1 class="title">{{ .header }}</h1>
-        <p class="tagline">{{ .text }}</p>
+        <h1 class="blurb-header">{{ .header }}</h1>
+        <p class="blurb-tagline">{{ .text }}</p>
       </div>
     </div>
     {{ end }}
