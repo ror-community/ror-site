@@ -6,7 +6,7 @@
     {{ range sort .Site.Data.announcement }}
     <div class="row">
       <div class="col-md-12 ml-auto mr-auto text-center">
-        <h3 class="title"><a href="{{ .announcement_url }}" style="color:#FFF;">{{ .announcement_text }}</a></h3>
+        <p><a href="{{ .announcement_url }}">{{ .announcement_text }}</a></p>
       </div>
     </div>
     {{ end }}
