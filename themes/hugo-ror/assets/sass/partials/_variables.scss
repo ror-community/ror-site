@@ -2,7 +2,7 @@ $phone-width: 420px;
 $tablet-width: 768px;
 $desktop-width: 1024px;
 
-$section-background: #eeeeee;
+$section-background: #efefef;
 
 /** Fonts **/
 $alt-font-stack: "AH-Regular", Helvetica, Arial, sans-serif;
@@ -16,20 +16,20 @@ $font-bold: "AH-Bold", $alt-font-stack;
 $font-bold-italic: "AH-BoldItalic", $alt-font-stack;
 
 
-/** Original theme colours **/
+/** Theme colours **/
 $theme-green: #53baa1;
 $theme-dark-grey: #505759;
-$theme-orange: #da3200;
+$theme-orange: #e89005;
 $theme-light-grey: #efefef;
-$theme-coral: #e0004d;
+$theme-raspberry: #e0004d;
+$theme-purple: #520c70;
 $theme-black: #293030;
 
-/* ROR brand colours from https://coolors.co/53baa1-505759-da3200-e89005-d3bdb0 plus a very dark grey for use as black */
+/* ROR brand colours from https://coolors.co/53baa1-40a08a-505759-e89005-efefef-e0004d-520c70 */
 $green: #53baa1;
 $dark-grey: #505759;
+$orange: #e89005;
 $light-grey: #efefef;
-$orange: #da3200;
-$mustard: #e89005;
+$raspberry: #e0004d;
 $purple: #520c70;
-$beige: #d3bdb0;
 $black: #293030;
