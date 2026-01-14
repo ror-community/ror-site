@@ -64,13 +64,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ### ROR Annual Meeting 2026: The Role of ROR in National Research Strategies
-- Date: Thursday, February 5, 2026
-- Time: [1am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05)
+- Date: Wednesday, February 4, 2026 / Thursday, February 5, 2026
+- Time: [5pm PST on February 4th](https://dateful.com/convert/pst-pdt-pacific-time?t=17&d=2026-02-04) / [1am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05) / [10am JST on February 5th](https://dateful.com/convert/japan-standard-time-jst?t=10&d=2026-02-05)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
 - Description: National research strategies in countries such as Korea, Japan, and Australia describe plans to ensure research integrity, track national research efforts, examine international collaborations, and analyze funding impact. In this session for ROR’s seventh annual meeting, we’ll learn why ROR is a "priority PID" in several national research strategies in the Asia-Pacific region. 
-- **Please check the time and date for this session carefully: [5pm Pacific on February 4th](https://dateful.com/convert/pst-pdt-pacific-time?t=17&d=2026-02-04&tz2=Coordinated-Universal-Time-UTC) / [1am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05).** 
+- Speakers:
+
+    - [Kazuhiro Hayashi](https://orcid.org/0000-0003-1996-4259), Principal Senior Fellow, [NISTEP](https://www.nistep.go.jp/en/)
+    - [Clare Nulley-Valdes](https://orcid.org/0009-0005-6722-7669), Assistant Director Evaluation and Impact Policy, [Australian Research Council](https://www.arc.gov.au) 
+    - [Jungwoo Lee](https://orcid.org/0000-0003-2700-0601), Senior Researcher, [KISTI](https://www.kisti.re.kr/eng/) 
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/C0hAmE_tT3-GV2IvNtV_kQ" >}} Register for The Role of ROR in National Research Strategies {{< /button >}}
 
