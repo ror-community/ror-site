@@ -57,7 +57,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: Research funders want to be able to track published research outputs that have resulted from their support. Historically, funders have relied on their grantees to report these works, but it’s becoming increasingly common for funders to register DOIs for awards to enable better connections in metadata between funding support and research results. In this session, we’ll hear from three funders on how ROR helps them track their impact.
+- Description: Research funders want to be able to track published research outputs that have resulted from their support. Historically, funders have relied on their grantees to report these works, but it’s becoming increasingly common for funders to register DOIs for awards to enable better connections in metadata between funding support and research results. In this session, we’ll hear three presentations on how the use of ROR can help funders track their impact.
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/Eii5bjBeRtSFY-Hwsv029w" >}} Register for How ROR Can Help Research Funders {{< /button >}}
 
