@@ -35,7 +35,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: In the Community Update at ROR's seventh annual community meeting, we reflect on what ROR accomplished in 2025, discuss what’s ahead for ROR in 2026, and invite your thoughts on areas of future focus. Most importantly, we also acknowledge ROR community contributors, without whom we’d never have come this far.
+- Description: In the seventh anniversary edition of our Community Update, we’ll discuss where ROR is now and where we’re going next, inviting your ideas and input for the future. We’ll celebrate ROR’s journey and express our gratitude to the ROR community, without whom we’d never have come this far. Join us to hear from the ROR team about what’s happening with ROR strategy, product, adoption, curation, and tech. 
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/6Gx1E54nRfGMZwaCs7_GOQ" >}} Register for the 2026 Community Update {{< /button >}}
 
