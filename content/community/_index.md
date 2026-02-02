@@ -54,7 +54,7 @@ Many scholarly communication systems are already using ROR, and many others are 
 
 {{< button color="green" link="https://bit.ly/ror-integration-form" >}}Tell us about your ROR integration {{< /button >}}
 
-{{< iframe "https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrM876d6Koi1UONe?backgroundColor=cyan&viewControls=on" >}}
+<iframe class="airtable-embed" src="https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrkbUmYP5nKalEb0" frameborder="0" onmousewheel="" width="100%" height="825" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 See the [complete list of known ROR integrations.](https://bit.ly/ror-integrations)
 
@@ -99,8 +99,7 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 {{< button color="green" link="/sustain" >}} Sign up to support ROR {{< /button >}}
 
-{{< iframe "https://airtable.com/embed/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt?backgroundColor=red&viewControls=on" >}}
-
+<iframe class="airtable-embed" src="https://airtable.com/embed/appEQM4psjSyRdTm9/shrmpuFzOSCL6sFLh" frameborder="0" onmousewheel="" width="100%" height="890" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [See the complete list of ROR supporters.](https://bit.ly/ror-sustainers)
 
