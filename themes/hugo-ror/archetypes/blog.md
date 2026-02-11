@@ -1,18 +1,16 @@
 +++ 
-title = "{{title (replace .TranslationBaseName "-" " ")}}" 
-date = "{{.Date}}"
+title = "{{ .File.ContentBaseName | replaceRE `^\d{4}-\d{2}-\d{2}[-_]?` "" | replaceRE `[-_]` " " | title }}" 
+date = "{{ .Date }}"
 draft = false 
 tags = ["", ""] 
 categories = [""] 
 archives = ["{{now.Year}}"]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.jpg" 
+banner = "/img/banners/ROR_Banner-green.png" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
 authors = [""] 
 description = ""
-doi = ""
-crosspost = ""
 +++ 
 
 <!-- Commonly used content 

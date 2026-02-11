@@ -1,5 +1,5 @@
 +++
-title = "{{ title (replace .TranslationBaseName "-" " ") }}" 
+title = "{{ .File.ContentBaseName | replaceRE `^\d{4}-\d{2}-\d{2}[-_]?` "" | replaceRE `[-_]` " " | title }}" 
 date = "{{ .Date }}"  
 draft = "false" 
 style = "card-plain" 
@@ -8,8 +8,8 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
-eventarchives = ["{{now.Year}}"]
-startdate = 2006-01-02
+eventarchives = ["{{ .File.ContentBaseName | replaceRE `^(\d{4}).*` "$1" }}"]
+startdate = {{ .File.ContentBaseName | replaceRE `^(\d{4}-\d{2}-\d{2}).*` "$1" }}
 enddate = []
 starttime = ""
 duration = ""
@@ -35,6 +35,7 @@ reglink = ""
 
 {{< youtube id="XXX" >}}
 
+--- 
 
---!> 
+--> 
 
