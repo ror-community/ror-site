@@ -22,67 +22,89 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 {{< button color="green" link="" >}} Register {{< /button >}}
 
-{{< button color="green" link="" >}} See event description and materials {{< /button >}} 
 
 -->
 
 ## Upcoming events
 
 
-### ROR Annual Meeting 2026: Community Update
-- Date: Tuesday, February 3, 2026
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-02-03)
+### OpenAlex - Accurate Affiliations, Accurate Attributions
+
+- Date: March 19, 2026
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-03-19)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: In the seventh anniversary edition of our Community Update, we’ll discuss where ROR is now and where we’re going next, inviting your ideas and input for the future. We’ll celebrate ROR’s journey and express our gratitude to the ROR community, without whom we’d never have come this far. Join us to hear from the ROR team about what’s happening with ROR strategy, product, adoption, curation, and tech. 
+- Description: Institutions need accurate lists of their publications for critical research intelligence use cases. These lists are built from affiliation data, and automated matching makes mistakes. This webinar demonstrates how curating ROR records and validating OpenAlex’s affiliation-to-ROR matches leads to more complete and trustworthy institutional research records. Speakers include Kyle Demes (COO, OpenAlex) and Amanda French (ROR, Technical Community Manager).
 
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/6Gx1E54nRfGMZwaCs7_GOQ" >}} Register for the 2026 Community Update {{< /button >}}
 
----
+{{< button color="green" link="https://zoom.us/webinar/register/WN_r6GXNd9RS_eENIxGNmHyAw" >}} Register for OpenAlex - Accurate Affiliations, Accurate Attributions {{< /button >}}
 
-### ROR Annual Meeting 2026: Community Drop-in 
-- Date: Tuesday, February 3, 2026
-- Time: [5pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=5pm%20UTC&d=2026-02-03)
-- Duration: 1 hour
-- Location: Online
-- Recorded: No
-- Description: The ROR team will stay online for an hour after the Community Update session for an unrecorded and informal chat with registered participants. Ask us anything! To join, just register for the Community Update and hang around on the Zoom after the meeting for as long as you like.
 
 ---
 
-### ROR Annual Meeting 2026: How ROR Can Help Research Funders
-- Date: Wednesday, February 4, 2026
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-02-04)
+### ROR Community Call March 2026
+
+- Date: March 26, 2026
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-03-26)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: Research funders want to be able to track published research outputs that have resulted from their support. Historically, funders have relied on their grantees to report these works, but it’s becoming increasingly common for funders to register DOIs for awards to enable better connections in metadata between funding support and research results. In this session, we’ll hear three presentations on how the use of ROR can help funders track their impact.
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
 
-- Speakers:
-
-    - [Hans de Jonge](https://orcid.org/0000-0002-1189-9133), Head of Open Science Policies, [NWO](https://www.nwo.nl/en)
-    - [Ana Van Gulick](https://orcid.org/0000-0002-8133-6395), Head of Customer Engagement for Government, Funders & Nonprofits, [Digital Science](https://www.digital-science.com/) and [Ishwar Chandramouliswaran](https://orcid.org/0000-0001-9697-9599), Lead Program Director, [Office of Data Science Strategy, NIH](https://datascience.nih.gov/)
-    - Ami Gala, Sales Director, Americas, [Altum](https://altum.com) 
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/Eii5bjBeRtSFY-Hwsv029w" >}} Register for How ROR Can Help Research Funders {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/HRvXAiiKR_-QhguMiTZ6Dg" >}} Register for the ROR Community Call March 2026  {{< /button >}}
 
 ---
 
-### ROR Annual Meeting 2026: The Role of ROR in National Research Strategies
-- Date: Wednesday, February 4, 2026 / Thursday, February 5, 2026
-- Time: [5pm PST on February 4th](https://dateful.com/convert/pst-pdt-pacific-time?t=17&d=2026-02-04) / [1am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05) / [10am JST on February 5th](https://dateful.com/convert/japan-standard-time-jst?t=10&d=2026-02-05)
+### ROR Community Call May 2026
+
+- Date: May 19, 2026
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-05-19)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: National research strategies in countries such as Korea, Japan, and Australia describe plans to ensure research integrity, track national research efforts, examine international collaborations, and analyze funding impact. In this session for ROR’s seventh annual meeting, we’ll learn why ROR is a "priority PID" in several national research strategies in the Asia-Pacific region. 
-- Speakers:
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
 
-    - [Kazuhiro Hayashi](https://orcid.org/0000-0003-1996-4259), Principal Senior Fellow, [NISTEP](https://www.nistep.go.jp/en/)
-    - [Clare Nulley-Valdes](https://orcid.org/0009-0005-6722-7669), Assistant Director Evaluation and Impact Policy, [Australian Research Council](https://www.arc.gov.au) 
-    - [Jungwoo Lee](https://orcid.org/0000-0003-2700-0601), Senior Researcher, [KISTI](https://www.kisti.re.kr/eng/) 
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ" >}} Register for the ROR Community Call May 2026  {{< /button >}}
 
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/C0hAmE_tT3-GV2IvNtV_kQ" >}} Register for The Role of ROR in National Research Strategies {{< /button >}}
+---
+
+### ROR Community Call July 2026
+
+- Date: July 15, 2026
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-07-15)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/PX_TPzyAQJO3KGrNhuQFuA" >}} Register for the ROR Community Call July 2026 {{< /button >}}
+
+---
+
+### ROR Community Call September 2026
+
+- Date: September 24, 2026
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-09-24)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/u24MW3cvQrChX7obuewuMw" >}} Register for the ROR Community Call September 2026 {{< /button >}}
+
+---
+
+### ROR Community Call November 2026
+
+- Date: November 18, 2026
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-11-18)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/5UoAwbjmSFqi1V5_kIorcw" >}} Register for the ROR Community Call November 2026 {{< /button >}}
 
 ---
 
@@ -92,13 +114,41 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
+### World Data System - Persistent Identifiers: Enabling Trust and Discovery in Research Data 
+
+February 10, 2026 | [Event details and materials](2026-02-10-wds-pids-trust-discovery)
+
+---
+
+### ROR Annual Meeting 2026: The Role of ROR in National Research Strategies
+
+February 4, 2026 / Thursday, February 5, 2026 | [Event details and materials](2026-02-05-ror-in-national-research-strategies)
+
+---
+
+### ROR Annual Meeting 2026: How ROR Can Help Research Funders
+
+February 4, 2026 | [Event details and materials](2026-02-04-how-ror-can-help-research-funders)
+
+---
+
+### ROR Annual Meeting 2026: Community Drop-In 
+
+February 3, 2026 | [Event details and materials](2026-02-03-annual-meeting-community-drop-in)
+
+---
+
+### ROR Annual Meeting 2026: Community Update
+
+February 3, 2026 | [Event details and materials](2026-02-03-annual-meeting-community-update)
+
+___
 
 ### Unlocking Hidden Value: Strategic Data Harmonization Across Your Publishing Portfolio
 
 December 4, 2025 | [Event details and materials](2025-12-04-wiley-unlocking-hidden-value)
 
 ---
-
 
 ### ROR Community Call November 2025
 
@@ -184,116 +234,6 @@ February 5, 2025 | [Event details and materials](2025-02-05-annual-meeting-natio
 
 ### ROR Annual Meeting 2025: Community Update
 February 4, 2025 | [Event details and materials](2025-02-04-annual-meeting-community-update)
-
----
-
-### Advancing Open Science 2024
-December 6, 2024 | [Event details and materials](2024-12-06-advancing-open-science-vilnius)
-
----
-
-### ROR Community Call November 2024 
-November 20, 2024 | [Event details and materials](2024-11-20-ror-community-call)
-
----
-
-### Open Affiliation Metadata: How Recent Innovations Help Libraries and Librarians
-November 7, 2024 | [Event details and materials](2024-11-07-open-affiliation-metadata)
-
----
-
-### New Features for Organization Information in DSpace with ROR
-October 3, 2024 | [Event details and materials](2024-10-03-ror-in-dspace)
-
----
-
-### ROR Community Call September 2024 
-September 26, 2024 | [Event details and materials](2024-09-26-ror-community-call)
-
----
-
-### ROR Community Call July 2024 
-July 16, 2024 | [Event details and materials](2024-07-16-ror-community-call)
-
----
-
-### PIDFest 2024
-June 11-13, 2024 | [Event details and materials](2024-06-11-pidfest)
-
----
-
-### ROR Community Call May 2024 
-May 23, 2024 | [Event details and materials](2024-05-23-ror-community-call)
-
----
-
-### ROR Community Call March 2024
-March 26, 2024 | [Event details and materials](2024-03-26-ror-community-call)
-
----
-
-### ROR Annual Meeting 2024: Why We All Need Good Funding Metadata
-January 31, 2024 | [Event details and materials](2024-01-31-why-we-all-need-good-funding-metadata)
-
----
-
-### ROR Annual Meeting 2024: ROR Community Showcase
-January 30, 2024 | [Event details and materials](2024-01-30-community-showcase)
-
----
-
-### ROR Annual Meeting 2024: Community Update and Fifth Anniversary Celebration
-January 30, 2024 | [Event details and materials](2024-01-30-annual-meeting-and-fifth-anniversary)
-
----
-
-### US Federal Guidance and PIDs 
-December 7, 2023 | [Event details and materials](2023-12-07-us-federal-guidance-and-pids)
-
----
-
-### ROR Community Call November 2023
-November 28, 2023 | [Event details and materials](2023-11-28-ror-community-call)
-
----
-
-### ROR Community Call September 2023
-September 28, 2023 | [Event details and materials](2023-09-28-ror-community-call)
-
----
-
-### ROR Community Call July 2023
-July 25, 2023 | [Event details and materials](2023-07-25-ror-community-call)
-
----
-
-### ROR Community Call May 2023
-May 25, 2023 | [Event details and materials](2023-05-25-ror-community-call)
-
----
-
-### ROR Community Call March 2023
-March 28, 2023 | [Event details and materials](2023-03-28-ror-community-call)
-
----
-
-### ROR Schema Changes Call 
-March 16, 2023 | [Event details and materials](2023-03-16-ror-schema-changes-call)
-
----
-
-### ROR Annual Meeting 2023: Strategies for Matching Affiliation Strings to ROR IDs
-February 1, 2023 | [Event details and materials](2023-02-01-strategies-for-matching-affiliation-strings-to-ror-ids)
-
----
-
-### ROR Annual Meeting 2023: Intro to the ROR API  
-February 1, 2023 | [Event details and materials](2023-02-01-intro-ror-api)
-
----
-
-### ROR Annual Meeting 2023: Community Update
-January 31, 2023 | [Event details and materials](2023-01-31-annual-meeting-community-update)
 
 ---
 
