@@ -31,7 +31,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### OpenAlex - Accurate Affiliations, Accurate Attributions
 
 - Date: March 19, 2026
-- Time: [3pm UTC]()
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-03-19)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
@@ -46,7 +46,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### ROR Community Call March 2026
 
 - Date: March 26, 2026
-- Time: [3pm UTC]()
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-03-26)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
@@ -59,7 +59,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### ROR Community Call May 2026
 
 - Date: May 19, 2026
-- Time: [3pm UTC]()
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-05-19)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
@@ -72,7 +72,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### ROR Community Call July 2026
 
 - Date: July 15, 2026
-- Time: [3pm UTC]()
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-07-15)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
@@ -85,7 +85,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### ROR Community Call September 2026
 
 - Date: September 24, 2026
-- Time: [3pm UTC]()
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-09-24)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
@@ -98,7 +98,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ### ROR Community Call November 2026
 
 - Date: November 18, 2026
-- Time: [4pm UTC]()
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-11-18)
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
