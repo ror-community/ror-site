@@ -1,6 +1,6 @@
 +++
-title = "2024 02 14 Niso Plus Open Research" 
-date = "2026-01-13T13:10:24-05:00"  
+title = "NISO Plus Open Research" 
+date = "2026-02-10T20:05:43-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -9,7 +9,7 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["2024"]
-startdate = 2006-01-02
+startdate = 2024-02-14
 enddate = []
 starttime = ""
 duration = ""
