@@ -44,66 +44,66 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ### ROR Community Call March 2026
 
-- Date: 
+- Date: March 26, 2026
 - Time: [3pm UTC]()
 - Duration: 1 hour
 - Location: Online
-- Recorded: 
-- Description: 
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
 
-{{< button color="green" link="" >}} Register {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/HRvXAiiKR_-QhguMiTZ6Dg" >}} Register for the ROR Community Call March 2026  {{< /button >}}
 
 ---
 
 ### ROR Community Call May 2026
 
-- Date: 
+- Date: May 19, 2026
 - Time: [3pm UTC]()
 - Duration: 1 hour
 - Location: Online
-- Recorded: 
-- Description: 
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
 
-{{< button color="green" link="" >}} Register {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ" >}} Register for the ROR Community Call May 2026  {{< /button >}}
 
 ---
 
 ### ROR Community Call July 2026
 
-- Date: 
-- Time: [ UTC]()
+- Date: July 15, 2026
+- Time: [3pm UTC]()
 - Duration: 1 hour
 - Location: Online
-- Recorded: 
-- Description: 
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
 
-{{< button color="green" link="" >}} Register {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/PX_TPzyAQJO3KGrNhuQFuA" >}} Register for the ROR Community Call July 2026 {{< /button >}}
 
 ---
 
 ### ROR Community Call September 2026
 
-- Date: 
-- Time: [ UTC]()
+- Date: September 24, 2026
+- Time: [3pm UTC]()
 - Duration: 1 hour
 - Location: Online
-- Recorded: 
-- Description: 
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
 
-{{< button color="green" link="" >}} Register {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/u24MW3cvQrChX7obuewuMw" >}} Register for the ROR Community Call September 2026 {{< /button >}}
 
 ---
 
 ### ROR Community Call November 2026
 
-- Date: 
-- Time: [ UTC]()
+- Date: November 18, 2026
+- Time: [4pm UTC]()
 - Duration: 1 hour
 - Location: Online
-- Recorded: 
-- Description: 
+- Recorded: Yes
+- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
 
-{{< button color="green" link="" >}} Register {{< /button >}}
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/5UoAwbjmSFqi1V5_kIorcw" >}} Register for the ROR Community Call November 2026 {{< /button >}}
 
 ---
 
@@ -115,31 +115,31 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ### World Data System - Persistent Identifiers: Enabling Trust and Discovery in Research Data 
 
-February 10, 2026 | [Event details and materials]()
+February 10, 2026 | [Event details and materials](2026-02-10-wds-pids-trust-discovery)
 
 ---
 
 ### ROR Annual Meeting 2026: The Role of ROR in National Research Strategies
 
-February 4, 2026 / Thursday, February 5, 2026 | [Event details and materials]()
+February 4, 2026 / Thursday, February 5, 2026 | [Event details and materials](2026-02-05-ror-in-national-research-strategies)
 
 ---
 
 ### ROR Annual Meeting 2026: How ROR Can Help Research Funders
 
-February 4, 2026 | [Event details and materials]()
+February 4, 2026 | [Event details and materials](2026-02-04-how-ror-can-help-research-funders)
 
 ---
 
 ### ROR Annual Meeting 2026: Community Drop-In 
 
-February 3, 2026 | [Event details and materials]()
+February 3, 2026 | [Event details and materials](2026-02-03-annual-meeting-community-drop-in)
 
 ---
 
 ### ROR Annual Meeting 2026: Community Update
 
-February 3, 2026 | [Event details and materials]()
+February 3, 2026 | [Event details and materials](2026-02-03-annual-meeting-community-update)
 
 ___
 

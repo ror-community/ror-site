@@ -17,7 +17,7 @@ location = "Online"
 recorded = "Yes"
 description = ""
 website = ""
-reglink = ""
+reglink = "https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ"
 +++
 
 
