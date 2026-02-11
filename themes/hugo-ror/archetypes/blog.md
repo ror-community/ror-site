@@ -1,6 +1,6 @@
 +++ 
-title = "{{title (replace .TranslationBaseName "-" " ")}}" 
-date = "{{.Date}}"
+title = "{{ .File.ContentBaseName | replaceRE `^\d{4}-\d{2}-\d{2}[-_]?` "" | replaceRE `[-_]` " " | title }}" 
+date = "{{ .Date }}"
 draft = false 
 tags = ["", ""] 
 categories = [""] 
