@@ -1,5 +1,5 @@
 +++
-title = "2026 03 26 Ror Community Call" 
+title = "ROR Community Call March 2026" 
 date = "2026-02-10T17:10:23-05:00"  
 draft = "false" 
 style = "card-plain" 
@@ -7,17 +7,17 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventtypes = [""]
+eventtypes = ["Community Calls"]
 eventarchives = ["2026"]
-startdate = 2006-01-02
+startdate = 2026-03-26
 enddate = []
-starttime = ""
-duration = ""
-location = ""
-recorded = ""
-description = ""
+starttime = "3pm UTC"
+duration = "1 hour"
+location = "Online"
+recorded = "Yes"
+description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
 website = ""
-reglink = ""
+reglink = "https://crossref.zoom.us/meeting/register/HRvXAiiKR_-QhguMiTZ6Dg"
 +++
 
 
