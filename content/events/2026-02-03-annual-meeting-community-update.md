@@ -20,20 +20,18 @@ website = ""
 reglink = "https://crossref.zoom.us/meeting/register/6Gx1E54nRfGMZwaCs7_GOQ"
 +++
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQQCjH1UvvaGwnol0T9AL4zLW8SKTBcVCM0gAf9zOMKeXWXAeKF3lcUMjHJ6FgeRT5N2Z14cipIZ2SE/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQQCjH1UvvaGwnol0T9AL4zLW8SKTBcVCM0gAf9zOMKeXWXAeKF3lcUMjHJ6FgeRT5N2Z14cipIZ2SE/pubembed?start=false&loop=false&delayms=3000" >}}
+
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="A2niUz4kSBc" >}}
 
 
---!> 
 

@@ -1,5 +1,5 @@
 +++
-title = "World Data Systems: Pids Trust Discovery" 
+title = "World Data Systems - Persistent Identifiers: Enabling Trust and Discovery in Research Data" 
 date = "2026-02-10T17:53:47-05:00"  
 draft = "false" 
 style = "card-plain" 
@@ -20,16 +20,18 @@ website = "https://worlddatasystem.org/webinars/"
 reglink = "https://tennessee.zoom.us/webinar/register/WN_1EOW4pb6Tg-wCKYmM9-glw"
 +++
 
-
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event - EMEA timezone](https://docs.google.com/presentation/d/e/2PACX-1vTvQUWO8TM7_ApLPzWowRuCGHqozFr23eR0ztMrrt6cXGAfPFzoLZwOCVn_36H8LnktTIJj5ojTy1kg/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTvQUWO8TM7_ApLPzWowRuCGHqozFr23eR0ztMrrt6cXGAfPFzoLZwOCVn_36H8LnktTIJj5ojTy1kg/pubembed?start=false&loop=false&delayms=3000" >}}
 
----
+- [Slides from event - APAC timezone](https://docs.google.com/presentation/d/e/2PACX-1vQ52QffGym8Df2MVuOV7hZ5T0-oEa1L3NiIh3cLYOeWdkYrzFkb0FS9qCAVwMxTS6myM7D8-RmDDH8C/pub?start=false&loop=false&delayms=3000)
+
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQ52QffGym8Df2MVuOV7hZ5T0-oEa1L3NiIh3cLYOeWdkYrzFkb0FS9qCAVwMxTS6myM7D8-RmDDH8C/pubembed?start=false&loop=false&delayms=3000" >}}
+
+
+<!--
 
 ## Recording 
 

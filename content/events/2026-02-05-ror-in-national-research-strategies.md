@@ -22,20 +22,17 @@ reglink = "https://crossref.zoom.us/meeting/register/C0hAmE_tT3-GV2IvNtV_kQ"
 
 **Please note the time and date for this meeting carefully: [5pm Pacific on February 4th](https://dateful.com/convert/pst-pdt-pacific-time?t=17&d=2026-02-04&tz2=Coordinated-Universal-Time-UTC) / [1am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=1am%20UTC&d=2026-02-05).** 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vTs999L6viVXnH41GayiTK9Iz4gXHg8J0Y0H9t0wtpqOvN2lWhdMBA2gbjOBSrxVUKlAvBwCYIpDlTn/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTs999L6viVXnH41GayiTK9Iz4gXHg8J0Y0H9t0wtpqOvN2lWhdMBA2gbjOBSrxVUKlAvBwCYIpDlTn/pubembed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="htRFtLwUG8I" >}}
 
 
---!> 
 
