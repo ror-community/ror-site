@@ -15,9 +15,9 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = ""
+description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
 website = ""
-reglink = ""
+reglink = "https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ"
 +++
 
 

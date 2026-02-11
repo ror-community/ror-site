@@ -1,6 +1,6 @@
 +++
-title = "{{ .File.ContentBaseName | replaceRE `^\d{4}-\d{2}-\d{2}[-_]?` "" | replaceRE `[-_]` " " | title }}" 
-date = "{{ .Date }}"  
+title = "Munin Conference" 
+date = "2026-02-10T19:52:03-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -8,7 +8,7 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
-eventarchives = ["{{now.Year}}"]
+eventarchives = ["2026"]
 startdate = 2006-01-02
 enddate = []
 starttime = ""
