@@ -20,7 +20,11 @@ website = ""
 reglink = "https://crossref.zoom.us/meeting/register/Eii5bjBeRtSFY-Hwsv029w"
 +++
 
+## Speakers
 
+- [Hans de Jonge](https://orcid.org/0000-0002-1189-9133), Head of Open Science Policies, [NWO](https://www.nwo.nl/en) 
+- [Ana Van Gulick](https://orcid.org/0000-0002-8133-6395), Head of Customer Engagement for Government, Funders & Nonprofits, [Digital Science](https://www.digital-science.com/) and [Ishwar Chandramouliswaran](https://orcid.org/0000-0001-9697-9599), Lead Program Director, [Office of Data Science Strategy, NIH](https://datascience.nih.gov/)
+- Ami Gala, Sales Director, Americas, [Altum](https://altum.com) 
 
 ## Materials 
 
