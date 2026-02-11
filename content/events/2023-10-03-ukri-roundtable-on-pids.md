@@ -1,6 +1,6 @@
 +++
-title = "2023 09 20 Altum Fall Funders Forum" 
-date = "2026-01-14T10:06:26-05:00"  
+title = "Ukri Roundtable on Pids" 
+date = "2026-02-11T07:58:50-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -9,7 +9,7 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["2023"]
-startdate = 2006-01-02
+startdate = 2023-10-03
 enddate = []
 starttime = ""
 duration = ""

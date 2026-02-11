@@ -1,6 +1,6 @@
 +++
-title = "Scielo" 
-date = "2026-02-11T08:01:21-05:00"  
+title = "Nasa Year of Open Science" 
+date = "2026-02-11T08:18:18-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -8,8 +8,8 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
-eventarchives = ["2023"]
-startdate = 2023-07-28
+eventarchives = ["2024"]
+startdate = 2024-03-21
 enddate = []
 starttime = ""
 duration = ""

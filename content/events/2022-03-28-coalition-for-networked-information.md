@@ -1,6 +1,6 @@
 +++
-title = "Scielo" 
-date = "2026-02-11T08:01:21-05:00"  
+title = "Coalition for Networked Information" 
+date = "2026-02-11T08:32:35-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -8,8 +8,8 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
-eventarchives = ["2023"]
-startdate = 2023-07-28
+eventarchives = ["2022"]
+startdate = 2022-03-28
 enddate = []
 starttime = ""
 duration = ""

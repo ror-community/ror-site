@@ -1,6 +1,6 @@
 +++
-title = "2024 07 01 Fair Data African Funding Output" 
-date = "2026-01-13T12:52:15-05:00"  
+title = "Fair Data African Funding Output" 
+date = "2026-02-10T21:21:13-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -9,7 +9,7 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["2024"]
-startdate = 2006-01-02
+startdate = 2024-07-01
 enddate = []
 starttime = ""
 duration = ""

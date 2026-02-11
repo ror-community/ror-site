@@ -1,6 +1,6 @@
 +++
-title = "2024 05 13 Pkp Library Publishing Forum" 
-date = "2026-01-13T13:02:31-05:00"  
+title = "Pkp Library Publishing Forum" 
+date = "2026-02-10T21:23:08-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -9,7 +9,7 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["2024"]
-startdate = 2006-01-02
+startdate = 2024-05-13
 enddate = []
 starttime = ""
 duration = ""

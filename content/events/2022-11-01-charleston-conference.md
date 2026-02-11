@@ -1,6 +1,6 @@
 +++
-title = "2023 08 23 Wds" 
-date = "2026-01-14T10:05:39-05:00"  
+title = "Charleston Conference" 
+date = "2026-02-11T08:35:29-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -8,8 +8,8 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
-eventarchives = ["2023"]
-startdate = 2006-01-02
+eventarchives = ["2022"]
+startdate = 2022-11-01
 enddate = []
 starttime = ""
 duration = ""

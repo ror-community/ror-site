@@ -1,6 +1,6 @@
 +++
-title = "2023 10 12 Datacite Role of Funders" 
-date = "2026-01-14T10:08:00-05:00"  
+title = "Datacite Role of Funders" 
+date = "2026-02-11T07:58:06-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -9,7 +9,7 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["2023"]
-startdate = 2006-01-02
+startdate = 2023-10-12
 enddate = []
 starttime = ""
 duration = ""

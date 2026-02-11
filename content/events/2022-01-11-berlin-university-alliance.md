@@ -1,6 +1,6 @@
 +++
-title = "2024 04 19 Csv Conf" 
-date = "2026-01-14T10:02:42-05:00"  
+title = "Berlin University Alliance" 
+date = "2026-02-11T08:31:25-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -8,8 +8,8 @@ thumb = "/img/events/ror-logo-800.png"
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
-eventarchives = ["2023"]
-startdate = 2006-01-02
+eventarchives = ["2022"]
+startdate = 2022-01-11
 enddate = []
 starttime = ""
 duration = ""

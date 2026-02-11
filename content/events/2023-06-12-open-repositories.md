@@ -1,6 +1,6 @@
 +++
-title = "2023 06 12 Open Repositories" 
-date = "2026-01-14T10:03:34-05:00"  
+title = "Open Repositories" 
+date = "2026-02-11T08:02:30-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
@@ -9,7 +9,7 @@ images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
 eventtypes = [""]
 eventarchives = ["2023"]
-startdate = 2006-01-02
+startdate = 2023-06-12
 enddate = []
 starttime = ""
 duration = ""
