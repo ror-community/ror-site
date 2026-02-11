@@ -29,6 +29,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 
 ### OpenAlex - Accurate Affiliations, Accurate Attributions
+
 - Date: March 19, 2026
 - Time: [3pm UTC]()
 - Duration: 1 hour
