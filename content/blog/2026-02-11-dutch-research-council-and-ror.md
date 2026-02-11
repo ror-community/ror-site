@@ -11,6 +11,8 @@ thumb = "/img/blog/nwo/nwo-logo.jpg"
 images = ['/img/blog/nwo/nwo-logo.jpg']
 authors = ["Hans de Jonge"] 
 description = "The Dutch Research Council (NWO) announced recently that it has integrated ROR in their open API. Hans de Jonge, director of Open Science, tells us why and how NWO uses ROR in this latest installment of our case study series."
+doi = "https://doi.org/10.71938/s296-5k62"
+crosspost = ""
 +++ 
 
 <!-- Commonly used content 
