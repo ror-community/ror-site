@@ -143,6 +143,12 @@ See also [our scope and criteria for inclusion](/registry/#scope-and-criteria-fo
 
 ***
 
+### Does an organization need to be a legal entity in order to have a ROR ID?
+
+No, an organization does not need to be a legal entity in order to have a ROR ID. 
+
+***
+
 ### **Does ROR support relationships and hierarchies?**
 
 Yes, ROR metadata includes both parent-child organizational hierarchies and lateral relationships between organizations. A university, for example, may have "child" organizations such as research institutes and laboratories as well as "related" organizations such as hospitals and research facilities, and each of these connected organizations may have their own ROR IDs and records. Read our [technical documentation about relationships in ROR](https://ror.readme.io/docs/relationships) or read our blog post on ["Parents, Children, and Other Relationships in ROR"](https://ror.org/blog/2023-02-27-parents-children-and-other-relationships-in-ror/) to learn more. 
