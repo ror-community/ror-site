@@ -1,6 +1,6 @@
 +++ 
 title = "Highlights from the 2026 ROR Annual Community Meeting" 
-date = "2026-03-02T12:38:07-05:00"
+date = "2026-03-03"
 draft = false 
 tags = ["Annual Meeting", "Community"] 
 categories = ["Event Recaps"] 
@@ -11,7 +11,7 @@ thumb = "/img/sasreu-lions.jpg"
 images = ['/img/sasreu-lions.jpg']
 authors = ["Amanda French"] 
 description = "In the ROR Annual Community Meeting in February, we celebrated seven years of ROR and the ROR community that makes it all possible in three terrific sessions. If you missed any of the sessions, here are the highlights."
-doi = ""
+doi = "https://doi.org/10.71938/A764-9G57"
 crosspost = ""
 +++ 
 
@@ -81,7 +81,7 @@ Highlights from the funder session:
 [Watch the recording of How ROR Can Help Research Funders](https://youtu.be/Iifg7qEDCAQ?si=6fxF6-Qb6-lOHZ3A)
 {{< /callout >}}
 
-## Japan, Australia, Korea, and ROR 
+## ROR and National Research Strategies in the Asia-Pacific Region
 
 As we mentioned in the Community Update, ROR worked hard in 2025 to make ROR a truly global registry: of the 8,000+ organization records we added to ROR last year, nearly 20% represent organizations located in East Asia. The annual meeting session [The Role of ROR in National Research Strategies](https://ror.org/events/2026-02-05-ror-in-national-research-strategies/) therefore featured speakers from Japan and Korea as well as from Australia and was held at an APAC-friendly time. 
 
@@ -103,7 +103,7 @@ Highlights from the session on national research strategies:
 
 ## Looking ahead 
 
-Change is one of the few constants in life, but one thing that will never change is ROR's commitment to improving our content and services. We've got plenty to do in the months and years ahead, as you can see from our [roadmap](https://github.com/ror-community/ror-roadmap), and we're always happy to hear from you about what else you'd like to see us do and how we can better support your needs for open, high-quality, interoperable organization information. Join us in 2026 at our bi-monthly Community Calls and other [events](https://ror.org/events) and write us at [support@ror.org](mailto:support@ror.org) with questions and suggestions. 
+Change is one of the few constants in life, but what won't change is that ROR will always be community-led and will always be committed to improving our content and services based on your feedback. We've got plenty to do in the months and years ahead, as you can see from our [roadmap](https://github.com/ror-community/ror-roadmap), but we're still always happy to hear from you about what else you'd like to see us do and how we can better support your needs for open, high-quality, interoperable organization information. Join us in 2026 at our bi-monthly Community Calls and other [events](https://ror.org/events) and write us at [support@ror.org](mailto:support@ror.org) with questions and suggestions. 
 
 
 
