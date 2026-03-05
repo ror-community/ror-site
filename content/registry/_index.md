@@ -78,8 +78,6 @@ ROR registry records include a unique ID for each organization along with additi
 
 All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication.
 
-As of April 2024, ROR maintains two versions of its metadata schema. [Version 1 of the ROR metadata schema](https://ror.readme.io/v1/docs/ror-data-structure) will be supported through at least April 2025; [version 2 of the ROR metadata schema](https://ror.readme.io/v2/docs/ror-data-structure) is the current recommended version.
-
 More information about the structure of the ROR identifier, the ROR metadata schema, and ROR API is available in [ROR's documentation](https://ror.readme.io). 
 
 ROR has some similarities with other organization identifiers, but it differs from them in a few fundamental ways:
@@ -102,8 +100,7 @@ The ROR registry is freely and openly available. There are **no fees or access r
 - Read the [ROR web search documentation](https://ror.readme.io/docs/web-search)
 
 **REST API**
-- Read the [ROR REST API v1 documentation](https://ror.readme.io/v1/docs/rest-api)
-- Read the [ROR REST API v2 documentation](https://ror.readme.io/v2/docs/rest-api)
+- Read the [ROR REST API documentation](https://ror.readme.io/docs/rest-api)
 - Join the [ROR Tech Forum](https://groups.google.com/a/ror.org/g/ror-tech) to receive important announcements about the ROR API
 
 **Dataset**
