@@ -22,7 +22,7 @@ Integrating ROR IDs into the Europe PMC Grant Finder means that organizational n
 
 ### {{< figure src="/img/blog/europepmc/europe-pmc-grant-finder-ror.png" alt="ROR-powered affiliation chooser in Europe PMC Grant Finder" >}} 
 
-Europe PMC has supported ROR IDs for author affiliations since 2019, and in 2021 ROR IDs were added to a subset of publications by EMBL-affiliated authors as part of [Project FREYA](https://www.project-freya.eu/Plone/en). Additional work for Project FREYA included the development of the [ROR Predictor prototype](https://gitlab.ebi.ac.uk/literature-services/public-projects/ROR-proto-EMBL), which enables matching author affiliations in research outputs with PMIDs to ROR IDs. Europe PMC also uses ROR IDs to enrich the DOI metadata of the [research grants it registers with Crossref](https://www.crossref.org/community/grants/) on behalf of the Wellcome Trust. 
+Europe PMC has supported ROR IDs for author affiliations since 2019, and in 2021 ROR IDs were added to a subset of publications by EMBL-affiliated authors as part of [Project FREYA](https://www.project-freya.eu). Additional work for Project FREYA included the development of the [ROR Predictor prototype](https://gitlab.ebi.ac.uk/literature-services/public-projects/ROR-proto-EMBL), which enables matching author affiliations in research outputs with PMIDs to ROR IDs. Europe PMC also uses ROR IDs to enrich the DOI metadata of the [research grants it registers with Crossref](https://www.crossref.org/community/grants/) on behalf of the Wellcome Trust. 
 
 “Linking research outputs via persistent identifiers makes related information more findable and helps track provenance. Incorporating ROR IDs for grant awards supports DORA-compatible research reporting for funders and institutions who need to understand the impact of research,” said Melissa Harrison, Team Leader of Literature Services at EMBL-EBI.
 
@@ -33,7 +33,7 @@ See also the Crossref news release, "[Europe PMC integrates ROR into its Grant F
 
 {{< callout color="green" icon="no-icon" >}} 
 
-- [Contact helpdesk@europepmc.org](helpdesk@europepmc.org) for further information about Europe PMC's use of ROR.
+- [Contact helpdesk@europepmc.org](mailto:helpdesk@europepmc.org) for further information about Europe PMC's use of ROR.
 - [Contact Amanda French](mailto:support@ror.org), ROR Technical Community Manager, for more information about ROR.
 - Register for an upcoming [ROR Community Call or other event](/events) to hear about integrations like these and more.
 
