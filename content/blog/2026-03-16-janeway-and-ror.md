@@ -1,6 +1,6 @@
 +++ 
-title = "Janeway and ROR: Putting the Author Experience First" 
-date = "2026-03-04T09:03:37-05:00"
+title = "Janeway and ROR: Making it Easy for Authors to Add Interoperable Affiliations" 
+date = "2026-03-12"
 draft = false 
 tags = ["Janeway", "Publishing"] 
 categories = ["Case Studies"] 
