@@ -11,7 +11,7 @@ thumb = "/img/blog/janeway/olh-janeway-logo.png"
 images = ['/img/blog/janeway/olh-janeway-logo.png']
 authors = ["Joseph Muller"] 
 description = "Joe Muller of the Open Library of Humanities tells us in this case study how and why the Janeway platform took the time to integrate ROR in a way that reduces the burden of data entry for authors, ensuring unambiguous author affiliations by retrieving ROR IDs from ORCID profiles as well as allowing authors to find their institution with a ROR-powered search."
-doi = ""
+doi = "https://doi.org/10.71938/e3fb-v153"
 crosspost = "https://www.openlibhums.org/news/926/"
 +++ 
 
