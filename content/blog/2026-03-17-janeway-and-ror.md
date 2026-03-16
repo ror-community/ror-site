@@ -54,7 +54,7 @@ Joe Muller, Senior Publishing Technologies Developer at the [Open Library of Hum
 
 ---
 
-As an open-access, scholar-led publisher, the Open Library of Humanities (OLH) should do everything we can to make sure metadata from our platform [Janeway](https://www.openlibhums.org/site/janeway/) works seamlessly across the wide spectrum of places where published works might be discovered, read, and archived. The Research Organization Registry (ROR) provides the key to identifying the author affiliations attached to those works unambiguously, through the magic of uniform resource identifiers (URIs).
+As an open-access, scholar-led publisher, the Open Library of Humanities (OLH) should do everything we can to make sure metadata from our platform Janeway works seamlessly across the wide spectrum of places where published works might be discovered, read, and archived. The Research Organization Registry (ROR) provides the key to identifying the author affiliations attached to those works unambiguously, through the magic of uniform resource identifiers (URIs).
 
 **In the diamond open-access (OA) funding landscape, ROR also provides a key to understanding fair funding streams.** Do the employers of Janeway authors contribute to Janeway’s development via membership in the OLH? Or are there imbalances, where institutions with a lot of Janeway authors and a lot of wealth do not contribute to a part of the diamond OA ecosystem they benefit from? We can crunch the data to find out, if we have unambiguous ways to link up a majority of articles in Janeway with their authors’ institutions.
 
