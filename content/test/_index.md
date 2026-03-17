@@ -49,24 +49,23 @@ By default, callout boxes have the info icon shown here. You can also set any ic
 
 ## Buttons
 
-Buttons work similarly to the callout boxes above. Wrap the text of your button in the <code>button</code> shortcode and specify the link in the shortcode itself. If no color is specified, the color will be green. 
+Buttons work similarly to the callout boxes above. Wrap the text of your button in the `button` shortcode and specify the link in the shortcode itself. If no color is specified, the color will be green. 
 
-{{< button link="#" >}} This is a green button {{< /button >}}<br />
+{{< button link="#" >}} This is a green button {{< /button >}}
 
-{{< button color="green" link="#" >}} This is also a green button {{< /button >}}<br />
+{{< button color="green" link="#" >}} This is also a green button {{< /button >}}
 
-{{< button color="dark-grey" link="#" >}} This is a dark grey button {{< /button >}}<br />
+{{< button color="dark-grey" link="#" >}} This is a dark grey button {{< /button >}}
 
-{{< button color="orange" link="#" >}} This is an orange button {{< /button >}}<br />
+{{< button color="orange" link="#" >}} This is an orange button {{< /button >}}
 
-{{< button color="light-grey" link="#" >}} This is a light grey button {{< /button >}}<br />
+{{< button color="light-grey" link="#" >}} This is a light grey button {{< /button >}}
 
-{{< button color="raspberry" link="#" >}} This is a raspberry button {{< /button >}}<br />
+{{< button color="raspberry" link="#" >}} This is a raspberry button {{< /button >}}
 
-{{< button color="purple" link="#" >}} This is a purple button {{< /button >}}<br />
+{{< button color="purple" link="#" >}} This is a purple button {{< /button >}}
 
-{{< button color="black" link="#" >}} This is a black button {{< /button >}}<br />
-
+{{< button color="black" link="#" >}} This is a black button {{< /button >}}
 
 ## Centered content
 
@@ -113,9 +112,7 @@ Headers should never include links.
 
 ### Header 3
 
-#### Header 4 
-
-**Bold text**
+**Bold text / Header 4**
 
 ## Images
 
