@@ -51,7 +51,7 @@ Highlights from the community update:
 * Technical goals for 2026 include improving curation workflows, enhancing the web search experience, upgrading core technologies, and **making single search the default affiliation matching strategy**.
 * The timeline for requiring a **client ID** in order to receive the current ROR API rate limits has been extended to Q3 of 2026.
 
-{{< iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQQCjH1UvvaGwnol0T9AL4zLW8SKTBcVCM0gAf9zOMKeXWXAeKF3lcUMjHJ6FgeRT5N2Z14cipIZ2SE/pub?start=false&loop=false&delayms=3000" >}} 
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQQCjH1UvvaGwnol0T9AL4zLW8SKTBcVCM0gAf9zOMKeXWXAeKF3lcUMjHJ6FgeRT5N2Z14cipIZ2SE/pubembed?start=false&loop=false&delayms=3000" >}}
 
 {{< callout color="green" icon="fa-brands fa-youtube" >}} 
 [Watch the recording of the Community Update](https://youtu.be/A2niUz4kSBc?si=3KgXLeMErKiQ41Pd)
