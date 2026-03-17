@@ -15,25 +15,6 @@ doi = "https://doi.org/10.71938/e3fb-v153"
 crosspost = "https://www.openlibhums.org/news/926/"
 +++ 
 
-<!-- Commonly used content 
-
-{{< figure src="/img/blog/" class="featured-figure" alt="" >}}
-
-{{< callout color="green" icon="fa-info" >}} 
-{{< /callout >}}
-
-{{< figure src="/img/blog/" class="blog-figure" alt="" >}}
-
-{{< youtube id="XXX" title="" >}}
-
-{{< callout icon="fa-envelope" >}} 
-Write us at support@ror.org with any comments or questions.
-{{< /callout >}} 
-
-{{< figure src="/img/blog/janeway/" alt="" >}}
-
--->
-
 {{< figure src="/img/blog/janeway/olh-janeway-logo.png" class="featured-figure" alt="Open Library of Humanities and Janeway logo." >}}
 
 Joe Muller, Senior Publishing Technologies Developer at the [Open Library of Humanities](https://www.openlibhums.org/), tells us in this case study how and why the [Janeway](https://www.openlibhums.org/site/janeway/) platform uses ROR, ensuring unambiguous author affiliations by retrieving ROR IDs from ORCID profiles as well as allowing authors to find their institution with a ROR-powered search.
