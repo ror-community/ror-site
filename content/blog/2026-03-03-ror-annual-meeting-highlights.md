@@ -51,14 +51,11 @@ Highlights from the community update:
 * Technical goals for 2026 include improving curation workflows, enhancing the web search experience, upgrading core technologies, and **making single search the default affiliation matching strategy**.
 * The timeline for requiring a **client ID** in order to receive the current ROR API rate limits has been extended to Q3 of 2026.
 
-{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQQCjH1UvvaGwnol0T9AL4zLW8SKTBcVCM0gAf9zOMKeXWXAeKF3lcUMjHJ6FgeRT5N2Z14cipIZ2SE/pubembed?start=false&loop=false&delayms=3000" >}} 
-
-<br />
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQQCjH1UvvaGwnol0T9AL4zLW8SKTBcVCM0gAf9zOMKeXWXAeKF3lcUMjHJ6FgeRT5N2Z14cipIZ2SE/pubembed?start=false&loop=false&delayms=3000" >}}
 
 {{< callout color="green" icon="fa-brands fa-youtube" >}} 
 [Watch the recording of the Community Update](https://youtu.be/A2niUz4kSBc?si=3KgXLeMErKiQ41Pd)
 {{< /callout >}}
-
 
 
 ## ROR, funders, and open funding metadata
@@ -73,9 +70,7 @@ Highlights from the funder session:
 
 * Ami Gala, Sales Director, Americas, [Altum](https://altum.com), gave a detailed overview of how and why the popular Proposal Central grants management system uses ROR.
 
-{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vT36jeBeF7zZqltSQSeMxIxNLMNF2ZH67mvAZDFAnnav03pgG3ps4OGh-Qq9ALYSvNoLXlrM1k8DORh/pubembed?start=false&loop=false&delayms=3000" >}}
-
-<br /> 
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vT36jeBeF7zZqltSQSeMxIxNLMNF2ZH67mvAZDFAnnav03pgG3ps4OGh-Qq9ALYSvNoLXlrM1k8DORh/pubembed?start=false&loop=false&delayms=3000">}}
 
 {{< callout color="green" icon="fa-brands fa-youtube" >}} 
 [Watch the recording of How ROR Can Help Research Funders](https://youtu.be/Iifg7qEDCAQ?si=6fxF6-Qb6-lOHZ3A)
@@ -94,8 +89,6 @@ Highlights from the session on national research strategies:
 * [Jungwoo Lee](https://orcid.org/0000-0003-2700-0601), Senior Researcher, [KISTI](https://www.kisti.re.kr/eng/), discussed the challenges of building and maintaining an in-house organization registry, reported on a recent ROR / KISTI collaboration to improve coverage of Korean organizations in ROR, and explained how KISTI uses ROR and Web of Science to track Korean research. 
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTs999L6viVXnH41GayiTK9Iz4gXHg8J0Y0H9t0wtpqOvN2lWhdMBA2gbjOBSrxVUKlAvBwCYIpDlTn/pubembed?start=false&loop=false&delayms=3000" >}}
-
-<br />
 
 {{< callout color="green" icon="fa-brands fa-youtube" >}} 
 [Watch the recording of The Role of ROR in National Research Strategies](https://youtu.be/htRFtLwUG8I?si=U13MQF2SEzmlWmbu)
