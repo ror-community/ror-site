@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
+description = "The March 2026 ROR Community Call features presentations from representatives of OA Switchboard, Europe PMC, and SciLife Lab on how and why they're using ROR. The ROR team also gives updates on recent and upcoming events and blog posts, ongoing curation work, and product and technical improvements."
 website = ""
 reglink = "https://crossref.zoom.us/meeting/register/HRvXAiiKR_-QhguMiTZ6Dg"
 +++
