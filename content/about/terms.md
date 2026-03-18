@@ -2,7 +2,7 @@
 title = "Terms of Use"
 draft = false
 date = "2021-07-26"
-banner = "/img/banners/ROR_Banner-grey.jpg"
+banner = "ROR_Banner-grey.jpg"
 aliases = ["/terms", "/terms-of-use", "/about/terms-of-use"]
 +++
 

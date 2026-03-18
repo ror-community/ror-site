@@ -2,7 +2,7 @@
 title = "FAQs"
 draft = false
 date = "2022-09-26"
-banner = "/img/banners/ROR_Banner-orange.jpg"
+banner = "ROR_Banner-orange.jpg"
 aliases = ["/faqs", "/faq"]
 +++
 

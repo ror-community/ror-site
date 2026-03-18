@@ -2,7 +2,7 @@
 title = "Privacy Policy"
 draft = false
 date = "2020-04-07"
-banner = "/img/banners/ROR_Banner-grey.jpg"
+banner = "ROR_Banner-grey.jpg"
 aliases = ["/privacy-policy", "/privacy",]
 +++
 

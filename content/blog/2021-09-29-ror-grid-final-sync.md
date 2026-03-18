@@ -6,8 +6,8 @@ tags = ["GRID" ]
 categories = ["Technical News"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/ROR_Banner-green.jpg"
-thumb = "/img/banners/lion-trio.jpg"
+banner = "ROR_Banner-green.jpg"
+thumb = "lion-trio.jpg"
 authors = ["Maria Gould"]
 doi = "https://doi.org/10.71938/a5fg-7e94"
 

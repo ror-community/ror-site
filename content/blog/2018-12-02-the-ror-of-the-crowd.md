@@ -6,8 +6,8 @@ tags = ["Communication", "Community",]
 categories = ["General Updates"]
 archives = ["2018"]
 style = "card-plain"
-banner = "/img/banners/ROR_Banner-green.jpg"
-thumb = "/img/banners/lions-square.jpg"
+banner = "ROR_Banner-green.jpg"
+thumb = "lions-square.jpg"
 authors = [ "California Digital Library", "DataCite", "Crossref", "Digital Science" ]
 doi = "https://doi.org/10.71938/sna1-zc49"
 

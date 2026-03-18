@@ -2,7 +2,7 @@
 title = "ROR test page with examples"
 draft = false
 date = "2023-01-20"
-banner = "/img/banners/ROR_Banner-grey.jpg"
+banner = "ROR_Banner-grey.jpg"
 +++
 
 ## This is a test page

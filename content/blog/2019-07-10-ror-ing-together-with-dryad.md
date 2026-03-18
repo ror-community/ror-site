@@ -6,8 +6,8 @@ tags = ["Implementation", "MVR", "Dryad"]
 categories = ["Adoption News"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/ROR_Banner-green.jpg"
-thumb = "/img/banners/lions-square.jpg"
+banner = "ROR_Banner-green.jpg"
+thumb = "lions-square.jpg"
 authors = ["Maria Gould", "Daniella Lowenberg" ]
 doi = "https://doi.org/10.71938/gftz-ac63"
 

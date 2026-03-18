@@ -6,8 +6,8 @@ tags = ["Implementation", "MVR", "Prototype", "GRID"]
 categories = ["Technical News"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/ROR_Banner-green.jpg"
-thumb = "/img/banners/building-sq.jpg"
+banner = "ROR_Banner-green.jpg"
+thumb = "building-sq.jpg"
 authors = ["Maria Gould"]
 doi = "https://doi.org/10.71938/60v1-bk26"
 

@@ -6,8 +6,8 @@ tags = ["Community", "Prototype", "MVR", "Annual Meeting"]
 categories = ["Technical News"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/ROR_Banner-green.jpg"
-thumb = "/img/banners/pride-of-lions-sq.jpg"
+banner = "ROR_Banner-green.jpg"
+thumb = "pride-of-lions-sq.jpg"
 authors = ["Maria Gould"]
 doi = "https://doi.org/10.71938/0eh7-xg96"
 

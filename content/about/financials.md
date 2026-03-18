@@ -3,7 +3,7 @@ title = "Financials"
 date = "2025-01-27T22:06:03-05:00"
 author = "Research Organization Registry (ROR)" 
 draft = false 
-banner = "/img/banners/ROR_Banner-grey.jpg" 
+banner = "ROR_Banner-grey.jpg" 
 description = "In line with ROR’s commitment to openness and transparency, and in order to provide useful information about the costs of maintaining free and open infrastructure, we are sharing annual financial reports starting with 2023."
 aliases = "/financials"
 +++ 

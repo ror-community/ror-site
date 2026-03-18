@@ -2,7 +2,7 @@
 title = "Community"
 draft = false
 date = "2022-01-21"
-banner = "/img/banners/ROR_Banner-pink.jpg"
+banner = "ROR_Banner-pink.jpg"
 aliases = [
     "/integrations",
     "/supporters",

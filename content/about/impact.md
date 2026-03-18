@@ -3,7 +3,7 @@ title = "Impact"
 date = "2025-02-20T07:28:23-05:00"
 author = "Research Organization Registry (ROR)" 
 draft = false 
-banner = "/img/banners/ROR_Banner-grey.jpg" 
+banner = "ROR_Banner-grey.jpg" 
 description = "Learn about the impact of the Research Organization Registry through charts of ROR in DOI metadata, ROR in published research, and more."
 aliases = ["/impact"]
 +++ 

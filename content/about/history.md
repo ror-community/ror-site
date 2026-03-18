@@ -3,12 +3,12 @@ title = "History"
 date = "2025-02-20T07:44:02-05:00"
 author = "Research Organization Registry (ROR)" 
 draft = false 
-banner = "/img/banners/ROR_Banner-grey.jpg" 
+banner = "ROR_Banner-grey.jpg" 
 description = "History of the Research Organization Registry (ROR), first planned in 2016 and launched in 2019."
 aliases = "/history"
 +++ 
 
-{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases: Community planning 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
+{{< figure src="/images/ror-timeline.png" class="blog-figure" alt="Timeline with five phases: Community planning 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
 
 ## Community planning
 

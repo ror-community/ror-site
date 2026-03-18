@@ -6,8 +6,8 @@ tags = ["Implementation", "API", "Matching", "Crossref"]
 categories = ["Technical News"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/ROR_Banner-green.jpg"
-thumb = "/img/banners/lion-trio.jpg"
+banner = "ROR_Banner-green.jpg"
+thumb = "lion-trio.jpg"
 authors = [ "Dominika Tkaczyk", "Maria Gould" ]
 doi = "https://doi.org/10.71938/36jw-rs79"
 
