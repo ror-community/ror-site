@@ -27,8 +27,6 @@ reglink = "https://crossref.zoom.us/meeting/register/6Gx1E54nRfGMZwaCs7_GOQ"
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQQCjH1UvvaGwnol0T9AL4zLW8SKTBcVCM0gAf9zOMKeXWXAeKF3lcUMjHJ6FgeRT5N2Z14cipIZ2SE/pubembed?start=false&loop=false&delayms=3000" >}}
 
 
----
-
 ## Recording 
 
 {{< youtube id="A2niUz4kSBc" >}}

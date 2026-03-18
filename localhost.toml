@@ -14,7 +14,6 @@ enableGitInfo = true
 	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research and funding organizations.'
 	title = 'Research Organization Registry (ROR)'
   	images = ['/img/ror-logo-800.png']
-  	dateFormatAtomFeed = "2006-01-02T15:04:05-07:00"
 	dateFormatTag = "2006"
 	feedUUID = "https://ror.org"
 	icon = "/img/favicon.ico"
