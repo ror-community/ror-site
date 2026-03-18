@@ -30,7 +30,7 @@ The [ROR roadmap](https://github.com/ror-community/ror-roadmap/issues) is availa
 
 ### **How much does it cost to use ROR?**
 
-ROR IDs and metadata are public domain information and are freely and openly available to anyone. There is no cost to access or use ROR data or services. See ROR [Terms of Use](/about/terms/) for more information about ROR licenses and acknowledgments.
+ROR IDs and metadata are public domain information and are freely and openly available to anyone. There is no cost to request a change or addition to ROR, and there is no cost to access or use ROR data or services. See ROR [Terms of Use](/about/terms/) for more information about ROR licenses and acknowledgments.
 
 ***
 
@@ -169,17 +169,10 @@ A ROR ID consists of a [unique 9-character string appended to the ROR domain](ht
 
 ### **What metadata is included in a ROR record?**
 
-ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization, including variant names such as acronyms and aliases, the organization's name in multiple languages, its location, its website, and any mappings to existing identifiers for the organization from external identification systems. As of April 2024, ROR currently maintains two versions of its metadata schema. 
+ROR is more than just an identifier: each record associated with a ROR ID contains useful information about the organization, including variant names such as acronyms and aliases, the organization's name in multiple languages, its location, its website, and any mappings to existing identifiers for the organization from external identification systems.
 
-Version 1 of the ROR metadata schema will be supported through at least April 2025.
-
-* [Version 1 schema, top-level data structure](https://ror.readme.io/v1/docs/ror-data-structure)
-* [Version 1 schema, all fields and sub-fields](https://ror.readme.io/v1/docs/fields)
-
-Version 2 of the ROR metadata schema is the current recommended version.
-
-* [Version 2 schema, top-level data structure](https://ror.readme.io/v2/docs/ror-data-structure)
-* [Version 2 schema, all fields and sub-fields](https://ror.readme.io/v2/docs/fields)
+* [Top-level data structure](https://ror.readme.io/docs/ror-data-structure)
+* [All fields and sub-fields](https://ror.readme.io/docs/fields)
 
 ***
 
@@ -206,7 +199,7 @@ In July 2021, [GRID announced its plans to sunset its public data and officially
 
 ### **What is the relationship between ROR and the Crossref Open Funder Registry?**
 
-Many of the funding organizations in the [Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) are also included in ROR, and ROR records include references to corresponding Funder IDs. Therefore, Crossref has [announced its plans to merge the Open Funder Registry with ROR](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/), and Crossref and ROR are working closely together on this initiative. For help on switching from using Funder IDs to using ROR IDs, see our [guide to the Funder Registry transition](https://ror.readme.io/docs/funder-registry).
+Many of the funding organizations in the [Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) are also included in ROR, and ROR records include references to corresponding Funder IDs. Therefore, Crossref has [announced its plans to merge the Open Funder Registry with ROR](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organisation-registry-ror/), and Crossref and ROR are working closely together on this initiative. For help on switching from using Funder IDs to using ROR IDs, see our [guide to the Funder Registry transition](https://ror.readme.io/docs/funder-registry).
 
 ***
 
@@ -237,12 +230,7 @@ The [ROR documentation site](https://ror.readme.io) offers guidance for those in
 
 ### **Does ROR have an API?**
 
-ROR has a REST API that supports retrieving, searching, and filtering organization records in the registry. As of April 2024, ROR currently maintains two versions of its REST API. 
-
-Version 1 of the ROR API uses version 1 of the ROR metadata schema. It is no longer the recommended version and will be sunset in December 2025. Read [ROR API version 1 guidance](https://ror.readme.io/v1/docs/rest-api).
-
-Version 2 of the ROR API uses version 2 of the ROR metadata schema and is the recommended version. Read [ROR API version 2 guidance](https://ror.readme.io/v2/docs/rest-api). 
-
+Yes, ROR has a free [REST API](https://ror.readme.io/docs/rest-api) that supports retrieving, searching, and filtering organization records in the registry. Results are returned in JSON. 
 ***
 
 ### **How can I download all of the ROR records?**

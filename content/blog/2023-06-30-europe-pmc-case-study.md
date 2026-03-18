@@ -2,7 +2,7 @@
 title = "Case Study: How Europe PMC Uses ROR"
 date = "2023-06-30"
 draft = false
-tags = ["Adoption", "Integrations", "Community", "Interviews", "EuropePMC"]
+tags = ["Adoption", "Integrations", "Community", "Interviews", "Europe PMC"]
 categories = ["Case Studies"]
 archives = ["2023"]
 style = "card-plain"
@@ -11,6 +11,7 @@ thumb = "/img/blog/europepmc/Europe-PMC-Extended-Logo.png"
 images = ['/img/blog/europepmcEurope-PMC-Extended-Logo.png/']
 authors = ["Amanda French"]
 description = "Michael Parkin, data scientist at EMBL-EBI who helps maintain Europe PMC, explains why and how ROR  helps with assessing funding impact and tracking researcher collaborations."
+aliases = "/blog/2023-06-30-europepmc-case-study/"
 doi = "https://doi.org/10.71938/w0js-9z14"
 +++
 
@@ -113,7 +114,7 @@ Describe for us what you've done with ROR at Europe PMC. I think you've done sev
 
 ### {{< figure src="/img/blog/europepmc/michael-parkin.jpg" class="round-figure" alt="Avatar of Michael Parkin" >}} Michael Parkin
 
-I'll talk more about the more recent one. But the initial work we did, which is already [listed on the ROR website](/community/#whos-using-ror), was part of a European Commission-funded project called [FREYA](https://www.project-freya.eu/en/about/mission), which was a successor to the [THOR project](https://cordis.europa.eu/project/id/654039). They’re committed to Norse mythology! The FREYA project was all about PIDs and PID interconnectivity, and as part of that we were looking at publications. It's important to mention that in Europe PMC we have our publications world, which is most of what we do, and we also have the grants world, which is exclusively for the Europe PMC funders. I'll just make that distinction now, because I'll talk more about the grants side of things.
+I'll talk more about the more recent one. But the initial work we did, which is already [listed on the ROR website](/community/#adopters), was part of a European Commission-funded project called [FREYA](https://www.project-freya.eu/mission.html), which was a successor to the [THOR project](https://cordis.europa.eu/project/id/654039). They’re committed to Norse mythology! The FREYA project was all about PIDs and PID interconnectivity, and as part of that we were looking at publications. It's important to mention that in Europe PMC we have our publications world, which is most of what we do, and we also have the grants world, which is exclusively for the Europe PMC funders. I'll just make that distinction now, because I'll talk more about the grants side of things.
 
 But the initial work we did with ROR was on the publication side of things, and it was exactly this idea that our organization, EMBL, wanted to have publication data about EMBL sites, how many papers they were publishing and which organizations they were collaborating with. We had a fantastic intern on the team at the time who built [a machine learning model that would look at the affiliations in publications](https://gitlab.ebi.ac.uk/literature-services/public-projects/ROR-proto-EMBL) and pick out ones that had an EMBL site affiliation on them. As I mentioned, there's a few of them around Europe, the sites [outside of Rome](https://ror.org/01yr73893), in [Grenoble](https://ror.org/01zjc6908), in [Heidelberg](https://ror.org/03mstc592), in [Hamburg](https://ror.org/050589e39), and luckily there's a ROR ID for each of those, which is fortunate, because I can assign papers to individual institution locations.
 
