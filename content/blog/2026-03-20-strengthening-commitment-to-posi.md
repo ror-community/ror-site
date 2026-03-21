@@ -60,7 +60,7 @@ While we believe that the assessment indicators are helpful for understanding th
 
 {{< figure src="/img/blog/posi/posi-table-governance.png" alt="ROR self-evaluation of compliance with POSI governance principles." >}}
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Coverage across the scholarly enterprise** – Research transcends disciplines, geography, institutions, and stakeholders. Organisations and the infrastructure they run need to reflect this.
 {{< /callout >}}
 
@@ -72,7 +72,7 @@ ROR community activities aim to reflect and support global usage and engagement.
 
 While ROR communications and community activities are primarily conducted in English and meetings are primarily conducted during Western Hemisphere working hours, we aim to broaden the linguistic and geographic scope of our communications and activities by producing translations of key community resources, using video translations and captions, scheduling some meetings and events in alternate time zones, and conducting meetings and communications in non-English languages when possible. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Stakeholder governed** – A board-governed organisation drawn from the stakeholder community builds confidence that the organisation will make decisions driven by community consensus and a balance of interests.
 {{< /callout >}}
 
@@ -80,7 +80,7 @@ ROR is not a standalone organization by design and therefore has no official mec
 
 ROR also engages stakeholder input and guidance on strategic directions through its Steering Group, open community calls, Curation Advisory Board, and public calls for feedback. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Non-discriminatory participation or membership** – We see the best option to be an “opt-in” approach with principles of non-discrimination and inclusivity, where any relevant group may express an interest and should be welcome. Representation in governance must reflect the character of the community or membership.
 {{< /callout >}}
 
@@ -94,7 +94,7 @@ The registry’s inclusion criteria for organizations is based on adherence to R
 
 ROR convenes a Curation Advisory Board and Steering Group made up of members of the community that are invited to provide specific guidance and advice on ROR activities. These groups do not have formal governance authority over ROR. Members are currently selected through an invitation process that is overseen by ROR’s operating organizations and core staff members; anyone is welcome to express interest in participating. Group operations are documented on GitHub and the ROR website. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Transparent governance** – To foster trust, the processes and policies for governing the organisation and selecting representatives to governance groups should be transparent (within the constraints of privacy laws).
 {{< /callout >}}
 
@@ -102,7 +102,7 @@ ROR is operated as a collaborative initiative by California Digital Library, Cro
 
 ROR’s Memorandum of Agreement was first signed in 2020\. Since then, the ROR operating organizations have renewed and revised the agreement multiple times to provide more clarity and transparency about ROR’s governance model and to keep the agreement aligned with current operations. The Memorandum of Agreement is now also made available on the ROR website. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Cannot lobby** -- Infrastructure organisations should not lobby for regulatory change to cement their own positions or narrow self-interest. However, an infrastructure organisation’s role is to support its community, and this can include advocating for policy changes.
 {{< /callout >}}
 
@@ -112,7 +112,7 @@ ROR operates on a core set of values and principles, including but not limited t
 
 ROR team members and community stakeholders participate in numerous activities and initiatives to advance ROR’s objectives in the name of the common good. Some of these activities and initiatives may directly or indirectly play a role in influencing policy decisions, such as in the emergence of national persistent identifier policies in multiple countries that may specifically mention ROR, but that are focused on addressing the needs of the global research community. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Living will** -- To build trust, organisations should establish and communicate clear commitments regarding their long-term stewardship responsibilities, including the principles by which assets, data, resources, services, and staff would be responsibly transferred to a successor or the organisation or service wound down. The commitments should address future governance, with defined criteria for acceptable successor organisations. This should include continued alignment with POSI and any legal or structural constraints.
 {{< /callout >}}
 
@@ -122,7 +122,7 @@ ROR data is openly available under a CC0 waiver by default, allowing access to p
 
 ROR’s operating organizations have a Memorandum of Agreement, which is published on the ROR website, that describes how ROR would be shut down and how relevant responsibilities could be transferred to responsible successors, if applicable. The succession plan also accounts for assets such as code repositories, cash funds, and technical infrastructure.
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Regular review of purpose and community value** -- Organisations and services should regularly review their relevance, effectiveness, and the level of community support to determine whether their continued operation is necessary. If no longer needed, they should take responsible steps to transition or wind down operations in consultation with the community and in alignment with their living will.
 {{< /callout >}}
 
@@ -134,7 +134,7 @@ In the event that ROR’s operating organizations identify evidence that ROR is 
 
 {{< figure src="/img/blog/posi/posi-table-sustainability.png" alt="ROR self-evaluation of compliance with POSI sustainability principles." >}}
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Transparent operations** -- To enable organisational accountability and openness, the operating policies and procedures, detailed financials, sustainability models, fees, strategic and product roadmaps, organisational charts, and other appropriate operational information should be made openly available (within the constraints of privacy laws). Information should be available for investigation and reuse by the community.
 {{< /callout >}}
 
@@ -150,7 +150,7 @@ Organizations and community members that participate actively in ROR operations 
 
 We continue to identify and consider future opportunities to make operations more transparent to ensure trust and also provide useful information for the community. Such areas could include documentation about how we run community meetings and structure community groups, incident response operations, and communication guides. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Time-limited funds are used only for time-limited activities** -- Operations should be supported by sustainable revenue sources, whereas time-limited funds are used only for time-limited activities. Depending on grants to fund ongoing and/or long-term operations fully makes organisations fragile and distracts from maintaining core infrastructure.
 {{< /callout >}}
 
@@ -158,13 +158,13 @@ When ROR was first being established, it was resourced through a mixed and unpre
 
 ROR does not charge for access and usage and does not intend to do so in the future. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Goal to generate surplus** -- It is not enough to merely survive; organisations and services have to be able to adapt and change. Organisations and services that define long-term sustainability based only on recovering costs risk becoming brittle and stagnant. To weather economic, social and technological volatility, organisations and services need financial resources beyond immediate operating costs.
 {{< /callout >}}
 
 ROR’s core operating costs have stable funding from its operating organizations, plus additional funds from organizations that provide ad hoc financial support for ROR. We maintain reserves to carry forward 1-2 years. We review our budget throughout the year to anticipate any volatility. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Establish and maintain financial reserves guided by policy** -- Organisations and services should have a clear policy on maintaining financial reserves, including the purpose, minimum and maximum level, and governance of these funds. The actual level of reserves should be determined and periodically reviewed by the governing body, ensuring that resources are available to support Living Will implementation, including an orderly wind-down, transition to a successor, or response to major unforeseen events. A financial reserve policy might include how funds will be held, under what circumstances they will be used, and how much would be necessary for an adequate wind-down or transfer of assets, given the complexity of the organisation’s infrastructure.
 {{< /callout >}}
 
@@ -174,7 +174,7 @@ ROR’s financial planning and modeling processes are carried out by representat
 
 ROR aims to keep costs as low as possible while effectively and sustainably supporting core expenses and operations. ROR adheres to an informal policy of maintaining reserves to carry forward 1-2 years and we are working to codify this policy and make it more transparent and durable. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Mission-consistent revenue generation** – Revenue sources should be evaluated against the infrastructure’s mission and not run counter to the aims of the organisation or service.
 {{< /callout >}}
 
@@ -186,7 +186,7 @@ ROR receives additional ad hoc funds from contributor organizations that believe
 
 ROR has received grant funding in the past for time-limited activities. In the future, we may pursue additional grant funding for time-limited projects in accordance with our strategy and mission. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Revenue generated from services, not data** -- Data related to the running of the scholarly infrastructure should be community property. Appropriate revenue sources might include value-added services, consulting, API Service Level Agreements, or membership fees.
 {{< /callout >}}
 
@@ -194,7 +194,7 @@ ROR makes both its data and services openly available for free. Data and code ar
 
 While a value-added service model was considered after ROR’s initial launch, we have no current plans to develop any paid services. We may consider some service access constraints in the future such as API credentials to ensure overall stability and performance of our services, but such changes would not involve a fee model. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Volunteer labour** -- Organisations that rely on volunteers and their labour should recognise this as a valuable resource for the organisation’s long-term viability, and factor it into sustainability planning and risk management.
 {{< /callout >}}
 
@@ -202,7 +202,7 @@ ROR has a dedicated team of paid staff members that provide support for ROR’s 
 
 In the early days of the initiative, ROR relied on some community volunteers to advise on curation processes. We identified when this level of involvement was no longer viable and needed to be replaced with dedicated resourcing. We have not otherwise relied on volunteers for any core activities. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Transition planning** -- Organisations that are heavily dependent on a limited number of individuals should take steps to reduce their dependence on these individuals, including via transition and succession planning, so that the organisation is not at risk of collapse in the event of their departure.
 {{< /callout >}}
 
@@ -214,13 +214,13 @@ Like any small, mission-driven, community-oriented initiative, ROR depends on a 
 
 {{< figure src="/img/blog/posi/posi-table-insurance.png" alt="ROR self-evaluation of compliance with POSI insurance principles." >}}
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Open source** -- All software and non-physical assets required to run the infrastructure should be available under an open-source licence. This does not include other software that may be involved with running the organisation.
 {{< /callout >}}
 
 All of ROR’s code and software processes are openly stored and documented on GitHub. Code is published under a fully permissible MIT License. We rely on additional tools and software to support our development work, such as hosting and logging. Wherever possible, we leverage open source components. We provide extensive documentation about how to access and query ROR data, and how to run the REST API locally, to enable other projects to use our data and code.
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Ensure open and secure data accessibility within legal and ethical constraints** -- To support potential forking or replication, infrastructure should aim to make all relevant data openly available, following best practices such as applying a CC0 waiver where appropriate. This must be balanced with compliance with privacy, data protection, and security requirements. Organisations should have a clear policy outlining how private or sensitive data will be handled—particularly in the event of a transfer to another organisation—to ensure continuity, legal compliance, and responsible stewardship.
 {{< /callout >}}
 
@@ -228,7 +228,7 @@ The ROR dataset is made openly available under the terms of a CC0 waiver and can
 
 No private or privileged information is included in the ROR dataset. ROR has a privacy policy published on our website that outlines how we handle private information, such as personal details of individuals on our community mailing list. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Available and preserved** -- It is not enough that content, data, and software be “open” if there is no practical way to obtain them. These resources should be made easily available with clear public documentation about where they are and how to access them, as well as an open licence where possible. It is not enough that “open” resources are available. In line with the Living Will, it is essential to deposit content, data, and software with at least one trusted third-party digital archive.
 {{< /callout >}}
 
@@ -236,13 +236,13 @@ ROR data is openly available under a CC0 waiver and can be accessed in multiple 
 
 ROR code is available on GitHub under the terms of a MIT License and code repositories are automatically archived in Software Heritage. The archiving schedule is determined by Software Heritage. We may consider other automated or proactive mechanisms for code preservation moving forwards. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Patent non-assertion** -- The organisation should commit to a patent non-assertion policy or covenant. The organisation may obtain patents to protect its own operations, but not use them to prevent the community from replicating the infrastructure.
 {{< /callout >}}
 
 ROR is a fully open and public registry of factual information about research organizations. The metadata practices and curatorial stewardship that we apply to ROR registry data are not considered to be intellectual property of any ROR-related entity. Due to its factual nature, the information stored in the registry cannot be copyrighted or patented. In addition, ROR asserts no claims to registry data via the application of the CC0 1.0 public domain dedication. 
 
-{{< callout icon="no-icon" >}} 
+{{< callout color="dark-grey" icon="no-icon" >}} 
 **Prioritise interoperability and open standards to ensure continuity and resilience** -- Infrastructures should adopt and support widely accepted open standards—both formal and de facto—to ensure that systems, data, and services can be replicated, migrated, or integrated with minimal disruption without the use of proprietary extensions or software. Where relevant, organisations should document dependencies on standards.
 {{< /callout >}}
 
