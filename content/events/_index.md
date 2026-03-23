@@ -27,21 +27,17 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
+### Institutional IDs Unlocked – ROR meets DSpace
 
-### OpenAlex - Accurate Affiliations, Accurate Attributions
-
-- Date: March 19, 2026
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-03-19)
+- Date: March 26, 2026
+- Time: [11am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=11am&d=2026-03-26)
 - Duration: 1 hour
 - Location: Online
-- Recorded: Yes
-- Description: Institutions need accurate lists of their publications for critical research intelligence use cases. These lists are built from affiliation data, and automated matching makes mistakes. This webinar demonstrates how curating ROR records and validating OpenAlex’s affiliation-to-ROR matches leads to more complete and trustworthy institutional research records. Speakers include Kyle Demes (COO, OpenAlex) and Amanda French (ROR, Technical Community Manager).
+- Description: During the fifth day of DSpace Lab Days, we will explore how the Research Organization Registry (ROR) integrates with DSpace and what it means for improving affiliation data quality, research reporting, and open science workflows. 
 
+{{< button color="green" link="https://pcgacademia.pl/en/dspace-lab-day-5/" >}} Register for DSpace Lab Days{{< /button >}}
 
-{{< button color="green" link="https://zoom.us/webinar/register/WN_r6GXNd9RS_eENIxGNmHyAw" >}} Register for OpenAlex - Accurate Affiliations, Accurate Attributions {{< /button >}}
-
-
----
+--- 
 
 ### ROR Community Call March 2026
 
@@ -114,6 +110,13 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 {{< iframe src="https://airtable.com/embed/app3WaI1eI0QkIssR/shrjfz6xRlmGgiDya" >}} 
 
 ## Past events 
+
+
+### OpenAlex - Accurate Affiliations, Accurate Attributions
+
+March 19, 2026 | [Event details and materials](2026-03-19-openalex-accurate-affiliations)
+
+---
 
 ### World Data System - Persistent Identifiers: Enabling Trust and Discovery in Research Data 
 
