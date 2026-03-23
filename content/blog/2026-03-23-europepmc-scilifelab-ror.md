@@ -61,3 +61,7 @@ The team at SciLifeLab have been developing ways to identify and link their rese
 ## What else would you like to say?
 
 Complete, open metadata is fundamental to how science is communicated, discovered and built upon. When the link between research outputs and the organisations behind them is missing, that chain breaks down. This work with SciLifeLab has strengthened the Europe PMC corpus with trusted, human-verified ROR ID metadata, and is a step towards a more complete and transparent scholarly record.
+
+{{< callout icon="fa-envelope" >}} 
+Comments? Questions? Write us at support@ror.org.
+{{< /callout >}} 
