@@ -40,8 +40,7 @@ Europe PMC has [long been at the forefront of ROR adoption](https://ror.org/tags
 
 ## Tell us about Europe PMC and SciLifeLab.
 
-[Europe PMC](https://europepmc.org) is hosted by [EMBL’s European Bioinformatics Institute (EMBL-EBI),](https://www.ebi.ac.uk/) one of the six sites of the [European Molecular Biology Laboratory (EMBL)](https://www.embl.org/), an intergovernmental organization dedicated to molecular biology research, and Europe’s flagship laboratory for life sciences.  
-[SciLifeLab](https://www.scilifelab.se/) is a Swedish national center for large-scale research and one of the largest molecular biology research laboratories in Europe. 
+[Europe PMC](https://europepmc.org) is hosted by [EMBL’s European Bioinformatics Institute (EMBL-EBI),](https://www.ebi.ac.uk/) one of the six sites of the [European Molecular Biology Laboratory (EMBL)](https://www.embl.org/), an intergovernmental organization dedicated to molecular biology research, and Europe’s flagship laboratory for life sciences. [SciLifeLab](https://www.scilifelab.se/) is a Swedish national center for large-scale research and one of the largest molecular biology research laboratories in Europe. 
 
 Building on an existing collaborations, the two organisations established a joint Memorandum of Understanding (MoU). As part of this the Europe PMC team has been working closely with SciLifeLab on opportunities to jointly strengthen support of open science.  
 
