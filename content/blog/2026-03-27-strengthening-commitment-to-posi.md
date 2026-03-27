@@ -1,6 +1,6 @@
 +++ 
 title = "Strengthening ROR’s Commitment to the Principles of Open Scholarly Infrastructure" 
-date = "2026-03-20"
+date = "2026-03-27"
 draft = false 
 tags = ["Community", "POSI"] 
 categories = ["General Updates"] 
@@ -11,7 +11,7 @@ thumb = "/img/lions-fountain.jpg"
 images = ['/img/lions-fountain.jpg']
 authors = ["Maria Gould"] 
 description = "With the release of v2 of the Principles of Open Scholarly Infrastructure (POSI), we take this opportunity to reflect on ROR’s alignment with the POSI framework and re-assert our commitment to providing open scholarly infrastructure for the global community."
-doi = ""
+doi = "https://doi.org/10.71938/2xy9-em92"
 crosspost = ""
 +++ 
 
