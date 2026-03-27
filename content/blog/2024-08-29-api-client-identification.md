@@ -2,15 +2,16 @@
 title = "How Should ROR Handle API Client Identification?" 
 date = "2024-08-29T09:19:41-04:00"
 draft = false 
-tags = ["API", "Feedback", "Development" ] 
-categories = ["Requests"] 
+tags = ["API", "Feedback", "Development", "Requests" ] 
+categories = ["Technical News"] 
 archives = ["2024"]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.png" 
+banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg" 
 images = ['/img/blog/clientid/sven-finger-XaBE3eokg88-unsplash.jpg']
 authors = ["Liz Krznarich"] 
 description = "We're looking for your feedback on a draft proposal for managing ROR API client identification with 'mailto' parameters or API keys, and comments are open through October 4th, 2024."
+doi = "https://doi.org/10.71938/rgyq-pk44"
 +++ 
 
 {{< callout color="green" icon="no-icon">}}

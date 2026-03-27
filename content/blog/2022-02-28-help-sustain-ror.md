@@ -2,13 +2,15 @@
 title = "Let's Fund Open Infrastructure Together"
 date = "2022-02-28"
 draft = false
-tags = ["Sustainability", "Community"]
-categories = ["Requests"]
+tags = ["Sustainability", "Community", "Requests"]
+categories = ["General Updates"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.jpg"
 thumb = "/img/lion-silhouette-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/etgw-fp65"
+
 +++
 
 ## **ROR begins a new round of community fundraising**

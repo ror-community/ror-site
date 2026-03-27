@@ -20,21 +20,13 @@ website = "https://help.openalex.org/hc/en-us/articles/24428492324631-Webinars"
 reglink = "https://zoom.us/webinar/register/WN_r6GXNd9RS_eENIxGNmHyAw"
 +++
 
-
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQB5eBASz9Js5tT7cD3qIpL-HwI5VTdU8zW_MUB1PdTGFVIVzICUW0OajNNYunYiVvgbjHxnl4aTr2s/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
-
----
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQB5eBASz9Js5tT7cD3qIpL-HwI5VTdU8zW_MUB1PdTGFVIVzICUW0OajNNYunYiVvgbjHxnl4aTr2s/pubembed?start=false&loop=false&delayms=3000" >}}
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
-
-
---!> 
+{{< youtube id="0Z_oabr0V-c" >}}
 

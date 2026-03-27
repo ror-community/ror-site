@@ -1,1 +1,50 @@
+{{ if eq .Site.BaseURL "https://ror.org/" }}
+
 User-agent: *
+
+Disallow: /lzkrz4eva
+
+Disallow: /liz-request
+
+Disallow: /0*
+
+Disallow: /search?*
+
+{{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
+
+User-agent: *
+{{ range .Pages }}
+Disallow: {{ .RelPermalink }}
+
+Disallow: /0*
+
+Disallow: /search?*
+
+
+{{ end }}
+
+{{ else if eq .Site.BaseURL "https://dev.ror.org/" }}
+
+User-agent: *
+{{ range .Pages }}
+Disallow: {{ .RelPermalink }}
+
+Disallow: /0*
+
+Disallow: /search?*
+
+{{ end }}
+
+{{ else }}
+
+User-agent: *
+
+Disallow: /lzkrz4eva
+
+Disallow: /liz-request
+
+Disallow: /0*
+
+Disallow: /search?*
+
+{{ end }}

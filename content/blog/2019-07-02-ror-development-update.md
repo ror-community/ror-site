@@ -1,14 +1,16 @@
 +++
-title = "ROR development update: Building and growing an open registry of organizations"
+title = "ROR Development Update: Building and Growing an Open Registry of Organizations"
 date = "2019-07-02"
 draft = false
 tags = ["Implementation", "MVR", "Prototype", "GRID"]
 categories = ["Technical News"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/building-banner.jpg"
+banner = "/img/banners/ROR_Banner-green.jpg"
 thumb = "/img/banners/building-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/60v1-bk26"
+
 +++
 
 ROR is an open registry for every research organization in the world, aiming to solve the problem of identifying which organizations are affiliated with which research outputs. [When the ROR MVR (minimum viable registry) launched in January](https://ror.org/blog/2019-02-10-announcing-first-ror-prototype/), the registry included records for 91,000+ organizations, each with a unique ROR ID.

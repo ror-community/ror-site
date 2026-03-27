@@ -18,7 +18,7 @@ ROR is community-supported, community-driven, community-funded open infrastructu
 
 The community-based aspect of ROR sets it apart from similar efforts in this space. With adoption and involvement across the scholarly research community, we ensure the long-term sustainability of open infrastructure for research organization identifiers.
 
-ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org) -- three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share [collective responsibility](/about#governance-model) for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
+ROR is governed, operated, and financially supported by [California Digital Library](https://cdlib.org), [Crossref](https://www.crossref.org), and [DataCite](https://datacite.org) -- three trusted organizations that each have deep expertise in developing open, sustainable, community-driven infrastructure for scholarly communications. ROR’s three governing organizations share [collective responsibility](/about#governance) for operating ROR and commit in-kind support to cover ROR’s core personnel and operating expenses.
 
 The wider ROR community includes users and stakeholders from around the world and across many types of institutions and industries, including **publishers, libraries, platform providers, university research offices, data repositories, CRIS systems, government agencies, funders, and more.** 
 
@@ -34,7 +34,7 @@ The [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech) is for
 The [ROR Curation Advisory Board](/registry/#curation-advisory-board) reviews suggested updates to the registry and advises on curation practices and standards. 
 
 ### Steering Group
-The ROR Steering Group is a small advisory body composed of the [ROR Operations Team](/about#operations-team) plus external members who are key stakeholders in the global scholarly communication ecosystem. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) to provide input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
+The ROR Steering Group is a small advisory body composed of the [ROR Operations Team](/about/team/#operations-team) plus external members who are key stakeholders in the global scholarly communication ecosystem. The ROR Steering Group was [initiated in November 2019](/blog/2019-11-22-meet-the-ror-steering-group/) to provide input on ROR priorities and strategy. Steering Group activities are guided by a [terms of reference document (pdf)](/documents/ROR-Steering-Group-Terms-2023-01.pdf).
 
 - Matt Buys, [DataCite](https://datacite.org/) (permanent member)
 - John Chodacki, [California Digital Library](https://cdlib.org/) (CDL) (permanent member)
@@ -54,7 +54,7 @@ Many scholarly communication systems are already using ROR, and many others are 
 
 {{< button color="green" link="https://bit.ly/ror-integration-form" >}}Tell us about your ROR integration {{< /button >}}
 
-{{< iframe "https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrM876d6Koi1UONe?backgroundColor=cyan&viewControls=on" >}}
+<iframe class="airtable-embed" src="https://airtable.com/embed/app2Tnq1uCHnS8HQD/shrkbUmYP5nKalEb0" frameborder="0" onmousewheel="" width="100%" height="825" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 See the [complete list of known ROR integrations.](https://bit.ly/ror-integrations)
 
@@ -84,12 +84,11 @@ Looking for a short document to help you or others at your organization understa
 - [ROR for Repositories](https://zenodo.org/doi/10.5281/zenodo.10049153) (13 pages)
 
 ## Events 
-ROR-organized events include open bi-monthly Community Calls, Annual Meetings, open hours, webinars, and more that anyone can register for. ROR team members also frequently present at conferences and webinars organized by other groups. All ROR-organized events are always free. 
+ROR-organized events include open bi-monthly Community Calls, topic-specific webinars, annual meeting sessions, and other events that anyone can register for. ROR team members also frequently present at conferences and webinars organized by other groups. All ROR-organized events are always free. 
 
-* See our [events page](/events) to sign up for upcoming events and access materials from [past events](/events#past-events)
-* Read [recaps of past events](/categories/events) on our blog 
+See our [events page](/events) to sign up for upcoming events and access materials from [past events](/events#past-events).
 
-We are also happy to schedule free custom webinars and tutorials for your team: write [community@ror.org](mailto:community@ror.org) with inquiries. 
+We are also happy to schedule free custom webinars and tutorials for your team: write [support@ror.org](mailto:support@ror.org) with inquiries. 
 
 ## Supporters {#supporters}
 ROR receives ongoing financial support from stakeholder organizations. The ROR supporters program strengthens community investment and helps to offset operating costs and fund time-limited projects. 
@@ -99,8 +98,7 @@ ROR receives ongoing financial support from stakeholder organizations. The ROR s
 
 {{< button color="green" link="/sustain" >}} Sign up to support ROR {{< /button >}}
 
-{{< iframe "https://airtable.com/embed/appEQM4psjSyRdTm9/shrDu1w6Gl8PsfkZt?backgroundColor=red&viewControls=on" >}}
-
+<iframe class="airtable-embed" src="https://airtable.com/embed/appEQM4psjSyRdTm9/shrmpuFzOSCL6sFLh" frameborder="0" onmousewheel="" width="100%" height="890" style="background: transparent; border: 1px solid #ccc;"></iframe>
 
 [See the complete list of ROR supporters.](https://bit.ly/ror-sustainers)
 
@@ -152,6 +150,6 @@ At ROR, we want all community interactions to be welcoming, collegial, safe, and
 
 {{< callout icon="fa-envelope" >}}
 
-Contact <community@ror.org> with questions about getting involved with ROR. 
+Contact <support@ror.org> with questions about getting involved with ROR. 
 
 {{< /callout >}}

@@ -1,14 +1,15 @@
 +++
-title = "What's in a name? Handling name metadata in ROR"
+title = "What's in a Name? Handling Name Metadata in ROR"
 date = "2022-08-31"
 draft = false
 tags = ["Curation", "Registry", "Metadata", "Community"]
 categories = ["Explainers"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.jpg"
 thumb = "/img/lion-statue-sq.jpg"
-authors = [ "Adam Buttrick", "Maria Gould" ] 
+authors = [ "Adam Buttrick", "Maria Gould" ]
+doi = "https://doi.org/10.71938/7ac6-v827"
 +++
 
 The ROR registry includes unique IDs and associated metadata records for 100,000+ research organizations. Each one of these organizations has at least one name. Some of them have multiple names (one even has 15)! Organization names in ROR appear in 120 different languages and counting.
@@ -112,4 +113,4 @@ We hope this explanation has provided interesting insights into the work we do a
 
 Curation is an ongoing effort and we invite community users to become more involved in this work through participation in the curation advisory board and/or through community discussions.
 
-If you have questions or feedback, or if you would like to get more involved in curating ROR records, please get in touch via <registry@ror.org>.
+If you have questions or feedback, or if you would like to get more involved in curating ROR records, please get in touch via <support@ror.org>.

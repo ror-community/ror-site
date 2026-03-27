@@ -2,7 +2,7 @@
 name: Feature request
 about: Request an enhancement to the ROR website
 title: "[FEATURE] "
-labels: enhancement, website
+labels: website
 assignees: amandafrench
 
 ---

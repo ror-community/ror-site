@@ -3,22 +3,30 @@ title = "Using ROR for Funder Identification"
 date = "2024-08-06"
 draft = false 
 tags = ["Funders", "Adoption", "Integrations", "Implementation", "GREI", "DataCite", "Dryad", "Zenodo", "InvenioRDM", "CaltechData", "Figshare", "StrainInfo"] 
-categories = ["Use Cases"] 
+categories = ["Case Studies"] 
 archives = ["2024"]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.png" 
+banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/blog/use-case-funders/ror-for-funders.png" 
 images = ['/img/blog/use-case-funders/ror-for-funders.png']
 authors = ["Amanda French"] 
 description = "Several widely used scholarly systems are using ROR IDs to identify and disambiguate funders. In this post, we’ll give you a glimpse of how and why these systems use ROR IDs for funder identifiers."
+doi = "https://doi.org/10.71938/xfhb-sm73"
 +++ 
 
 {{< figure src="/img/blog/use-case-funders/ror-for-funders.png" alt="ROR logo and funder icon" class="featured-figure" >}}
 
 Several widely used scholarly systems are using ROR IDs to identify and disambiguate funding organizations. In this post, we’ll give you a glimpse of how and why these systems use ROR IDs as funder identifiers.
 
-If you're reading this post, you probably know that for the last ten years, [the Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) has been the default identifier for funding organizations. You might also know that last fall, Crossref [announced](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/) "a long-term plan to deprecate the Open Funder Registry" in favor of ROR so that publishing systems and workflows can use one open registry, not two, to identify organizations. If you're interested in learning more about that transition, you can consult our [Open Funder Registry transition guide](https://ror.readme.io/docs/funder-registry) or read [previous ROR blog posts](https://ror.org/tags/funders/). But if you're interested in learning more about **early adopters who are already using ROR to identify funders now**, read on. 
+{{< callout color="green" >}}
 
+For help with switching to ROR for funder identification in your own system, visit our guide to the [Transition from Open Funder Registry to ROR.](https://ror.readme.io/docs/funder-registry)
+
+{{< /callout >}}
+
+You might already know that for the last ten years, [the Crossref Open Funder Registry](https://www.crossref.org/services/funder-registry/) (formerly FundRef) has been the default identifier for funding organizations. You might also know that last fall, Crossref [announced](https://www.crossref.org/blog/open-funder-registry-to-transition-into-research-organization-registry-ror/) "a long-term plan to deprecate the Open Funder Registry" in favor of ROR so that publishing systems and workflows can use one open registry, not two, to identify organizations. 
+
+If you're interested in learning more about that transition, you can consult our guide to the [Transition from Open Funder Registry to ROR](https://ror.readme.io/docs/funder-registry) or read [previous ROR blog posts](https://ror.org/tags/funders/). But if you're interested in learning more about **early adopters who are already using ROR to identify funders now**, read on. 
 
 ## Repositories are ahead of the curve 
 
@@ -84,9 +92,9 @@ Both Figshare's central repository at [figshare.com](figshare.com) and Oxford Un
 
 {{< figure src="/img/blog/use-case-funders/ror-figshare.gif" alt="Figshare's award lookup pulls data from Dimensions, which includes ROR IDs." caption="Figshare's award lookup pulls data from Dimensions, which includes ROR IDs." >}}
 
-ROR was [originally seeded](https://ror.org/about/#launch-of-the-ror-mvr) with the GRID organization identifiers and data used by Dimensions, so there is a [close relationship between ROR IDs and GRID IDs](https://grid.ac/), and most ROR and GRID records are [mapped to each other](https://ror.readme.io/v2/docs/data-structure#external_ids). Dimensions's support documentation [explains how ROR IDs are incorporated into its data](https://dimensions.freshdesk.com/support/solutions/articles/23000025993-how-are-organizations-represented-in-dimensions-): 
+ROR was [originally seeded](https://ror.org/about/#launch-of-the-ror-mvr) with the GRID organization identifiers and data used by Dimensions, so there is a [close relationship between ROR IDs and GRID IDs](https://grid.ac/), and most ROR and GRID records are [mapped to each other](https://ror.readme.io/v2/docs/ror-data-structure#external_ids). Dimensions's support documentation [explains how ROR IDs are incorporated into its data](https://dimensions.freshdesk.com/support/solutions/articles/23000025993-how-are-organizations-represented-in-dimensions-): 
 
-{{< callout  color="beige" icon="no-icon" >}}
+{{< callout icon="no-icon" >}}
 
 **How are new ROR IDs added to Dimensions organization records?**
 

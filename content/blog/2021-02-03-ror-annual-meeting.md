@@ -1,14 +1,16 @@
 +++
-title = "Unmute to ROAR! ROR's third annual (and first virtual) community meeting"
+title = "Unmute to ROAR! ROR's Third Annual (and First Virtual) Community Meeting"
 date = "2021-02-03"
 draft = false
 tags = ["Community", "Annual Meeting"]
 categories = ["Event Recaps"]
 archives = ["2021"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.jpg"
 thumb = "/img/cub-pride-sq.png"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/a9m0-z816"
+
 +++
 
 ROR had a birthday last week and marked the occasion just like anyone else celebrating a birthday during the pandemic: with a virtual party! More than eighty attendees from around the world came together for the now third annual ROR community meeting, held this year on Zoom across two sessions to reach ROR's global community in as many timezones as possible.

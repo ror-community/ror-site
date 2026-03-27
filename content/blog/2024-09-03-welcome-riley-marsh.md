@@ -6,11 +6,12 @@ tags = ["Team", "Metadata", "Curation", "Crossref"]
 categories = ["Team Updates"] 
 archives = ["2024"]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.png" 
+banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/lion-closeup-1200.jpg" 
 images = ['/img/lion-closeup-1200.jpg']
 authors = ["Maria Gould"] 
 description = "We are thrilled to introduce a new member of the ROR pride: Riley Marsh joined the ROR team in August as our new Metadata Manager."
+doi = "https://doi.org/10.71938/aavf-pb62"
 +++ 
 
 {{<figure src="/img/lion-closeup-1200.jpg" alt="Closeup of a lion's face" class="featured-figure" >}}
@@ -31,7 +32,7 @@ For more information about curation, read more on the [registry web page](https:
 
 {{< callout icon="fa-envelope" >}}
 
-Questions? Contact registry@ror.org. 
+Questions? Contact support@ror.org. 
 
 {{< /callout >}}
 

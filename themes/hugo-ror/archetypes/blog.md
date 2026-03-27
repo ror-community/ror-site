@@ -6,11 +6,13 @@ tags = ["", ""]
 categories = [""] 
 archives = ["{{now.Year}}"]
 style = "card-plain" 
-banner = "/img/banners/ROR_Banner-green.png" 
+banner = "/img/banners/ROR_Banner-green.jpg" 
 thumb = "/img/blog/" 
 images = ['/img/blog/']
 authors = [""] 
 description = ""
+doi = ""
+crosspost = ""
 +++ 
 
 <!-- Commonly used content 

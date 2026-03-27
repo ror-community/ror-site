@@ -2,13 +2,15 @@
 title = "Help Build Open Infrastructure for Organization Identifiers: A Call to Support and Sustain ROR"
 date = "2019-10-16"
 draft = false
-tags = ["Community", "Sustainability",]
-categories = ["Requests"]
+tags = ["Community", "Sustainability", "Requests" ]
+categories = ["General Updates"]
 archives = ["2019"]
 style = "card-plain"
-banner = "/img/banners/lions-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.jpg"
 thumb = "/img/roaringcats-sq.png"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/c110-cc85"
+
 +++
 
 ROR is the [Research Organization Registry](https://ror.org), a community-led project to develop an open, sustainable, usable, and unique identifier for every research organization in the world. 

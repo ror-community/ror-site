@@ -1,14 +1,16 @@
 +++
-title = "ROR-ing on our own: Announcing our first independent registry update"
+title = "ROR-ing On Our Own: Announcing Our First Independent Registry Update"
 date = "2022-03-17"
 draft = false
 tags = ["Curation", "Community"]
 categories = ["Technical News"]
 archives = ["2022"]
 style = "card-plain"
-banner = "/img/banners/city-ban.jpg"
+banner = "/img/banners/ROR_Banner-green.jpg"
 thumb = "/img/fireworks-sq.jpg"
 authors = ["Maria Gould"]
+doi = "https://doi.org/10.71938/1f0g-a647"
+
 +++
 
 ## **The ROR registry has grown!**

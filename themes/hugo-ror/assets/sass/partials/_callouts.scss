@@ -1,5 +1,9 @@
 /*** Callout boxes ***/
 .callout {
+  border-radius: .25rem!important;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+
   
   .fa {
     font-size: 3rem;
@@ -10,73 +14,129 @@
   }
   
   a {
-    color: #2c2c2c;
-    font-weight: bold;
-    
+	font-family: "AH-Bold", "AH-Regular", Helvetica, Arial, sans-serif;    
     &:hover {
       text-decoration: underline;
     }
-  }
-  
+  }  
 }
 
+/*** Callout box styles -- note that there is no raspberry callout due to difficulty with link contrast. ***/
 
 .callout,
-.callout.grey {
-  border-radius: .25rem!important;
-  padding: 2rem;
+.callout.grey, .callout.light-grey {
   background-color: $light-grey;
-  margin-bottom: 1.5rem;
 }
+
 .callout.green {
   background-color: $green;
 }
+
 .callout.dark-grey {
-  background-color: $dark-grey;
+  background-color: $dark-grey;  
+  color: #fff;
 }
-.callout.mustard,
+
 .callout.orange {
-  background-color: $mustard;
+  background-color: $orange;
 }
+
+.callout.purple {
+  background-color: $purple;
+  color: #fff;
+}
+
 .callout.black {
   background-color: $black;
-}
-.callout.dark-grey, 
-.callout.black {
   color: #fff;
-  
-  a {
-    color: $green;
-  }
-  
 }
-.callout,
-.callout.grey {
-  a {
-    color: $green;
-  }
-}
-.callout.green,
-.callout.mustard,
-.callout.orange {
 
+.callout,
+.callout.grey,
+.callout.green {
   a {
-    color: #fff;  
+    color: $purple;
+  }
+}
+
+.callout.purple, 
+.callout.black {
+  a {
+    color: $green;
+  }
+  
+  code {
+  	color: $light-grey;
+  }
+}
+
+.callout.dark-grey { 
+  a {
+    color: $light-grey;
+    text-decoration:underline;
+  }
+  
+  a:hover {
+	text-decoration:none;
+  }
+  
+    code {
+  	color: $light-grey;
+  }
+}
+
+.callout.orange { 
+  a {
+    color: $black;
+    text-decoration:underline;
+  }
+  
+   a:hover {
+	text-decoration:none;
+  }
+  
+    code {
+  	color: $black;
   }
 }
 
 /*** CTA buttons ***/
 
-.btn.green {
+.btn, .btn.green {
   color: #000!important;
   background-color: $green;
 }
-.btn.mustard {
-  color: #000!important;
-  background-color: $mustard;
+
+.btn:hover, .btn:focus {
+  opacity:.7;
 }
-.btn.red,
-.btn.orange {
+
+.btn.dark-grey {
   color: #fff!important;
+  background-color: $dark-grey;
+}
+
+.btn.orange {
+  color: #000!important;
   background-color: $orange;
+}
+
+.btn.light-grey {
+  color: #000!important;
+  background-color: $light-grey;
+}
+		
+.btn.raspberry {
+  color: #fff!important;
+  background-color: $raspberry;
+}
+
+.btn.purple {
+  color: #fff!important;
+  background-color: $purple;
+}
+
+.btn.black {
+  color: #fff!important;
+  background-color: $black;
 }

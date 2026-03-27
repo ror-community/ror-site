@@ -1,10 +1,8 @@
 <p class="author">
 
 	{{ if .Params.authors }}
-	
-	{{ $authors := .Params.authors }}
-	
-	By {{ delimit $authors ", " " and " }}
+		
+	By {{ delimit .Params.authors ", " " and " }}
 	
     {{ else if .Params.author }}
      By {{ .Params.author }}
