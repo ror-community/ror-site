@@ -1,41 +1,26 @@
 +++
-title = "Charleston Conference" 
-date = "2026-02-11T08:35:29-05:00"  
-draft = "false" 
-style = "card-plain" 
-banner = "/img/banners/ROR_Banner-grey.jpg" 
-thumb = "/img/events/ror-logo-800.png" 
-images = ['/img/events/ror-logo-800.png']
-author = "Research Organization Registry (ROR)" 
-eventtypes = [""]
+author = 'Research Organization Registry (ROR)'
+banner = '/img/banners/ROR_Banner-grey.jpg'
+date = '2026-03-31'
+description = ''
+draft = false
+duration = ''
+enddate = ''
 eventarchives = ["2022"]
+eventtypes = ["Conferences"]
+images = ['/img/events/ror-logo-800.png']
+location = 'Charleston'
+recorded = ''
+reglink = ''
+slidesembedded = ''
+slidespublished = ''
 startdate = 2022-11-01
-enddate = []
-starttime = ""
-duration = ""
-location = ""
-recorded = ""
-description = ""
-website = ""
-reglink = ""
+starttime = ''
+style = 'card-plain'
+subtitle = ''
+thumb = '/img/events/ror-logo-800.png'
+title = 'Charleston Conference'
+website = ''
+youtubeslug = ''
+
 +++
-
-
-<!-- Post-event content template
-
-## Materials 
-
-- [Slides from event]()
-
-{{< iframe "XXX" >}}
-
----
-
-## Recording 
-
-{{< youtube id="XXX" >}}
-
---- 
-
---> 
-
