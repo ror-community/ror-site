@@ -27,7 +27,9 @@ enableGitInfo = true
 [mediaTypes]
   [mediaTypes."application/atom+xml"]
     suffixes = ["xml"]
-
+  [mediaTypes."application/json"]
+    suffixes = ["json"]
+    
 [outputs]
   home = ["ATOM", "RSS", "HTML"]
   page = ["HTML"]

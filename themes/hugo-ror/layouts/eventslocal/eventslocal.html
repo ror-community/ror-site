@@ -1,0 +1,47 @@
+{{ $data := dict }}
+{{ $path := "data/rorevents.json" }}
+
+{{ with resources.Get $path }}
+  {{ with . | transform.Unmarshal }}
+    {{ $data = . }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get global resource %q" $path }}
+{{ end }}
+
+{{ range $data }}
+  {{/* Validate and store the data */}}
+  {{ $object := . }}
+{{ $lang := "toml" }}
+{{ $transformData := $object | transform.Remarshal $lang }}
+
+{{ $tomlContent := printf "+++\n%s\n+++" $transformData }}
+
+
+{{/* Generate the target path and filename */}}
+
+{{ $title := (replaceRE `[-_]` " " .title) | lower }}
+{{ $startdate := .startdate | lower }}
+{{ $eventfilename := printf "%s" $title | printf "%s%s" $startdate | printf "%s" }}
+{{ with .title }}
+  {{ $filename := printf "eventslocal/%s.md" (urlize . ) }}
+  {{/* Create resource from the string */}}
+  {{ $resource := resources.FromString $filename $tomlContent }}
+  {{ $file := $resource.RelPermalink }}
+{{ else }}
+  {{/* Log an error or handle missing .title appropriately */}}
+  {{ errorf "Missing .title for data: %v" $object }}
+{{ end }}
+{{ end }}
+
+</div>
+
+
+
+<div class="row">
+		<section class="post">
+		<h1>ROR AIRTABLE EVENTS FROM LOCAL DATA</h1>
+		{{ .Content}}
+		
+		</section>
+</div> 

@@ -1,5 +1,4 @@
 +++
-title = "ROR Community Call November 2019" 
 date = "2024-09-05T18:25:49-04:00"  
 draft = "false" 
 style = "card-plain" 
@@ -7,6 +6,7 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
+title = "ROR Community Call November 2019" 
 eventtypes = ["Community Calls"]
 eventarchives = ["2019"]
 startdate = 2019-11-21
