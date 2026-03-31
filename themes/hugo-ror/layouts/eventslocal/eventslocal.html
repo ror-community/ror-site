@@ -20,9 +20,11 @@
 
 {{/* Generate the target path and filename */}}
 
-{{ $title := (replaceRE `[-_]` " " .title) | lower }}
+{{ $title := .title | lower }}
+{{ $filetitle := replaceRE `[\s]` "-" $title }}
 {{ $startdate := .startdate | lower }}
-{{ $eventfilename := printf "%s" $title | printf "%s%s" $startdate | printf "%s" }}
+{{ $eventfilename := printf "%s-%s" $startdate $filetitle }}
+  <pre>{{ debug.Dump $eventfilename }}</pre>
 {{ with .title }}
   {{ $filename := printf "eventslocal/%s.md" (urlize . ) }}
   {{/* Create resource from the string */}}
