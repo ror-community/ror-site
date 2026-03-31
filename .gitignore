@@ -106,7 +106,11 @@ venv.bak/
 # mypy
 .mypy_cache/
 
+Directories and miscellaneous 
+
 resources/
 public/
+data/
+assets/data
 .hugo_build.lock
 bruce.toml
