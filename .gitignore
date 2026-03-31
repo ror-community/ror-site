@@ -114,3 +114,5 @@ data/
 assets/data
 .hugo_build.lock
 bruce.toml
+package-lock.json
+node_modules/
