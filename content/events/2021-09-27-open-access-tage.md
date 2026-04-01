@@ -1,26 +1,41 @@
 +++
-author = 'Research Organization Registry (ROR)'
-banner = '/img/banners/ROR_Banner-grey.jpg'
-date = '2026-03-31'
-description = ''
-draft = false
-duration = ''
-enddate = ''
-eventarchives = ["2021"]
-eventtypes = ["Conferences"]
+title = "Open Access Tage" 
+date = "2026-02-11T09:17:42-05:00"  
+draft = "false" 
+style = "card-plain" 
+banner = "/img/banners/ROR_Banner-grey.jpg" 
+thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
-location = 'Online'
-recorded = ''
-reglink = ''
-slidesembedded = ''
-slidespublished = ''
+author = "Research Organization Registry (ROR)" 
+eventtypes = [""]
+eventarchives = ["2021"]
 startdate = 2021-09-27
-starttime = ''
-style = 'card-plain'
-subtitle = 'Organizational Identifier Survey and ROR'
-thumb = '/img/events/ror-logo-800.png'
-title = 'Open-Access-Tage'
-website = ''
-youtubeslug = ''
-
+enddate = []
+starttime = ""
+duration = ""
+location = ""
+recorded = ""
+description = ""
+website = ""
+reglink = ""
 +++
+
+
+<!-- Post-event content template
+
+## Materials 
+
+- [Slides from event]()
+
+{{< iframe "XXX" >}}
+
+---
+
+## Recording 
+
+{{< youtube id="XXX" >}}
+
+--- 
+
+--> 
+

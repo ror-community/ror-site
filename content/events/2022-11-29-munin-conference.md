@@ -1,26 +1,41 @@
 +++
-author = 'Research Organization Registry (ROR)'
-banner = '/img/banners/ROR_Banner-grey.jpg'
-date = '2026-03-31'
-description = ''
-draft = false
-duration = ''
-enddate = ''
-eventarchives = ["2022"]
-eventtypes = ["Conferences"]
+title = "Munin Conference" 
+date = "2026-02-10T19:52:03-05:00"  
+draft = "false" 
+style = "card-plain" 
+banner = "/img/banners/ROR_Banner-grey.jpg" 
+thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
-location = 'Online'
-recorded = ''
-reglink = ''
-slidesembedded = ''
-slidespublished = ''
+author = "Research Organization Registry (ROR)" 
+eventtypes = [""]
+eventarchives = ["2022"]
 startdate = 2022-11-29
-starttime = ''
-style = 'card-plain'
-subtitle = ''
-thumb = '/img/events/ror-logo-800.png'
-title = 'Munin Conference'
-website = ''
-youtubeslug = ''
-
+enddate = []
+starttime = ""
+duration = ""
+location = ""
+recorded = ""
+description = ""
+website = ""
+reglink = ""
 +++
+
+
+<!-- Post-event content template
+
+## Materials 
+
+- [Slides from event]()
+
+{{< iframe "XXX" >}}
+
+---
+
+## Recording 
+
+{{< youtube id="XXX" >}}
+
+--- 
+
+--> 
+
