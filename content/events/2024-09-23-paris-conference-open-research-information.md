@@ -23,7 +23,7 @@ reglink = "https://barcelona-declaration.org/conference"
 
 - [Slides from event]()
 
-<iframe src=""></iframe>
+{{< iframe "" >}}
 
 ---
 
