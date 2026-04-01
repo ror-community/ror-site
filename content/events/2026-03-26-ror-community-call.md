@@ -28,14 +28,8 @@ reglink = "https://crossref.zoom.us/meeting/register/HRvXAiiKR_-QhguMiTZ6Dg"
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQr2ZH4OLd_n7TggMYWzZyuB3b5HxOFZOcfGCxVqd3H3NnjprEkFtg73zOc375rd04oKggzJEOWy4uW/pubembed?start=false&loop=false&delayms=3000" >}}
 
-<!-- Post-event content template
-
----
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
-
-
---!> 
+{{< youtube id="n2mrgs7ZBEY" >}}
 
