@@ -25,7 +25,7 @@ reglink = "https://force11.org/conference/"
 
 - [Slides from event]()
 
-<iframe src=""></iframe>
+{{< iframe "" >}}
 
 ---
 
