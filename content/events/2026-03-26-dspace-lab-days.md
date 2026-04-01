@@ -21,15 +21,13 @@ reglink = ""
 +++
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQs1QdvigV_ZclX57Y-5_rprr-20cAuvpBe1tCxHx_WC5jG7xqxb1UUFazBI0Y7ywKaba5WCBJYFqzs/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQs1QdvigV_ZclX57Y-5_rprr-20cAuvpBe1tCxHx_WC5jG7xqxb1UUFazBI0Y7ywKaba5WCBJYFqzs/pubembed?start=false&loop=false&delayms=3000" >}}
 
----
+<!--
 
 ## Recording 
 
@@ -37,5 +35,5 @@ reglink = ""
 
 --- 
 
---> 
+--!> 
 

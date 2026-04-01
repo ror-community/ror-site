@@ -27,31 +27,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### Institutional IDs Unlocked – ROR meets DSpace
-
-- Date: March 26, 2026
-- Time: [11am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=11am&d=2026-03-26)
-- Duration: 1 hour
-- Location: Online
-- Description: During the fifth day of DSpace Lab Days, we will explore how the Research Organization Registry (ROR) integrates with DSpace and what it means for improving affiliation data quality, research reporting, and open science workflows. 
-
-{{< button color="green" link="https://pcgacademia.pl/en/dspace-lab-day-5/" >}} Register for DSpace Lab Days{{< /button >}}
-
---- 
-
-### ROR Community Call March 2026
-
-- Date: March 26, 2026
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-03-26)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The March 2026 ROR Community Call features presentations from representatives of OA Switchboard, Europe PMC, and SciLife Lab on how and why they're using ROR. The ROR team also gives updates on recent and upcoming events and blog posts, ongoing curation work, and product and technical improvements. 
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/HRvXAiiKR_-QhguMiTZ6Dg" >}} Register for the ROR Community Call March 2026  {{< /button >}}
-
----
-
 ### ROR Community Call May 2026
 
 - Date: May 19, 2026
@@ -107,10 +82,22 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ## Calendar
 
 
-{{< iframe src="https://airtable.com/embed/app3WaI1eI0QkIssR/shrjfz6xRlmGgiDya" >}} 
+{{< iframe "https://airtable.com/embed/app3WaI1eI0QkIssR/shrjfz6xRlmGgiDya" >}} 
 
 ## Past events 
 
+### ROR Community Call March 2026
+
+March 26, 2026 | [Event details and materials](2026-03-26-ror-community-call)
+
+
+---
+
+### Institutional IDs Unlocked – ROR meets DSpace
+
+March 26, 2026 | [Event details and materials](2026-03-26-dspace-lab-days)
+
+--- 
 
 ### OpenAlex - Accurate Affiliations, Accurate Attributions
 
