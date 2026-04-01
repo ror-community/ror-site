@@ -26,7 +26,7 @@ reglink = "https://ncar.github.io/FAIR-Facilities-Instruments/"
 
 - [Slides from event]()
 
-<iframe src=""></iframe>
+{{< iframe "" >}}
 
 ---
 
