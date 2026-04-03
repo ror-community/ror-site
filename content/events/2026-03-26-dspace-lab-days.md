@@ -27,13 +27,14 @@ reglink = ""
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQs1QdvigV_ZclX57Y-5_rprr-20cAuvpBe1tCxHx_WC5jG7xqxb1UUFazBI0Y7ywKaba5WCBJYFqzs/pubembed?start=false&loop=false&delayms=3000" >}}
 
-<!--
+
+---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="6zObnW2j1Yo" >}}
 
 --- 
 
---!> 
+
 
