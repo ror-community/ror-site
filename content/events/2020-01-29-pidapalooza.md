@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Lisbon'
 recorded = ''
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2020-01-29
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'PIDapalooza'
 website = ''
-youtubeslug = ''
-
 +++

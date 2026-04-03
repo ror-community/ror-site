@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Oakland'
 recorded = 'No'
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2019-09-19
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'Crossref LIVE Oakland'
 website = ''
-youtubeslug = ''
-
 +++

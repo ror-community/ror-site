@@ -19,7 +19,6 @@ description = "In our fourth annual meeting, we've added additional sessions on 
 website = ""
 reglink = ""
 aliases = [ "2023-01-31-annual-ror-community-meeting" ]
-
 +++
 
 ## Materials

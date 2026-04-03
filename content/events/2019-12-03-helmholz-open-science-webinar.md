@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Online'
 recorded = 'No'
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2019-12-03
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'Helmholz Open Science Webinar'
 website = ''
-youtubeslug = ''
-
 +++

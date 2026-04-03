@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Online'
 recorded = 'No'
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2019-10-07
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'DataCite Open Hours'
 website = ''
-youtubeslug = ''
-
 +++

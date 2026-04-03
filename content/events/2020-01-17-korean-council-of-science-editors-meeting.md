@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Seoul'
 recorded = ''
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2020-01-17
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'Korean Council of Science Editors Meeting'
 website = ''
-youtubeslug = ''
-
 +++

@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'London'
 recorded = 'No'
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2019-06-26
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'UKRI metadata review'
 website = ''
-youtubeslug = ''
-
 +++

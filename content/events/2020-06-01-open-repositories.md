@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Stellenbosch (rescheduled virtually)'
 recorded = ''
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2020-06-01
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'Open Repositories'
 website = ''
-youtubeslug = ''
-
 +++

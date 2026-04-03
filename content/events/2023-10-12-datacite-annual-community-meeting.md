@@ -12,8 +12,6 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Online'
 recorded = 'Yes'
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2023-10-12
 starttime = ''
 style = 'card-plain'
@@ -21,6 +19,4 @@ subtitle = 'The Role of Funders in Building a Robust and Trustworthy Output Trac
 thumb = '/img/events/ror-logo-800.png'
 title = 'DataCite Annual Community Meeting'
 website = 'https://datacite.zoom.us/webinar/register/7716951154450/WN_VHRhKWT9T3C1MXGR5pvxiA#/registration'
-youtubeslug = ''
-
 +++

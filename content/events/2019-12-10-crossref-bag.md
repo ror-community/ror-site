@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Online'
 recorded = ''
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2019-12-10
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'Crossref BAG'
 website = ''
-youtubeslug = ''
-
 +++

@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Online'
 recorded = ''
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2020-11-09
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'Core dataset research'
 website = ''
-youtubeslug = ''
-
 +++

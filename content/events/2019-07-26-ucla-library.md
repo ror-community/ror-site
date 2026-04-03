@@ -12,15 +12,10 @@ images = ['/img/events/ror-logo-800.png']
 location = 'Los Angeles, CA'
 recorded = 'No'
 reglink = ''
-slidesembedded = ''
-slidespublished = ''
 startdate = 2019-07-26
 starttime = ''
 style = 'card-plain'
-subtitle = ''
 thumb = '/img/events/ror-logo-800.png'
 title = 'UCLA Library'
 website = ''
-youtubeslug = ''
-
 +++
