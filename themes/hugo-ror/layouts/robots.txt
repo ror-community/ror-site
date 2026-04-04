@@ -6,9 +6,9 @@ Disallow: /lzkrz4eva
 
 Disallow: /liz-request
 
-Disallow: /0*
+Disallow: {{ .Site.BaseURL }}0*
 
-Disallow: /search?*
+Disallow: {{ .Site.BaseURL }}search?*
 
 {{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
 
@@ -16,9 +16,9 @@ User-agent: *
 {{ range .Pages }}
 Disallow: {{ .RelPermalink }}
 
-Disallow: /0*
+Disallow: {{ .Site.BaseURL }}/0*
 
-Disallow: /search?*
+Disallow:{{ .Site.BaseURL }} /search?*
 
 
 {{ end }}
@@ -29,9 +29,9 @@ User-agent: *
 {{ range .Pages }}
 Disallow: {{ .RelPermalink }}
 
-Disallow: /0*
+Disallow: {{ .Site.BaseURL }}0*
 
-Disallow: /search?*
+Disallow: {{ .Site.BaseURL }}search?*
 
 {{ end }}
 
@@ -43,8 +43,8 @@ Disallow: /lzkrz4eva
 
 Disallow: /liz-request
 
-Disallow: /0*
+Disallow: {{ .Site.BaseURL }}0*
 
-Disallow: /search?*
+Disallow: {{ .Site.BaseURL }}search?*
 
 {{ end }}
