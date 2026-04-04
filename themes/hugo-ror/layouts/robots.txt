@@ -1,6 +1,7 @@
 {{ if eq .Site.BaseURL "https://ror.org/" }}
 
 User-agent: *
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
 Disallow: {{ .Site.BaseURL }}0*
 
@@ -13,6 +14,8 @@ Disallow: /liz-request
 {{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
 
 User-agent: *
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
 Disallow: {{ .Site.BaseURL }}/0*
 
@@ -27,6 +30,8 @@ Disallow: {{ .RelPermalink }}
 
 User-agent: *
 
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
+
 Disallow: {{ .Site.BaseURL }}0*
 
 Disallow: {{ .Site.BaseURL }}search?*
@@ -38,6 +43,8 @@ Disallow: {{ .RelPermalink }}
 {{ else }}
 
 User-agent: *
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
 Disallow: {{ .Site.BaseURL }}0*
 
