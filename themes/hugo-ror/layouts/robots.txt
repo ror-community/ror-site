@@ -2,49 +2,59 @@
 
 User-agent: *
 
+Disallow: /0*
+
+Disallow: /search?*
+
 Disallow: /lzkrz4eva
 
 Disallow: /liz-request
 
-Disallow: /0*
-
-Disallow: /search?*
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
 {{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
 
 User-agent: *
-{{ range .Pages }}
-Disallow: {{ .RelPermalink }}
 
 Disallow: /0*
 
 Disallow: /search?*
 
+{{ range .Pages }}
+Disallow: {{ .RelPermalink }}
 
 {{ end }}
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
 {{ else if eq .Site.BaseURL "https://dev.ror.org/" }}
 
 User-agent: *
-{{ range .Pages }}
-Disallow: {{ .RelPermalink }}
 
 Disallow: /0*
 
 Disallow: /search?*
 
+{{ range .Pages }}
+Disallow: {{ .RelPermalink }}
+
 {{ end }}
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
 {{ else }}
 
 User-agent: *
 
+Disallow: /0*
+
+Disallow: /search?*
+
 Disallow: /lzkrz4eva
 
 Disallow: /liz-request
 
-Disallow: /0*
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
-Disallow: /search?*
 
 {{ end }}
