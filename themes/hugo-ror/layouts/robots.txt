@@ -10,6 +10,8 @@ Disallow: /lzkrz4eva
 
 Disallow: /liz-request
 
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
+
 {{ else if eq .Site.BaseURL "https://staging.ror.org/" }}
 
 User-agent: *
@@ -22,6 +24,8 @@ Disallow: /search?*
 Disallow: {{ .RelPermalink }}
 
 {{ end }}
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
 
 {{ else if eq .Site.BaseURL "https://dev.ror.org/" }}
 
@@ -36,6 +40,8 @@ Disallow: {{ .RelPermalink }}
 
 {{ end }}
 
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
+
 {{ else }}
 
 User-agent: *
@@ -47,5 +53,8 @@ Disallow: /search?*
 Disallow: /lzkrz4eva
 
 Disallow: /liz-request
+
+Sitemap: {{ .Site.BaseURL }}sitemap.xml
+
 
 {{ end }}
