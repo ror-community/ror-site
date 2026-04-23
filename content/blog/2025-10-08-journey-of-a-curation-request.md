@@ -93,7 +93,7 @@ Metadata from issues is then extracted programmatically to create new and update
 
 And then, hooray! A [new release](https://github.com/ror-community/ror-updates/releases/) of ROR is published and becomes part of the open, global registry. 
 
-The release is then announced across our community channels, including on social media – [LinkedIn](https://www.linkedin.com/company/ror-research-organization-registry/), [Bluesky](https://bsky.app/profile/researchorgs.bsky.social), and [Mastodon](https://mastodon.social/@ResearchOrgs) – and the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech). After the release goes live, you’ll see a comment on your GitHub issue letting you know it’s been published. 
+The release is then announced across our community channels, including on social media – [LinkedIn](https://www.linkedin.com/company/ror-research-organization-registry/), [Bluesky](https://bsky.app/profile/ror.org), and [Mastodon](https://mastodon.social/@ResearchOrgs) – and the [ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech). After the release goes live, you’ll see a comment on your GitHub issue letting you know it’s been published. 
 
 {{< figure src="/img/blog/journey-curation-request/ror-new-id.png"  alt="A post-release comment is added to a request for a ROR ID for the Altamash Institute of Dental Medicine." caption="A post-release comment is added to a [request for a ROR ID for the Altamash Institute of Dental Medicine](https://github.com/ror-community/ror-updates/issues/25783)." >}}
 
