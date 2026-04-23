@@ -2,7 +2,7 @@
 title = "ROR in 2024: Year in Review" 
 date = "2024-12-17T14:44:18-05:00"
 draft = false 
-tags = ["", ""] 
+tags = ["Community"] 
 categories = ["Year in Review"] 
 archives = ["2024"]
 style = "card-plain" 
