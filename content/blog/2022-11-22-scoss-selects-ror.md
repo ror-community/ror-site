@@ -2,7 +2,7 @@
 title = "SCOSS Selects ROR as Essential Open Infrastructure"
 date = "2022-11-22"
 draft = false
-tags = ["Sustainability", "Community"]
+tags = ["Sustainability", "Community", "SCOSS"]
 categories = ["General Updates"]
 archives = ["2022"]
 style = "card-plain"
