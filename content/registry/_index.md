@@ -68,7 +68,7 @@ Bulk requests, like all other requests, are openly available and can be tracked 
 
 ROR is a registry of research organizations. We define "research organization" as **any organization that produces, funds, facilitates, manages, publishes, or is otherwise involved in scholarly research.** Organizations must be involved in research to be included in the registry.
 
-To be included in the registry, an organization also **should not exist as a subdivision** within a single standalone organization, **should demonstrate independence** from other organizations to which it is related, and **should be a collective and enduring entity**. 
+To be included in the registry, an organization need not be a legal entity, but it **should not exist as a subdivision** within a single standalone organization, **should demonstrate independence** from other organizations to which it is related, and **should be a collective and enduring entity**. 
 
 Therefore, the following entities are typically out of scope for ROR:
 
@@ -79,9 +79,9 @@ Therefore, the following entities are typically out of scope for ROR:
 - Single-person organizations such as consultancies
 - Journals 
 
-Entities **do not need to be legal organizations** to be included in ROR, but they should demonstrate operational independence and viability beyond the life of an individual person. Separate locations of large organizations receive a ROR ID for each location if each operates with a significant degree of independence. 
+ROR **supports organizational hierarchy and relationships**, but "child" organizations such as research institutes and laboratories should demonstrate independence from any individual "parent" organization. Separate locations of large organizations receive "child" ROR IDs for each location if each operates with a significant degree of independence from one another and from the "parent" organization. 
 
-One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is acknowledged by multiple people in multiple research outputs as a contributor's affiliation, as a funder, or as a publisher**. Therefore, requests for new ROR IDs are most likely to be successful when they include several links to reputable journal articles, books, datasets, or other research outputs in which more than one person acknowledges that the organization is connected to the research. 
+One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **whether the organization is acknowledged by multiple people in multiple research outputs as a contributor's affiliation, as a funder, or as a publisher**. Therefore, requests for new ROR IDs are most likely to be successful when they include several links to reputable journal articles, books, datasets, or other research outputs in which more than one person acknowledges the organization by name as an affiliation, funder, or publisher. 
 
 ## About registry data 
 ROR registry records include a unique ID for each organization along with additional metadata about each organization to facilitate discovery and disambiguation. The ROR ID is expressed as a URL that resolves to the organization's record. [Search the ROR registry](https://ror.org/search) to see examples of ROR records and IDs.
