@@ -13,15 +13,15 @@ By
 </p>
 
 {{ if .Params.doi }}
-<p class="doi">
-<a href="{{ .Params.doi }}">{{ .Params.doi }}</a>
+<p class="postmetadata">
+DOI: <a href="{{ .Params.doi }}">{{ .Params.doi }}</a>
 </p>
 {{ else }}
 {{ end }}
 
 {{ if .Params.crosspost }}
-<p class="doi">
-Also posted at <a href="{{ .Params.crosspost }}">{{ .Params.crosspost }}</a>
+<p class="postmetadata">
+Cross-posted: <a href="{{ .Params.crosspost }}">{{ .Params.crosspost }}</a>
 </p>
 {{ else }}
 {{ end }}
@@ -32,7 +32,7 @@ Also posted at <a href="{{ .Params.crosspost }}">{{ .Params.crosspost }}</a>
 
 {{- range $index, $categories := .GetTerms "categories" }}
 
-<p class="blogterms">
+<p class="postmetadata">
 
 <a href="/categories/{{ .Page.Title | urlize }}">{{- .Page.Title }}</a> 
 {{- if ge $index 0 }}, {{- end }}
