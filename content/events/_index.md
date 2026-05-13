@@ -34,9 +34,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+- Description: At the May edition of the bi-monthly ROR community call, Peter Aspeslagh of ECOOM showcases the [Flemish Organization Registry](https://www.flemishorganizationregistry.be/en/home) and Jason Portenoy of Crossref will discuss the [forthcoming implementation of funder name to ROR ID matching in Crossref metadata](https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/). The ROR team also gives updates on what we've been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR. 
+ 
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ" >}} Register for the ROR Community Call May 2026 {{< /button >}}
 
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ" >}} Register for the ROR Community Call May 2026  {{< /button >}}
+---
+
+### FORCE11 2026
+- Dates: June 3-5, 2026
+- Location: Singapore
+- Description: Representatives from ROR will speak at FORCE11 on how ROR can help ensure research integrity by helping to identify author affiliations.
+
+{{< button color="green" link="https://event.fourwaves.com/force2026/" >}} Register for FORCE11 2026 {{< /button >}}
 
 ---
 
