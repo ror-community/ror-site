@@ -31,5 +31,3 @@ reglink = "https://crossref.zoom.us/meeting/register/6Gx1E54nRfGMZwaCs7_GOQ"
 
 {{< youtube id="A2niUz4kSBc" >}}
 
-
-

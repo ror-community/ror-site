@@ -1,4 +1,3 @@
-+++
 title = "World Data Systems - Persistent Identifiers: Enabling Trust and Discovery in Research Data" 
 date = "2026-02-10T17:53:47-05:00"  
 draft = "false" 
@@ -30,13 +29,4 @@ reglink = "https://tennessee.zoom.us/webinar/register/WN_1EOW4pb6Tg-wCKYmM9-glw"
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQ52QffGym8Df2MVuOV7hZ5T0-oEa1L3NiIh3cLYOeWdkYrzFkb0FS9qCAVwMxTS6myM7D8-RmDDH8C/pubembed?start=false&loop=false&delayms=3000" >}}
 
-
-<!--
-
-## Recording 
-
-{{< youtube id="XXX" >}}
-
-
---!> 
 

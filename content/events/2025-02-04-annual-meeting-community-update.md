@@ -1,6 +1,6 @@
 +++
 title = "ROR Annual Meeting 2025: Community Update" 
-date = "2025-02-10T15:59:19-05:00"  
+date = "2024-12-01T15:59:19-05:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
