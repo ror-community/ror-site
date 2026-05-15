@@ -9,7 +9,7 @@ link = "https://ror.org/about/team/#core-team"
 team = "false"
 jobtitle = ""
 bio = ""
-aliases = "/ror-core-team"
+
 +++ 
 
 

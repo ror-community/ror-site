@@ -9,6 +9,6 @@ link = ""
 team = "false"
 jobtitle = "Data Management and Data Curation Fellow"
 bio = ""
-aliases = "/peyton-tvrdy"
+
 +++ 
 

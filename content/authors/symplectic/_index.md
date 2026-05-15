@@ -9,6 +9,6 @@ link = "http://symplectic.co.uk/"
 team = "false"
 jobtitle = ""
 bio = ""
-aliases = "/symplectic"
+
 +++ 
 
