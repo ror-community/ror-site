@@ -9,6 +9,5 @@ link = ""
 team = "false"
 jobtitle = ""
 bio = ""
-aliases = "/{{ .ContentBaseName }}"
 +++ 
 
