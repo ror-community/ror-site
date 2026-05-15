@@ -9,6 +9,6 @@ link = ""
 team = "false"
 jobtitle = ""
 bio = ""
-aliases = "/john-lewis"
+
 +++ 
 

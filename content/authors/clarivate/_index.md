@@ -9,7 +9,7 @@ link = ""
 team = "false"
 jobtitle = ""
 bio = ""
-aliases = "/clarivate"
+
 +++ 
 
 
