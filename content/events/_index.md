@@ -27,19 +27,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call May 2026
-
-- Date: May 19, 2026
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-05-19)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: At the May edition of the bi-monthly ROR community call, Peter Aspeslagh of ECOOM showcases the [Flemish Organization Registry](https://www.flemishorganizationregistry.be/en/home) and Jason Portenoy of Crossref discusses the [forthcoming implementation of funder name to ROR ID matching in Crossref metadata](https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/). The ROR team also gives updates on what we've been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR. 
- 
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ" >}} Register for the ROR Community Call May 2026 {{< /button >}}
-
----
-
 ### FORCE11 2026
 - Dates: June 3-5, 2026
 - Location: Singapore
@@ -90,10 +77,16 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Past events 
 
+### ROR Community Call May 2026
+
+May 19, 2026 | [Event details and materials](2026-05-19-ror-community-call)
+
+---
+
+
 ### ROR Community Call March 2026
 
 March 26, 2026 | [Event details and materials](2026-03-26-ror-community-call)
-
 
 ---
 
