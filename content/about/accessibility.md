@@ -26,7 +26,7 @@ As of **May 2026**, the major pages of the [ROR website](https://ror.org) (inclu
 
 ### Search application 
 
-As of **May 2026**, the [ROR search application](https://ror.org/search) (including results lists and individual records) shows **1 error and 0 contrast errors**. The error is caused by a missing button label and will be addressed as soon as possible. 
+As of **May 2026**, the [ROR search application](https://ror.org/search) (including results lists and individual records) shows **0 errors and 0 contrast errors**. 
 
 {{< figure src="/img/ror-a11y-search-2026-05.png" alt="ROR search application with WAVE evaluation." >}} 
 
