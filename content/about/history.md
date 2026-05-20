@@ -8,7 +8,7 @@ description = "History of the Research Organization Registry (ROR), first planne
 aliases = "/history"
 +++ 
 
-{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases: Community planning 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
+{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases of ROR history starting in 2016." >}}
 
 ## Community planning
 
