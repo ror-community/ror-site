@@ -1,0 +1,19 @@
+{{- $url := "https://api.ror.org/v2/organizations" -}}
+{{- $opts := dict "headers" (dict "Accept" "application/json") -}}
+{{- $response := resources.GetRemote $url $opts -}}
+
+{{ with try (resources.GetRemote $url) }}
+  {{ with .Err }}
+    {{ warnf "%s" . }}
+  {{ else with .Value }}
+{{- if $response -}}
+  {{- $data := $response | transform.Unmarshal -}}
+  {{- $count := $data.number_of_results -}}
+  <span class="rorcount">{{ lang.FormatNumber 0 $count }}</span>
+{{- else -}}
+  <span class="rorcount">unavailable</span>
+{{- end -}}
+{{ else }}
+    {{ warnf "Unable to get remote resource %q" $url }}
+  {{ end }}
+{{ end }}
