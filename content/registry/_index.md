@@ -68,7 +68,9 @@ Bulk requests, like all other requests, are openly available and can be tracked 
 
 ROR includes **any organization that produces, funds, facilitates, manages, publishes, or is otherwise involved in scholarly research.** Organizations must be involved in research to be included in the registry.
 
-The primary criterion we use for evaluating whether an organization is involved in research is **if the organization appears as an affiliation, funder, or publisher in research outputs such as journal articles and datasets.** When evaluating requests for new ROR IDs, our curation team seeks evidence that the organization is acknowledged by name in multiple reputable research outlets by multiple people. To be included in the registry, an organization need not be a legal entity, but it **should not exist as a subdivision** within a single standalone organization, **should demonstrate independence** from other organizations to which it is related, and **should be a collective and enduring entity**.
+The primary criterion we use for evaluating whether an organization is involved in research is **if the organization appears as an affiliation, funder, or publisher in research outputs such as journal articles and datasets.** When evaluating requests for new ROR IDs, our curation team seeks evidence that the organization is acknowledged by name in multiple reputable research outlets by multiple people. 
+
+To be included in the registry, an organization need not be a legal entity, but it **should not exist as a subdivision** within a single organization, **should demonstrate independence** from other organizations to which it is related, and **should be a collective and enduring entity**.
 
 Therefore, the following entities are typically out of scope for ROR:
 
