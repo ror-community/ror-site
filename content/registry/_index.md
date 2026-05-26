@@ -66,22 +66,24 @@ Bulk requests, like all other requests, are openly available and can be tracked 
 
 ## Scope and criteria for inclusion {#scope-and-criteria-for-inclusion} 
 
-ROR is a registry of research organizations. We define "research organization" as **any organization that produces, funds, facilitates, manages, publishes, or is otherwise involved in scholarly research.** Organizations must be involved in research to be included in the registry.
+ROR includes **any organization that produces, funds, facilitates, manages, publishes, or is otherwise involved in scholarly research.** Organizations must be involved in research to be included in the registry.
 
-One of the primary criteria we use for evaluating whether an organization is in scope for ROR is **if the organization appears as an affiliation, funder, or publisher in research outputs**. Therefore, requests for new ROR IDs are most likely to be successful when they include several links to reputable journal articles, datasets, or other research outputs in which **more than one person** acknowledges the organization by name.
+The primary criterion we use for evaluating whether an organization is involved in research is **if the organization appears as an affiliation, funder, or publisher in research outputs such as journal articles and datasets.** When evaluating requests for new ROR IDs, our curation team seeks evidence that the organization is acknowledged by name in multiple reputable research outlets by multiple people. 
 
-To be included in the registry, an organization need not be a legal entity, but it **should not exist as a subdivision** within a single standalone organization, **should demonstrate independence** from other organizations to which it is related, and **should be a collective and enduring entity**. 
+To be included in the registry, an organization need not be a legal entity, but it **should not exist as a subdivision** within a single organization, **should demonstrate independence** from other organizations to which it is related, and **should be a collective and enduring entity**.
 
 Therefore, the following entities are typically out of scope for ROR:
 
 - Internal units of companies
-- University faculties, colleges, schools, and departments
+- University faculties, colleges, schools, departments, and service units
 - Funding programs and schemes
 - Projects or initiatives that are not organizations
+- Journals
 - Single-person organizations such as consultancies
-- Journals 
 
-ROR supports organizational hierarchy and relationships, but “child” organizations such as research institutes and laboratories should demonstrate a significant degree of independence from “parent” organizations. Separate locations of large organizations can receive “child” ROR IDs for each location. 
+ROR's primary purpose is to enable research outputs to be connected to research organizations in scholarly metadata. ROR does support organizational hierarchies and relationships, but including too many non-organization entities in ROR would detract from ROR's primary purpose by obscuring signal with noise. 
+
+Therefore, in order to be included in ROR, child organizations such as research institutes, research facilities, and laboratories should demonstrate a significant degree of independence from their parent organizations and/or be **frequently cited in research outputs without reference to their parent organizations**. Separate locations of large organizations can receive child ROR IDs for each location. 
 
 If you are still not sure whether your organization is in scope for ROR, email support@ror.org and we will advise you. 
 
