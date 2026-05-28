@@ -227,6 +227,6 @@ February 4, 2025 | [Event details and materials](2025-02-04-annual-meeting-commu
 
 ### More past events
 
-See [more past events](https://airtable.com/app3WaI1eI0QkIssR/shraBgs4xLlsBCboZ) ROR has participated in, with links to slides and recordings where available.
+See [more past events](https://airtable.com/appuVOGgTZkCDAn4L/shrlj0DqBAvPw8H2s) ROR has participated in, with links to slides and recordings where available.
 
 
