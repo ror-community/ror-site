@@ -56,7 +56,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+- Description: The September edition of the bi-monthly ROR community call focuses on ROR in Repositories with an eye toward helping institutional repository managers who use DSpace make sure their metadata is enriched with ROR. Małgorzata Paszcowska of [PCG Academia](https://pcgacademia.pl/) explains all the ROR-enabled features in DSpace with a special focus on new RORifications in DSpace 10. In addition, Laura Meier of [LMU Münich](https://www.lmu.de/en/) demonstrates the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/), which helps create ROR-enriched metadata for DataCite DOIs. The ROR team also gives updates on what we’ve been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR.
+
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/u24MW3cvQrChX7obuewuMw" >}} Register for the ROR Community Call September 2026 {{< /button >}}
 
@@ -227,6 +228,6 @@ February 4, 2025 | [Event details and materials](2025-02-04-annual-meeting-commu
 
 ### More past events
 
-See [more past events](https://airtable.com/app3WaI1eI0QkIssR/shraBgs4xLlsBCboZ) ROR has participated in, with links to slides and recordings where available.
+See [more past events](https://airtable.com/appuVOGgTZkCDAn4L/shrlj0DqBAvPw8H2s) ROR has participated in, with links to slides and recordings where available.
 
 
