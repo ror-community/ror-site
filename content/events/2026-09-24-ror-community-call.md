@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
+description = "The September edition of the bi-monthly ROR community call focuses on ROR in Repositories with an eye toward helping institutional repository managers who use DSpace make sure their metadata is enriched with ROR. Małgorzata Paszcowska of PCG Academia explains all the ROR-enabled features in DSpace with a special focus on new RORifications in DSpace 10. In addition, Laura Meier of LMU Münich demonstrates the DataCite Metadata Generator, which helps create ROR-enriched metadata for DataCite DOIs. The ROR team also gives updates on what we’ve been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR."
 website = ""
 reglink = "https://crossref.zoom.us/meeting/register/u24MW3cvQrChX7obuewuMw"
 +++
