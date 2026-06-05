@@ -7075,8 +7075,9 @@ $desktop-width: 1024px;
 	padding: 1.5em 0 0 0;
 }
 
+.section-announcement p,
 .section-announcement p a {
-	color:#FFF;
+	color: $black;
 	font-size:1.75rem;
 }
 
