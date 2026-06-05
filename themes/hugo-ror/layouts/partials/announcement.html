@@ -1,12 +1,12 @@
 {{ if isset .Site.Params "announcement" }}
 {{ if .Site.Params.announcement.enable }}
 {{ if gt (len .Site.Data.announcement) 0 }}
-<section id="announcement" class="section section-announcement" data-background-color="purple">
+<section id="announcement" class="section section-announcement" data-background-color="orange">
   <div class="container">
     {{ range sort .Site.Data.announcement }}
     <div class="row">
       <div class="col-md-12 ml-auto mr-auto text-center">
-        <p><a href="{{ .announcement_url }}">{{ .announcement_text }}</a></p>
+        <p>{{ if .announcement_url }}<a href="{{ .announcement_url }}">{{ .announcement_text }}</a>{{ else }}{{ .announcement_text }}{{ end }}</p>
       </div>
     </div>
     {{ end }}
