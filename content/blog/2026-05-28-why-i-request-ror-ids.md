@@ -2,7 +2,7 @@
 title = "Why I Request ROR IDs for New Crossref Members" 
 date = "2026-05-28T12:37:53-04:00"
 draft = false 
-tags = ["Crossref", "Publishers", "Curation"] 
+tags = ["Crossref", "Publishing", "Curation"] 
 categories = ["Case Studies"] 
 archives = ["2026"]
 style = "card-plain" 
