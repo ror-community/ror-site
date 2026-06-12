@@ -13,29 +13,16 @@ startdate = 2023-01-17
 enddate = []
 starttime = ""
 duration = ""
-location = ""
-recorded = ""
-description = ""
-website = ""
+location = "Online"
+recorded = "Yes"
+description = "Signifying the crucial importance of publication and data repositories and the metadata registries that support their discovery and interoperability, Dryad, LA Referencia, and the Research Organization Registry (ROR) were selected as targets for the fourth round of crowdfunding from the Global Sustainability Coalition for Open Science Services (SCOSS). Please join the Association of Research Libraries (ARL), the Canadian Association of Research Libraries (CARL), the Canadian Research Knowledge Network (CRKN), and SCOSS for a one-hour webinar focused on these critical open infrastructures for science and scholarship, the services they provide, and the sustainability issues they face."
+website = "https://www.arl.org/event/arl-carl-crkn-scoss-webinar/"
 reglink = ""
 +++
 
 
-<!-- Post-event content template
-
-## Materials 
-
-- [Slides from event]()
-
-{{< iframe "XXX" >}}
-
----
-
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="JeM2wRND8cE?si=LaoG0VD7KzCiPGij" >}}
 
---- 
-
---> 
 
