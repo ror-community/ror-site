@@ -20,6 +20,13 @@ website = ""
 reglink = ""
 +++
 
+<!-- List speakers and affiliations here
+
+## Speakers
+
+* 
+
+--!>
 
 <!-- Post-event content template
 
@@ -37,5 +44,5 @@ reglink = ""
 
 --- 
 
---> 
+--!> 
 

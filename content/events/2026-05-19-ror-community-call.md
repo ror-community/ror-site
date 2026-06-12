@@ -15,26 +15,22 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
+description = "At the May edition of the bi-monthly ROR community call, Peter Aspeslagh of ECOOM showcases the [Flemish Organization Registry](https://www.flemishorganizationregistry.be/en/home) and Jason Portenoy of Crossref discusses the [forthcoming implementation of funder name to ROR ID matching in Crossref metadata](https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/). The ROR team also gives updates on what we've been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR."
 website = ""
-reglink = "https://crossref.zoom.us/meeting/register/dUUAxBccQNWEYaVHT9x-QQ"
+reglink = ""
 +++
-
-
-<!-- Post-event content template
 
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQ7-xEJq0-6isUEp6dmUe3iybFFi6fljM0gbAkX963yTkpJe3JO7MyfrY90N65xSliK0enmFnyJEsKZ/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQ7-xEJq0-6isUEp6dmUe3iybFFi6fljM0gbAkX963yTkpJe3JO7MyfrY90N65xSliK0enmFnyJEsKZ/pubembed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="uYldTA887aw" >}}
 
 
---!> 
 

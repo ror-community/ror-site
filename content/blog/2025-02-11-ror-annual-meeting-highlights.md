@@ -61,7 +61,7 @@ Finally, Masatsura Igami of NISTEP described why and how they incorporated ROR i
 
 ## Join us in the coming months
 
-ROR has plenty to keep us busy this year, and you surely do as well. Keep in touch with us by registering for ROR's upcoming [events](/events), by signing up for the [quarterly ROR newsletter](http://eepurl.com/gjkT9H), by joining the [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community/) to receive more frequent announcements and participate in discussions, or by following ROR on [Bluesky](https://bsky.app/profile/researchorgs.bsky.social), [Mastodon](https://mastodon.social/@ResearchOrgs), or [LinkedIn](https://www.linkedin.com/company/ror-research-organization-registry/). Here's hoping we all thrive in 2025.
+ROR has plenty to keep us busy this year, and you surely do as well. Keep in touch with us by registering for ROR's upcoming [events](/events), by signing up for the [quarterly ROR newsletter](https://eepurl.com/gjkT9H), by joining the [ROR Community Forum](https://groups.google.com/a/ror.org/g/ror-community/) to receive more frequent announcements and participate in discussions, or by following ROR on [Bluesky](https://bsky.app/profile/researchorgs.bsky.social), [Mastodon](https://mastodon.social/@ResearchOrgs), or [LinkedIn](https://www.linkedin.com/company/ror-research-organization-registry/). Here's hoping we all thrive in 2025.
 
 {{< callout icon="fa-envelope" >}}
 

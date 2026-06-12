@@ -2,7 +2,7 @@
 title = "ROR's Year in Review: 2023"
 date = "2023-12-15"
 draft = false
-tags = ["adoption"]
+tags = ["Community"]
 categories = ["Year in Review"]
 archives = ["2023"]
 style = "card-plain"

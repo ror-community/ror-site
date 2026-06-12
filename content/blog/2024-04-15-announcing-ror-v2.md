@@ -96,7 +96,7 @@ The launch of version 2 of ROR ranks right up there with other [major milestones
 
 If you'd like to participate in future ROR developments, please get involved with the ROR [community](/community)! 
 
-* [Subscribe to the quarterly ROR newsletter](http://eepurl.com/gjkT9H) 
+* [Subscribe to the quarterly ROR newsletter](https://eepurl.com/gjkT9H) 
 * [Sign up for the ROR Technical Forum](https://groups.google.com/a/ror.org/g/ror-tech)
 * Join the ROR Slack 
 * Attend a [ROR community call or other event](/events)

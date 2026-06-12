@@ -8,7 +8,7 @@ description = "History of the Research Organization Registry (ROR), first planne
 aliases = "/history"
 +++ 
 
-{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases: Community planning 2016-2018, Launch of ROR 2019, Startup phase 2019-2022, Expansion phase 2023-2024, and Present & Future 2025 and onward." >}}
+{{< figure src="/img/ror-timeline.png" class="blog-figure" alt="Timeline with five phases of ROR history starting in 2016." >}}
 
 ## Community planning
 
@@ -97,7 +97,7 @@ ROR's early years following its launch in early 2019 were focused on developing 
 
 - In early 2023, ROR opened its online Annual Community Meetings and bimonthly Community Calls to public registration, began [publishing slides from the calls](/events), and began releasing videos of the [calls on YouTube](https://youtube.com/@researchorgs). 
 
-- Crossref and ROR [announced that the Open Funder Registry would be merged into ROR](/blog/2023-09-07-open-funder-registry-transition-ror-cross-post/) in September 2023. 
+- Crossref and ROR [announced a planned transition from the Open Funder Registry to ROR](/blog/2023-09-07-open-funder-registry-transition-ror-cross-post/) in September 2023. 
 
 - ROR launched the [beta version of version 2 of its API and schema](/blog/2023-09-14-beta-test/) in September 2023. 
 
@@ -115,6 +115,22 @@ ROR's early years following its launch in early 2019 were focused on developing 
 
 - Read ROR's 2024 [Year in Review](/blog/2024-12-17-year-in-review/).
 
+
+### 2025
+
+- ROR [made version 2.1 of its schema the API default in July](https://ror.readme.io/changelog/2025-07-30-default-response-to-api-requests-is-now-version-2) and [sunset version 1.0](https://ror.readme.io/changelog/2025-12-04-version-1-of-the-ror-api-and-schema-is-sunsetting) in December, marking a milestone for ROR as an independent standard and service. 
+
+- ROR curators [processed more than 12,000 requests for additions and updates to the registry](/events/2026-02-03-annual-meeting-community-update/) and added 8,637 new records, bringing the total number of ROR records to over 120,000. 
+
+- ROR partnered with UNESCO and with government agencies in Japan, Australia, Luxembourg, Czechia and more to improve ROR's coverage of global research organizations. 
+
+- Crossref made it possible for its members to [use ROR IDs to identify funders](https://doi.org/10.13003/156081), and funders such as Fonds de Recherche du Québec began to [use ROR IDs to identify themselves in Crossref's Grant Linking System](https://frq.gouv.qc.ca/en/persistent-unique-identifiers-doi/).
+
+- Key systems such as [Symplectic Elements](https://doi.org/10.71938/1fch-hb40) and [OJS 3.5](https://docs.pkp.sfu.ca/learning-ojs/about-ojs/en/#other-changes) integrated ROR. 
+
+- ROR contributed to central conversations and initiatives in the scholarly communications sector such as the [Barcelona Declaration on Open Research Information](https://barcelona-declaration.org/), [National Information Standards Organization (NISO) working groups](https://niso.org/), [Collaborative Metadata (COMET)](https://www.cometadata.org/), and an NSF-funded workshop on [FAIR Facilities and Instruments](https://ncar.github.io/FAIR-Facilities-Instruments/).
+
+- Read ROR's 2025 [Year in Review](/blog/2025-12-16-year-in-review//).
 
 
 

@@ -122,13 +122,13 @@ You can also join the [ROR Technical Forum](https://groups.google.com/a/ror.org/
 ### Follow ROR 
 Stay up-to-date on the latest ROR news and opportunities for feedback and involvement:
 
-- Sign up for the [ROR quarterly newsletter](http://eepurl.com/gjkT9H)
+- Sign up for the [ROR quarterly newsletter](https://eepurl.com/gjkT9H)
 
 - Follow [ROR on LinkedIn](https://www.linkedin.com/company/ror-research-organization-registry/)
 
 - Follow [ROR on Mastodon](https://mastodon.social/@ResearchOrgs)
 
-- Follow [ROR on Bluesky](https://bsky.app/profile/researchorgs.bsky.social)
+- Follow [ROR on Bluesky](https://bsky.app/profile/ror.org)
 
 - Follow [ROR on YouTube](https://youtube.com/@ResearchOrgs)
 

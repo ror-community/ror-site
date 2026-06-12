@@ -125,21 +125,7 @@ ROR defines “research organization” as any organization that is involved in 
 
 ### **Is my organization in scope for ROR?**
 
-To be included in the registry, an organization should
-
-- be acknowledged by multiple people in the contributor affiliations or funding acknowledgements of research outputs, 
-- demonstrate independence from other organizations to which it is related, and 
-- not exist as a subdivision within a single standalone organization or named entity.
-
-Therefore, the following entities are out of scope for ROR:
-
-- University departments and faculties
-- Funding programs and schemes
-- Projects or initiatives that are not organizations
-- Single-person organizations such as consultancies
-- Journals 
-
-See also [our scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) and the [Curator Evaluation Workflow](https://github.com/ror-community/ror-updates/wiki/Curator-Evaluation-Workflow:-New-Records) that ROR curators use to determine whether to add a new organization to ROR.
+See [scope and criteria for inclusion](/registry/#scope-and-criteria-for-inclusion) to determine whether your organization is in scope for ROR.
 
 ***
 

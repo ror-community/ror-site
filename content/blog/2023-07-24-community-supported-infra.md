@@ -2,7 +2,7 @@
 title = "ROR as Community-supported Infrastructure"
 date = "2023-07-24"
 draft = false
-tags = ["Sustainability", "Community"]
+tags = ["Sustainability", "Community", "SCOSS", "ORCID"]
 categories = ["General Updates"]
 archives = ["2023"]
 style = "card-plain"

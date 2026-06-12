@@ -72,7 +72,7 @@ enableGitInfo = true
     enable = true
 
 [params.announcement]
-    enable = false 
+    enable = false
 
 [params.homepage_features]
     enable = true
