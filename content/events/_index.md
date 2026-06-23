@@ -27,14 +27,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### FORCE11 2026
-- Dates: June 3-5, 2026
-- Location: Singapore
-- Description: Representatives from ROR will speak at FORCE11 on how ROR can help ensure research integrity by helping to identify author affiliations.
-
-{{< button color="green" link="https://event.fourwaves.com/force2026/" >}} Register for FORCE11 2026 {{< /button >}}
-
----
 
 ### ROR Community Call July 2026
 
@@ -43,7 +35,8 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more.
+- Description: The July 2026 edition of the bi-monthly ROR Community Call features an in-depth training on how the ROR affiliation matching service works. The ROR team also give updates about ongoing work, and all participants are invited to ask questions, provide feedback, and share news about their ROR integrations.
+
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/PX_TPzyAQJO3KGrNhuQFuA" >}} Register for the ROR Community Call July 2026 {{< /button >}}
 
@@ -77,6 +70,12 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### FORCE2026
+
+June 3, 2026 | [Event details and materials](2026-06-03-force2026)
+
+---
 
 ### ROR Community Call May 2026
 
