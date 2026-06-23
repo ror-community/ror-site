@@ -35,7 +35,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Duration: 1 hour
 - Location: Online
 - Recorded: Yes
-- Description: The July 2026 edition of the bi-monthly ROR Community Call features an in-depth training on how the ROR affiliation matching service works. The ROR team also give updates about ongoing work, and all participants are invited to ask questions, provide feedback, and share news about their ROR integrations.
+- Description: This special summer school edition of the bi-monthly ROR Community Call features an in-depth exploration the ROR's affiliation matching service for matching text strings to ROR IDs. After a brief introduction to the service, participants will engage in hands-on self-directed exercises suitable for any and all skill levels and will have the opportunity to ask the ROR tech team live questions. The ROR team also gives brief updates about ongoing work, and all participants are invited to ask questions, provide feedback, and share news about their ROR integrations.
 
 
 {{< button color="green" link="https://crossref.zoom.us/meeting/register/PX_TPzyAQJO3KGrNhuQFuA" >}} Register for the ROR Community Call July 2026 {{< /button >}}
