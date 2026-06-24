@@ -26,7 +26,7 @@ Read on or watch our video how-to for more guidance on making sure your request 
 
 ## ROR request process explained
 
-ROR is a community-curated registry, meaning that anyone can ask for an update to an existing ROR record or request a new ROR record using our public [request form](https://curation-request.ror.org). There's never any associated cost with requesting updates to the registry, and there's no need fo you to become a member or create an account, since ROR by design has no membership model and no user accounts. 
+ROR is a community-curated registry, meaning that anyone can ask for an update to an existing ROR record or request a new ROR record using our public [request form](https://curation-request.ror.org). There's never any associated cost with requesting updates to the registry, and there's no need for you to become a member or create an account, since ROR by design has no membership model and no user accounts. 
 
 Our [metadata policies](https://ror.readme.io/docs/ror-data-structure#definitions-and-policies) and [inclusion criteria](https://ror.org/registry/#scope-and-criteria-for-inclusion) have been established by our community, including our international volunteer [Curation Advisory Board](https://ror.org/registry/#curation-advisory-board). We process hundreds of requests every month submitted by users all over the world, and the process is completely open so that anyone can see the requests on the web in our [registry updates tracker](https://github.com/ror-community/ror-updates/issues). We don't publish any personal information, so the names and email addresses of the people who send us requests are always kept private.
 
