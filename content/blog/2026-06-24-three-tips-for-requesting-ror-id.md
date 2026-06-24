@@ -11,7 +11,7 @@ thumb = "/img/blog/three-tips/three-tips.png"
 images = ['/img/blog/three-tips/three-tips.png']
 authors = ["Amanda French", "Riley Marsh"] 
 description = "When you're requesting a new ROR ID for an organization, here are the three most important things to do before you fill out the request form: 1) Search the registry to see whether the organization already has a ROR ID, 2) Make sure the organization is in scope for ROR, and 3) Collect links to research outputs that acknowledge the organization as an author affiliation, funder, or publisher."
-doi = ""
+doi = "https://doi.org/10.71938/k6gv-1b54"
 crosspost = ""
 +++ 
 
