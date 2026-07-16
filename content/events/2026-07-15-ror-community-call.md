@@ -15,26 +15,23 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
+description = "This special edition of the bi-monthly ROR Community Call features an in-depth exploration of the ROR API's affiliation service for matching text strings to ROR IDs. After a brief introduction to the service, participants will engage in hands-on self-directed exercises suitable for any and all skill levels and will have the opportunity to ask the ROR tech team live questions. The ROR team also gives brief updates about ongoing work, and all participants are invited to ask questions, provide feedback, and share news about their ROR integrations."
 website = ""
 reglink = "https://crossref.zoom.us/meeting/register/PX_TPzyAQJO3KGrNhuQFuA"
 +++
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vR30Oh-xfxV1lG77Q5w-9HQhlDeimFKELR8je-MF5hBPwi3_OeSbK2Hgf2BTUKP2xmH_9YcYVUlLWKm/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vR30Oh-xfxV1lG77Q5w-9HQhlDeimFKELR8je-MF5hBPwi3_OeSbK2Hgf2BTUKP2xmH_9YcYVUlLWKm/pubembed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="F21fL46xkMM" >}}
 
 
---!> 
 
