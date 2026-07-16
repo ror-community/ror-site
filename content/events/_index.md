@@ -27,21 +27,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-
-### ROR Community Call July 2026
-
-- Date: July 15, 2026
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-07-15)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: This special summer school edition of the bi-monthly ROR Community Call features an in-depth exploration of the ROR API's affiliation service for matching text strings to ROR IDs. After a brief introduction to the service, participants will engage in hands-on self-directed exercises suitable for any and all skill levels and will have the opportunity to ask the ROR tech team live questions. The ROR team also gives brief updates about ongoing work, and all participants are invited to ask questions, provide feedback, and share news about their ROR integrations.
-
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/PX_TPzyAQJO3KGrNhuQFuA" >}} Register for the ROR Community Call July 2026 {{< /button >}}
-
----
-
 ### ROR Community Call September 2026
 
 - Date: September 24, 2026
@@ -80,6 +65,12 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### ROR Community Call July 2026
+
+July 15, 2026 | [Event details and materials](2026-07-15-ror-community-call)
+
+---
 
 ### FORCE2026
 
