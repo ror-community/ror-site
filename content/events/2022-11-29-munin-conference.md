@@ -13,29 +13,17 @@ startdate = 2022-11-29
 enddate = []
 starttime = ""
 duration = ""
-location = ""
+location = "Online"
 recorded = ""
-description = ""
-website = ""
+description = "ROR presents a poster on Emerging Uses of the Research Organization Registry at the 17th Munin Conference on Scholarly Publishing. This conference is run in a flipped format with presentation videos, papers and posters published in advance of the conference and participants encouraged to go through them in advance to maximize interaction during the event."
+website = "https://doi.org/10.7557/scs.2022.1"
 reglink = ""
 +++
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Poster from event](https://doi.org/10.7557/5.6654)
 
-{{< iframe "XXX" >}}
 
----
-
-## Recording 
-
-{{< youtube id="XXX" >}}
-
---- 
-
---> 
 
