@@ -7,7 +7,7 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventtypes = ["Conferences"]
+eventtypes = ["Workshops"]
 eventarchives = ["2023"]
 startdate = 2023-04-18
 enddate = []
@@ -15,7 +15,7 @@ starttime = ""
 duration = ""
 location = "Buenos Aires, Argentina"
 recorded = ""
-description = "DataCite Connect Buenos Aires brings together the DataCite Latin American community for an in-person meeting co-located with csv,conf,v7. At DataCite Connect, ROR Director Maria Gould presents the ROR initiative (supported by DataCite along with Crossref and CDL) and opportunities for ROR integration in the Latin American context."
+description = "DataCite Connect Buenos Aires brings together the DataCite Latin American community for an in-person workshop co-located with csv,conf,v7. At DataCite Connect, ROR Director Maria Gould presents the ROR initiative (supported by DataCite along with Crossref and CDL) and opportunities for ROR integration in the Latin American context."
 website = "https://csvconf.com/2023/schedule/#workshops"
 reglink = ""
 +++

@@ -1,15 +1,15 @@
 +++
-title = "Ckrn" 
-date = "2026-02-11T09:13:58-05:00"  
+date = "2026-07-24T16:45:48-04:00"  
 draft = "false" 
 style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-eventtypes = [""]
+title = "EOSC Expands" 
+eventtypes = ["Workshops"]
 eventarchives = ["2021"]
-startdate = 2021-04-28
+startdate = 2021-10-22
 enddate = []
 starttime = ""
 duration = ""
@@ -20,6 +20,13 @@ website = ""
 reglink = ""
 +++
 
+<!-- List speakers and affiliations here
+
+## Speakers
+
+* 
+
+--!>
 
 <!-- Post-event content template
 
@@ -37,5 +44,5 @@ reglink = ""
 
 --- 
 
---> 
+--!> 
 
