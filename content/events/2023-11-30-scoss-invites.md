@@ -16,26 +16,15 @@ duration = ""
 location = "Online"
 recorded = ""
 description = "Join this webinar to learn more about progress in SCOSS infrastructures and the case for open infrastructure, and meet SCOSS Board members, who will share their visions for the future."
-website = ""
+website = "https://scoss.org/scossinfrastructures_strongertogether/"
 reglink = ""
 +++
 
 
-<!-- Post-event content template
-
-## Materials 
-
-- [Slides from event]()
-
-{{< iframe "XXX" >}}
-
----
-
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="1HDzfAykvmg" >}}
 
---- 
 
---> 
+
 

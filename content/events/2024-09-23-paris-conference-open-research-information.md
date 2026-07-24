@@ -17,21 +17,11 @@ reglink = "https://barcelona-declaration.org/conference"
 +++
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vTju7zuhw65T64HteKcWs-X9TLpiuoNdx7mJ_oCKItR35MgbCLOWSSN0QKVnAvYG6V5gTIIK1rGUett/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vTju7zuhw65T64HteKcWs-X9TLpiuoNdx7mJ_oCKItR35MgbCLOWSSN0QKVnAvYG6V5gTIIK1rGUett/pubembed?start=false&loop=false&delayms=3000" >}}
 
 ---
-
-## Recording 
-
-{{< youtube id="XXX" >}}
-
---- 
-
---> 
 

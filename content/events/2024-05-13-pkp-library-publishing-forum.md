@@ -23,9 +23,9 @@ reglink = ""
 
 ## Materials 
 
-- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vR_dtsdY4_tPmvZSRNj8WzXiUjpOcTgJzfrqCXBJ-w-WSwqpYm90V5VoX5IqPPgyp3frGgvIGLDbTUo/pub?start=false&loop=false&delayms=3000)
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vRXU0_6nHDARX7CP3HGrMQ6lGi5ToLHucMQbLlhh6Nn8XWp1-iuwYD16oltODrV6myf1naghc1OuOGI/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vR_dtsdY4_tPmvZSRNj8WzXiUjpOcTgJzfrqCXBJ-w-WSwqpYm90V5VoX5IqPPgyp3frGgvIGLDbTUo/pubembed?start=false&loop=false&delayms=3000" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vRXU0_6nHDARX7CP3HGrMQ6lGi5ToLHucMQbLlhh6Nn8XWp1-iuwYD16oltODrV6myf1naghc1OuOGI/pubembed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
