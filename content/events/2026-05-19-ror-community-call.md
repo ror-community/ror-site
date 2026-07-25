@@ -15,7 +15,7 @@ starttime = "3pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "At the May edition of the bi-monthly ROR community call, Peter Aspeslagh of ECOOM showcases the [Flemish Organization Registry](https://www.flemishorganizationregistry.be/en/home) and Jason Portenoy of Crossref discusses the [forthcoming implementation of funder name to ROR ID matching in Crossref metadata](https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/). The ROR team also gives updates on what we've been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR."
+description = "At the May edition of the bi-monthly ROR community call, Peter Aspeslagh of ECOOM showcases the [Flemish Organization Registry](https://www.flemishorganizationregistry.be/en/home) and Jason Portenoy of Crossref discusses the [forthcoming implementation of funder name to ROR ID matching in Crossref metadata](https://www.crossref.org/blog/matching-funders-in-scholarly-metadata-linking-names-to-ror-ids/). The ROR team also gives updates on what we've been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR. "
 website = ""
 reglink = ""
 +++

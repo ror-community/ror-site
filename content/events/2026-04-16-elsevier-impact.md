@@ -2,7 +2,7 @@
 title = "Elsevier Impact: Identity, Integrity, and Authentication" 
 date = "2026-05-13T07:53:21-04:00"  
 draft = "false" 
-style = "card-plain"
+style = "card-plain" 
 banner = "/img/banners/ROR_Banner-grey.jpg" 
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
@@ -21,9 +21,13 @@ reglink = ""
 +++
 
 
+
 ## Materials 
 
 - [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQiRP3gyzIB2oh9hikP1FlszuvJ_1IVPQa-WIBYxbpGBELEMYdZ1TkbVGfUwPuJHoteYRAvfc6pKtcv/pub?start=false&loop=false&delayms=3000)
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQiRP3gyzIB2oh9hikP1FlszuvJ_1IVPQa-WIBYxbpGBELEMYdZ1TkbVGfUwPuJHoteYRAvfc6pKtcv/pubembed?start=false&loop=false&delayms=3000" >}}
+
+---
+
 
