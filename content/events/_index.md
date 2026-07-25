@@ -47,7 +47,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 - Location: Leiden, Netherlands
 - Description: Members of the ROR team will be presenting at [PIDfest 2026](https://pidfest.org), an international summit of talks, activities, and workshops focussing on how persistent identifiers can deliver world-class research infrastructure.
 
-{{< button color="green" link="https://event.surf.nl/pidfest26/registration" >}} Register for PIDfest 2026 {{< /button >}}
+{{< button color="green" link="https://event.surf.nl/pidfest26/registration/" >}} Register for PIDfest 2026 {{< /button >}}
 
 ---
 
