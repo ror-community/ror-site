@@ -84,6 +84,17 @@ May 19, 2026 | [Event details and materials](2026-05-19-ror-community-call)
 
 ---
 
+### Council of Science Editors (CSE)
+
+May 5, 2026 | [Event details and materials](2026-05-05-cse)
+
+---
+
+### Elsevier Impact
+
+April 16, 2026 | [Event details and materials](2026-04-16-elsevier-impact)
+
+---
 
 ### ROR Community Call March 2026
 
@@ -91,7 +102,7 @@ March 26, 2026 | [Event details and materials](2026-03-26-ror-community-call)
 
 ---
 
-### Institutional IDs Unlocked – ROR meets DSpace
+### DSpace Lab Days: Institutional IDs Unlocked
 
 March 26, 2026 | [Event details and materials](2026-03-26-dspace-lab-days)
 
@@ -106,6 +117,11 @@ March 19, 2026 | [Event details and materials](2026-03-19-openalex-accurate-affi
 ### World Data System - Persistent Identifiers: Enabling Trust and Discovery in Research Data 
 
 February 10, 2026 | [Event details and materials](2026-02-10-wds-pids-trust-discovery)
+
+---
+
+### NISO Plus
+February 17, 2026 | [Event details and materials](2026-02-17-niso-plus)
 
 ---
 
@@ -189,29 +205,42 @@ May 28-30, 2025 | [Event details and materials](2025-05-28-ssp)
 
 ### ROR Community Call May 2025
 
-Wednesday, May 21, 2025 | [Event details and materials](2025-05-21-ror-community-call)
+May 21, 2025 | [Event details and materials](2025-05-21-ror-community-call)
 
 ---
 
 ### euroCRIS 2025 
 
-Thursday, May 15, 2025 | [Event details and materials](2025-05-15-ror-eurocris)
+May 15, 2025 | [Event details and materials](2025-05-15-ror-eurocris)
+
+---
+
+### Feria Internacional del Libro Bogotá
+
+April 29, 2025 | [Event details and materials](2025-04-29-feria-internacional-del-libro-bogota)
 
 ---
 
 ### Better Together: ORCID + ROR 
 
-Wednesday, April 16, 2025 | [Event details and materials](2025-04-16-better-together-orcid-ror)
+April 16, 2025 | [Event details and materials](2025-04-16-better-together-orcid-ror)
 
 ---
 
 ### ROR Community Call March 2025
 
-Thursday, March 20, 2025 | [Event details and materials](2025-03-20-ror-community-call)
+March 20, 2025 | [Event details and materials](2025-03-20-ror-community-call)
+
+---
+
+### Beyond Acknowledgements: Identifying NSF Facilities in Published Research with Machine-Actionable Identifiers
+
+February 26, 2025 | [Event details and materials](2025-02-26-nsf-ci-compass)
 
 ---
 
 ### ROR Annual Meeting 2025: Successes and Opportunities for ROR in the Asia-Pacific Region
+
 February 5, 2025 | [Event details and materials](2025-02-05-annual-meeting-ror-apac)
 
 ---
