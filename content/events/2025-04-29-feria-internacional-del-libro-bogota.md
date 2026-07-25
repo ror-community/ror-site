@@ -1,4 +1,5 @@
 +++
+title = "Feria Internacional del Libro Bogotá" 
 date = "2026-07-24T10:03:48-04:00"  
 draft = "false" 
 style = "card-plain" 
@@ -6,7 +7,6 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/events/ror-logo-800.png" 
 images = ['/img/events/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-title = "Feria Internacional del Libro Bogotá 2025" 
 eventtypes = ["Conferences"]
 eventarchives = ["2025"]
 startdate = 2025-04-29
