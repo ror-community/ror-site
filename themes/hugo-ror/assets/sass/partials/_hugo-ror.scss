@@ -1847,7 +1847,7 @@ h2:first-child, h3:first-child {
 .post h2 {
   margin-top: 0;
 }
-.taxonomy h3.card-title {
+.taxonomy h2.card-title {
   margin: 0;
 }
 h6 .category.mt-3 {
@@ -7405,3 +7405,8 @@ code {
 	word-break: break-word;
 }
 
+/* sidebar card titles headers */
+
+div.col-md-3 div.card.card-plain h2.card-title { 
+font-size: 1.75rem;
+}
