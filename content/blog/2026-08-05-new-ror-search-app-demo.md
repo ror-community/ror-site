@@ -11,13 +11,18 @@ thumb = "/img/blog/new-ror-search-app-demo.png"
 images = ['/img/blog/new-ror-search-app-demo.png']
 authors = ["ROR Core Team"]
 description = "A demo version of our new ROR search application is now open for public testing, and we need your feedback to help us get it over the finish line."
-doi = ""
+doi = "https://doi.org/10.71938/5q26-nb02"
 crosspost = ""
 +++
+
+{{< figure src="/img/blog/new-ror-search-app-demo.png" class="featured-figure" alt="New ROR search app demo" >}}
+
 
 We’re excited to announce that a demo version of our new ROR search application is now open for public testing at [https://demo.ror.org](https://demo.ror.org), and we need your feedback to help us get it over the finish line.
 
 This is a complete refresh of the search tool you use every day on our site, rebuilt using a modern web application framework. The update brings improvements to overall functionality and design and adds support for some of our most widely-used API features, including the [advanced search functionality](https://ror.readme.io/docs/api-advanced-query). While still under development during this demo period, the app is built on top of the production ROR API, meaning it serves live data and can be used for your real-world searches and workflows.
+
+## How to share your feedback
 
 Your feedback will directly shape the next round of improvements before we move to a full release this fall, so please explore the new interface and share your thoughts via our [ror-roadmap GitHub repository](https://github.com/ror-community/ror-roadmap) using the [feature request, bug report, or general feedback issue templates](https://github.com/ror-community/ror-roadmap/issues/new/choose). We'll also be running some user testing sessions, so stay tuned for more on that or reach out to [support@ror.org](mailto:support@ror.org) if you'd like to participate.
 
