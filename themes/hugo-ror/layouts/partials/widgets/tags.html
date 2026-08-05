@@ -3,7 +3,7 @@
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
 <div class="card card-plain taxonomy">
   <div class="card-body">
-    <h3 class="card-title">Tags</h3>
+    <h2 class="card-title">Tags</h2>
 
     <ul class="list-unstyled">
       {{ range $name, $items := .Site.Taxonomies.tags }}
