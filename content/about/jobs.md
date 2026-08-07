@@ -1,13 +1,11 @@
 +++
 title = "Jobs"
-draft = false
 date = "2024-04-19"
-banner = "/img/banners/ROR_Banner-orange.jpg"
-aliases = ["about/jobs", "/careers", "/opportunities",]
-url = "/jobs"
+author = "Research Organization Registry (ROR)" 
+draft = false
+banner = "/img/banners/ROR_Banner-grey.jpg"
+description = "Job opportunities at the Research Organization Registry (ROR)."
 +++
-
-
 
 ## Current openings
 
