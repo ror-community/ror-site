@@ -8,7 +8,7 @@ aliases = [
 ]
 +++
 
-## Requesting registry updates {#submitting-registry-updates}
+## Requesting registry updates
 
 The process of registering ROR IDs and maintaining ROR records is different from the workflows for ORCID iDs and DOIs. Unlike ORCID iDs and DOIs, ROR IDs are created and maintained through a centralized, community-based curation process.
 
