@@ -21,7 +21,7 @@ Have you ever wondered exactly what happens once you request a new ROR record or
 
 ---
 
-ROR's [community-driven process](https://ror.org/registry/#submitting-registry-updates) for maintaining high-quality information about research organizations in our registry means that anyone can request a new ROR record or suggest a change to an existing one. Our curatorial process for assessing these requests involves both human and automatic review, and all this review happens in the open so that anyone can follow along. Here's a deeper dive into how that works. 
+ROR's [community-driven process](https://ror.org/registry/#requesting-registry-updates) for maintaining high-quality information about research organizations in our registry means that anyone can request a new ROR record or suggest a change to an existing one. Our curatorial process for assessing these requests involves both human and automatic review, and all this review happens in the open so that anyone can follow along. Here's a deeper dive into how that works. 
 
 ## Step 1: You submit a request
 
