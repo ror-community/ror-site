@@ -4,9 +4,9 @@
   <link rel="icon" type="image/png" href="{{ "img/favicon.png" | relURL }}">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   {{ if .IsHome }}
-  <title>{{ .Site.Title }} | Home</title>
+  <title>Home | {{ .Site.Title }} </title>
   {{ else }}
-  <title>{{ .Site.Title }} | {{ .Page.Title }}</title>
+  <title>{{ .Page.Title }} | {{ .Site.Title }}</title>
   {{ end }}
   {{ if .Params.Description }}
   <meta name="description" content="{{ .Params.Description }}" />
