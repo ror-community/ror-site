@@ -18,13 +18,13 @@ ROR is seeking a short-term curation support contractor as registry curation act
 
 #### About ROR and registry curation
 
-The [Research Organization Registry (ROR)](https://ror.org/) is a community-led registry of open, sustainable, usable, and unique identifiers for every research organization in the world.
+The [Research Organization Registry (ROR)](https://ror.org/) is a community-led registry of open, sustainable, usable, and unique identifiers for every research and funding organization in the world.
 
 ROR is a cross-organization collaborative led by [California Digital Library](https://cdlib.org/), [Crossref](https://crossref.org), and [DataCite](https://datacite.org). Each organization provides input on decisions and overall strategy that support the growth and sustainability of ROR by engaging in outreach to funders, potential adopters, and other stakeholders in their respective networks.
 
-The ROR registry includes IDs and metadata for more than 120,000 research organizations and counting. ROR receives regular input from its global community of users and stakeholders about records that should be added to or updated in the registry. ROR also seeks and incorporates input from the broader community about policies and processes for maintaining registry data. We review and process this feedback through a centralized process and according to metadata policies established and maintained by ROR’s curation advisory board and metadata curation lead. All requests are [publicly visible in an open GitHub repository](https://github.com/ror-community/ror-updates/issues/) so that the process is as transparent as possible. New registry releases are published on a rolling basis, approximately once a month.
+The ROR registry includes IDs and metadata for more than 120,000 research and funding organizations and counting. ROR receives regular input from its global community of users and stakeholders about records that should be added to or updated in the registry. ROR also seeks and incorporates input from the broader community about policies and processes for maintaining registry data. We review and process this feedback through a centralized process and according to metadata policies established and maintained by ROR’s curation advisory board and metadata curation lead. All requests are [publicly visible in an open GitHub repository](https://github.com/ror-community/ror-updates/issues/) so that the process is as transparent as possible. New registry releases are published on a rolling basis, approximately once a month.
 
-ROR’s volume of curation activities has been increasing steadily and we are now looking for short-term contract support to help maintain the pipeline of requests.
+ROR’s volume of curation activities has been increasing steadily and we are looking for short-term contract support to help maintain the pipeline of requests.
 
 #### Scope of work
 
