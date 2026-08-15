@@ -1,9 +1,9 @@
 {{ if isset .Site.Params "blurb" }}
 {{ if .Site.Params.blurb.enable }}
-{{ if gt (len .Site.Data.blurb) 0 }}
+{{ if gt (len hugo.Data.blurb) 0 }}
 <section class="section section-blurb">
   <div class="container">
-    {{ range sort .Site.Data.blurb }}
+    {{ range sort hugo.Data.blurb }}
     <div class="row">
       <div class="col-md-12 ml-auto mr-auto text-center">
         <h1 class="blurb-header">{{ .header }}</h1>

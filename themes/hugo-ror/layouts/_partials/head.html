@@ -27,12 +27,16 @@
   
   <!-- Social cards -->
   
-  {{ template "_internal/opengraph.html" . }}
+  {{ partial "opengraph.html" . }}
 
   <!-- sass built file -->
-  {{ $sass := resources.Get "sass/main.scss" }}
-  {{ $style := $sass | toCSS (dict "targetPath" "/css/hugo-ror.css") }}
-  <link rel="stylesheet" href="{{ $style.Permalink }}">
+  {{ $opts := dict
+    "transpiler" "dartsass"
+    "targetPath" "css/hugo-ror.css"
+    "silenceDeprecations" (slice "import")
+  }}
+  {{ $style := resources.Get "sass/main.scss" | css.Sass $opts }}
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
   <!-- google material font -->
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
