@@ -1,4 +1,4 @@
 baseURL = 'https://ror.org/'
-languageCode = 'en-us'
+locale = 'en-us'
 title = 'Research Organization Registry (ROR)'
 theme = 'hugo-ror'

@@ -1,4 +1,4 @@
-languageCode = "en-us"
+locale = "en-us"
 title = "Research Organization Registry (ROR)"
 baseurl = "http://localhost:1313"
 style = "turquoise"

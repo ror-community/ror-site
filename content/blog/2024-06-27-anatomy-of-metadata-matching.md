@@ -49,6 +49,7 @@ Every matching task has an **input**, which is all the data that is needed to pe
   </fr:assertion>
 </fr:program>
 ```
+
 ---
 
 ```Everitt, W. N., & Kalf, H. (2007). The Bessel differential equation and the Hankel transform. Journal of Computational and Applied Mathematics, 208(1), 3–19.```
@@ -65,6 +66,7 @@ Every matching task has an **input**, which is all the data that is needed to pe
   ]
 }
 ```
+
 ---
 
 Every matching task also has an **output**. For our purposes, this is almost exclusively zero or more matched identifiers. In the context of a specific matching task, output identifiers may be of a specific type (e.g. we might match to a ROR ID, and never to an ORCID ID). In some cases, there can be a certain target set as well (i.e. matching only to DataCite DOIs). The output identifiers can have different cardinality depending on the task, meaning that the matching task might allow for zero, one, or more identifiers as a result of matching to a single input.

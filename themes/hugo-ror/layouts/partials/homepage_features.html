@@ -1,10 +1,10 @@
 {{ if isset .Site.Params "homepage_features" }}
 {{ if .Site.Params.homepage_features.enable }}
-{{ if gt (len .Site.Data.homepage_features) 0 }}
+{{ if gt (len hugo.Data.homepage_features) 0 }}
 <section id='homepage-features' class="section bar background-white section-features" role="main">
     <div class="container">
         <div class="row">
-            {{ range sort .Site.Data.homepage_features "weight" }}
+            {{ range sort hugo.Data.homepage_features "weight" }}
             <div class="col-md-12">
                 <div class="row feature">
                     <div class="col-md-5">
