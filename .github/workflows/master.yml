@@ -9,13 +9,16 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
+      HUGO_VERSION: '0.165.0'
+      DART_SASS_VERSION: '1.102.0'
+      DART_SASS_SHA256: '2a2ce6036f94534b39356252b1a3d4aa7879ab139c73bf62f7c9b5beafcfc367'
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       S3_BUCKET: ${{ secrets.S3_BUCKET }}
       CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
       SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v7
         with:
           submodules: true
           fetch-depth: 0
@@ -23,25 +26,40 @@ jobs:
       - name: Extract branch name
         shell: bash
         run: |
-          echo "::set-output name=BRANCH::$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
-          echo "::set-output name=GIT_SHA::$(git rev-parse HEAD)"
-          echo "::set-output name=GIT_SHA_SHORT::$(git rev-parse --short HEAD)"
-          echo "::set-output name=MESSAGE::$(git log --format=%B -n 1 ${{ github.event.after }})"
+          {
+            echo "BRANCH=$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
+            echo "GIT_SHA=$(git rev-parse HEAD)"
+            echo "GIT_SHA_SHORT=$(git rev-parse --short HEAD)"
+            echo "MESSAGE<<EOF"
+            git log --format=%B -n 1 ${{ github.event.after }}
+            echo "EOF"
+          } >> "$GITHUB_OUTPUT"
         id: extract_variables
 
+      - name: Install Dart Sass
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          archive="dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/${archive}"
+          echo "${DART_SASS_SHA256}  ${{ runner.temp }}/${archive}" | sha256sum -c -
+          gh attestation verify "${{ runner.temp }}/${archive}" --owner sass
+          tar -C "${HOME}/.local" -xf "${{ runner.temp }}/${archive}"
+          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
+
       - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v2
+        uses: peaceiris/actions-hugo@v3.2.1
         with:
-          hugo-version: '0.101.0'
-          extended: true
+          hugo-version: ${{ env.HUGO_VERSION }}
 
       - name: Build
         run: |
-          cp live.toml config.toml
-          hugo -v --minify
+          echo "Resolved baseURL:"
+          hugo config --config live.toml | grep -i baseurl
+          hugo --minify --logLevel info --ignoreCache --config live.toml
 
       - name: Deploy
-        uses: reggionick/s3-deploy@v3
+        uses: reggionick/s3-deploy@v4
         with:
           folder: public
           bucket: ${{ secrets.S3_BUCKET }}
