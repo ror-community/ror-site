@@ -3,7 +3,7 @@ title = "Terms of Use"
 draft = false
 date = "2021-07-26"
 banner = "/img/banners/ROR_Banner-grey.jpg"
-aliases = ["/terms", "/terms-of-use", "/about/terms-of-use"]
+aliases = ["/terms"]
 +++
 
 ROR IDs and metadata can be freely accessed via the [ROR Search](https://ror.org/search), the [ROR API](https://api.ror.org/v2/organizations), and in downloadable [ROR data](https://doi.org/10.5281/zenodo.6347574). 
