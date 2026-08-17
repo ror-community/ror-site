@@ -6,7 +6,7 @@
 {{- end -}}
 {{ print "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>{{ .Site.Title }}</title>
+  <title {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>{{ .Site.Title }}</title>
   {{ with .Site.Params.Description }}<subtitle xml:lang="en-us">{{ . }}</subtitle>{{ end }}
   {{ with .Site.Params.Author.name }}
   <author>
@@ -16,10 +16,10 @@
   {{ end }}
   <id>{{ .Permalink }}</id>
   {{ with .OutputFormats.Get "atom" }}
-  {{ printf `<link rel="self" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.LanguageCode | safeHTML }}
+  {{ printf `<link rel="self" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.Language.Locale | safeHTML }}
   {{ end }}
   {{ range .AlternativeOutputFormats }}
-  {{ printf `<link rel="alternate" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.LanguageCode | safeHTML }}
+  {{ printf `<link rel="alternate" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.Language.Locale | safeHTML }}
   {{ end }}
   <generator uri="https://gohugo.io">Hugo {{ .Site.Hugo.Version }}</generator>  
   {{ with .Site.Params.icon }}<icon>{{ . | absURL }}</icon>{{ end }}
@@ -28,8 +28,8 @@
   <updated>{{ now.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>
   {{ with .Site.Params.icon96 }}<webfeeds:icon>{{ . | absURL }}</webfeeds:icon>{{ end }}
   {{ range $pages }}
-  <entry {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
-    <title {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>{{ .Title }}</title>    
+  <entry {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
+    <title {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>{{ .Title }}</title>    
     {{ if .Page.Params.doi }}<id>{{ .Page.Params.doi }}</id>
     {{ else }}<id>{{ .Permalink }}</id>{{ end }}
     <link rel="alternate" href="{{ .Permalink }}"/>
@@ -49,10 +49,10 @@
 	{{ if .Params.categories }}
 	<category term="{{ .Params.categories }}"></category>{{ else }}
 {{- end }}      
-    <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
       {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
     </content>
-    <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.LanguageCode }}xml:lang="{{.}}"{{end}}>
+    <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
     {{ if .Description }} {{ .Description | transform.XMLEscape | safeHTML }} {{ else }} {{ .Summary | transform.XMLEscape | safeHTML }} {{ end }}
     </summary>
   </entry>

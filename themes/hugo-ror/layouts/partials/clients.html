@@ -1,6 +1,6 @@
 {{ if isset .Site.Params "clients" }}
 {{ if .Site.Params.clients.enable }}
-{{ if gt (len .Site.Data.clients) 0 }}
+{{ if gt (len hugo.Data.clients) 0 }}
 <section class="bar background-gray no-mb">
     <div class="container">
         <div class="row">
@@ -14,7 +14,7 @@
                 </p>
 
                 <ul class="owl-carousel customers">
-                    {{ range .Site.Data.clients }}
+                    {{ range hugo.Data.clients }}
                     <li class="item" title="{{ .name }}">
                         {{ if .url }}
                           <a href="{{ .url }}" target="_blank">
