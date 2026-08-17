@@ -14,7 +14,7 @@ description = "We are thrilled to introduce a new member of the ROR pride: Riley
 doi = "https://doi.org/10.71938/aavf-pb62"
 +++ 
 
-{{<figure src="/img/lion-closeup-1200.jpg" alt="Closeup of a lion's face" class="featured-figure" >}}
+{{< figure src="/img/lion-closeup-1200.jpg" alt="Closeup of a lion's face" class="featured-figure" >}}
 
 We are thrilled to introduce a new member of the ROR pride: Riley Marsh joined the ROR team in August as our new Metadata Manager.
 
