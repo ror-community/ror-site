@@ -21,7 +21,7 @@
   {{ range .AlternativeOutputFormats }}
   {{ printf `<link rel="alternate" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.Language.Locale | safeHTML }}
   {{ end }}
-  <generator uri="https://gohugo.io">Hugo {{ .Site.Hugo.Version }}</generator>  
+  <generator uri="https://gohugo.io">Hugo {{ hugo.Version }}</generator>  
   {{ with .Site.Params.icon }}<icon>{{ . | absURL }}</icon>{{ end }}
   {{ with .Site.Params.logo }}<logo>{{ . | absURL }}</logo>{{ end }}
   {{ with .Site.Copyright }}<rights>{{ replace . "{year}" now.Year }}</rights>{{ end }}

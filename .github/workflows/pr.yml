@@ -1,0 +1,85 @@
+name: Build PR
+on:
+  pull_request:
+    branches:
+      - "dev"
+      - "staging"
+      - "master"
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: '0.165.0'
+      DART_SASS_VERSION: '1.102.0'
+      DART_SASS_SHA256: '2a2ce6036f94534b39356252b1a3d4aa7879ab139c73bf62f7c9b5beafcfc367'
+    steps:
+      - uses: actions/checkout@v7
+        with:
+          submodules: true
+          fetch-depth: 0
+
+      - name: Install Dart Sass
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          archive="dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
+          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/${archive}"
+          echo "${DART_SASS_SHA256}  ${{ runner.temp }}/${archive}" | sha256sum -c -
+          gh attestation verify "${{ runner.temp }}/${archive}" --owner sass
+          tar -C "${HOME}/.local" -xf "${{ runner.temp }}/${archive}"
+          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v3.2.1
+        with:
+          hugo-version: ${{ env.HUGO_VERSION }}
+
+      - name: Log tool versions
+        run: |
+          hugo version
+          sass --embedded --version
+
+      - name: Build (local config)
+        run: hugo --minify --logLevel info --ignoreCache --printPathWarnings
+
+      - name: Build (dev config)
+        run: |
+          hugo config --config dev.toml | grep -i baseurl
+          hugo --minify --logLevel info --ignoreCache --config dev.toml --destination /tmp/ror-dev-ci
+
+      - name: Build (staging config)
+        run: |
+          hugo config --config staging.toml | grep -i baseurl
+          hugo --minify --logLevel info --ignoreCache --config staging.toml --destination /tmp/ror-staging-ci
+
+      - name: Build (live config)
+        run: |
+          hugo config --config live.toml | grep -i baseurl
+          hugo --minify --logLevel info --ignoreCache --config live.toml --destination /tmp/ror-live-ci
+
+          assert() {
+            local label="$1"
+            shift
+            if "$@"; then
+              echo "OK  ${label}"
+            else
+              echo "::error::FAILED ${label}"
+              exit 1
+            fi
+          }
+
+          assert "live CSS present" test -f /tmp/ror-live-ci/css/hugo-ror.css
+          assert "live Matomo _paq present" grep -q '_paq' /tmp/ror-live-ci/index.html
+          assert "live Matomo cloud URL present" grep -q 'matomo.cloud' /tmp/ror-live-ci/index.html
+          assert "live robots disallow /0*" grep -q 'Disallow: /0\*' /tmp/ror-live-ci/robots.txt
+          assert "live robots disallow /lzkrz4eva" grep -q 'Disallow: /lzkrz4eva' /tmp/ror-live-ci/robots.txt
+          assert "dev has no Matomo" bash -c '! grep -q "_paq" /tmp/ror-dev-ci/index.html'
+          assert "staging has no Matomo" bash -c '! grep -q "_paq" /tmp/ror-staging-ci/index.html'
+          assert "Atom feed present" test -f /tmp/ror-live-ci/feed.xml
+          assert "RSS feed present" test -f /tmp/ror-live-ci/index.xml
+          assert "team page present" test -f /tmp/ror-live-ci/about/team/index.html
+          assert "portugal post present" test -f /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
+          assert "portugal tweet image gabioshka" grep -q 'tweet-gabioshka-2020.png' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
+          assert "portugal tweet image connectorerin" grep -q 'tweet-connectorerin-2020.png' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
+          assert "portugal x.com link gabioshka" grep -q 'x.com/gabioshka/status/1222183096126267394' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
+          assert "portugal x.com link connectorerin" grep -q 'x.com/connector_erin/status/1222183630287646721' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
