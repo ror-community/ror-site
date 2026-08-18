@@ -12,7 +12,7 @@
   {{- $count := $data.number_of_results -}}
   <span class="rorcount">{{ lang.FormatNumber 0 $count }}</span>
 {{- else -}}
-  <span class="rorcount">unavailable</span>
+  <span class="rorcount"></span>
 {{- end -}}
 {{ else }}
     {{ warnf "Unable to get remote resource %q" $url }}
