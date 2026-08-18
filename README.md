@@ -14,7 +14,7 @@
 
 1. Start the hugo server
 
-        hugo serve --disableFastRender --config localhost.toml
+        hugo serve --disableFastRender 
 
 2. Visit the site at http://localhost:1313
 
