@@ -34,12 +34,11 @@ jobs:
           invalidation: /*
           delete-removed: true
 
-  notify-slack:
-    needs: run
-    uses: ./.github/workflows/notify-slack.yml
-    with:
-      site_url: https://ror.org
-      job_status: ${{ needs.run.result }}
-      workflow_name: ${{ github.workflow }}
-    secrets:
-      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      - name: Notify Slack
+        if: always()
+        uses: ./.github/actions/notify-slack
+        with:
+          site_url: https://ror.org
+          job_status: ${{ job.status }}
+          workflow_name: ${{ github.workflow }}
+          slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
