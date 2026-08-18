@@ -16,25 +16,11 @@ jobs:
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       S3_BUCKET: ${{ secrets.S3_BUCKET_DEV }}
       CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID_DEV }}
-      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
     steps:
       - uses: actions/checkout@v7
         with:
           submodules: true
           fetch-depth: 0
-
-      - name: Extract branch name
-        shell: bash
-        run: |
-          {
-            echo "BRANCH=$(echo ${GITHUB_REF#refs/heads/} | sed 's/\//_/g')"
-            echo "GIT_SHA=$(git rev-parse HEAD)"
-            echo "GIT_SHA_SHORT=$(git rev-parse --short HEAD)"
-            echo "MESSAGE<<EOF"
-            git log --format=%B -n 1 ${{ github.event.after }}
-            echo "EOF"
-          } >> "$GITHUB_OUTPUT"
-        id: extract_variables
 
       - name: Install Dart Sass
         env:
@@ -68,17 +54,13 @@ jobs:
           invalidation: /*
           delete-removed: true
 
-      - name: Notify Slack
-        if: always()
-        uses: edge/simple-slack-notify@master
-        with:
-          channel: '#website-updates'
-          color: 'good'
-          text: 'Copying new content to server <https://dev.ror.org|dev.ror.org>...'
-          failure_text: '${env.GITHUB_WORKFLOW} (${env.GITHUB_RUN_NUMBER}) build failed'
-          fields: |
-            [{ "title": "Commit message", "value": "${{ steps.extract_variables.outputs.MESSAGE }}" },
-             { "title": "Committed by", "value": "<https://github.com/ror-community/ror-site/commits?author=${{ github.actor }}|${{ github.actor }}>", "short": true },
-             { "title": "Commit SHA", "value": "<https://github.com/ror-community/ror-site/commit/${{ steps.extract_variables.outputs.GIT_SHA }}|${{ steps.extract_variables.outputs.GIT_SHA_SHORT }}>", "short": true },
-             { "title": "Repository", "value": "<https://github.com/${{ github.repository }}|${{ github.repository }}>", "short": true },
-             { "title": "Branch", "value": "<https://github.com/ror-community/ror-site/tree/${{ steps.extract_variables.outputs.BRANCH }}|${{ steps.extract_variables.outputs.BRANCH }}>", "short": true }]
+  notify-slack:
+    needs: run
+    if: always() && needs.run.result != 'skipped'
+    uses: ./.github/workflows/notify-slack.yml
+    with:
+      site_url: https://dev.ror.org
+      job_status: ${{ needs.run.result }}
+      workflow_name: ${{ github.workflow }}
+    secrets:
+      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
