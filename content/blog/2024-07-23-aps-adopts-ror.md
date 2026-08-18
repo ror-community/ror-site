@@ -43,7 +43,7 @@ Contact the APS Press Office at media@aps.org with questions.
 
 Last week at the [ROR Community Call](/events/2024-07-16-ror-community-call), APS Lead Data Analyst Arthur Smith explained why and how APS adopted ROR IDs for author affiliation identification. 
 
-{{<youtube id="qH1JXbAxbYU" title="Featured ROR integrator American Physical Society" class="blog-video" >}}
+{{< youtube id="qH1JXbAxbYU" title="Featured ROR integrator American Physical Society" class="blog-video" >}}
 
 The American Physical Society may be the largest society publisher so far to adopt ROR, but we know they won't be the last. Kudos to APS for helping to lead the way. 
 

@@ -1,0 +1,59 @@
+{{- $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections -}}
+{{- with .Site.Config.Services.RSS.Limit -}}
+  {{- if ge . 1 -}}
+    {{- $pages = $pages | first . -}}
+  {{- end -}}
+{{- end -}}
+{{ print "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>{{ .Site.Title }}</title>
+  {{ with .Site.Params.Description }}<subtitle xml:lang="en-us">{{ . }}</subtitle>{{ end }}
+  {{ with .Site.Params.Author.name }}
+  <author>
+    <name>{{ . }}</name>
+    <uri>{{ $.Site.BaseURL }}</uri>
+  </author>
+  {{ end }}
+  <id>{{ .Permalink }}</id>
+  {{ with .OutputFormats.Get "atom" }}
+  {{ printf `<link rel="self" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.Language.Locale | safeHTML }}
+  {{ end }}
+  {{ range .AlternativeOutputFormats }}
+  {{ printf `<link rel="alternate" type="%s" href="%s" hreflang="%s"/>` .MediaType.Type .Permalink $.Site.Language.Locale | safeHTML }}
+  {{ end }}
+  <generator uri="https://gohugo.io">Hugo {{ hugo.Version }}</generator>  
+  {{ with .Site.Params.icon }}<icon>{{ . | absURL }}</icon>{{ end }}
+  {{ with .Site.Params.logo }}<logo>{{ . | absURL }}</logo>{{ end }}
+  {{ with .Site.Copyright }}<rights>{{ replace . "{year}" now.Year }}</rights>{{ end }}
+  <updated>{{ now.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>
+  {{ with .Site.Params.icon96 }}<webfeeds:icon>{{ . | absURL }}</webfeeds:icon>{{ end }}
+  {{ range $pages }}
+  <entry {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
+    <title {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>{{ .Title }}</title>    
+    {{ if .Page.Params.doi }}<id>{{ .Page.Params.doi }}</id>
+    {{ else }}<id>{{ .Permalink }}</id>{{ end }}
+    <link rel="alternate" href="{{ .Permalink }}"/>
+    {{ if .Page.Params.crosspost }}
+    <link rel="related" href="{{ .Page.Params.crosspost }}" />
+    {{ else }}{{ end }}
+    <published>{{ .Date.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</published>
+    <updated>{{ .Lastmod.Format "2006-01-02T15:04:05-07:00" | safeHTML }}</updated>
+{{- range .GetTerms "authors" }}
+        <author>
+          <name>{{ .Page.Title }}</name>
+          {{ if .Page.Params.orcid }}<uri>{{ .Page.Params.orcid }}</uri>
+          {{ else if .Page.Params.ror }}<uri>{{ .Page.Params.ror }}</uri>
+          {{ else if .Page.Params.link }}<uri>{{ .Page.Params.link }}</uri>{{ end }}
+        </author>
+{{- end }}
+	{{ if .Params.categories }}
+	<category term="{{ .Params.categories }}"></category>{{ else }}
+    <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
+      {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
+    </content>
+    <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
+    {{ if .Description }} {{ .Description | transform.XMLEscape | safeHTML }} {{ else }} {{ .Summary | transform.XMLEscape | safeHTML }} {{ end }}
+    </summary>
+  </entry>
+  {{ end }}
+</feed>

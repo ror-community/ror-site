@@ -34,6 +34,7 @@ ROR has benefited from and continues to benefit from the involvement of many ind
 - Liz Krznarich, DataCite
 - Suze Kundu, Digital Science
 - Rachael Lammey, Crossref
+- Riley Marsh, Crossref
 - Simon Porter, Digital Science
 - Dominika Tkaczyk, Crossref
 - Paul Vierkant, DataCite

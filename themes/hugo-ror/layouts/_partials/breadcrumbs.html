@@ -1,0 +1,49 @@
+<section class="breadcrumbs-wrap">
+	<div class="container breadcrumbs-wrap">
+		<div class="row">
+			<div class="col-md-9 mr-auto">
+				<div role="navigation" aria-label="breadcrumbs navigation">
+					{{ $.Store.Set "path" "" }}
+					{{ $.Store.Set "pagetype" .Params.type }}
+					<ul class="breadcrumbs">
+						<li><a href="{{ .Site.BaseURL }}">Home</a>{{ if not (eq .Permalink "/")  }}<span>&gt;</span>{{ end }}</li>
+						
+							{{ if eq ($.Store.Get "pagetype") "404" }}
+								<li>{{ $.Title }}</li>
+								
+							{{ else }}
+
+								{{ range $index, $element := split .RelPermalink "/" }}
+						
+									{{ $.Store.Add "path" $element }}
+						
+									{{ $.Store.Set "relURL" (replace ($.Store.Get "path") ( printf "%s/" $.Site.BaseURL) "" )}}
+						
+									{{ $.Store.Add "path" "/" }}
+						
+									<!-- Check if the current list item is the last one -->
+									{{ $isLast := eq ($.Store.Get "path") $.RelPermalink }}
+									{{ if ne $element "" }}
+										{{ if not $isLast }}
+											{{ if or ( eq (title ( replace . "-" " ")) "Categories" ) ( eq (title ( replace . "-" " ")) "Tags" ) ( eq (title ( replace . "-" " ")) "Archives" )}}
+												<li><a href='/blog/'>Blog</a><span>&gt;</span></li>
+												
+											{{ else if or ( eq (title ( replace . "-" " ")) "Eventtypes" ) ( eq (title ( replace . "-" " ")) "Eventarchives" )}}		
+								<li><a href='/events/'>Events</a><span>&gt;</span></li>
+																				
+											{{ else }}
+												<li><a href='{{ $.Store.Get "path" }}'>{{ with site.GetPage ($.Store.Get "relURL") }}{{ .Title }}{{ end }}</a><span>&gt;</span></li>
+											{{ end }}
+										{{ else }}
+											<li>{{ $.Title }}</li>
+										{{ end }}
+									{{ end }}
+								{{ end }}
+							{{ end }}
+					</ul>
+				
+				</div>
+			</div>
+		</div>
+	</div>
+</section>

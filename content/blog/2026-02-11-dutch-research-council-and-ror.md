@@ -44,7 +44,7 @@ See also Hans de Jonge's recent presentation at the ROR Annual Meeting session [
 
 ## **What made you decide to use ROR?**
 
-[NWO](www.nwo.nl) is the major research funding council in the Netherlands with a longstanding commitment to Open Science. About five years ago, we decided we needed to apply the principles of Open Science not only to our grantees but also—as much as possible—to our own data. We decided to move away from using proprietary data for our annual [open access monitoring](https://doi.org/10.5281/zenodo.13885012) and use open metadata only. 
+[NWO](https://www.nwo.nl) is the major research funding council in the Netherlands with a longstanding commitment to Open Science. About five years ago, we decided we needed to apply the principles of Open Science not only to our grantees but also—as much as possible—to our own data. We decided to move away from using proprietary data for our annual [open access monitoring](https://doi.org/10.5281/zenodo.13885012) and use open metadata only. 
 
 We developed an [open API](https://www.nwo.nl/en/how-to-use-the-nwopen-api) which makes structured data for all our funded projects and their outputs openly available as open data for anyone to use. Universities use this data for instance in developing institutional dashboards about the external funding they acquire, but the data is also available for researchers. 
 

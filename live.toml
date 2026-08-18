@@ -1,4 +1,4 @@
-languageCode = "en-us"
+locale = "en-us"
 title = "Research Organization Registry (ROR)"
 baseurl = "https://ror.org/"
 style = "turquoise"
@@ -72,7 +72,7 @@ enableGitInfo = true
     enable = true
 
 [params.announcement]
-    enable = false
+    enable = true
 
 [params.homepage_features]
     enable = true

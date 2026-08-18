@@ -1,4 +1,92 @@
-baseURL = 'https://ror.org/'
-languageCode = 'en-us'
-title = 'Research Organization Registry (ROR)'
-theme = 'hugo-ror'
+locale = "en-us"
+title = "Research Organization Registry (ROR)"
+baseurl = "http://localhost:1313"
+style = "turquoise"
+theme = "hugo-ror"
+pluralizelisttitles = "false"
+summaryLength = 20
+copyright = "All ROR IDs and metadata are provided under the Creative Commons CC0 1.0 Universal Public Domain Dedication https://creativecommons.org/publicdomain/zero/1.0/. All other content on ror.org is licensed under the Creative Commons Attribution 4.0 International License https://creativecommons.org/licenses/by/4.0/."
+enableRobotsTXT = true
+enableGitInfo = true
+
+[params]
+	CSSVersion = 3
+	description = 'The Research Organization Registry (ROR) is a global, community-led registry of open persistent identifiers for research and funding organizations.'
+	title = 'Research Organization Registry (ROR)'
+  	images = ['/img/ror-logo-800.png']
+	dateFormatTag = "2006"
+	feedUUID = "https://ror.org"
+	icon = "/img/favicon.ico"
+	logo = "/img/ror-logo-800.png"
+	mainSections = ["blog"]
+
+[params.author]  	
+  	email = 'support@ror.org'
+  	name = 'Research Organization Registry (ROR)'
+  
+[mediaTypes]
+  [mediaTypes."application/atom+xml"]
+    suffixes = ["xml"]
+
+[outputs]
+  home = ["ATOM", "RSS", "HTML"]
+  page = ["HTML"]
+  section = ["HTML"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
+
+[outputFormats]
+  [outputFormats.ATOM]
+    mediaType = "application/atom+xml"
+    baseName  = "feed"    	
+  	  	
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+      
+[markup.tableOfContents]
+    endLevel = 2
+    ordered = false
+    startLevel = 2        
+
+[params.widgets]
+    search = true
+    categories = true
+    tags = true
+    archives = true
+
+[params.carousel]
+    enable = false
+
+[params.landingbanner]
+  enable = true
+    image = "/img/ROR_Lions_Banner.jpg"
+    text = ""
+    textcolor = '#fff'
+
+[params.blurb]
+    enable = true
+
+[params.announcement]
+    enable = true 
+
+[params.homepage_features]
+    enable = true
+
+[params.testimonials]
+    enable = false
+
+[params.socials]
+    enable = true
+
+[params.recent_posts]
+    enable = true
+    title = "News and Updates"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  archive = 'archives'
+  author = 'authors'
+  

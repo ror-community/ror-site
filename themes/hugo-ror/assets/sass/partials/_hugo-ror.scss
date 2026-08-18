@@ -1819,11 +1819,9 @@ li a {
     font-size: 1.75rem;
 }
 .h4, .h5, h4, h5 {
-    font-size: 1rem;
+    font-size: 1.5rem;
 }
-.h4, h4 {
-    font-size: 1.3rem;
-}
+
 .h4+.category, .h4.title+.category, h4+.category, h4.title+.category {
     margin-top: -5px;
 }
@@ -1847,7 +1845,7 @@ h2:first-child, h3:first-child {
 .post h2 {
   margin-top: 0;
 }
-.taxonomy h3.card-title {
+.taxonomy h2.card-title {
   margin: 0;
 }
 h6 .category.mt-3 {
@@ -7077,7 +7075,7 @@ $desktop-width: 1024px;
 
 .section-announcement p,
 .section-announcement p a {
-	color: $black;
+	color: #FFF;
 	font-size:1.75rem;
 }
 
@@ -7125,7 +7123,7 @@ figure img {
 }
 
 .blog-video {
-	padding-bottom: 2rem;	
+	padding: 1rem;
 }
 
 iframe {
@@ -7417,3 +7415,8 @@ code {
 	word-break: break-word;
 }
 
+/* sidebar card titles headers */
+
+div.col-md-3 div.card.card-plain h2.card-title { 
+font-size: 1.75rem;
+}
