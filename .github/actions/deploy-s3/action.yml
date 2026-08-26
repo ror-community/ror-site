@@ -1,0 +1,31 @@
+name: Deploy to S3
+description: Sync a folder to S3 and invalidate a CloudFront distribution
+
+inputs:
+  folder:
+    description: Local directory to sync
+    required: false
+    default: public
+  bucket:
+    description: Destination S3 bucket name
+    required: true
+  bucket-region:
+    description: AWS region of the S3 bucket
+    required: true
+  dist-id:
+    description: CloudFront distribution ID to invalidate
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Sync to S3 and invalidate CloudFront
+      env:
+        FOLDER: ${{ inputs.folder }}
+        BUCKET: ${{ inputs.bucket }}
+        BUCKET_REGION: ${{ inputs.bucket-region }}
+        DIST_ID: ${{ inputs.dist-id }}
+      shell: bash
+      run: |
+        aws s3 sync "${FOLDER}/" "s3://${BUCKET}/" --region "${BUCKET_REGION}" --delete
+        aws cloudfront create-invalidation --distribution-id "${DIST_ID}" --paths "/*"
