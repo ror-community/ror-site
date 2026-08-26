@@ -9,9 +9,6 @@ jobs:
   run:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: '0.165.0'
-      DART_SASS_VERSION: '1.102.0'
-      DART_SASS_SHA256: '2a2ce6036f94534b39356252b1a3d4aa7879ab139c73bf62f7c9b5beafcfc367'
       AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
       AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
       S3_BUCKET: ${{ secrets.S3_BUCKET_DEV }}
@@ -19,30 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v7
         with:
-          submodules: true
           fetch-depth: 0
 
-      - name: Install Dart Sass
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          archive="dart-sass-${DART_SASS_VERSION}-linux-x64.tar.gz"
-          curl -sfL --output-dir "${{ runner.temp }}" -O "https://github.com/sass/dart-sass/releases/download/${DART_SASS_VERSION}/${archive}"
-          echo "${DART_SASS_SHA256}  ${{ runner.temp }}/${archive}" | sha256sum -c -
-          gh attestation verify "${{ runner.temp }}/${archive}" --owner sass
-          tar -C "${HOME}/.local" -xf "${{ runner.temp }}/${archive}"
-          echo "${HOME}/.local/dart-sass" >> "${GITHUB_PATH}"
+      - uses: ./.github/actions/setup-hugo-sass
 
-      - name: Setup Hugo
-        uses: peaceiris/actions-hugo@v3.2.1
+      - uses: ./.github/actions/build-hugo
         with:
-          hugo-version: ${{ env.HUGO_VERSION }}
-
-      - name: Build
-        run: |
-          echo "Resolved baseURL:"
-          hugo config --config dev.toml | grep -i baseurl
-          hugo --minify --logLevel info --ignoreCache --config dev.toml
+          config: dev.toml
 
       - name: Deploy
         uses: reggionick/s3-deploy@v4
@@ -54,13 +34,11 @@ jobs:
           invalidation: /*
           delete-removed: true
 
-  notify-slack:
-    needs: run
-    if: always() && needs.run.result != 'skipped'
-    uses: ./.github/workflows/notify-slack.yml
-    with:
-      site_url: https://dev.ror.org
-      job_status: ${{ needs.run.result }}
-      workflow_name: ${{ github.workflow }}
-    secrets:
-      SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+      - name: Notify Slack
+        if: always()
+        uses: ./.github/actions/notify-slack
+        with:
+          site_url: https://dev.ror.org
+          job_status: ${{ job.status }}
+          workflow_name: ${{ github.workflow }}
+          slack_webhook_url: ${{ secrets.SLACK_WEBHOOK_URL }}
