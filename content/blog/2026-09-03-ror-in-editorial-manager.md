@@ -11,7 +11,7 @@ thumb = "/img/blog/editorial-manager/aries-systems-logo.png"
 images = ['/img/blog/editorial-manager/aries-systems-logo.png']
 authors = ["Aries Systems"] 
 description = "Aries Systems has announced that its widely-used peer review and production tracking systems Editorial Manager® (EM) and ProduXion Manager® (PM) now support ROR IDs as funder identifiers."
-doi = ""
+doi = "https://doi.org/10.71938/kah9-jq23"
 crosspost = "https://www.ariessys.com/blog/ror-identifier-integration/"
 +++ 
 
