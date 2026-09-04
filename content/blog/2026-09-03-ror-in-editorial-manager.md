@@ -34,7 +34,7 @@ Editorial Manager® (EM) and ProduXion Manager® (PM), the leading peer review a
 
 As funders from the ROR database are selected, their ROR ID is stored in EM/PM. If that ROR record also has a corresponding ID from the [Crossref Open Funder Registry (OFR)](https://www.crossref.org/services/funder-registry/), both identifiers are stored in the system. As Crossref has merged their OFR database into the ROR registry, the switch in EM/PM between the two for Funding Information would be a seamless transition with no disruption. However, EM/PM remains integrated with the Crossref Open Funder Registry and will continue to support publications that do not make the shift. [The ROR search index](https://ror.org/search) is regularly updated, and newly added, corrected, or retired organizations will be automatically synced in EM/PM.
 
-The Research Organization Registry (ROR) was founded in 2019 by the California Digital Library, DataCity, and Crossref. ROR joins as the latest identifier available within [the Aries ecosystem](https://www.ariessys.com/ecosystem/?_ecosystem_tool_category=identity-tools#dynamic-ecosystem-title) – our network of connected tools and services designed to enhance workflow, research, and user experience.
+The Research Organization Registry (ROR) was founded in 2019 by the California Digital Library, DataCite, and Crossref. ROR joins as the latest identifier available within [the Aries ecosystem](https://www.ariessys.com/ecosystem/?_ecosystem_tool_category=identity-tools#dynamic-ecosystem-title) – our network of connected tools and services designed to enhance workflow, research, and user experience.
 
 To enable ROR for journals using EM/PM, contact your dedicated Aries Account Coordinator (AC).
 
