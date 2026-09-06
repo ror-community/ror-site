@@ -89,4 +89,7 @@ enableGitInfo = true
   tag = 'tags'
   archive = 'archives'
   author = 'authors'
+  eventarchive = 'eventarchives'  
+  eventtype = 'eventtypes'
+  eventtag = 'eventtags'  
   
