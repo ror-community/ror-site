@@ -2,7 +2,7 @@
 title = "From User Stories to High-Quality Data: Implementing ROR on the Janeway Platform" 
 date = "2026-03-17"
 draft = false 
-tags = ["Janeway", "Publishing"] 
+tags = ["Janeway", "Publishing", "Cross-post"] 
 categories = ["Case Studies"] 
 archives = ["2026"]
 style = "card-plain" 

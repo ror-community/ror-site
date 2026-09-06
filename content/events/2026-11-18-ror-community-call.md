@@ -15,7 +15,7 @@ starttime = "4pm UTC"
 duration = "1 hour"
 location = "Online"
 recorded = "Yes"
-description = "The bi-monthly ROR Community calls include updates from the ROR team, opportunities for feedback on how ROR operates, demonstrations and presentations by ROR users, and more."
+description = "The November 2026 ROR Community Call focuses on some dramatic strides forward in the use of ROR in scholarly publishing systems. Toby Steiner of Thoth explains how [Thoth Oasis](https://thoth.pub/packages/oasis) uses ROR, and Diogo Rodrigues of [MDPI](https://mdpi.com) gives an overview of how their new [MDPI ROR Entity Search](https://ror.mdpi.com/) is improving publishing workflows. The ROR team also gives updates on what we’ve been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR."
 website = ""
 reglink = "https://crossref.zoom.us/meeting/register/5UoAwbjmSFqi1V5_kIorcw"
 +++
