@@ -1,44 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-
-  {{ partial "head.html" . }}
-
-  <body class='taxonomy'>
-    <div class="wrapper" id="all">
-      <header>
-        {{ partial "nav.html" . }}
-      </header>
-      <section class="section section-banner" id="content">
-
-       {{ partial "pagetitle.html" . }}
-       
-       {{ partial "breadcrumbs.html" . }}
-
-        <main class="section container" role="main">
-          <div class="row">
-            <div class="col-md-12">           
-            <section>
-
-		  {{ .Content }}
-		  {{ range .Data.Terms.ByCount }}
-			<h3><a href="{{ .Page.RelPermalink }}">{{ .Page.LinkTitle }}</a> ({{ .Count }})</h3>
-			<ul>
-			  {{ range .WeightedPages }}
-				<li><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></li>
-			  {{ end }}
-			</ul>
-		  {{ end }}
-			</section>
-
-            </div>
-          </div>
-        </main>
-      </section>
-    </div>
-
-    {{ partial "subscribe.html" . }}
-    {{ partial "socials.html" . }}
-    {{ partial "footer.html" . }}
-    {{ partial "scripts.html" . }}
-  </body>
-</html>
+{{ define "main" }}
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  {{ range .Pages }}
+    <h2><a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a></h2>
+  {{ end }}
+{{ end }}
