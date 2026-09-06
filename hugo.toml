@@ -55,6 +55,9 @@ enableGitInfo = true
     categories = true
     tags = true
     archives = true
+    eventarchives = true
+    eventtypes = true
+    event-tags = true
 
 [params.carousel]
     enable = false
@@ -91,5 +94,5 @@ enableGitInfo = true
   author = 'authors'
   eventarchive = 'eventarchives'  
   eventtype = 'eventtypes'
-  eventtag = 'eventtags'  
+  eventtag = 'event-tags'  
   
