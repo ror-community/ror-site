@@ -44,7 +44,7 @@ Alternately, on MacOS, run ```bash preview-local.command``` to check dependencie
 
 # Development
 
-- Features, bugs, and maintenance issues for the ROR website should be   opened on the [ROR Roadmap](https://github.com/ror-community/ror-roadmap) and managed in the [ROR Website Development project](https://github.com/orgs/ror-community/projects/28).
+- Features, bugs, and maintenance issues for the ROR website should be  opened on the [ROR Roadmap](https://github.com/ror-community/ror-roadmap) and managed in the [ROR Website Development project](https://github.com/orgs/ror-community/projects/28).
 - All development should be done locally in feature branches.
 - When you have changes ready to push to dev, open a pull request to merge the feature branch to the dev branch.
 - Do not merge or push changes directly to dev, staging, or master without pull requests.
