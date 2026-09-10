@@ -1,0 +1,17 @@
+name: Build Hugo site
+description: Build the Hugo site with a given config file
+
+inputs:
+  config:
+    description: Hugo config file (e.g. dev.toml, staging.toml, live.toml)
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Build
+      shell: bash
+      run: |
+        echo "Resolved baseURL:"
+        hugo config --config "${{ inputs.config }}" | grep -i baseurl
+        hugo --minify --logLevel info --ignoreCache --config "${{ inputs.config }}"
