@@ -1,6 +1,6 @@
 # ror-site
 
-### Research Organisation Registry community website
+### Research Organisation Registry website
 
 ## Local setup
 
@@ -34,11 +34,21 @@ brew install hugo sass/sass/sass
 
 Alternately, on MacOS, run ```bash preview-local.command``` to check dependencies, start the server and open the site in Chrome.
 
+# Content editing
+
+- All content editing should be done locally in feature branches.
+- Use persistent feature branches such as `events-page`, `content-tweaks,` and `broken-links` to make recurrent content-only changes. 
+- When you have changes ready to push to dev, open a pull request to merge the feature branch to the dev branch.
+- Do not merge or push content changes (even small content changes such as typo fixes) directly to dev, staging, or master without pull requests.
+- If you have sufficient permissions (Write, Maintain, or Admin) you can approve and merge your own content pull requests. 
+
 # Development
 
+- Features, bugs, and maintenance issues for the ROR website should be   opened on the [ROR Roadmap](https://github.com/ror-community/ror-roadmap) and managed in the [ROR Website Development project](https://github.com/orgs/ror-community/projects/28).
 - All development should be done locally in feature branches.
-- When you have changes ready to push to dev, open a pull request against the dev branch.
-- Do not push changes directly to dev, staging or master.
+- When you have changes ready to push to dev, open a pull request to merge the feature branch to the dev branch.
+- Do not merge or push changes directly to dev, staging, or master without pull requests.
+- Pull requests to dev for configuration, theme, and code changes must be reviewed, approved, and merged by the ROR Technical Lead. 
 
 # Deployment
 All changes should be deployed to dev first, followed by staging and production:
@@ -47,7 +57,7 @@ All changes should be deployed to dev first, followed by staging and production:
 2. Open a pull request from dev branch against staging branch and merge to deploy to staging.ror.org
 2. Open a pull request from staging branch against master branch and merge to deploy to ror.org
 
-Deployment is handled by [Github actions](https://github.com/ror-community/ror-site/actions)
+Deployment is handled by [GitHub actions](https://github.com/ror-community/ror-site/actions)
 
 - **Build PR** action builds (no deploy) on pull requests
 - **Deploy Dev** action deploys to dev.ror.org on push/merge to dev branch
@@ -59,5 +69,5 @@ Environment configs are complete TOML files: `dev.toml`, `staging.toml`, and `li
 ## Notes
 
 - ror-site CSS is also used by [ror-app](https://github.com/ror-community/ror-app). Please consider impacts of CSS changes on ror-app.
-- Any menu changes made to ror-site need to be duplicated in [ror-app](https://github.com/ror-community/ror-app)
+- Any header and footer changes made to ror-site need to be duplicated in [ror-app](https://github.com/ror-community/ror-app). 
 - The ror-site theme was originally based on the [Hugo Universal Theme](https://themes.gohugo.io/themes/hugo-universal-theme/).
