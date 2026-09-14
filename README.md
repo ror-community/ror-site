@@ -54,8 +54,8 @@ Alternately, on MacOS, run ```bash preview-local.command``` to check dependencie
 All changes should be deployed to dev first, followed by staging and production:
 
 1. Merge pull request from feature branch to dev branch to deploy to dev.ror.org
-2. Open a pull request from dev branch against staging branch and merge to deploy to staging.ror.org
-2. Open a pull request from staging branch against master branch and merge to deploy to ror.org
+2. Open a pull request from feature branch against staging branch and merge to deploy to staging.ror.org
+2. Open a pull request from feature branch against master branch and merge to deploy to ror.org
 
 Deployment is handled by [GitHub actions](https://github.com/ror-community/ror-site/actions)
 
