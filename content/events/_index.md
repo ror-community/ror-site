@@ -27,17 +27,13 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### ROR Community Call September 2026
+### Open Science and Innovations Ukraine 2026
 
-- Date: September 24, 2026
-- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2026-09-24)
-- Duration: 1 hour
+- Dates: October 21-22, 2026
 - Location: Online
-- Recorded: Yes
-- Description: The September edition of the bi-monthly ROR community call focuses on ROR in Repositories with an eye toward helping institutional repository managers who use DSpace make sure their metadata is enriched with ROR. Małgorzata Paszcowska of [PCG Academia](https://pcgacademia.pl/) explains all the ROR-enabled features in DSpace with a special focus on new RORifications in DSpace 10. In addition, Laura Meier of [LMU Münich](https://www.lmu.de/en/) demonstrates the [DataCite Metadata Generator](https://dhvlab.gwi.uni-muenchen.de/datacite-generator/), which helps create ROR-enriched metadata for DataCite DOIs. The ROR team also gives updates on what we’ve been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR.
+- Description: ROR presents at OSIU2026, a platform for presenting and discussing research, initiatives, and practical case studies related to the implementation of open science and innovations. The forum covers a wide range of topics — from research policy development and infrastructure creation to service provision supporting open science and building a sustainable ecosystem through human capacity development. Special attention is given to the practical aspects of implementing openness principles in science, technology, and innovation.
 
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/u24MW3cvQrChX7obuewuMw" >}} Register for the ROR Community Call September 2026 {{< /button >}}
+{{< button color="green" link="https://conference2026.dntb.gov.ua/en/" >}} Learn more and register for OSIU 2026{{< /button >}}
 
 ---
 
@@ -45,7 +41,7 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 - Dates: October 27-29, 2026
 - Location: Leiden, Netherlands
-- Description: Members of the ROR team will be presenting at [PIDfest 2026](https://pidfest.org), an international summit of talks, activities, and workshops focussing on how persistent identifiers can deliver world-class research infrastructure.
+- Description: Members of the ROR team will be presenting at PIDfest 2026, an international summit of talks, activities, and workshops focussing on how persistent identifiers can deliver world-class research infrastructure.
 
 {{< button color="green" link="https://event.surf.nl/pidfest26/registration/" >}} Register for PIDfest 2026 {{< /button >}}
 
@@ -66,6 +62,12 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### ROR Community Call September 2026
+
+September 24, 2026 | [Event details and materials](2026-09-24-ror-community-call)
+
+---
 
 ### ROR Community Call July 2026
 

@@ -21,20 +21,16 @@ reglink = "https://crossref.zoom.us/meeting/register/u24MW3cvQrChX7obuewuMw"
 +++
 
 
-<!-- Post-event content template
-
 ## Materials 
 
-- [Slides from event]()
+- [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vRkhD9TWiw02OjXS6AkCRk-lAYTeLNWK0feBY8Qk6YVBvN7vjNCizPGHMp4Jl57SxS_3_GGiGO4BBjx/pub?start=false&loop=false&delayms=3000)
 
-{{< iframe "XXX" >}}
+{{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vRkhD9TWiw02OjXS6AkCRk-lAYTeLNWK0feBY8Qk6YVBvN7vjNCizPGHMp4Jl57SxS_3_GGiGO4BBjx/pubembed?start=false&loop=false&delayms=3000" >}}
 
 ---
 
 ## Recording 
 
-{{< youtube id="XXX" >}}
+{{< youtube id="gpZfT3fDJJ8" title="ROR Community Call September 2026" start="" class="" >}}
 
-
---!> 
 
