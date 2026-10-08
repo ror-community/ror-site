@@ -17,7 +17,7 @@ crosspost = "https://www.ariessys.com/blog/ror-identifier-integration/"
 
 {{< callout color="green" icon="no-icon" >}} 
 
-We're thrilled that Aries Systems has announced that its widely-used peer review and production tracking systems Editorial Manager® (EM) and ProduXion Manager® (PM) now support ROR IDs as funder identifiers! 
+We're thrilled that Aries Systems has announced that its widely-used peer review and production tracking systems Editorial Manager® (EM) and ProduXion Manager® (PM) now support ROR IDs as funder and institutional identifiers! ROR IDs for funders were added to EM/PM in [release 26.10 (PDF)](https://www.ariessys.com/wp-content/uploads/EM_PM_26.10_Release_Notification_September.pdf) and ROR IDs for author affiliations were added in [release 26.11 (PDF)](https://www.ariessys.com/wp-content/uploads/EM_PM_26.11_Release_Notification_September_23.pdf). 
 
 Read the whole announcement below or [on the Aries Systems blog](https://www.ariessys.com/blog/ror-identifier-integration/).
 
@@ -30,9 +30,9 @@ Read the whole announcement below or [on the Aries Systems blog](https://www.ari
 
 The scholarly publishing landscape is a vast, diverse community made up of researchers, organizations/societies, publications, vendors, and more. It can be difficult to disambiguate all the individual data contributors associated with a specific manuscript as it navigates the publishing process. Inconsistent data markers can pose risks to quality, accuracy, and tracking – resulting in costly delays and corrections. To create consistency across these different layers of metadata during the publishing workflow., recommended and standardized persistent identifiers (PIDs) can be leveraged for people, institutions, and funders.
 
-Editorial Manager® (EM) and ProduXion Manager® (PM), the leading peer review and production tracking systems, now support the Research Organization Registry (ROR) as a funder identifier! Once enabled, authors can select funding sources linked to the ROR database from a typeahead picklist during the submission workflow in EM. The auto-suggest menu shows up to thirty highest-ranked matches and narrows as the search term is refined, and it account for acronyms, aliases, and name variants in other languages. Assigning a unique ID to funding information rather than relying on free-text entry fields enables confidence in the reliability of submitted metadata from Authors and it can also be carried downstream to peer review, final disposition, and production. However, authors can still enter the funder as free text when a funder is not found in suggested menu of sources.
+Editorial Manager® (EM) and ProduXion Manager® (PM), the leading peer review and production tracking systems, now support the Research Organization Registry (ROR) as an identifier for funders and institutions! Once enabled, authors can select funding sources and institutional affiliations linked to the ROR database from a typeahead picklist during the submission workflow in EM. The auto-suggest menu shows up to thirty highest-ranked matches and narrows as the search term is refined, and it account for acronyms, aliases, and name variants in other languages. Assigning a unique ID to affiliations and funding information rather than relying on free-text entry fields enables confidence in the reliability of submitted metadata from authors. However, authors can still enter their institutional and funding affiliations as free text when the desired result is not found in suggested menu of organizations. Beyond the submission workflow, ROR iDs can be linked during user registration to EM/PM or when a user’s profile is updated. As a core piece of metadata, it can also be carried downstream to peer review, final disposition, and production.
 
-As funders from the ROR database are selected, their ROR ID is stored in EM/PM. If that ROR record also has a corresponding ID from the [Crossref Open Funder Registry (OFR)](https://www.crossref.org/services/funder-registry/), both identifiers are stored in the system. As Crossref has merged their OFR database into the ROR registry, the switch in EM/PM between the two for Funding Information would be a seamless transition with no disruption. However, EM/PM remains integrated with the Crossref Open Funder Registry and will continue to support publications that do not make the shift. [The ROR search index](https://ror.org/search) is regularly updated, and newly added, corrected, or retired organizations will be automatically synced in EM/PM.
+As funders and institutions from the ROR database are selected, their ROR ID is stored in EM/PM. If that ROR record also has a corresponding ID from the [Crossref Open Funder Registry (OFR)](https://www.crossref.org/services/funder-registry/), both identifiers are stored in the system, as Crossref has merged their OFR database into the ROR registry. Journals interested in making the switch in EM/PM from [Ringgold ID](https://www.copyright.com/solutions-ringgold/) for institutions and Crossref ID for funders to ROR for both sources would experience a seamless transition with no disruption. However, EM/PM remains integrated with Ringgold and the Crossref Open Funder Registry and will continue to support publications that do not make the shift. The ROR search index is regularly updated, and newly added, corrected, or retired organizations will be automatically synced in EM/PM.
 
 The Research Organization Registry (ROR) was founded in 2019 by the California Digital Library, DataCite, and Crossref. ROR joins as the latest identifier available within [the Aries ecosystem](https://www.ariessys.com/ecosystem/?_ecosystem_tool_category=identity-tools#dynamic-ecosystem-title) – our network of connected tools and services designed to enhance workflow, research, and user experience.
 
@@ -40,8 +40,9 @@ To enable ROR for journals using EM/PM, contact your dedicated Aries Account Coo
 
 {{< figure src="/img/blog/editorial-manager/ROR-Registry-Typeahead-Picklist.png" alt="ROR typeahead picklist." >}}
 
-
 {{< callout icon="fa-envelope" >}} 
 Write us at support@ror.org with any comments or questions.
 {{< /callout >}} 
+
+
 
