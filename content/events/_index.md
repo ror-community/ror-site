@@ -27,26 +27,6 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ## Upcoming events
 
-### Open Science and Innovations Ukraine 2026
-
-- Dates: October 21-22, 2026
-- Location: Online
-- Description: ROR presents at OSIU2026, a platform for presenting and discussing research, initiatives, and practical case studies related to the implementation of open science and innovations. The forum covers a wide range of topics — from research policy development and infrastructure creation to service provision supporting open science and building a sustainable ecosystem through human capacity development. Special attention is given to the practical aspects of implementing openness principles in science, technology, and innovation.
-
-{{< button color="green" link="https://conference2026.dntb.gov.ua/en/" >}} Learn more and register for OSIU 2026{{< /button >}}
-
----
-
-### PIDfest 2026
-
-- Dates: October 27-29, 2026
-- Location: Leiden, Netherlands
-- Description: Members of the ROR team will be presenting at PIDfest 2026, an international summit of talks, activities, and workshops focussing on how persistent identifiers can deliver world-class research infrastructure.
-
-{{< button color="green" link="https://event.surf.nl/pidfest26/registration/" >}} Register for PIDfest 2026 {{< /button >}}
-
----
-
 ### ROR Community Call November 2026
 
 - Date: November 18, 2026
@@ -62,6 +42,18 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 ---
 
 ## Past events 
+
+### PIDfest 2026
+
+October 27-29, 2026 | [Event details and materials](2026-10-27-pidfest)
+
+---
+
+### Open Science and Innovations Ukraine 2026
+
+October 21-22, 2026 | [Event details and materials](2026-10-21-open-science-ukraine)
+
+---
 
 ### ROR Community Call September 2026
 
