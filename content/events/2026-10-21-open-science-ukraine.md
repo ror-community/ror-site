@@ -20,11 +20,9 @@ website = "https://conference2026.dntb.gov.ua/en/"
 reglink = ""
 +++
 
-
 ## Materials 
 
 - [Slides from event](https://docs.google.com/presentation/d/e/2PACX-1vQbfmMaLRJqG_yV3hXSuuxtLsMf0IVYoz5DeslY_LV8h4JpDJiLHzBn1NcTIAg-fFwCw4P0F7dwY6hY/pub?start=false&loop=false&delayms=3000)
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQbfmMaLRJqG_yV3hXSuuxtLsMf0IVYoz5DeslY_LV8h4JpDJiLHzBn1NcTIAg-fFwCw4P0F7dwY6hY/pubembed?start=false&loop=false&delayms=3000" >}}
-
 
