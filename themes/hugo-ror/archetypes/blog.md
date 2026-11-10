@@ -24,7 +24,7 @@ crosspost = ""
 
 {{< figure src="/img/blog/" class="blog-figure" alt="" >}}
 
-{{< youtube id="XXX" title="" >}}
+{{< youtube id="XXX" title="" class="blog-video" start="" >}}
 
 {{< callout icon="fa-envelope" >}} 
 Write us at support@ror.org with any comments or questions.
