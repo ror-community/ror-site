@@ -37,10 +37,8 @@ Alternately, on MacOS, run ```bash preview-local.command``` to check dependencie
 # Content editing
 
 - All content editing should be done locally in feature branches.
-- Use persistent feature branches such as `events-page`, `content-tweaks,` and `broken-links` to make recurrent content-only changes. 
 - When you have changes ready to push to dev, open a pull request to merge the feature branch to the dev branch.
-- Do not merge or push content changes (even small content changes such as typo fixes) directly to dev, staging, or master without pull requests.
-- If you have sufficient permissions (Write, Maintain, or Admin) you can approve and merge your own content pull requests. 
+- If you have sufficient permissions (Write, Maintain, or Admin) you can approve and merge your own content pull requests.
 
 # Development
 
