@@ -37,13 +37,17 @@ Alternately, on MacOS, run ```bash preview-local.command``` to check dependencie
 # Content editing
 
 - All content editing should be done locally in feature branches.
+- Branch from `master` and name the branch `content/[description of content task]`. See https://conventionalbranch.org/.  
 - When you have changes ready to push to dev, open a pull request to merge the feature branch to the dev branch.
+- Check the content on dev.ror.org and once it has passed review, merge the branch (or dev) to staging.
+- Check the content on staging.ror.org and once it has passed review, merge the branch (or staging) to master. 
 - If you have sufficient permissions (Write, Maintain, or Admin) you can approve and merge your own content pull requests.
 
 # Development
 
 - Features, bugs, and maintenance issues for the ROR website should be  opened on the [ROR Roadmap](https://github.com/ror-community/ror-roadmap) and managed in the [ROR Website Development project](https://github.com/orgs/ror-community/projects/28).
 - All development should be done locally in feature branches.
+- Branch from master and name the branch `feature/[description of feature task]` or `bugfix/[description of bugfix task]` or similar. See https://conventionalbranch.org/. 
 - When you have changes ready to push to dev, open a pull request to merge the feature branch to the dev branch.
 - Do not merge or push changes directly to dev, staging, or master without pull requests.
 - Pull requests to dev for configuration, theme, and code changes must be reviewed, approved, and merged by the ROR Technical Lead. 
