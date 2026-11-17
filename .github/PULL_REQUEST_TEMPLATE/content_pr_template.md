@@ -1,1 +1,13 @@
-
+- [ ] The content has been spellchecked and proofread.
+- [ ] The content has been checked for broken links. 
+- [ ] The content has been checked for accessibility. 
+- [ ] The draft status of the content is correct. 
+- [ ] A unique and specific description of the content has been added to the front matter. 
+- [ ] Blog posts: The date of the blog post is the correct date and matches the date in the filename. 
+- [ ] Blog posts: A single category has been added to the front matter. 
+- [ ] Blog posts: Tags indicating the organization and topic of the content have been added to the front matter. 
+- [ ] Blog posts: The year for the archives has been added to the front matter. 
+- [ ] Blog posts: A thumbnail image and preview image has been added to the front matter. 
+- [ ] Blog posts: The author is listed in the front matter and the author page has been created and populated with the correct values. 
+- [ ] Blog posts: A DOI has been created for the content and added to the front matter. 
+- [ ] Blog posts: If the blog post is cross-posted elsewhere, that link has been added to the front matter. 
