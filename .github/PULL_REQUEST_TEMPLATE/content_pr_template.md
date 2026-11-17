@@ -1,7 +1,8 @@
 - [ ] The content has been spellchecked and proofread.
 - [ ] The content has been checked for broken links. 
 - [ ] The content has been checked for accessibility. 
-- [ ] The draft status of the content is correct. 
+- [ ] The draft status of the content is correct.
+- [ ] The preview URL of the content has been checked and looks correct. 
 - [ ] A unique and specific description of the content has been added to the front matter. 
 - [ ] Blog posts: The date of the blog post is the correct date and matches the date in the filename. 
 - [ ] Blog posts: A single category has been added to the front matter. 
