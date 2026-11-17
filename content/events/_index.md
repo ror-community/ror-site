@@ -7,7 +7,7 @@ banner = "/img/banners/ROR_Banner-grey.jpg"
 thumb = "/img/ror-logo-800.png" 
 images = ['/img/ror-logo-800.png']
 author = "Research Organization Registry (ROR)" 
-description = "Research Organization Registry (ROR) upcoming and past events"
+description = "Research Organization Registry (ROR) upcoming and past events, including Community Calls, webinars, conferences, and Annual Meeting sessions."
 +++
 
 <!-- 
@@ -252,11 +252,11 @@ May 21, 2025 | [Event details and materials](2025-05-21-ror-community-call)
 
 ### euroCRIS 2025 
 
-May 15, 2025 | [Event details and materials](2025-05-15-ror-eurocris)
+May 15, 2025 | [Event details and materials](2025-05-15-eurocris)
 
 ---
 
-### Feria Internacional del Libro Bogotá
+### Feria Internacional del Libro Bogotá 
 
 April 29, 2025 | [Event details and materials](2025-04-29-feria-internacional-del-libro-bogota)
 
