@@ -41,6 +41,52 @@ description = "Research Organization Registry (ROR) upcoming and past events"
 
 ---
 
+### ROR Annual Meeting 2027: Community Update
+- Date: Wednesday, February 3, 2027
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2027-02-03)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: In the Community Update at ROR’s 8th annual meeting, we reflect on what ROR accomplished in 2026, discuss what’s ahead for ROR in 2027, and invite your thoughts on areas of future focus. Most importantly, we also acknowledge ROR community contributors, without whom we’d never have come this far.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/KsFUltcDSqiZXFKZ5UpLtw" >}} Register for the Community Update {{< /button >}}
+
+---
+
+### ROR Annual Meeting 2027: Community Drop-in
+- Date: Wednesday, February 3, 2027
+- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2027-02-03)
+- Duration: 1 hour
+- Location: Online
+- Recorded: No
+- Description: Register for the Community Update and then stay on the Zoom for up to an hour afterward to have an informal, unrecorded, unstructured chat with the ROR team and other ROR community members about anything at all.
+
+---
+
+### ROR Annual Meeting 2027: Community Showcase 01
+- Date: Thursday, February 4, 2027
+- Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2027-02-04)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: In the first Community Showcase, best for attendees in Europe / Africa / Americas, we devote an hour to hearing in-depth talks from featured ROR integrators about how and why they're using ROR.
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/oJDjZEI7S2u4fQ3Tsm_2Qw" >}} Register for the first Community Showcase {{< /button >}}
+
+---
+
+### ROR Annual Meeting 2027: Community Showcase 02
+- Date: Friday, February 5, 2027
+- Time: [3am UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3am%20UTC&d=2027-02-05)
+- Duration: 1 hour
+- Location: Online
+- Recorded: Yes
+- Description: In the second Community Showcase, best for attendees in the Asia and Pacific regions, we devote an hour to hearing in-depth talks from featured ROR integrators about how and why they're using ROR. 
+
+{{< button color="green" link="https://crossref.zoom.us/meeting/register/lT5gd4v2SReamajD0L8Mbw" >}} Register for the second Community Showcase {{< /button >}}
+
+---
+
 ## Past events 
 
 ### PIDfest 2026
