@@ -83,7 +83,7 @@ And some text beneath it.
 
 ## Home page announcements
 
-To add an announcement banner to the home page, edit the `announcement_text` and `announcement_link` values in `/data/announcement/announcement.yaml` and then make sure the announcement parameter is enabled in all of the site's config files: localhost.toml, dev.toml, staging.toml, and live.toml. In the config files, set `params.announcement` to `enable=true` to make the purple announcement banner appear with the text and link from the `announcement.yaml` file. 
+To add an announcement banner to the home page, edit the `announcement_text` and `announcement_link` values in `/data/announcement/announcement.yaml` and then make sure the announcement parameter is enabled in the appropriate site config files (hugo.toml for localhost, dev.toml, staging.toml, and live.toml). In the config files, set `params.announcement` to `enable=true` to make the purple announcement banner appear with the text and link from the `announcement.yaml` file. 
 
 ## Tables 
 
@@ -113,6 +113,14 @@ Anchor links next to all headers are generated automatically by a render hook on
 ### Header 3
 
 #### Header 4
+
+## Footnotes 
+
+Generating footnotes is a 2-step process. First, add the inline footnote reference to a sentence by adding square brackets that include the number of the footnote preceded by a caret.[^1] Second, add the footnote itself by adding the same characters (square brackets with a caret and the same number) plus a colon and the text of the footnote. 
+
+No matter where you add the text of the footnote itself, the code will generate a "Notes" list at the very bottom of the page. Each note in the Notes list will include a link back to the sentence with the footnote reference. 
+
+[^1]: This is a footnote. 
 
 ## Images
 
@@ -156,4 +164,6 @@ Non-YouTube video content cannot be embedded.
 Use the `iframe` shortcode to embed an iframe in a content page in a responsive container.
 
 {{< iframe "https://docs.google.com/presentation/d/e/2PACX-1vQz6UqlYIH85yDaKvGav8kClUj8kCWhYFmJyGzpEEXPHEJPQJHiRg4T8LWUFg1MsS4gc4zXyARBhXU4/embed?start=false&loop=false&delayms=3000" >}}
+
+
 
