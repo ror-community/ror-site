@@ -20,7 +20,7 @@ website = ""
 reglink = "https://crossref.zoom.us/meeting/register/lT5gd4v2SReamajD0L8Mbw"
 +++
 
-**Note the date and time of this event carefully! It takes place at [3am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=03&d=2027-02-05) but might be on a different date in your time zone. 
+**Note the date and time of this event carefully! It takes place at [3am UTC on February 5th](https://dateful.com/convert/coordinated-universal-time-utc?t=03&d=2027-02-05) but might be on a different date in your time zone.**
 
 <!-- List speakers and affiliations here
 
