@@ -3,7 +3,7 @@
 - [ ] The content has been checked for accessibility. 
 - [ ] The draft status of the content is correct.
 - [ ] The preview URL of the content has been checked and looks correct. 
-- [ ] A unique and specific description of the content has been added to the front matter. 
+- [ ] New pages and blog posts: A unique and specific description of the content has been added to the front matter. 
 - [ ] Blog posts: The date of the blog post is the correct date and matches the date in the filename. 
 - [ ] Blog posts: A single category has been added to the front matter. 
 - [ ] Blog posts: Tags indicating the organization and topic of the content have been added to the front matter. 
