@@ -64,3 +64,6 @@ jobs:
           assert "portugal tweet image connectorerin" grep -q 'tweet-connectorerin-2020.png' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
           assert "portugal x.com link gabioshka" grep -q 'x.com/gabioshka/status/1222183096126267394' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
           assert "portugal x.com link connectorerin" grep -q 'x.com/connector_erin/status/1222183630287646721' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
+          # In-site assets must be site-relative so they load through ror-router (ror-roadmap#429)
+          assert "nav logo is site-relative" grep -Eq 'src="?/img/ror-logo\.svg' /tmp/ror-live-ci/index.html
+          assert "no src/action uses absolute baseURL" bash -c '! grep -rEq "(src|action)=\"?https://ror\.org/" /tmp/ror-live-ci --include="*.html"'
