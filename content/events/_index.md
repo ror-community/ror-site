@@ -27,20 +27,6 @@ description = "Research Organization Registry (ROR) upcoming and past events, in
 
 ## Upcoming events
 
-### ROR Community Call November 2026
-
-- Date: November 18, 2026
-- Time: [4pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=4pm%20UTC&d=2026-11-18)
-- Duration: 1 hour
-- Location: Online
-- Recorded: Yes
-- Description: The November 2026 ROR Community Call focuses on some dramatic strides forward in the use of ROR in scholarly publishing systems. Toby Steiner of [Thoth Open Metadata](https://thoth.pub/) talks about how [Thoth Oasis](https://thoth.pub/packages/oasis) integrates ROR together with other PIDs to create rich, high-quality metadata for books and chapters in multiple industry-standard formats such as ONIX, MARC, and KBART; and Diogo Rodrigues of [MDPI](https://mdpi.com) gives an overview of how their new [MDPI ROR Entity Search](https://ror.mdpi.com/) is improving publishing workflows. The ROR team also gives updates on what we’ve been doing, and participants are invited to ask questions, provide feedback, and give updates on their own work with ROR.
-
-
-{{< button color="green" link="https://crossref.zoom.us/meeting/register/5UoAwbjmSFqi1V5_kIorcw" >}} Register for the ROR Community Call November 2026 {{< /button >}}
-
----
-
 ### ROR Annual Meeting 2027: Community Update
 - Date: Wednesday, February 3, 2027
 - Time: [3pm UTC](https://dateful.com/convert/coordinated-universal-time-utc?t=3pm%20UTC&d=2027-02-03)
@@ -88,6 +74,12 @@ description = "Research Organization Registry (ROR) upcoming and past events, in
 ---
 
 ## Past events 
+
+### ROR Community Call November 2026
+
+November 18, 2026 | [Event details and materials](2026-11-18-ror-community-call)
+
+---
 
 ### PIDfest 2026
 
