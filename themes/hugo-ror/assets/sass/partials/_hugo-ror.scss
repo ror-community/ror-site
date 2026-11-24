@@ -7138,6 +7138,9 @@ iframe {
 
 figcaption p {
 	text-align: center;
+	font-size:.7em;
+	font-style:normal;
+	margin-bottom: 1.5em;
 }
 
 .blog pre code {
@@ -7295,6 +7298,7 @@ table {
 margin-right: 2em;
 font-size: .8em;
 margin-bottom: 2em;
+border: 1px solid #efefef;
 }
 
 td,
@@ -7323,11 +7327,6 @@ table thead a, table thead a:hover {
 table td a { 
 	color:$purple;
 	font-weight: bold;
-}
-
-.caption {
-	font-size:.8em;font-style:italic;
-	margin-bottom: 1.5em;
 }
 
 /* footnotes */ 
