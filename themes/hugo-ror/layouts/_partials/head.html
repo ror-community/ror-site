@@ -20,9 +20,9 @@
   <!--     Fonts and icons     -->
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}vendor/fontawesome/css/fontawesome.css" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}vendor/fontawesome/css/brands.css" />
-  <link rel="stylesheet" href="{{ .Site.BaseURL }}vendor/fontawesome/css/solid.css" />
+  <link rel="stylesheet" href="{{ "vendor/fontawesome/css/fontawesome.css" | relURL }}" />
+  <link rel="stylesheet" href="{{ "vendor/fontawesome/css/brands.css" | relURL }}" />
+  <link rel="stylesheet" href="{{ "vendor/fontawesome/css/solid.css" | relURL }}" />
   <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
   
   <!-- Social cards -->
@@ -42,8 +42,8 @@
   <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
 
   <!-- Favicon and apple touch icons-->
-  <link rel="shortcut icon" href="{{ .Site.BaseURL }}img/favicon.ico?v=2" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="{{ .Site.BaseURL }}img/apple-touch-icon.png?v=2" />
+  <link rel="shortcut icon" href="{{ "img/favicon.ico?v=2" | relURL }}" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png?v=2" | relURL }}" />
   
   <!-- Canonical and alternate links -->
   <link rel="canonical" href="{{ if .Page.Params.doi }}{{ .Page.Params.doi }}{{ else }}{{ .Page.Permalink }}{{ end }}" title="{{ .Page.Title }}">

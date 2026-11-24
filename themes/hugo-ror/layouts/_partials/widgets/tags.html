@@ -10,7 +10,7 @@
         {{ if eq ( $.Title | urlize | lower ) ( $name | lower ) }}
           <li><i class="fa-solid fa-tags"></i> <span>{{ $name }}</span></li>
         {{ else }}
-          <li><a href="{{ $.Site.BaseURL }}tags/{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> <span>{{ $name }}</span></a></li>
+          <li><a href="{{ "tags/" | relURL }}{{ $name | urlize | lower }}"><i class="fa fa-tags"></i> <span>{{ $name }}</span></a></li>
         {{ end }}
       {{ end }}
     </ul>

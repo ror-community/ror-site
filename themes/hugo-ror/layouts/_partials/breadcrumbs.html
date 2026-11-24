@@ -6,7 +6,7 @@
 					{{ $.Store.Set "path" "" }}
 					{{ $.Store.Set "pagetype" .Params.type }}
 					<ul class="breadcrumbs">
-						<li><a href="{{ .Site.BaseURL }}">Home</a>{{ if not (eq .Permalink "/")  }}<span>&gt;</span>{{ end }}</li>
+						<li><a href="{{ "/" | relURL }}">Home</a>{{ if not (eq .Permalink "/")  }}<span>&gt;</span>{{ end }}</li>
 						
 							{{ if eq ($.Store.Get "pagetype") "404" }}
 								<li>{{ $.Title }}</li>
