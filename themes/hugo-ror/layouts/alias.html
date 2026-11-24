@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html{{ with site.Language.Locale }} lang="{{ . }}"{{ end }}>
+	<head>
+		<title>{{ .Permalink }}</title>
+		<link rel="canonical" href="{{ .Permalink }}">
+		<meta charset="utf-8">
+		<meta http-equiv="refresh" content="0; url={{ .Page.RelPermalink }}">
+	</head>
+</html>
