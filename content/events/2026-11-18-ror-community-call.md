@@ -31,7 +31,7 @@ reglink = "https://crossref.zoom.us/meeting/register/5UoAwbjmSFqi1V5_kIorcw"
 
 ## Recording 
 
-{{< youtube id="EqWV0XlaNtw" >}}
+{{< youtube id="fj7ktWpjs-s" >}}
 
 
 
