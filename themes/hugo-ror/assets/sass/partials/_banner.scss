@@ -28,3 +28,21 @@
     height: 15em;
 	background-color: #520c70;
 }
+
+/* Page banner triangle pattern.
+   Replaces the 2000x200 ROR_Banner-*.jpg images (45-90 KB each) with a tiny
+   SVG tile. Front matter still names the JPG; layouts/_partials/pagetitle.html
+   maps it to one of these classes. !important is needed to beat the
+   `.jumbotron { background-color: ... !important }` rule in _hugo-ror.scss. */
+@mixin page-banner-pattern($background, $triangle) {
+    background-color: ##{$background} !important;
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='47.5' height='49.7'%3E%3Cpath fill='%23#{$triangle}' d='M9.85 9.8h10.5l-5.25 8.9zm20 0h10.5l-5.25 8.9zM9.85 40.3h10.5l-5.25-8.9zm20 0h10.5l-5.25-8.9z'/%3E%3C/svg%3E");
+    background-position: center;
+    background-repeat: repeat;
+}
+
+.page-banner.page-banner--green  { @include page-banner-pattern("387071", "374546"); }
+.page-banner.page-banner--grey   { @include page-banner-pattern("374546", "3c6b6c"); }
+.page-banner.page-banner--orange { @include page-banner-pattern("ed6c19", "e2412c"); }
+.page-banner.page-banner--pink   { @include page-banner-pattern("e4074c", "bb154a"); }
+.page-banner.page-banner--purple { @include page-banner-pattern("61285f", "9b195c"); }

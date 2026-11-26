@@ -1,4 +1,11 @@
-<div class="page-banner jumbotron" style="background:url('{{ if .Params.banner }}{{ .Params.banner }}{{ else }}/img/banners/ROR_Banner-green.jpg{{ end }}') center repeat;">
+{{- $banner := .Params.banner | default "/img/banners/ROR_Banner-green.jpg" -}}
+{{- /* The standard ROR_Banner-<colour>.jpg banners are drawn in CSS (see _banner.scss) */ -}}
+{{- $pattern := findRESubmatch `ROR_Banner-(green|grey|orange|pink|purple)\.jpg$` $banner 1 -}}
+{{- if $pattern }}
+<div class="page-banner page-banner--{{ index $pattern 0 1 }} jumbotron">
+{{- else }}
+<div class="page-banner jumbotron" style="background:url('{{ $banner }}') center repeat;">
+{{- end }}
   <div class="container">
     <div class="row">
       <div class="col-md-12 mr-auto">
