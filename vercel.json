@@ -6,11 +6,11 @@
     "formats": ["image/avif", "image/webp"],
     "localPatterns": [{ "pathname": "^/img/.*$", "search": "" }]
   },
-  "rewrites": [
+  "routes": [
     {
-      "source": "/img/:path*",
-      "has": [{ "type": "query", "key": "w", "value": "(?<width>\\d+)" }],
-      "destination": "/_vercel/image?url=/img/:path*&w=:width&q=75"
+      "src": "^/img/(.+)$",
+      "has": [{ "type": "query", "key": "w", "value": "\\d+" }],
+      "dest": "/_vercel/image?url=/img/$1&q=75"
     }
   ]
 }
