@@ -1,0 +1,14 @@
+{
+  "name": "ror-site",
+  "private": true,
+  "description": "Build tooling for ror.org. Hugo builds the site; PurgeCSS then removes unused CSS from css/hugo-ror.css (see purgecss.config.cjs).",
+  "scripts": {
+    "purgecss": "purgecss --config purgecss.config.cjs"
+  },
+  "devDependencies": {
+    "purgecss": "8.0.0"
+  },
+  "engines": {
+    "node": "22.x"
+  }
+}

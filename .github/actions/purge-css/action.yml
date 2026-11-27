@@ -1,0 +1,28 @@
+name: Purge unused CSS
+description: Remove CSS rules no page uses from a built site's css/hugo-ror.css (see purgecss.config.cjs)
+
+inputs:
+  dir:
+    description: Build output directory
+    required: false
+    default: public
+
+runs:
+  using: composite
+  steps:
+    - name: Setup Node
+      uses: actions/setup-node@v7
+      with:
+        node-version: 22
+        cache: npm
+
+    - name: Purge unused CSS
+      shell: bash
+      env:
+        PURGECSS_DIR: ${{ inputs.dir }}
+      run: |
+        npm ci --no-audit --no-fund
+        css="${PURGECSS_DIR}/css/hugo-ror.css"
+        before=$(wc -c < "${css}")
+        npm run --silent purgecss
+        echo "hugo-ror.css: ${before} -> $(wc -c < "${css}") bytes"

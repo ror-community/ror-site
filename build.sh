@@ -2,7 +2,8 @@
 
 #------------------------------------------------------------------------------
 # @file
-# Builds ror-site on Vercel (Dart Sass 1.102.0; Hugo comes from Vercel).
+# Builds ror-site on Vercel (Dart Sass 1.102.0; Hugo comes from Vercel), then
+# removes unused CSS with PurgeCSS (Node from Vercel; see purgecss.config.cjs).
 #
 # Pin Hugo with HUGO_VERSION=0.165.0 in the Vercel project. Without it the
 # Hugo preset defaults to 0.58.2.
@@ -74,6 +75,14 @@ main() {
     hugo_args+=(--baseURL "${hugo_baseurl}")
   fi
   hugo "${hugo_args[@]}"
+
+  echo "Removing unused CSS with PurgeCSS (node $(node --version))..."
+  npm ci --no-audit --no-fund
+  local css=public/css/hugo-ror.css
+  local before
+  before=$(wc -c < "${css}")
+  npm run --silent purgecss
+  echo "hugo-ror.css: ${before} -> $(wc -c < "${css}") bytes"
 }
 
 main "$@"
