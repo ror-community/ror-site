@@ -1,6 +1,6 @@
 {{- /*
   CSS for the site's icons, generated from the SVGs in assets/icons/ (see the
-  README there). Returns a CSS string that head.html adds to site.css.
+  README there). Returns a CSS string that head.html adds to hugo-ror.css.
 
   Each icon class (fa-<name>, plus icon-<name> for material-* files) sets
   --icon to its SVG as a data: URL and --icon-w to its width in em. The
@@ -9,10 +9,6 @@
   webfont, and icons size and color like text. Each SVG is in the stylesheet
   once rather than inlined in every page. An unknown icon name gets no
   --icon-w, so it takes no space rather than showing a filled box.
-
-  This CSS is deliberately not in hugo-ror.css: ror-app also loads
-  hugo-ror.css, together with its own Font Awesome, and these ::before rules
-  would replace its icons.
 */ -}}
 {{- /*
   Attribution for the icons, kept in the served CSS (the "/*!" form survives

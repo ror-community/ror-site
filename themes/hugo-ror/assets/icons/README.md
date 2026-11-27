@@ -2,8 +2,7 @@
 
 SVG icons for the site. `layouts/_partials/icon-css.html` turns each file into
 a CSS class (`fa-<name>`, or `icon-<name>` for `material-*` files) in
-`css/site.css`, drawn with a CSS mask. (Not in `css/hugo-ror.css`, which
-ror-app also loads alongside its own Font Awesome.) Templates keep Font Awesome's markup, for example
+`css/hugo-ror.css`, drawn with a CSS mask. Templates keep Font Awesome's markup, for example
 `<i class="fa-solid fa-envelope"></i>`. This replaces the Font Awesome and
 Material Icons webfonts, so pages load no icon fonts or icon stylesheets.
 
