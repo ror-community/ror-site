@@ -1,0 +1,54 @@
+{{- /*
+  CSS for the site's icons, generated from the SVGs in assets/icons/ (see the
+  README there). Returns a CSS string that head.html adds to hugo-ror.css.
+
+  Each icon class (fa-<name>, plus icon-<name> for material-* files) sets
+  --icon to its SVG as a data: URL and --icon-w to its width in em. The
+  ::before rule below paints currentColor through that mask, so the markup
+  stays <i class="fa-solid fa-envelope"></i> as with the Font Awesome
+  webfont, and icons size and color like text. Each SVG is in the stylesheet
+  once rather than inlined in every page. An unknown icon name gets no
+  --icon-w, so it takes no space rather than showing a filled box.
+*/ -}}
+{{- /*
+  Attribution for the icons, kept in the served CSS (the "/*!" form survives
+  minifiers and PurgeCSS). Font Awesome Free asks for this credit (CC BY 4.0);
+  the Material Icons search icon is Apache 2.0, which asks that a copy of the
+  license go with it, so its LICENSE file is included in full.
+*/ -}}
+{{- $apache := (resources.Get "icons/LICENSE-material-icons.txt").Content | strings.TrimSpace -}}
+{{- $css := slice (printf `/*!
+ * Icons in this file: see themes/hugo-ror/layouts/_partials/icon-css.html
+ *
+ * .fa-* icons: Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0)
+ * Copyright 2024 Fonticons, Inc.
+ *
+ * .icon-material-search: the "search" icon (Material Icons Outlined,
+ * src/action/search/materialiconsoutlined/24px.svg) by Google,
+ * https://github.com/google/material-design-icons
+ * Licensed under the Apache License, Version 2.0, reproduced below.
+ * Modified: the width and height attributes and the transparent
+ * background path were removed, and the SVG is embedded as a data: URL.
+ *
+%s
+ */` $apache) -}}
+{{- $css = $css | append `.fa,.fa-solid,.fa-brands,.icon-material-search{display:inline-block;font-style:normal;line-height:1}
+.fa,.fa-solid,.fa-brands,.icon-material-search{display:inline-block;font-style:normal;line-height:1}
+.fa::before,.fa-solid::before,.fa-brands::before,.icon-material-search::before{content:"";display:inline-block;width:var(--icon-w,0);height:1em;vertical-align:-0.125em;background-color:currentColor;-webkit-mask-image:var(--icon);mask-image:var(--icon);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-position:center;mask-position:center}` -}}
+{{- /* Font Awesome 4 names still used in templates and content. */ -}}
+{{- $aliases := dict "magnifying-glass" (slice "search") "arrow-up-right-from-square" (slice "external-link") -}}
+{{- range resources.Match "icons/*.svg" -}}
+  {{- $name := path.BaseName .Name -}}
+  {{- $svg := .Content | strings.TrimSpace -}}
+  {{- $vb := index (findRESubmatch `viewBox="0 0 ([\d.]+) ([\d.]+)"` $svg 1) 0 -}}
+  {{- $w := div (float (index $vb 1)) (float (index $vb 2)) -}}
+  {{- $data := $svg | replaceRE `"` "'" | replaceRE "#" "%23" | replaceRE "<" "%3C" | replaceRE ">" "%3E" -}}
+  {{- $prefix := cond (strings.HasPrefix $name "material-") "icon-" "fa-" -}}
+  {{- $selectors := slice (printf ".%s%s" $prefix $name) -}}
+  {{- range index $aliases $name -}}
+    {{- $selectors = $selectors | append (printf ".fa-%s" .) -}}
+  {{- end -}}
+  {{- $css = $css | append (printf `%s{--icon:url("data:image/svg+xml,%s");--icon-w:%.4gem}` (delimit $selectors ",") $data $w) -}}
+{{- end -}}
+{{- return delimit $css "\n" -}}

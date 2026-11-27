@@ -24,3 +24,9 @@
 li.nav-item {
     margin-bottom: 0;
 }
+
+/* The logo <img> has width/height attributes (so the page doesn't shift as it
+   loads); keep its aspect ratio when max-width scales it down. */
+.navbar-brand img {
+    height: auto;
+}
