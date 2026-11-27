@@ -1,0 +1,16 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "images": {
+    "sizes": [320, 640, 960, 1280, 1920, 2560],
+    "qualities": [75],
+    "formats": ["image/avif", "image/webp"],
+    "localPatterns": [{ "pathname": "^/img/.*$", "search": "" }]
+  },
+  "routes": [
+    {
+      "src": "^/img/(.+)$",
+      "has": [{ "type": "query", "key": "w", "value": "^(?:320|640|960|1280|1920|2560)$" }],
+      "dest": "/_vercel/image?url=/img/$1&q=75"
+    }
+  ]
+}
