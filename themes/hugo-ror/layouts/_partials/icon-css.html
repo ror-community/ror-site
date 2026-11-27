@@ -14,7 +14,30 @@
   hugo-ror.css, together with its own Font Awesome, and these ::before rules
   would replace its icons.
 */ -}}
-{{- $css := slice `/* Icons: see themes/hugo-ror/layouts/_partials/icon-css.html */
+{{- /*
+  Attribution for the icons, kept in the served CSS (the "/*!" form survives
+  minifiers and PurgeCSS). Font Awesome Free asks for this credit (CC BY 4.0);
+  the Material Icons search icon is Apache 2.0, which asks that a copy of the
+  license go with it, so its LICENSE file is included in full.
+*/ -}}
+{{- $apache := (resources.Get "icons/LICENSE-material-icons.txt").Content | strings.TrimSpace -}}
+{{- $css := slice (printf `/*!
+ * Icons in this file: see themes/hugo-ror/layouts/_partials/icon-css.html
+ *
+ * .fa-* icons: Font Awesome Free 6.6.0 by @fontawesome - https://fontawesome.com
+ * License - https://fontawesome.com/license/free (Icons: CC BY 4.0)
+ * Copyright 2024 Fonticons, Inc.
+ *
+ * .icon-material-search: the "search" icon (Material Icons Outlined,
+ * src/action/search/materialiconsoutlined/24px.svg) by Google,
+ * https://github.com/google/material-design-icons
+ * Licensed under the Apache License, Version 2.0, reproduced below.
+ * Modified: the width and height attributes and the transparent
+ * background path were removed, and the SVG is embedded as a data: URL.
+ *
+%s
+ */` $apache) -}}
+{{- $css = $css | append `.fa,.fa-solid,.fa-brands,.icon-material-search{display:inline-block;font-style:normal;line-height:1}
 .fa,.fa-solid,.fa-brands,.icon-material-search{display:inline-block;font-style:normal;line-height:1}
 .fa::before,.fa-solid::before,.fa-brands::before,.icon-material-search::before{content:"";display:inline-block;width:var(--icon-w,0);height:1em;vertical-align:-0.125em;background-color:currentColor;-webkit-mask-image:var(--icon);mask-image:var(--icon);-webkit-mask-size:contain;mask-size:contain;-webkit-mask-repeat:no-repeat;mask-repeat:no-repeat;-webkit-mask-position:center;mask-position:center}` -}}
 {{- /* Font Awesome 4 names still used in templates and content. */ -}}
