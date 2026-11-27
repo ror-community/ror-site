@@ -18,7 +18,21 @@
                     <div class="col-md-4 col-sm-6 news-item">
                         <div class="box-image-text blog">
                             <div class="top">
-                                <div class="image" style="background-image:url({{ if isset .Params "thumb" }}{{ .Params.thumb }}{{ else }}/img/banners/ROR_Banner-green.jpg{{ end }});">
+                                {{- $thumb := cond (isset .Params "thumb") .Params.thumb "/img/banners/ROR_Banner-green.jpg" -}}
+                                {{- $img := partialCached "vercel-img.html" $thumb $thumb -}}
+                                {{- if $img.ok -}}
+                                {{- /* Shown with background-size: contain in a box at most about 545px wide
+                                  (phones) and 220px tall, so pick by pixel density. The plain url() is the
+                                  fallback for browsers without unprefixed image-set(). */ -}}
+                                {{- $pick := dict -}}
+                                {{- range $want := slice 640 1280 1920 -}}
+                                  {{- $c := index (first 1 (where $img.candidates "w" "ge" $want) | default (last 1 $img.candidates)) 0 -}}
+                                  {{- $pick = merge $pick (dict (string $want) $c.url) -}}
+                                {{- end }}
+                                <div class="image" style="background-image:url({{ index $pick "1280" }});background-image:image-set(url({{ index $pick "640" }}) 1x, url({{ index $pick "1280" }}) 2x, url({{ index $pick "1920" }}) 3x);">
+                                {{- else }}
+                                <div class="image" style="background-image:url({{ $thumb }});">
+                                {{- end }}
                                 </div>
                             </div>
 

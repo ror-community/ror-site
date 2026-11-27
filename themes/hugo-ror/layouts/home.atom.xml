@@ -50,10 +50,12 @@
 	<category term="{{ .Params.categories }}"></category>{{ else }}
 {{- end }}      
     <content type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
-      {{ printf "<![CDATA[%s]]>" .Content | safeHTML }}
+      {{- /* Feed readers and email tools handle AVIF/WebP unevenly, so feeds keep
+        only the original image files (see _shortcodes/figure.html). */}}
+      {{ printf "<![CDATA[%s]]>" (.Content | replaceRE ` (?:srcset|sizes)="[^"]*"` "") | safeHTML }}
     </content>
     <summary type="html" xml:base="{{ .Site.BaseURL }}" {{ with .Site.Language.Locale }}xml:lang="{{.}}"{{end}}>
-    {{ if .Description }} {{ .Description | transform.XMLEscape | safeHTML }} {{ else }} {{ .Summary | transform.XMLEscape | safeHTML }} {{ end }}
+    {{ if .Description }} {{ .Description | transform.XMLEscape | safeHTML }} {{ else }} {{ .Summary | replaceRE ` (?:srcset|sizes)="[^"]*"` "" | transform.XMLEscape | safeHTML }} {{ end }}
     </summary>
   </entry>
   {{ end }}

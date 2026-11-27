@@ -1,6 +1,16 @@
 {{ if isset .Site.Params "landingbanner" }}
 {{ if .Site.Params.landingbanner.enable }}
-<section class="section section-banner section-landing-banner" style="background-image:url({{ .Site.Params.landingbanner.image }});">
+{{- $src := .Site.Params.landingbanner.image -}}
+{{- $img := partialCached "vercel-img.html" $src $src -}}
+{{- if $img.ok }}
+{{- /* An <img> rather than a CSS background so the browser can pick a width
+  from srcset. The banner is 15em tall and the image is cropped to cover it,
+  so it is drawn at least 480px wide even on narrow screens. */}}
+<section class="section section-banner section-landing-banner">
+  <img class="section-landing-banner-img" src="{{ $src }}" srcset="{{ $img.srcset }}" sizes="(max-width: 480px) 480px, 100vw" alt="" fetchpriority="high">
+{{- else }}
+<section class="section section-banner section-landing-banner" style="background-image:url({{ $src }});">
+{{- end }}
   <div class="content" style="color:{{ .Site.Params.landingbanner.textcolor }} ">
     {{ .Site.Params.landingbanner.text }}
   </div>

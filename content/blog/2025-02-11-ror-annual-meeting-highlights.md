@@ -18,6 +18,8 @@ doi = "https://doi.org/10.71938/9f0g-9791"
 
 It's been six years since the [initial launch of ROR](https://ror.org/blog/2019-02-10-announcing-first-ror-prototype/), and our [Annual Community Meeting](https://ror.org/tags/annual-meeting/) has become a welcome tradition for the ROR community in every new year. It's a chance for us to reflect on the past year, look ahead to the coming year, and express our gratitude for the diverse and growing community of research and information professionals who use and support ROR. Last year, more than 300 people registered for one of the ROR Annual Community Meeting sessions, and this year, that number grew to **more than 500 registrants from 58 different countries**, making this our most well-attended and most international Annual Community Meeting to date! If you weren't one of those who registered or attended, here are some highlights.
 
+<!--more-->
+
 ## Reflecting on 2024 and planning for 2025
 
 ROR Director Maria Gould began this year's "state of ROR" **Community Update** session by reflecting on the core values of openness and community that led to the creation of ROR and that continue to guide ROR today. She then gave a general overview of how these values are realized in ROR's operations and governance.

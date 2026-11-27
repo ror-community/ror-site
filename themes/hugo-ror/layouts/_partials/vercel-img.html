@@ -1,0 +1,69 @@
+{{- /*
+  Resized variants of a site image, served on the fly by Vercel Image
+  Optimization (see vercel.json): /img/<file>?w=<width>.
+
+  Takes a site-relative path such as "/img/foo.jpg" and returns a dict:
+
+    ok          true when the image can be resized. When false, callers keep
+                the plain src and add nothing.
+    width       source width in px
+    height      source height in px
+    candidates  slice of dicts {w, url}, smallest first. w is the true pixel
+                width of what url returns.
+    srcset      the candidates as a srcset attribute value
+
+  Only JPEG, PNG and WebP files under /img/ that exist in static/ (or the
+  theme's static/) qualify. Remote URLs, GIFs, SVGs, query strings and paths
+  with characters that would need escaping in srcset are left alone.
+
+  $widths must match images.sizes and the route regex in vercel.json.
+  Vercel never enlarges an image, so when the source is narrower than the
+  next allowed width, that width is requested but described at the source's
+  true width.
+
+  Call with partialCached "vercel-img.html" $src $src.
+*/ -}}
+{{- $src := . -}}
+{{- $widths := slice 320 640 960 1280 1920 2560 -}}
+{{- $res := dict "ok" false -}}
+
+{{- if findRE `^/img/[A-Za-z0-9._/-]+\.(?i:jpe?g|png|webp)$` $src -}}
+  {{- $file := "" -}}
+  {{- range slice "static" "themes/hugo-ror/static" -}}
+    {{- if and (not $file) (fileExists (path.Join . $src)) -}}
+      {{- $file = path.Join . $src -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with $file -}}
+    {{- with try (images.Config .) -}}
+      {{- with .Err -}}
+        {{- warnf "vercel-img: cannot read %s, serving it unresized: %s" $file . -}}
+      {{- else -}}
+        {{- $w := .Value.Width -}}
+        {{- $h := .Value.Height -}}
+        {{- $candidates := slice -}}
+        {{- $next := 0 -}}
+        {{- range $widths -}}
+          {{- if le . $w -}}
+            {{- $candidates = $candidates | append (dict "w" . "url" (printf "%s?w=%d" $src .)) -}}
+          {{- else if not $next -}}
+            {{- $next = . -}}
+          {{- end -}}
+        {{- end -}}
+        {{- if and $next (not (in $widths $w)) -}}
+          {{- $candidates = $candidates | append (dict "w" $w "url" (printf "%s?w=%d" $src $next)) -}}
+        {{- end -}}
+
+        {{- $srcset := slice -}}
+        {{- range $candidates -}}
+          {{- $srcset = $srcset | append (printf "%s %dw" .url .w) -}}
+        {{- end -}}
+
+        {{- $res = dict "ok" true "width" $w "height" $h "candidates" $candidates "srcset" (delimit $srcset ", ") -}}
+      {{- end -}}
+    {{- end -}}
+  {{- end -}}
+{{- end -}}
+
+{{- return $res -}}

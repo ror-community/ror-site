@@ -1,0 +1,27 @@
+{{- /*
+  A sizes attribute for an <img> whose CSS does not set its width, so it shows
+  at its natural width, capped by `img { max-width: 100% }`.
+
+  With srcset, an image's natural width becomes the sizes slot, not the file's
+  pixel width. To keep every image rendering exactly as it did before srcset,
+  the slot must be the source width when that fits the column, and at least
+  the column width when it doesn't. So each slot is min(source width, the
+  widest the column can be) at that breakpoint. Overestimating a column only
+  means a larger file is fetched; it never changes the layout.
+
+  Takes a dict:
+    width  source width in px (from vercel-img.html)
+    cols   the column's max width in px at the Bootstrap xl, lg and md
+           breakpoints (1200, 992, 768). Below 768 every column stacks to the
+           full viewport.
+*/ -}}
+{{- $w := .width -}}
+{{- $parts := slice -}}
+{{- range $i, $bp := slice 1200 992 768 -}}
+  {{- $parts = $parts | append (printf "(min-width: %dpx) %dpx" $bp (math.Min $w (index $.cols $i) | int)) -}}
+{{- end -}}
+{{- if lt $w 768 -}}
+  {{- $parts = $parts | append (printf "(min-width: %dpx) %dpx" $w $w) -}}
+{{- end -}}
+{{- $parts = $parts | append "100vw" -}}
+{{- return delimit $parts ", " -}}
