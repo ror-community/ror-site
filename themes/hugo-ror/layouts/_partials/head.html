@@ -17,8 +17,8 @@
   {{ end }}
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no' name='viewport' />
 
-  <!-- Fonts. Icons are SVGs in hugo-ror.css (_partials/icon-css.html), so no
-       icon fonts or icon stylesheets load.
+  <!-- Fonts. Icons are SVGs in site.css (_partials/icon-css.html), so no icon
+       fonts or icon stylesheets load.
        The two main text fonts are preloaded so they start downloading before
        hugo-ror.css, which declares them, has arrived. -->
   <link rel="preload" href="{{ "css/fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Regular-102a.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
@@ -28,16 +28,20 @@
   
   {{ partial "opengraph.html" . }}
 
-  <!-- sass built file, plus the icon CSS generated from assets/icons -->
+  <!-- Stylesheets. css/hugo-ror.css is the compiled Sass. ror-app also loads
+       it from this site, so it is published as is. This site's pages use
+       css/site.css: the same Sass plus the icon CSS from assets/icons, which
+       must not reach ror-app (see _partials/icon-css.html). -->
   {{ $opts := dict
     "transpiler" "dartsass"
-    "targetPath" "css/main.css"
+    "targetPath" "css/hugo-ror.css"
     "silenceDeprecations" (slice "import")
     "outputStyle" "compressed"
   }}
   {{ $sass := resources.Get "sass/main.scss" | css.Sass $opts }}
+  {{ $sass.Publish }}
   {{ $icons := resources.FromString "css/icons.css" (partialCached "icon-css.html" .Site) }}
-  {{ $style := slice $sass $icons | resources.Concat "css/hugo-ror.css" }}
+  {{ $style := slice $sass $icons | resources.Concat "css/site.css" }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
 
   <!-- Favicon and apple touch icons-->
