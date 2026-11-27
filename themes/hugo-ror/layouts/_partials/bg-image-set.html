@@ -1,0 +1,22 @@
+{{- /*
+  Resized URLs for a CSS background image in a box at most about 640 CSS px
+  wide, for use in image-set() at 1x, 2x and 3x pixel density (see
+  vercel-img.html).
+
+  Takes the image path. Returns a dict:
+    ok              false when the image can't be resized; use the plain path
+    x1, x2, x3      URLs for 1x, 2x and 3x screens: the smallest variant at
+                    least 640, 1280 or 1920px wide, or the largest there is
+
+  Used by recent_posts.html (cards) and homepage_features.html.
+*/ -}}
+{{- $img := partialCached "vercel-img.html" . . -}}
+{{- $res := dict "ok" false -}}
+{{- if $img.ok -}}
+  {{- $res = dict "ok" true -}}
+  {{- range $i, $want := slice 640 1280 1920 -}}
+    {{- $c := index (first 1 (where $img.candidates "w" "ge" $want) | default (last 1 $img.candidates)) 0 -}}
+    {{- $res = merge $res (dict (printf "x%d" (add $i 1)) $c.url) -}}
+  {{- end -}}
+{{- end -}}
+{{- return $res -}}

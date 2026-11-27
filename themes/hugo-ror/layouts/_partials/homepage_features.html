@@ -8,7 +8,13 @@
             <div class="col-md-12">
                 <div class="row feature">
                     <div class="col-md-5">
+                        {{- /* A 2:1 cover crop in a col-md-5 box, at most about 545px wide (phones). */}}
+                        {{- $bg := partialCached "bg-image-set.html" .icon .icon }}
+                        {{- if $bg.ok }}
+                        <div class="icon" style="background-image:url({{ $bg.x2 }});background-image:image-set(url({{ $bg.x1 }}) 1x, url({{ $bg.x2 }}) 2x, url({{ $bg.x3 }}) 3x);">
+                        {{- else }}
                         <div class="icon" style="background-image:url({{ .icon }});">
+                        {{- end }}
                         </div>
                     </div>
                     <div class="col-md-7">
