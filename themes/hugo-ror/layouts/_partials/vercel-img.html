@@ -24,7 +24,7 @@
   Call with partialCached "vercel-img.html" $src $src.
 */ -}}
 {{- $src := . -}}
-{{- $widths := slice 320 640 960 1280 1920 2560 -}}
+{{- $widths := slice 320 640 960 1280 1920 2560 3840 -}}
 {{- $res := dict "ok" false -}}
 
 {{- if findRE `^/img/[A-Za-z0-9._/-]+\.(?i:jpe?g|png|webp)$` $src -}}
