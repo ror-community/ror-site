@@ -19,16 +19,17 @@
                         <div class="box-image-text blog">
                             <div class="top">
                                 {{- $thumb := cond (isset .Params "thumb") .Params.thumb "/img/banners/ROR_Banner-green.jpg" -}}
-                                {{- $bg := partialCached "bg-image-set.html" $thumb $thumb -}}
-                                {{- if $bg.ok -}}
-                                {{- /* Shown with background-size: contain in a box at most about 545px wide
-                                  (phones) and 220px tall, so pick by pixel density. The plain url() is the
-                                  fallback for browsers without unprefixed image-set(). */}}
-                                <div class="image" style="background-image:url({{ $bg.x2 }});background-image:image-set(url({{ $bg.x1 }}) 1x, url({{ $bg.x2 }}) 2x, url({{ $bg.x3 }}) 3x);">
+                                {{- $img := partialCached "vercel-img.html" $thumb $thumb -}}
+                                {{- if $img.ok }}
+                                {{- /* Fitted (object-fit: contain) in a 220px-tall box in a col-md-4
+                                  col-sm-6 column (_recent-posts.scss). */}}
+                                <div class="image">
+                                    <img src="{{ $thumb }}" srcset="{{ $img.srcset }}" sizes="{{ partial "box-img-sizes.html" (dict "img" $img "fit" "contain" "height" 220 "boxes" (slice 350 290 210 240)) }}" alt="" loading="lazy" decoding="async">
+                                </div>
                                 {{- else }}
                                 <div class="image" style="background-image:url({{ $thumb }});">
-                                {{- end }}
                                 </div>
+                                {{- end }}
                             </div>
 
                             <div class="content">                                

@@ -1,0 +1,38 @@
+{{- /*
+  A sizes attribute for an <img> that fills a fixed box with object-fit, so
+  the browser picks a srcset width for the width the image is actually drawn
+  at (see vercel-img.html).
+
+  Takes a dict:
+    img    the result of vercel-img.html (for the source's width and height)
+    boxes  the box's max width in px at the Bootstrap xl, lg, md and sm
+           breakpoints (1200, 992, 768, 576). Below 576px the box is the full
+           width of the screen less the 30px column gutter.
+    fit    "cover": the box has aspect ratio `ratio` (width / height) and the
+           image is cropped to fill it, so an image wider than the box is
+           drawn wider than the box.
+           "contain": the box is `height` px tall and the image is fitted
+           inside it, so it is drawn at most height * aspect ratio wide.
+*/ -}}
+{{- $a := div (float .img.width) .img.height -}}
+{{- $parts := slice -}}
+{{- $fluid := "calc(100vw - 30px)" -}}
+{{- if eq .fit "cover" -}}
+  {{- $f := math.Max 1 (div $a .ratio) -}}
+  {{- range $i, $bp := slice 1200 992 768 576 -}}
+    {{- $parts = $parts | append (printf "(min-width: %dpx) %dpx" $bp (math.Ceil (mul (index $.boxes $i) $f) | int)) -}}
+  {{- end -}}
+  {{- if gt $f 1.0 -}}
+    {{- $fluid = printf "calc((100vw - 30px) * %.3f)" $f -}}
+  {{- end -}}
+{{- else -}}
+  {{- $cap := math.Ceil (mul .height $a) | int -}}
+  {{- range $i, $bp := slice 1200 992 768 576 -}}
+    {{- $parts = $parts | append (printf "(min-width: %dpx) %dpx" $bp (math.Min (index $.boxes $i) $cap | int)) -}}
+  {{- end -}}
+  {{- if lt $cap 546 -}}
+    {{- $parts = $parts | append (printf "(min-width: %dpx) %dpx" (add $cap 30) $cap) -}}
+  {{- end -}}
+{{- end -}}
+{{- $parts = $parts | append $fluid -}}
+{{- return delimit $parts ", " -}}

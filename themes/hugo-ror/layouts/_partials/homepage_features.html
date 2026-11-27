@@ -8,14 +8,16 @@
             <div class="col-md-12">
                 <div class="row feature">
                     <div class="col-md-5">
-                        {{- /* A 2:1 cover crop in a col-md-5 box, at most about 545px wide (phones). */}}
-                        {{- $bg := partialCached "bg-image-set.html" .icon .icon }}
-                        {{- if $bg.ok }}
-                        <div class="icon" style="background-image:url({{ $bg.x2 }});background-image:image-set(url({{ $bg.x1 }}) 1x, url({{ $bg.x2 }}) 2x, url({{ $bg.x3 }}) 3x);">
+                        {{- $img := partialCached "vercel-img.html" .icon .icon }}
+                        {{- if $img.ok }}
+                        {{- /* A 2:1 cover crop in the col-md-5 box (_features.scss). */}}
+                        <div class="icon">
+                            <img src="{{ .icon }}" srcset="{{ $img.srcset }}" sizes="{{ partial "box-img-sizes.html" (dict "img" $img "fit" "cover" "ratio" 2.0 "boxes" (slice 445 370 270 510)) }}" alt="" loading="lazy" decoding="async">
+                        </div>
                         {{- else }}
                         <div class="icon" style="background-image:url({{ .icon }});">
-                        {{- end }}
                         </div>
+                        {{- end }}
                     </div>
                     <div class="col-md-7">
                         <h3>{{ .name }}</h3>

@@ -33,6 +33,14 @@
                 background-size:contain;
                 background-position:center;
                 background-repeat:no-repeat;
+                /* <img> from recent_posts.html, fitted inside the box. */
+                img {
+                    display: block;
+                    width: 100%;
+                    height: 100%;
+                    object-fit: contain;
+                    object-position: center;
+                }
             }
             .text {
                 position:absolute;
