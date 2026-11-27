@@ -7,7 +7,7 @@
   from srcset. The banner is 15em tall and the image is cropped to cover it,
   so it is drawn at least 480px wide even on narrow screens. */}}
 <section class="section section-banner section-landing-banner">
-  <img class="section-landing-banner-img" src="{{ $src }}" srcset="{{ $img.srcset }}" sizes="(max-width: 480px) 480px, 100vw" alt="" fetchpriority="high">
+  <img class="section-landing-banner-img" src="{{ $src }}" srcset="{{ $img.srcset }}" sizes="(max-width: 480px) 480px, 100vw" width="{{ $img.width }}" height="{{ $img.height }}" alt="" fetchpriority="high">
 {{- else }}
 <section class="section section-banner section-landing-banner" style="background-image:url({{ $src }});">
 {{- end }}

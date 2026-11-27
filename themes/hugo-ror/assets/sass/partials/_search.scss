@@ -30,6 +30,12 @@
             padding-right: calc(0.75rem + 8px);
             padding-top: 3px;
             color: $black;
+            display: inline-block;
+            line-height: 1;
+
+            &::before {
+                display: block;
+            }
         }
     }
     

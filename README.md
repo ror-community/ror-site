@@ -70,6 +70,5 @@ Environment configs are complete TOML files: `dev.toml`, `staging.toml`, and `li
 
 ## Notes
 
-- ror-site CSS is also used by [ror-app](https://github.com/ror-community/ror-app). Please consider impacts of CSS changes on ror-app.
 - Any header and footer changes made to ror-site need to be duplicated in [ror-app](https://github.com/ror-community/ror-app). 
 - The ror-site theme was originally based on the [Hugo Universal Theme](https://themes.gohugo.io/themes/hugo-universal-theme/).

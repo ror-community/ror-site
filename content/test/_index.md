@@ -27,7 +27,7 @@ Richard McClintock, a Latin scholar from Hampden-Sydney College, is [credited](#
 
 {{< callout icon="fa-info">}} Use the `callout` shortcode for a callout box. You can make the box any one of the brand colors except raspberry by specifying the color in the shortcode: green, dark grey, orange, light grey, purple, or black. If you do not specify a color, the callout will be the default light grey.
 
-By default, callout boxes have the info icon shown here. You can also set any icon from the [Font Awesome library](https://fontawesome.com) by specifying its name. If you do not want an icon, specify "no-icon" and your callout box will have full-width text. You can style text within a callout box using normal Markdown.{{< /callout >}}
+By default, callout boxes have the info icon shown here. You can also use another [Font Awesome](https://fontawesome.com/search?ic=free) icon by specifying its name, for example `icon="fa-envelope"`. Icons are inline SVGs, so a new one must first be added to `themes/hugo-ror/assets/icons/` (see the README there); the envelope, info, bullhorn, calendar-days, comment and brand icons such as YouTube are already included. If you do not want an icon, specify "no-icon" and your callout box will have full-width text. You can style text within a callout box using normal Markdown.{{< /callout >}}
 
 {{< callout color="green" icon="no-icon" >}} This is a green callout box with no icon. `Lorem Ipsum is placeholder text.` Richard McClintock, a Latin scholar from Hampden-Sydney College, is [credited](#) with discovering the source behind the ubiquitous filler text. 
 {{< /callout >}}

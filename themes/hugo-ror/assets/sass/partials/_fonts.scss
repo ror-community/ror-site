@@ -1,4 +1,5 @@
-/* Atkinson Hyperlegible for trial 9 Nov 2022 */
+/* Atkinson Hyperlegible, self-hosted. Its license is published next to the
+   font files: static/css/fonts/atkinson-hyperlegible/LICENSE.txt */
 @font-face{
     font-family:"AH-Bold";
     font-weight: 700;
@@ -26,20 +27,4 @@
     font-style: normal;
     font-display: swap;
     src:url("fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Regular-102a.woff2") format("woff2");
-}
-
-.material-icons-outlined {
-    font-family: 'Material Icons Outlined';
-    font-weight: normal;
-    font-style: normal;
-    font-size: 24px;
-    line-height: 1;
-    letter-spacing: normal;
-    text-transform: none;
-    display: inline-block;
-    white-space: nowrap;
-    word-wrap: normal;
-    direction: ltr;
-    -webkit-font-feature-settings: 'liga';
-    -webkit-font-smoothing: antialiased;
 }
