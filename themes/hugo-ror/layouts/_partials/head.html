@@ -17,29 +17,28 @@
   {{ end }}
   <meta content='width=device-width, initial-scale=1.0, maximum-scale=5.0, shrink-to-fit=no' name='viewport' />
 
-  <!--     Fonts and icons     -->
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link rel="stylesheet" href="{{ "vendor/fontawesome/css/fontawesome.css" | relURL }}" />
-  <link rel="stylesheet" href="{{ "vendor/fontawesome/css/brands.css" | relURL }}" />
-  <link rel="stylesheet" href="{{ "vendor/fontawesome/css/solid.css" | relURL }}" />
-  <link href="//cdnjs.cloudflare.com/ajax/libs/cc-icons/1.2.1/css/cc-icons.min.css" rel="stylesheet">
+  <!-- Fonts. Icons are SVGs in hugo-ror.css (_partials/icon-css.html), so no
+       icon fonts or icon stylesheets load.
+       The two main text fonts are preloaded so they start downloading before
+       hugo-ror.css, which declares them, has arrived. -->
+  <link rel="preload" href="{{ "css/fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Regular-102a.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
+  <link rel="preload" href="{{ "css/fonts/atkinson-hyperlegible/WOFF2/Atkinson-Hyperlegible-Bold-102a.woff2" | relURL }}" as="font" type="font/woff2" crossorigin>
   
   <!-- Social cards -->
   
   {{ partial "opengraph.html" . }}
 
-  <!-- sass built file -->
+  <!-- sass built file, plus the icon CSS generated from assets/icons -->
   {{ $opts := dict
     "transpiler" "dartsass"
-    "targetPath" "css/hugo-ror.css"
+    "targetPath" "css/main.css"
     "silenceDeprecations" (slice "import")
+    "outputStyle" "compressed"
   }}
-  {{ $style := resources.Get "sass/main.scss" | css.Sass $opts }}
+  {{ $sass := resources.Get "sass/main.scss" | css.Sass $opts }}
+  {{ $icons := resources.FromString "css/icons.css" (partialCached "icon-css.html" .Site) }}
+  {{ $style := slice $sass $icons | resources.Concat "css/hugo-ror.css" }}
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
-
-  <!-- google material font -->
-  <link href="https://fonts.googleapis.com/icon?family=Material+Icons+Outlined" rel="stylesheet">
 
   <!-- Favicon and apple touch icons-->
   <link rel="shortcut icon" href="{{ "img/favicon.ico?v=2" | relURL }}" type="image/x-icon" />

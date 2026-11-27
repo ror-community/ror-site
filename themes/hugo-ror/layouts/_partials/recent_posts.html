@@ -24,7 +24,7 @@
                                 {{- /* Fitted (object-fit: contain) in a 220px-tall box in a col-md-4
                                   col-sm-6 column (_recent-posts.scss). */}}
                                 <div class="image">
-                                    <img src="{{ $thumb }}" srcset="{{ $img.srcset }}" sizes="{{ partial "box-img-sizes.html" (dict "img" $img "fit" "contain" "height" 220 "boxes" (slice 350 290 210 240)) }}" alt="" loading="lazy" decoding="async">
+                                    <img src="{{ $thumb }}" srcset="{{ $img.srcset }}" sizes="{{ partial "box-img-sizes.html" (dict "img" $img "fit" "contain" "height" 220 "boxes" (slice 350 290 210 240)) }}" width="{{ $img.width }}" height="{{ $img.height }}" alt="" loading="lazy" decoding="async">
                                 </div>
                                 {{- else }}
                                 <div class="image" style="background-image:url({{ $thumb }});">

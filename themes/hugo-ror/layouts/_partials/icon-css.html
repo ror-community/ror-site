@@ -1,0 +1,28 @@
+{{- /*
+  CSS for the site's icons, generated from the SVGs in assets/icons/ (see the
+  README there). Returns a CSS string that head.html appends to hugo-ror.css.
+
+  Each icon class (fa-<name>, plus icon-<name> for non-Font Awesome icons)
+  sets --icon to its SVG as a data: URL and --icon-w to its width in em. The
+  ::before rule in _icons.scss paints currentColor through that mask, so the
+  markup stays <i class="fa-solid fa-envelope"></i> as with the Font Awesome
+  webfont, and icons size and color like text. Each SVG is in the stylesheet
+  once rather than inlined in every page.
+*/ -}}
+{{- /* Font Awesome 4 names still used in templates and content. */ -}}
+{{- $aliases := dict "magnifying-glass" (slice "search") "arrow-up-right-from-square" (slice "external-link") -}}
+{{- $css := slice -}}
+{{- range resources.Match "icons/*.svg" -}}
+  {{- $name := path.BaseName .Name -}}
+  {{- $svg := .Content | strings.TrimSpace -}}
+  {{- $vb := index (findRESubmatch `viewBox="0 0 ([\d.]+) ([\d.]+)"` $svg 1) 0 -}}
+  {{- $w := div (float (index $vb 1)) (float (index $vb 2)) -}}
+  {{- $data := $svg | replaceRE `"` "'" | replaceRE "#" "%23" | replaceRE "<" "%3C" | replaceRE ">" "%3E" -}}
+  {{- $prefix := cond (strings.HasPrefix $name "material-") "icon-" "fa-" -}}
+  {{- $selectors := slice (printf ".%s%s" $prefix $name) -}}
+  {{- range index $aliases $name -}}
+    {{- $selectors = $selectors | append (printf ".fa-%s" .) -}}
+  {{- end -}}
+  {{- $css = $css | append (printf `%s{--icon:url("data:image/svg+xml,%s");--icon-w:%.4gem}` (delimit $selectors ",") $data $w) -}}
+{{- end -}}
+{{- return delimit $css "\n" -}}

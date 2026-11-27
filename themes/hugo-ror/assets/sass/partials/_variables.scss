@@ -33,3 +33,8 @@ $light-grey: #efefef;
 $raspberry: #e0004d;
 $purple: #520c70;
 $black: #293030;
+
+/* Was defined in _animate.scss (animate.css), which nothing else used. */
+@mixin standard-ease {
+  transition: all ease-in-out 0.1s;
+}
