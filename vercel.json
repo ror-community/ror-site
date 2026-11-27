@@ -9,7 +9,7 @@
   "routes": [
     {
       "src": "^/img/(.+)$",
-      "has": [{ "type": "query", "key": "w", "value": "\\d+" }],
+      "has": [{ "type": "query", "key": "w", "value": "^(?:320|640|960|1280|1920|2560)$" }],
       "dest": "/_vercel/image?url=/img/$1&q=75"
     }
   ]
