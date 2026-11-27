@@ -1,0 +1,9 @@
+{{- /*
+  Thumbnail for a post in a list (list.html, term.html, blog/list.html).
+  Takes a dict with src (the image path) and an optional alt.
+  The thumbnail sits in a col-md-4 column, at most 350px (xl), 290px (lg) or
+  210px (md) wide, and stacks to full width below 768px.
+*/ -}}
+{{- $img := partialCached "vercel-img.html" .src .src -}}
+<img src="{{ .src }}"
+  {{- if $img.ok }} srcset="{{ $img.srcset }}" sizes="{{ partial "img-sizes.html" (dict "width" $img.width "cols" (slice 350 290 210)) }}"{{ end }} class="img-raised rounded" alt="{{ .alt }}">

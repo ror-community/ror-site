@@ -1,0 +1,84 @@
+{{- /*
+  Hugo's built-in figure shortcode (v0.165.0), plus srcset/sizes for images
+  that Vercel can resize (see _partials/vercel-img.html). src is unchanged, so
+  feeds, which strip srcset and sizes, and anything that ignores srcset still
+  get the original file.
+
+  sizes follows how the theme's CSS sizes each kind of figure:
+    width="N%"             N% of the content column
+    round-figure           35px tall avatars, so width = 35px * aspect ratio
+    featured-figure(-small) 30% (15%) of the content column
+    blog-figure            70% of the content column
+    anything else          natural width, capped at the column (img-sizes.html)
+  The content column is at most 1110px (col-md-12 in a 1140px container).
+*/ -}}
+<figure{{ with .Get "class" }} class="{{ . }}"{{ end }}>
+	{{- if .Get "link" -}}
+		<a href="{{ .Get "link" }}"{{ with .Get "target" }} target="{{ . }}"{{ end }}{{ with .Get "rel" }} rel="{{ . }}"{{ end }}>
+	{{- end -}}
+
+	{{- $u := urls.Parse (.Get "src") -}}
+	{{- $src := $u.String -}}
+	{{- $resource := false -}}
+	{{- if not $u.IsAbs -}}
+		{{- with or (.Page.Resources.Get $u.Path) (resources.Get $u.Path) -}}
+			{{- $src = .RelPermalink -}}
+			{{- $resource = true -}}
+		{{- end -}}
+	{{- end -}}
+
+	{{- $srcset := "" -}}
+	{{- $sizes := "" -}}
+	{{- if not (or $u.IsAbs $resource) -}}
+		{{- $img := partialCached "vercel-img.html" $src $src -}}
+		{{- if $img.ok -}}
+			{{- $srcset = $img.srcset -}}
+			{{- $class := .Get "class" | default "" -}}
+			{{- $pct := 0 -}}
+			{{- with .Get "width" -}}
+				{{- with findRESubmatch `^\s*(\d+(?:\.\d+)?)%\s*$` . 1 -}}
+					{{- $pct = index . 0 1 | float -}}
+				{{- end -}}
+			{{- end -}}
+			{{- if $pct -}}
+				{{- $sizes = printf "(min-width: 1200px) %dpx, %gvw" (math.Ceil (mul 11.1 $pct) | int) $pct -}}
+			{{- else if .Get "width" -}}
+				{{- /* A fixed width attribute sets the rendered width. */ -}}
+				{{- $sizes = printf "%spx" (.Get "width" | strings.TrimSuffix "px") -}}
+			{{- else if in $class "round-figure" -}}
+				{{- $sizes = printf "%dpx" (math.Ceil (div (mul 35.0 $img.width) $img.height) | int) -}}
+			{{- else if in $class "featured-figure-small" -}}
+				{{- $sizes = "(min-width: 1200px) 167px, 15vw" -}}
+			{{- else if in $class "featured-figure" -}}
+				{{- $sizes = "(min-width: 1200px) 333px, 30vw" -}}
+			{{- else if in $class "blog-figure" -}}
+				{{- $sizes = "(min-width: 1200px) 777px, 70vw" -}}
+			{{- else -}}
+				{{- $sizes = partial "img-sizes.html" (dict "width" $img.width "cols" (slice 1110 930 690)) -}}
+			{{- end -}}
+		{{- end -}}
+	{{- end -}}
+
+	<img src="{{ $src }}"
+		{{- with $srcset }} srcset="{{ . }}"{{ end -}}
+		{{- with $sizes }} sizes="{{ . }}"{{ end -}}
+		{{- if or (.Get "alt") (.Get "caption") }}
+			alt="{{ with .Get "alt" }}{{ . }}{{ else }}{{ .Get "caption" | markdownify | plainify }}{{ end }}"
+		{{- end -}}{{- with .Get "width" }} width="{{ . }}"{{ end -}}{{- with .Get "height" }} height="{{ . }}"{{ end -}}{{- with .Get "loading" }} loading="{{ . }}"{{ end -}}><!-- Closing img tag -->
+	{{- if .Get "link" }}</a>{{ end -}}
+	{{- if or (or (.Get "title") (.Get "caption")) (.Get "attr") -}}
+		<figcaption>
+			{{ with (.Get "title") -}}
+				<h4>{{ . }}</h4>
+			{{- end -}}
+			{{- if or (.Get "caption") (.Get "attr") -}}<p>
+					{{- .Get "caption" | markdownify -}}
+					{{- with .Get "attrlink" }}
+						<a href="{{ . }}">
+					{{- end -}}
+					{{- .Get "attr" | markdownify -}}
+					{{- if .Get "attrlink" }}</a>{{ end }}</p>
+			{{- end }}
+		</figcaption>
+	{{- end }}
+</figure>

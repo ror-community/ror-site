@@ -24,6 +24,26 @@
       }
 }
 
+/* Landing banner image (_partials/landingbanner.html): an <img> with srcset,
+   cropped to fill the banner the way background-size: cover did. */
+.section-landing-banner {
+    position: relative;
+    .content {
+        position: relative;
+    }
+}
+
+.section-landing-banner-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    max-width: none;
+    object-fit: cover;
+    object-position: center;
+}
+
 .section-landing-banner {
     height: 15em;
 	background-color: #520c70;

@@ -25,9 +25,9 @@
                   <div class="row">
                     <div class="col-md-4 clearfix">
                           {{ if .Params.thumb }}
-                            <img src="{{ .Params.thumb }}" class="img-raised rounded" alt="">
-                          {{ else }}  
-                            <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="ROR grey banner with triangles.">
+                            {{ partial "post-thumb.html" (dict "src" .Params.thumb) }}
+                          {{ else }}
+                            {{ partial "post-thumb.html" (dict "src" "/img/banners/ROR_Banner-grey.jpg" "alt" "ROR grey banner with triangles.") }}
                           {{ end }}
                     </div>
                       <div class="col-md-8 clearfix">

@@ -25,13 +25,7 @@
                  <div class="col-md-4">
                    <div class="image">
                      <a href="{{ .RelPermalink }}">
-                       {{ if .Params.thumb }}
-                         <img src="{{ .Params.thumb }}" class="img-raised rounded" alt="">
-                       {{ else if .Params.banner }}
-                         <img src="{{ .Params.banner }}" class="img-raised rounded" alt="">
-                       {{ else }}
-                         <img src="/img/banners/ROR_Banner-grey.jpg" class="img-raised rounded" alt="">
-                       {{ end }}
+                       {{ partial "post-thumb.html" (dict "src" (or .Params.thumb .Params.banner "/img/banners/ROR_Banner-grey.jpg")) }}
                      </a>
                    </div>
                  </div>
