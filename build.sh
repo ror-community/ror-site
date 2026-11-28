@@ -77,6 +77,10 @@ main() {
   hugo "${hugo_args[@]}"
 
   echo "Removing unused CSS with PurgeCSS (node $(node --version))..."
+  # Vercel's build image sets npm_config_cache_dir, which npm 11 (Node 24)
+  # doesn't recognize and warns about ("Unknown env config cache-dir"). npm
+  # ignores it anyway, so drop it.
+  unset npm_config_cache_dir
   npm ci --no-audit --no-fund
   local css=public/css/hugo-ror.css
   local before
