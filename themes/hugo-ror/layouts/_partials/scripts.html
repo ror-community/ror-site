@@ -1,1 +1,2 @@
-<script src="{{ "js/nav.js" | relURL }}"></script>
+{{- /* defer: nav.js only acts after DOMContentLoaded, which deferred scripts run before, so loading it without blocking changes nothing and keeps it off the critical request chain. */ -}}
+<script src="{{ "js/nav.js" | relURL }}" defer></script>
