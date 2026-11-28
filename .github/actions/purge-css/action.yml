@@ -13,7 +13,8 @@ runs:
     - name: Setup Node
       uses: actions/setup-node@v7
       with:
-        node-version: 22
+        # Same Node as Vercel: engines.node in package.json.
+        node-version-file: package.json
         cache: npm
 
     - name: Purge unused CSS
