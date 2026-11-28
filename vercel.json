@@ -1,5 +1,6 @@
 {
   "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "env -u npm_config_cache_dir npm ci --no-audit --no-fund",
   "images": {
     "sizes": [320, 640, 960, 1280, 1920, 2560, 3840],
     "qualities": [75],
