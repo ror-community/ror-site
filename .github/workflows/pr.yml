@@ -66,3 +66,32 @@ jobs:
           assert "portugal x.com link connectorerin" grep -q 'x.com/connector_erin/status/1222183630287646721' /tmp/ror-live-ci/blog/2020-02-10-ror-ing-in-portugal/index.html
           assert "nav logo is site-relative" grep -Eq 'src="?/img/ror-logo\.svg' /tmp/ror-live-ci/index.html
           assert "no src/action uses absolute baseURL" bash -c '! grep -rEq "(src|action)=\"?https://ror\.org/" /tmp/ror-live-ci --include="*.html"'
+
+      - uses: ./.github/actions/purge-css
+        with:
+          dir: /tmp/ror-live-ci
+
+      - name: Check purged CSS
+        run: |
+          css=/tmp/ror-live-ci/css/hugo-ror.css
+          assert() {
+            local label="$1"
+            shift
+            if "$@"; then
+              echo "OK  ${label}"
+            else
+              echo "::error::FAILED ${label}"
+              exit 1
+            fi
+          }
+
+          # Rules every page relies on must survive the purge.
+          assert "purged CSS keeps the nav" grep -q '\.navbar-collapse' "${css}"
+          assert "purged CSS keeps the mobile menu state" grep -q 'aria-expanded' "${css}"
+          assert "purged CSS keeps section colors" grep -q 'data-background-color=green' "${css}"
+          assert "purged CSS keeps callouts" grep -q '\.callout' "${css}"
+          assert "purged CSS keeps icons" grep -q '\.fa-envelope{--icon' "${css}"
+          assert "purged CSS keeps the landing banner" grep -q '\.section-landing-banner-img' "${css}"
+          assert "purged CSS keeps the text fonts" grep -q 'AH-Regular' "${css}"
+          assert "purged CSS keeps the icon license notices" grep -q 'Fonticons' "${css}"
+          assert "purged CSS is under 100 KB" test "$(wc -c < "${css}")" -lt 100000

@@ -110,3 +110,4 @@ resources/
 public/
 .hugo_build.lock
 bruce.toml
+node_modules/
